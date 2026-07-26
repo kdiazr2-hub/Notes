@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("3. Notes")
+views:
+  - type: table
+    name: Table
+    order:
+      - Tittle
+      - Journal
+      - Author
+    sort:
+      - property: Author
+        direction: ASC
+      - property: file.name
+        direction: ASC
