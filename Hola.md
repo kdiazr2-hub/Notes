@@ -1,1 +1,0 @@
-El día de hoy quiero hacer una nota 
