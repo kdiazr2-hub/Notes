@@ -1,12 +1,12 @@
 filters:
   and:
-    - file.inFolder("Notes/3. Resumes")
+    - file.inFolder("Notes/3. Art. Notes")
 views:
   - type: table
     name: Table
     filters:
       and:
-        - file.inFolder("Notes/3. Resumes")
+        - file.inFolder("Notes/3. Art. Notes")
     order:
       - Tittle
       - Journal
