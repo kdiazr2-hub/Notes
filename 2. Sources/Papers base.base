@@ -12,6 +12,8 @@ views:
       - Journal
       - Author
     sort:
+      - property: Journal
+        direction: ASC
       - property: Author
         direction: ASC
       - property: file.name
