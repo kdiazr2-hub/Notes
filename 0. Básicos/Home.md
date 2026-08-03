@@ -12,3 +12,4 @@
 * Clasificación de tumores de cavidad oral, DOI,  Gánglio centinela 
 * Plasmocitoma
 * TOA
+* Manejo cerrado de fracturas condilares 
