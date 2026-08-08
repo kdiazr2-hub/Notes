@@ -12,3 +12,17 @@
 * Clasificación de tumores de cavidad oral, DOI,  Gánglio centinela 
 * Plasmocitoma
 * TOA
+* Embriología y crecimiento
+* Queiloplastia primaria
+* Queiloplastia secundaria
+* Palatoplastia primaria
+* Treacher Collins
+* Microsomía y espectro
+* Distracción
+* Ortopedia prequirúrgica
+* Crouzon
+* Apert
+* Muenke y Stickler
+* Craneosinostosis
+* Punto de Gillis
+* Tremor
