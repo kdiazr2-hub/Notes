@@ -12,7 +12,6 @@
 * Clasificación de tumores de cavidad oral, DOI,  Gánglio centinela 
 * Plasmocitoma
 * TOA
-<<<<<<< HEAD
 * Embriología y crecimiento
 * Queiloplastia primaria
 * Queiloplastia secundaria
@@ -27,6 +26,5 @@
 * Craneosinostosis
 * Punto de Gillis
 * Tremor
-=======
 * Manejo cerrado de fracturas condilares 
->>>>>>> origin/main
+
