@@ -28,3 +28,10 @@
 * Tremor
 * Manejo cerrado de fracturas condilares 
 
+Programming Games:
+
+* Bitburner
+* Greyhack
+* The farmer was replace
+* IT specialist simulator
+* Turin complete
