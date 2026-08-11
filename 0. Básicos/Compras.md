@@ -2,3 +2,5 @@
 - Caja de esterilizar
 - Dona quirúrgica
 - AlienWare
+- Protector de córnea 
+- Trasidex 
