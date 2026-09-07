@@ -4,3 +4,4 @@
 - AlienWare
 - Protector de córnea 
 - Trasidex 
+- Acondicionado portátil
