@@ -13,3 +13,5 @@ Introducción a la clasificación anatómica y morfológica de las fracturas CMF
 ## Lectura base
 
 - AO CMF: 1.1.6 AO classification of craniomaxillofacial fractures
+
+## Notas: 
