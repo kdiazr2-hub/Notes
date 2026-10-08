@@ -1,0 +1,573 @@
+@AREA 08 | Imaging | imaging
+@BOOKS IMAGING, TMJD, ATLAS_ATM, TRAUMA, FRAGISKOS, HNC, CSO
+
+## Principles and modalities
+# Imaging modalities in oral and maxillofacial surgery
+S FRAGISKOS !Ch. 2 Radiographic Examination in Oral Surgery
+S TMJD Cone Beam Computed Tomography
+- Describe intraoral, panoramic and cephalometric radiography
+- Compare CBCT, multislice CT, MRI and ultrasound: indications and limitations
+- Apply radiation protection principles
+# Radiological evaluation of craniofacial trauma
+S TRAUMA 1.2 Radiological Evaluation
+S TRAUMA 1.3 Intraoperative Imaging
+- Choose the right imaging for each facial fracture
+- Read CT of the facial buttresses systematically
+- Describe intraoperative imaging and postoperative quality control
+# Imaging of the temporomandibular joint
+S TMJD 7: Temporomandibular Joint Imaging
+S ATLAS_ATM 5- DIAGNÓSTICO
+- Choose between panoramic, CBCT, CT and MRI for TMJ problems
+- Recognize disc displacement, effusion and degenerative changes on MRI
+- Recognize ankylosis and condylar hyperplasia (including nuclear medicine)
+# Imaging of head and neck cancer
+S HNC 13: Imaging of Head and Neck Cancers
+S HNC 14: Ultrasound Investigations
+- Compare CT, MRI and PET-CT for staging
+- Describe ultrasound and US-guided FNA of neck nodes
+# Neuroimaging in craniosynostosis
+S CSO 21. Neuroimaging
+- Describe the role of CT with 3D reconstruction and MRI
+- Recognize the imaging signs of each synostosis and of raised ICP
+
+## Spaces of the suprahyoid and infrahyoid neck
+# Overview of the suprahyoid and infrahyoid neck spaces
+S IMAGING Chapter 1.Suprahyoid
+- Describe the spatial approach to neck imaging
+- Locate each deep space on axial CT and MRI
+# Parapharyngeal space
+S IMAGING SECTION 2:Parapharyngeal
+- Describe parapharyngeal fat displacement patterns
+- Recognize benign tumors of the space
+# Pharyngeal mucosal space
+S IMAGING SECTION 3:Pharyngeal Mucosal
+- Describe congenital, inflammatory and neoplastic lesions of the pharyngeal mucosal space
+# Masticator space
+S IMAGING SECTION 4:Masticator
+- Recognize pseudolesions, abscesses and tumors of the masticator space
+- Describe perineural spread along V3
+# Parotid space
+S IMAGING SECTION 5:Parotid
+- Recognize inflammatory, benign and malignant parotid lesions
+- Describe imaging features of pleomorphic adenoma and Warthin tumor
+# Carotid space
+S IMAGING SECTION 6:Carotid
+- Recognize vascular lesions and paragangliomas
+- Distinguish carotid body from glomus vagale tumors
+# Retropharyngeal and perivertebral spaces
+S IMAGING SECTION 7:Retropharyngeal
+S IMAGING SECTION 8:Perivertebral
+- Recognize retropharyngeal abscess and nodal metastases
+- Recognize perivertebral infections and tumors
+# Posterior cervical and visceral spaces
+S IMAGING SECTION 9:Posterior Cervical
+S IMAGING SECTION 10:Visceral
+- Recognize lesions of the posterior cervical space
+- Recognize thyroid and parathyroid lesions
+# Hypopharynx, larynx and cervical trachea
+S IMAGING SECTION 11:Hypopharynx
+- Recognize infections, trauma and tumors of the larynx and hypopharynx
+- Recognize treatment-related changes
+# Lymph nodes
+S IMAGING SECTION 12:Lymph Nodes
+- Apply imaging criteria for metastatic nodes
+- Recognize inflammatory and lymphomatous nodes
+# Transspatial and multispatial lesions
+S IMAGING SECTION 13: Transspatial
+- Recognize vascular malformations, plexiform neurofibroma and other transspatial lesions
+
+## Oral cavity and jaws
+# Oral cavity imaging
+S IMAGING SECTION 14: Oral Cavity
+- Recognize congenital, inflammatory and neoplastic lesions of the oral cavity
+- Describe imaging of the floor of mouth and ranula
+# Mandible, maxilla and TMJ lesions
+S IMAGING SECTION 15: Mandible-Maxilla
+- Recognize odontogenic cysts and tumors on CT and CBCT
+- Recognize osteomyelitis, osteonecrosis and fibro-osseous lesions
+- Recognize benign and malignant jaw tumors
+
+## Cancer imaging
+# Squamous cell carcinoma - primary sites, perineural spread and nodes
+S IMAGING SECTION 16: Introduction and Overview of Squamous
+S IMAGING SECTION 17: Primary Sites
+- Describe imaging staging of SCC by subsite
+- Recognize perineural tumor spread
+- Describe nodal staging on imaging
+# The post-treatment neck
+S IMAGING SECTION 18: Posttreatment Neck
+- Recognize the appearance of neck dissection and reconstruction flaps
+- Distinguish expected radiation changes from recurrence and complications
+- Recognize osteoradionecrosis
+
+## Pediatric and syndromic imaging
+# Pediatric head and neck lesions
+S IMAGING SECTION 19: Pediatric Lesions
+- Recognize congenital lesions (branchial cleft cysts, thyroglossal duct cyst, dermoids)
+- Recognize pediatric benign and malignant tumors
+# Imaging of syndromic diseases
+S IMAGING SECTION 20: Syndromic Diseases
+- Recognize the imaging findings of NF1, NF2, basal cell nevus syndrome and CHARGE
+- Recognize the imaging findings of hemifacial microsomia, Treacher Collins and Pierre Robin
+
+## Sinonasal, orbit, skull base and temporal bone
+# Sinonasal imaging
+S IMAGING SECTION 21: Nose and Sinus
+- Describe sinonasal anatomy and its variants on CT
+- Recognize acute and chronic rhinosinusitis, fungal sinusitis and mucoceles
+- Recognize benign and malignant sinonasal tumors (inverted papilloma, juvenile angiofibroma, carcinoma)
+# Orbital imaging
+S IMAGING SECTION 22: Orbit
+- Describe orbital compartments on CT and MRI
+- Recognize orbital cellulitis and subperiosteal abscess
+- Recognize vascular, inflammatory and neoplastic orbital lesions
+# Skull base lesions
+S IMAGING SECTION 23: Skull Base Lesions
+- Recognize lesions of the clivus, sphenoid, occipital bone and jugular foramen
+- Recognize dural sinus disease and diffuse skull base disease (fibrous dysplasia, metastases)
+# Imaging of skull base and facial fractures
+S IMAGING SECTION 24: Skull Base and Facial Trauma
+- Recognize skull base fractures and their complications on CT
+- Classify facial fractures on CT
+> Radiological evaluation of craniofacial trauma
+# Temporal bone imaging
+S IMAGING SECTION 25: Temporal Bone
+- Describe temporal bone anatomy on high-resolution CT
+- Recognize lesions of the external canal, middle ear, inner ear and petrous apex
+- Describe the imaging of the intratemporal facial nerve
+# Cerebellopontine angle and internal auditory canal
+S IMAGING SECTION 26: CPA-IAC
+- Describe the anatomy of the CPA and IAC on MRI
+- Recognize vestibular schwannoma, meningioma and other CPA lesions
+
+@AREA 09 | Oral Pathology | oral-pathology
+@BOOKS NEVILLE
+
+## Developmental conditions
+# Developmental defects of the oral region
+S NEVILLE 1 Developmental Defects
+- Describe lip pits, double lip, Fordyce granules and tongue anomalies
+- Recognize lingual thyroid and ankyloglossia
+# Developmental bony anomalies of the jaws
+S NEVILLE Coronoid Hyperplasia
+S NEVILLE Eagle Syndrome
+S NEVILLE Stafne Defect
+- Describe coronoid and condylar hyperplasia and hypoplasia
+- Describe tori and exostoses
+- Recognize Eagle syndrome and the Stafne defect
+# Non-odontogenic developmental cysts
+S NEVILLE Developmental Cysts
+- Describe nasopalatine duct, nasolabial, dermoid and thyroglossal duct cysts
+- Describe branchial cleft cysts
+# Abnormalities of teeth
+S NEVILLE 2 Abnormalities of Teeth
+- Describe environmental alterations of teeth
+- Describe developmental anomalies of number, size, shape and structure
+- Relate dental anomalies to syndromes and clefts
+
+## Inflammatory and infectious diseases
+# Pulpal and periapical disease
+S NEVILLE Pulpitis
+S NEVILLE Periapical Cyst
+- Describe pulpitis and periapical granuloma, cyst and abscess
+- Describe cellulitis
+# Osteomyelitis and alveolar osteitis
+S NEVILLE ◆ Osteomyelitis
+S NEVILLE Alveolar Osteitis
+- Classify osteomyelitis of the jaws
+- Describe condensing osteitis and proliferative periostitis
+- Describe dry socket
+# Periodontal diseases
+S NEVILLE 4 Periodontal Diseases
+- Describe gingivitis, periodontitis and necrotizing gingivitis
+- Recognize drug-related gingival hyperplasia
+# Bacterial infections
+S NEVILLE 5 Bacterial Infections
+- Describe syphilis, tuberculosis and actinomycosis in the head and neck
+- Describe noma and sinusitis
+# Fungal and protozoal diseases
+S NEVILLE 6 Fungal and Protozoal
+- Classify oral candidiasis
+- Describe deep fungal infections and mucormycosis
+# Viral infections
+S NEVILLE 7 Viral Infections
+- Describe the oral lesions of herpesviruses, enteroviruses and measles
+- Describe the oral manifestations of HIV
+
+## Injuries and immune diseases
+# Physical and chemical injuries
+S NEVILLE 8 Physical and Chemical
+- Describe traumatic, thermal and chemical injuries of the oral mucosa
+- Describe pigmentations and oral lesions from fillers and piercings
+# Medication-related osteonecrosis of the jaw and complications of cancer therapy
+S NEVILLE Noninfectious Oral Complications
+S NEVILLE Medication-Related Osteonecrosis
+- Describe the oral complications of chemotherapy and radiotherapy
+- Describe MRONJ staging and management principles
+# Allergic and immunologic diseases
+S NEVILLE 9 Allergies and Immunologic
+- Describe recurrent aphthous stomatitis and Behçet syndrome
+- Describe sarcoidosis, orofacial granulomatosis and granulomatosis with polyangiitis
+- Recognize angioedema and drug reactions
+
+## Epithelial pathology
+# Benign epithelial and pigmented lesions
+S NEVILLE Benign Epithelial Lesions Associated
+S NEVILLE Acquired Melanocytic Nevus
+- Describe HPV-related lesions (papilloma, verruca, condyloma)
+- Describe melanotic macule, nevi and other pigmented lesions
+# Oral potentially malignant disorders
+S NEVILLE Leukoplakia (Leukokeratosis
+S NEVILLE Erythroplakia
+S NEVILLE Oral Submucous Fibrosis
+- Define leukoplakia and erythroplakia and their malignant transformation risk
+- Describe oral submucous fibrosis and actinic cheilosis
+- Grade epithelial dysplasia
+# Oral squamous cell carcinoma and variants
+S NEVILLE Keratoacanthoma
+S NEVILLE ◆ Squamous Cell Carcinoma
+S NEVILLE Verrucous Carcinoma
+- Describe risk factors, clinical features and histopathology of oral SCC
+- Describe verrucous, spindle cell and basaloid variants
+# Sinonasal and nasopharyngeal carcinoma
+S NEVILLE Carcinoma of the Maxillary Sinus
+S NEVILLE Nasopharyngeal Carcinoma
+- Describe maxillary sinus carcinoma and sinonasal undifferentiated carcinoma
+- Describe nasopharyngeal carcinoma and its association with EBV
+# Skin cancers of the head and neck
+S NEVILLE Basal Cell Carcinoma (Basal
+S NEVILLE Merkel Cell Carcinoma
+S NEVILLE Melanoma (Malignant
+- Describe basal cell carcinoma subtypes
+- Describe Merkel cell carcinoma
+- Describe cutaneous and mucosal melanoma
+
+## Salivary gland pathology
+# Non-neoplastic salivary gland disorders
+S NEVILLE Mucocele (Mucus
+S NEVILLE Sialolithiasis
+S NEVILLE ◆ Sialadenitis
+- Describe mucocele and ranula
+- Describe sialolithiasis and sialadenitis
+- Describe necrotizing sialometaplasia
+# Sialorrhea, xerostomia, Sjögren syndrome and IgG4-related disease
+S NEVILLE ◆ Sialorrhea
+S NEVILLE Sjögren Syndrome
+S NEVILLE IgG4-Related Disease
+- Describe causes and management of sialorrhea and xerostomia
+- Describe the diagnosis of Sjögren syndrome
+- Describe IgG4-related disease
+# Salivary gland tumors
+S NEVILLE   Salivary Gland Tumors
+- Classify salivary gland tumors
+- Describe pleomorphic adenoma, Warthin tumor, mucoepidermoid and adenoid cystic carcinoma
+
+## Soft tissue tumors
+# Reactive soft tissue lesions
+S NEVILLE Fibroma (Irritation
+S NEVILLE Pyogenic Granuloma
+S NEVILLE Peripheral Giant Cell Granuloma
+- Describe fibroma, epulis fissuratum and papillary hyperplasia
+- Distinguish pyogenic granuloma, peripheral giant cell granuloma and peripheral ossifying fibroma
+# Fibrous, adipose and neural tumors
+S NEVILLE ◆ Lipoma
+S NEVILLE Schwannoma
+S NEVILLE Neurofibromatosis Type I
+- Describe lipoma, neuroma, schwannoma and neurofibroma
+- Describe neurofibromatosis type 1 and MEN 2B
+- Describe granular cell tumor and congenital epulis
+# Vascular anomalies
+S NEVILLE Hemangioma and Vascular
+S NEVILLE Sturge-Weber
+S NEVILLE Lymphatic Malformations
+- Distinguish hemangiomas from vascular malformations (ISSVA)
+- Describe Sturge-Weber syndrome
+- Describe lymphatic malformations and nasopharyngeal angiofibroma
+# Muscle tumors and soft tissue sarcomas
+S NEVILLE ◆ Leiomyoma
+S NEVILLE Soft Tissue Sarcomas
+- Describe leiomyoma and rhabdomyoma
+- Describe the main soft tissue sarcomas of the head and neck
+
+## Hematologic disorders
+# Hematologic disorders with oral manifestations
+S NEVILLE 13 Hematologic Disorders
+- Describe the oral findings in anemias, neutropenia and thrombocytopenia
+- Describe hemophilia and its surgical implications
+# Leukemia, Langerhans cell histiocytosis and lymphomas
+S NEVILLE Leukemia
+S NEVILLE Langerhans Cell Histiocytosis
+S NEVILLE Non-Hodgkin Lymphoma
+- Describe the oral manifestations of leukemia
+- Describe Langerhans cell histiocytosis of the jaws
+- Describe lymphomas, multiple myeloma and plasmacytoma
+
+## Bone pathology
+# Genetic and metabolic bone diseases
+S NEVILLE Osteogenesis Imperfecta
+S NEVILLE Cleidocranial Dysplasia
+S NEVILLE Paget Disease
+- Describe osteogenesis imperfecta, osteopetrosis and cleidocranial dysplasia
+- Describe Paget disease and Gorham disease
+# Giant cell lesions of the jaws
+S NEVILLE Central Giant Cell Granuloma
+S NEVILLE Cherubism
+- Describe central giant cell granuloma and its treatment options
+- Describe cherubism and true giant cell tumor
+# Simple bone cyst and aneurysmal bone cyst
+S NEVILLE Simple Bone Cyst
+S NEVILLE Aneurysmal Bone Cyst
+- Describe the clinical and radiographic features of each pseudocyst
+- Describe their management
+# Fibro-osseous lesions of the jaws
+S NEVILLE Fibro-Osseous Lesions
+- Describe fibrous dysplasia and McCune-Albright syndrome
+- Describe cemento-osseous dysplasias and ossifying fibroma
+
+## Odontogenic cysts and tumors
+# Odontogenic cysts
+S NEVILLE Odontogenic Cysts
+- Classify odontogenic cysts
+- Describe dentigerous cyst and odontogenic keratocyst (and nevoid basal cell carcinoma syndrome)
+- Describe the treatment and recurrence of each cyst
+# Epithelial odontogenic tumors
+S NEVILLE Tumors of Odontogenic Epithelium
+- Describe ameloblastoma variants and their treatment
+- Describe adenomatoid odontogenic tumor and calcifying epithelial odontogenic tumor
+# Mixed and ectomesenchymal odontogenic tumors
+S NEVILLE Mixed Odontogenic Tumors
+S NEVILLE Tumors of Odontogenic Ectomesenchyme
+- Describe odontomas and ameloblastic fibroma
+- Describe odontogenic myxoma and cementoblastoma
+
+## Mucocutaneous and systemic diseases
+# Genodermatoses with oral findings
+S NEVILLE Ectodermal Dysplasia
+S NEVILLE Peutz-Jeghers
+S NEVILLE Hereditary Hemorrhagic Telangiectasia
+- Describe ectodermal dysplasia, white sponge nevus and Peutz-Jeghers syndrome
+- Describe hereditary hemorrhagic telangiectasia, Ehlers-Danlos and tuberous sclerosis
+# Vesiculobullous diseases
+S NEVILLE ◆ Pemphigus
+S NEVILLE Mucous Membrane Pemphigoid
+S NEVILLE Erythema Multiforme
+- Distinguish pemphigus from pemphigoid
+- Describe erythema multiforme, SJS and TEN
+# Lichen planus and other mucocutaneous diseases
+S NEVILLE Lichen Planus
+S NEVILLE Lupus Erythematosus
+S NEVILLE Systemic Sclerosis
+- Describe oral lichen planus and its malignant potential
+- Describe lupus, systemic sclerosis and graft-versus-host disease
+# Oral manifestations of systemic diseases
+S NEVILLE 17 Oral Manifestations of Systemic
+- Describe oral findings in endocrine and metabolic diseases
+- Describe oral findings in vitamin deficiencies and Crohn disease
+# Facial pain and neuromuscular diseases
+S NEVILLE 18 Facial Pain
+- Describe Bell palsy and Frey syndrome
+- Describe trigeminal neuralgia and other head and neck pain
+# Forensic dentistry
+S NEVILLE 19 Forensic Dentistry
+- Describe dental identification and bite mark analysis
+- Recognize signs of abuse
+
+@AREA 10 | Oral Surgery | oral-surgery
+@BOOKS FRAGISKOS
+
+## Patient assessment and principles
+# Medical history and the medically compromised patient
+S FRAGISKOS !Ch. 1 Medical History
+- Assess cardiovascular, bleeding, endocrine and renal risk before oral surgery
+- Manage anticoagulated, diabetic, irradiated and pregnant patients
+- Recognize and manage syncope and allergic reactions
+> Imaging modalities in oral and maxillofacial surgery
+# Principles of surgery - asepsis, incisions, flaps and sutures
+S FRAGISKOS !Ch. 3 Principles of Surgery
+- Apply principles of asepsis and patient preparation
+- Design trapezoidal, triangular and envelope flaps
+- Select suture materials and techniques
+# Instruments and materials in oral surgery
+S FRAGISKOS !Ch. 4 Equipment, Instruments, and Materials
+- Identify the basic oral surgery instruments and their use
+
+## Exodontia
+# Simple tooth extraction
+S FRAGISKOS !Ch. 5 Simple Tooth Extraction
+- Describe the use of forceps and elevators
+- Describe the technique for each tooth group
+# Surgical tooth extraction
+S FRAGISKOS !Ch. 6 Surgical Tooth Extraction
+- Indicate surgical extraction
+- Describe sectioning of teeth and removal of roots
+# Impacted teeth
+S FRAGISKOS !Ch. 7 Surgical Extraction of Impacted Teeth
+- Classify impacted third molars (Pell and Gregory, Winter)
+- Describe the surgical removal of impacted third molars and canines
+- Assess risk to the inferior alveolar and lingual nerves
+# Complications of exodontia
+S FRAGISKOS !Ch. 8 Perioperative and Postoperative Complications
+- Recognize and manage intraoperative complications (fractures, oroantral communication, displaced teeth)
+- Manage postoperative bleeding, dry socket and nerve injury
+
+## Infection and pathology
+# Odontogenic infections
+S FRAGISKOS !Ch. 9 Odontogenic Infections
+- Describe the microbiology and spread of odontogenic infections
+- Manage abscesses by incision and drainage
+- Recognize deep neck space infections that threaten the airway
+# Biopsy and histopathological examination
+S FRAGISKOS !Ch. 11 Biopsy and Histopathological Examination
+- Indicate incisional versus excisional biopsy
+- Handle and send specimens correctly
+# Surgical treatment of radicular cysts
+S FRAGISKOS !Ch. 12 Surgical Treatment of Radicular Cysts
+- Compare enucleation and marsupialization
+# Apicoectomy
+S FRAGISKOS !Ch. 13 Apicoectomy
+- Indicate apicoectomy
+- Describe the surgical technique and retrograde filling
+# Surgical treatment of salivary gland lesions
+S FRAGISKOS !Ch. 14 Surgical Treatment of Salivary Gland Lesions
+- Describe removal of sialoliths and treatment of mucoceles and ranulas
+
+## Prosthetic and implant surgery
+# Preprosthetic surgery
+S FRAGISKOS !Ch. 10 Preprosthetic Surgery
+- Describe alveoloplasty, torus removal and vestibuloplasty
+- Describe the management of soft tissue hyperplasia
+# Osseointegrated implants
+S FRAGISKOS !Ch. 15 Osseointegrated Implants
+- Describe osseointegration
+- Plan and place dental implants
+- Recognize the main implant complications
+# Antibiotic prophylaxis and therapy in oral surgery
+S FRAGISKOS !Ch. 16 Prophylactic and Therapeutic Use of Antibiotics
+- Indicate antibiotic prophylaxis (including endocarditis prophylaxis)
+- Choose antibiotics for odontogenic infections
+
+@AREA 11 | Pain Medicine | pain
+@BOOKS DOLOR, NEVILLE, TRAUMA
+
+## Fundamentals
+# Pain concept, taxonomy and epidemiology
+S DOLOR 1 Principios generales
+S DOLOR 2 Epidemiología
+- Define pain according to the IASP
+- Describe the burden of chronic pain
+# Anatomy and neurobiology of pain - peripheral and spinal mechanisms
+S DOLOR 3 Bases estructurales
+S DOLOR 4 Neurobiología del dolor: mecanismos moleculares periféricos
+- Describe nociceptors and ascending pathways
+- Explain peripheral and spinal sensitization
+# Central mechanisms and modulation of pain
+S DOLOR 5 Neurobiología del dolor: mecanismos moleculares centrales
+- Describe central sensitization and descending modulation
+# Components of pain
+S DOLOR 6 Componentes del dolor
+- Describe sensory, affective and cognitive components of pain
+> Drug biotransformation and pharmacogenomics
+
+## Assessment
+# Types of pain
+S DOLOR 8 Tipos de dolor
+- Distinguish nociceptive, neuropathic and nociplastic pain
+- Distinguish acute from chronic pain
+# Pain history, examination and assessment tools
+S DOLOR 9 Historia clínica del dolor
+S DOLOR 10 Evaluación del dolor
+- Take a pain history and examination
+- Use pain scales and questionnaires
+# Psychological assessment of pain
+S DOLOR 11 Evaluación psicológica
+- Describe psychological factors in chronic pain and their assessment
+
+## Treatment
+# General principles of pain treatment
+S DOLOR 12 Principios generales en el tratamiento
+- Describe the analgesic ladder and multimodal analgesia
+- Evaluate the response to treatment
+> Opioid agonists and antagonists
+> NSAIDs, acetaminophen and drugs for gout
+> Adjuvant analgesics and topical treatments
+# Non-pharmacological treatments
+S DOLOR 19 Rehabilitación
+S DOLOR 20 Acupuntura
+S DOLOR 21 Técnicas de intervención
+- Describe physical therapy, exercise and complementary therapies
+- Describe psychological interventions for pain
+# Principles of interventional techniques and neuromodulation
+S DOLOR 22 Principios generales de las técnicas intervencionistas
+S DOLOR 29 Neuromodulación
+- Describe nerve blocks, radiofrequency and neuromodulation
+- Describe spinal cord stimulation and intrathecal infusion
+# Nerve blocks of the head and neck
+S DOLOR 23 Bloqueos
+- Describe trigeminal, sphenopalatine ganglion and occipital nerve blocks
+- Describe indications and complications of head and neck blocks
+# Peripheral, spinal and sympathetic blocks
+S DOLOR 24 Bloqueos
+S DOLOR 25 Bloqueos
+S DOLOR 26 Bloqueos
+S DOLOR 27 Bloqueos articulares
+S DOLOR 28 Técnicas intervencionistas ecoguiadas
+- Describe blocks of the trunk and limbs
+- Describe spinal and sympathetic blocks
+- Describe ultrasound-guided techniques
+
+## Clinical pain syndromes
+# Neuropathic pain - peripheral and central
+S DOLOR 30 Dolor neuropático periférico
+S DOLOR 31 Dolor neuropático central
+- Describe the diagnosis of neuropathic pain
+- Describe its first-line treatment
+# Complex regional pain syndrome
+S DOLOR 32 Síndromes de dolor regional
+- Describe the diagnostic criteria and treatment of CRPS
+# Craniofacial pain
+S DOLOR 33 Dolor craneofacial
+S TRAUMA 3.15 Posttraumatic Facial Pain
+- Describe trigeminal neuralgia, persistent idiopathic facial pain and burning mouth syndrome
+- Describe post-traumatic facial pain
+> Facial pain and neuromuscular diseases
+# Spinal, joint and myofascial pain and fibromyalgia
+S DOLOR 34 Dolor espinal
+S DOLOR 35 Dolor articular
+S DOLOR 36 Fibromialgia
+- Describe myofascial pain and trigger points
+- Describe fibromyalgia
+# Cancer pain
+S DOLOR 37 Dolor oncológico
+- Describe mechanisms of cancer pain
+- Describe its management (including head and neck cancer pain)
+# Visceral and vascular pain
+S DOLOR 38 Dolor visceral
+S DOLOR 39 Dolor vascular
+- Describe visceral and ischemic pain
+# Acute pain - emergencies, burns and postoperative pain
+S DOLOR 40 Dolor agudo en urgencias
+S DOLOR 41 Dolor agudo en el postoperatorio
+- Describe multimodal postoperative analgesia
+- Describe pain management in emergencies and burns
+# Psychogenic pain
+S DOLOR 42 Dolor psicog
+- Describe the role of psychological factors in persistent pain
+
+## Special situations
+# Pain in the elderly and in children
+S DOLOR 43 Dolor en el anciano
+S DOLOR 44 Dolor en niños
+- Assess and treat pain in children and elderly patients
+# Pain with organ failure and in pregnancy
+S DOLOR 45 Dolor y comorbilidad
+S DOLOR 46 Dolor y embarazo
+- Adjust analgesics in hepatic, renal and respiratory failure
+- Choose safe analgesics in pregnancy
+# Palliative care and rare pain syndromes
+S DOLOR 47 Dolor en el paciente terminal
+S DOLOR 48 Síndromes dolorosos poco frecuentes
+- Describe pain management in palliative care
+# Pain units, research and teaching
+S DOLOR 49 Unidades de dolor
+S DOLOR 50 Investigación
+- Describe pain units and referral criteria

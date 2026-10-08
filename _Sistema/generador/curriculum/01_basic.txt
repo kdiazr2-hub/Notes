@@ -1,0 +1,295 @@
+@AREA 02 | Embryology | embryology
+@BOOKS SPERBER, CARSTENS, CSO, BERKOWITZ
+
+## General embryology
+# Mechanisms of embryology and early embryonic development
+S SPERBER Chapter 1:
+S SPERBER Chapter 2:
+- Describe fertilization, implantation, gastrulation and the formation of the three germ layers
+- Explain the main developmental mechanisms (induction, migration, proliferation, apoptosis)
+- Describe the critical periods for teratogenesis
+# Embryonic staging - the Carnegie system
+S CARSTENS 3: Embryonic Staging
+- Explain the purpose of the Carnegie stages
+- Describe the key craniofacial events at each stage
+- Correlate stage, age and size of the embryo
+# Neural crest and craniofacial mesenchyme
+S CARSTENS 2: Anatomy of Mesenchyme
+S SPERBER Chapter 3:
+- Describe the origin, migration and derivatives of the cranial neural crest
+- Distinguish neural crest from paraxial mesoderm contributions to the head
+- Relate neural crest disorders to craniofacial malformations
+# Neuromeric organization of the head and neck
+S CARSTENS 1: Neuromeric Organization
+S CARSTENS 5: The Neuromeric System
+- Define neuromeres (prosomeres, mesomeres, rhombomeres)
+- Explain the molecular basis of segmentation of the neural tube
+- Apply the neuromeric model to explain the location of facial clefts
+# Bone development and growth
+S SPERBER Chapter 6:
+- Compare intramembranous and endochondral ossification
+- Describe bone remodeling, displacement and drift
+- Explain the growth mechanisms of the craniofacial skeleton
+
+## Pharyngeal apparatus
+# Pharyngeal arches
+S SPERBER Chapter 4:
+S CARSTENS 2: Anatomy of Mesenchyme
+- Name the skeletal, muscular, nervous and vascular derivatives of each pharyngeal arch
+- Explain the role of neural crest in arch development
+- Relate arch defects to craniofacial microsomia and Treacher Collins syndrome
+# Pharyngeal pouches and grooves
+S SPERBER Chapter 5:
+- Name the derivatives of each pharyngeal pouch and groove
+- Explain the origin of branchial cleft cysts, sinuses and fistulas
+- Describe the development of the thymus, parathyroids and thyroid
+# Development of craniofacial muscles and cranial nerves
+S SPERBER Chapter 17:
+S CARSTENS 9: Neuromuscular Development
+- Describe the origin of the craniofacial muscles from somitomeres and arches
+- Relate motor columns to cranial nerve nuclei
+- Explain the developmental basis of muscle innervation patterns
+# Development of the neck
+S CARSTENS 10: The Neck
+- Describe the development of the cervical vertebrae and occipital somites
+- Describe the development of the neck muscles and cervical plexus
+- Explain the role of Hox genes in neck patterning
+
+## Face and skull
+# Development of the face - facial prominences and developmental fields
+S CARSTENS 4: Neurovascular Organization
+S SPERBER Chapter 9:
+- Describe the facial prominences and how they fuse
+- Explain the developmental field concept and its vascular basis
+- Describe the formation of the facial skeleton
+# Development of the palate
+S SPERBER Chapter 10:
+S CARSTENS 14: Pathologic Anatomy of the Hard
+S CARSTENS 16: Pathologic Anatomy of the Soft
+- Describe primary and secondary palate formation and palatal shelf elevation
+- Explain the timing of palatal fusion
+- Describe the pathologic anatomy of the cleft hard and soft palate
+# Embryology of cleft lip and palate
+S BERKOWITZ 1: Embryogenetics
+S CARSTENS 18: Pathologic Anatomy of Nasolabial Clefts
+- Explain the developmental mechanisms that lead to cleft lip and cleft palate
+- Describe the spectrum from microform to complete cleft
+- Summarize genetic and environmental contributors to orofacial clefting
+# Calvaria and cranial sutures
+S SPERBER Chapter 7:
+S CSO 2. Embryology and Skull Growth
+- Describe the development of the membranous neurocranium
+- Explain suture biology and the signaling that keeps sutures patent
+- Explain how premature suture fusion alters skull shape
+# Cranial base development
+S SPERBER Chapter 8:
+S CARSTENS 8: Developmental Anatomy of the Craniofacial Bones
+- Describe chondrocranial development of the cranial base
+- Explain the role of the synchondroses in growth
+- Relate cranial base growth to midface position
+# Postnatal craniofacial growth and cephalometrics
+S SPERBER Chapter 14:
+S BERKOWITZ 3: Facial and Palatal Growth
+- Describe growth of the skull, sutures and face after birth
+- Define the main cephalometric landmarks, planes and angles
+- Explain growth prediction and its limits
+# Development of the paranasal sinuses
+S SPERBER Chapter 11:
+- Describe the timing of pneumatization of each paranasal sinus
+- Relate sinus development to age-specific surgery and fracture patterns
+# Development of the mandible and TMJ
+S SPERBER Chapter 12:
+S SPERBER Chapter 13:
+- Describe the formation of Meckel's cartilage and the mandible
+- Describe the role of condylar cartilage in mandibular growth
+- Describe the development of the TMJ
+# Development of the orbit, eye and ear
+S CARSTENS 13: The Orbit
+S SPERBER Chapter 18:
+S CARSTENS Developmental Timeline of the Ear
+- Describe the development of the eye and the orbit
+- Describe the development of the external, middle and inner ear
+- Relate ear development to microtia and associated anomalies
+# Development of the tongue, tonsils and salivary glands
+S SPERBER Chapter 15:
+S SPERBER Chapter 16:
+- Describe the development and innervation of the tongue
+- Describe the development of the tonsils and salivary glands
+- Explain the origin of lingual thyroid and thyroglossal duct cyst
+# Development of the dentition
+S SPERBER Chapter 19:
+- Describe the stages of odontogenesis
+- Describe the chronology of tooth eruption
+- Relate odontogenesis to odontogenic cysts and tumors
+
+## Vascular and soft tissue development
+# Development of the craniofacial blood supply - intracranial system
+S CARSTENS 6: Development of the Craniofacial Blood Supply: Intracranial
+- Describe the stages of craniofacial arterial development
+- Describe the blood supply to the forebrain, midbrain and hindbrain
+- Explain the mechanisms of blood vessel construction
+# Development of the craniofacial blood supply - extracranial system
+S CARSTENS 7: Development of the Craniofacial Blood Supply: Extracranial
+- Describe the stapedial arterial system and its fate
+- Describe the arteries of the pharyngeal arches and jaws
+- Relate vascular development to holoprosencephaly and facial clefts
+# Development of skin, fat, fascia and meninges
+S CARSTENS 11: Developmental Anatomy of Craniofacial Skin
+S CARSTENS 12: The Meninges
+- Describe the developmental origin of facial skin, fat and fascia
+- Describe the development of the meninges
+# Developmental field reassignment in cleft surgery
+S CARSTENS 15: Alveolar Extension Palatoplasty
+S CARSTENS 17: Buccinator Interposition
+S CARSTENS 19: DFR Cheilorhinoplasty
+- Explain the concept of developmental field reassignment
+- Describe alveolar extension palatoplasty and buccinator interposition
+- Discuss the rationale of DFR cheilorhinoplasty
+# Morphogens and stem cells in craniofacial reconstruction
+S CARSTENS 20: Biologics in Craniofacial
+- Describe the main morphogens used in craniofacial reconstruction (e.g., BMPs)
+- Explain the role of stem cells in bone regeneration
+- Discuss current clinical applications and limits
+
+@AREA 03 | Genetics | genetics
+@BOOKS PIERCE, HARTL, CSO, APERT
+
+## Classical genetics
+# Introduction to genetics and the molecular basis of heredity
+S PIERCE Chapter 1: Introduction
+S HARTL !Ch. 1 The Molecular Basis of Heredity and Variation
+- Define gene, allele, genotype and phenotype
+- Describe the flow of genetic information
+- Outline the history of genetics
+# Chromosomes, mitosis and meiosis
+S PIERCE Chapter 2: Chromosomes
+S HARTL !Ch. 3 Genes and Chromosomes
+- Describe chromosome structure and the cell cycle
+- Compare mitosis and meiosis
+- Explain how meiosis generates genetic variation
+# Mendelian inheritance
+S PIERCE Chapter 3: Basic Principles
+S HARTL !Ch. 2 Principles of Genetic Transmission
+- State the principles of segregation and independent assortment
+- Solve monohybrid and dihybrid crosses
+- Apply probability rules to genetic problems
+# Sex determination and sex-linked traits
+S PIERCE Chapter 4: Sex Determination
+- Describe chromosomal sex determination in humans
+- Explain X-linked inheritance and X inactivation
+# Extensions of Mendelian inheritance
+S PIERCE Chapter 5: Extensions
+- Define incomplete dominance, codominance, penetrance and expressivity
+- Explain epistasis, pleiotropy and genomic imprinting
+- Relate variable expressivity to craniofacial syndromes
+# Pedigree analysis and genetic testing
+S PIERCE Chapter 6: Pedigree
+- Recognize autosomal dominant, autosomal recessive and X-linked patterns in pedigrees
+- Describe genetic counseling and the main genetic tests
+- Calculate recurrence risks
+# Linkage, recombination and gene mapping
+S PIERCE Chapter 7: Linkage
+S HARTL !Ch. 4 Genetic Linkage and Chromosome Mapping
+- Explain linkage and crossing over
+- Calculate recombination frequencies and map distances
+# Chromosome variation - aneuploidy and structural rearrangements
+S PIERCE Chapter 9: Chromosome Variation
+S HARTL !Ch. 7 Variation in Chromosome Number and Structure
+- Describe deletions, duplications, inversions and translocations
+- Explain nondisjunction and aneuploidy
+- Relate chromosomal anomalies to syndromes (e.g., 22q11.2 deletion, trisomy 21)
+# Bacterial and viral genetics
+S PIERCE Chapter 8: Bacterial
+S HARTL !Ch. 8 The Genetics of Bacteria and Viruses
+- Describe conjugation, transformation and transduction
+- Explain the genetic basis of antibiotic resistance
+
+## Molecular genetics
+# DNA structure
+S PIERCE Chapter 10: DNA
+S HARTL !Ch. 5 The Molecular Structure and Replication of the Genetic Material
+- Describe the structure of DNA and the evidence that DNA is the genetic material
+- Describe nucleotides, base pairing and the double helix
+# Chromosome structure and transposable elements
+S PIERCE Chapter 11: Chromosome Structure
+S HARTL !Ch. 6 The Molecular Organization of Chromosomes
+- Describe chromatin organization, centromeres and telomeres
+- Describe transposable elements and their effects
+# DNA replication and recombination
+S PIERCE Chapter 12: DNA Replication
+- Describe the enzymes and steps of DNA replication
+- Explain homologous recombination
+# Transcription and RNA processing
+S PIERCE Chapter 13: Transcription
+S PIERCE Chapter 14: RNA Molecules
+S HARTL !Ch. 10 Gene Expression
+- Describe transcription in prokaryotes and eukaryotes
+- Explain capping, splicing and polyadenylation
+- Describe the types of RNA molecules and their roles
+# Genetic code and translation
+S PIERCE Chapter 15: The Genetic Code
+- Describe the properties of the genetic code
+- Describe the steps of translation
+# Regulation of gene expression
+S PIERCE Chapter 16:
+S PIERCE Chapter 17:
+S HARTL !Ch. 11 Regulation of Gene Activity
+- Explain operons in prokaryotes
+- Describe transcriptional, epigenetic and post-transcriptional regulation in eukaryotes
+- Explain the role of microRNAs
+# Mutation and DNA repair
+S PIERCE Chapter 18: Gene Mutations
+S HARTL !Ch. 13 Mutation, DNA Repair, and Recombination
+- Classify gene mutations and their effects
+- Describe DNA repair pathways
+- Relate defective DNA repair to disease and cancer
+# Molecular techniques and biotechnology
+S PIERCE Chapter 19: Molecular Genetic Analysis
+S HARTL !Ch. 9 Genetic Engineering and Genome Analysis
+- Describe PCR, sequencing, cloning and gene editing (CRISPR)
+- Describe clinical applications of molecular diagnostics
+# Genomics and proteomics
+S PIERCE Chapter 20: Genomics
+- Describe genome sequencing and annotation
+- Explain the basics of proteomics
+# Organelle DNA and extranuclear inheritance
+S PIERCE Chapter 21: Organelle
+S HARTL !Ch. 14 Extranuclear Inheritance
+- Describe mitochondrial DNA and maternal inheritance
+- Recognize mitochondrial disease patterns
+
+## Applied genetics
+# Developmental genetics - Hox genes and signaling pathways
+S PIERCE Chapter 22: Developmental Genetics
+S HARTL !Ch. 12 The Genetic Control of Development
+- Describe homeotic (Hox) genes and body patterning
+- Describe the main signaling pathways in craniofacial development (FGF, SHH, BMP, WNT)
+- Relate developmental gene defects to craniofacial anomalies
+# Cancer genetics
+S PIERCE Chapter 23: Cancer Genetics
+- Explain oncogenes and tumor suppressor genes
+- Describe the multistep model of carcinogenesis
+# Quantitative and multifactorial inheritance
+S PIERCE Chapter 24: Quantitative
+S HARTL !Ch. 16 Quantitative Genetics and Multifactorial Inheritance
+- Explain polygenic traits and the threshold model
+- Define heritability
+- Apply the multifactorial model to cleft lip and palate
+# Population and evolutionary genetics
+S PIERCE Chapter 25: Population
+S PIERCE Chapter 26: Evolutionary
+S HARTL !Ch. 15 Population Genetics and Evolution
+- Apply the Hardy-Weinberg principle
+- Describe mutation, migration, genetic drift and selection
+# Genetics of craniosynostosis
+S CSO 3. Genetics of Craniosynostoses
+S CSO 25. What to Ask
+S APERT 4: Molecular Genetics
+S APERT 5: Clinical Genetic Aspects
+- Describe the genes involved in craniosynostosis (FGFR1-3, TWIST1, EFNB1)
+- Explain genotype-phenotype correlations in syndromic craniosynostosis
+- Know what to ask the geneticist and when to request testing
+# Genetics of biorhythms and behavior
+S HARTL !Ch. 17 Genetics of Biorhythms and Behavior
+- Describe the genetic basis of circadian rhythms
+- Discuss the heritability of behavioral traits

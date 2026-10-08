@@ -1,0 +1,350 @@
+@AREA 13 | Facial Trauma | facial-trauma
+@BOOKS TRAUMA, AO, TMJD, POSNICK, FLAPS
+
+## Principles and evaluation
+# Initial management of the facial trauma patient
+S TRAUMA 1 Primary Injury
+S AO 1.5 Principles of craniomaxillofacial trauma care
+- Apply ATLS priorities to the facial trauma patient (airway, bleeding, cervical spine)
+- Take a focused history and examine the face systematically
+- Decide the timing of fracture repair
+> Priorities in multisystem trauma
+> Radiological evaluation of craniofacial trauma
+# Bone biology and fracture healing
+S AO 1.2 Bone
+S AO 1.3. Fractures in the craniomaxillofacial
+- Describe primary and secondary bone healing
+- Describe the biomechanics of the facial skeleton (buttresses, tension and compression zones)
+- Classify craniomaxillofacial fractures
+# Implants and principles of internal fixation
+S AO 1.1 Introduction
+S AO 1.4 Implant materials
+- Compare load-bearing and load-sharing fixation
+- Describe plates, screws, lag screws and resorbable systems
+- Describe maxillomandibular fixation techniques
+
+## Soft tissue and nerve injuries
+# Primary repair of facial soft tissue injuries
+S TRAUMA 1.4 Primary Repair of Soft Tissue
+- Clean and debride facial wounds
+- Repair lacerations of the lip, eyelid, ear and nose
+- Manage bites, avulsions and tissue loss
+# Traumatic facial nerve injury
+S TRAUMA 1.5 Traumatic Facial Nerve
+- Assess facial nerve injury and grade function
+- Indicate primary repair, grafting or observation
+
+## Upper face and skull base
+# Skull base fractures and CSF leaks
+S TRAUMA 1.6 Diagnosis and Multimodality
+S AO 4.2 Lateral skull base
+- Recognize anterior and lateral skull base fractures
+- Diagnose and manage CSF leaks
+# Frontal bone and frontal sinus fractures
+S TRAUMA 1.7 Frontal Bone
+S TRAUMA 1.8 Endoscopic Approaches
+S AO 4.1 Frontal sinus
+- Classify frontal sinus fractures by wall and nasofrontal duct involvement
+- Choose between observation, ORIF, obliteration and cranialization
+- Describe endoscopic approaches
+# Cranial vault fractures
+S AO 4.3 Cranial vault
+- Describe the management of depressed skull fractures and cranioplasty
+# Temporal bone fractures
+S TRAUMA 1.17 Temporal Bone
+- Classify temporal bone fractures
+- Recognize hearing loss, facial nerve injury and CSF otorrhea
+
+## Midface fractures
+# Orbital fractures
+S TRAUMA 1.9 Orbital Fractures
+S AO 3.4 Orbital fractures
+- Describe blowout fracture mechanisms and entrapment
+- Indicate surgery and choose approach and reconstruction material
+- Recognize retrobulbar hemorrhage and optic neuropathy
+# Nasal fractures
+S TRAUMA 1.10 Nasal Fractures
+S AO 3.6 Fractures of the nasal
+- Diagnose nasal fractures and septal hematoma
+- Describe closed and open reduction
+# Naso-orbito-ethmoid fractures
+S TRAUMA 1.11 Naso-orbito-ethmoid
+S AO 3.5 Nasoorbitoethmoidal
+- Classify NOE fractures (Markowitz-Manson)
+- Describe medial canthal tendon repair and transnasal canthopexy
+# Zygomaticomaxillary complex fractures
+S TRAUMA 1.12 Orbitozygomaticomaxillary
+S AO 3.3 Zygomaticomaxillary
+- Classify ZMC and zygomatic arch fractures
+- Choose the points of fixation
+- Describe the Gillies and intraoral approaches
+# Le Fort and palatal fractures
+S TRAUMA 1.13 Le Fort Fractures
+S AO 3.1 Lower midface
+S AO 3.2 Upper midface
+- Describe the Le Fort I, II and III patterns
+- Restore occlusion and buttresses
+- Manage palatal fractures
+
+## Mandible fractures
+# Symphyseal and parasymphyseal fractures
+S TRAUMA 1.14 Mandible Fractures
+S AO 2.1 Symphyseal
+- Describe the biomechanics of anterior mandibular fractures
+- Apply two-plate and lag screw fixation
+# Body and angle fractures
+S AO 2.2 Body and angle
+- Apply Champy's ideal osteosynthesis lines
+- Decide on the tooth in the fracture line
+# Condylar fractures
+S TRAUMA 1.15 Fractures of the Condylar
+S AO 2.3 Condyle
+S TMJD 16: Temporomandibular Joint Trauma
+- Classify condylar fractures
+- Compare closed and open treatment and their indications
+- Describe the approaches for ORIF of the condyle
+# Complications of mandibular fractures
+S TRAUMA 1.16 Complications of Mandibular
+- Recognize infection, nonunion and malunion
+- Manage hardware failure and malocclusion
+# Fractures in edentulous, atrophic and geriatric patients
+S TRAUMA 1.21 Geriatric and Edentulous
+S AO 2.4 Fractures in bone of reduced quality
+- Describe the challenges of the atrophic mandible
+- Choose load-bearing fixation
+# Dentoalveolar trauma
+S TRAUMA 1.18 Dentoalveolar Trauma
+- Classify dental and alveolar injuries
+- Manage avulsion, luxation and splinting
+
+## Complex injuries
+# Panfacial fractures
+S TRAUMA 1.19 Management of Panfacial
+S AO 5 Panfacial
+- Plan the sequence of panfacial fracture repair
+- Restore facial width, projection and height
+# Ballistic and blast injuries
+S TRAUMA 1.20 Characteristics of Ballistic
+- Describe the ballistics of low- and high-energy injuries
+- Describe staged management of gunshot wounds to the face
+
+## Pediatric facial trauma
+# Principles of pediatric facial trauma
+S TRAUMA 2 Pediatric Facial Injury
+S AO 6 Fractures in the growing skeleton
+- Describe how growth and developing teeth modify fracture patterns and treatment
+- Describe the risk of growth disturbance
+# Pediatric frontal, cranial and orbital fractures
+S TRAUMA 2.2 Superior Pediatric
+S TRAUMA 2.3 Pediatric Orbital
+- Recognize the white-eyed blowout fracture
+- Manage pediatric frontal and orbital roof fractures
+# Pediatric midface and mandible fractures
+S TRAUMA 2.4 Pediatric Midface
+S TRAUMA 2.5 Pediatric Mandible
+- Manage pediatric condylar fractures
+- Choose fixation in the mixed dentition
+
+## Secondary reconstruction
+# Principles of secondary reconstruction and pediatric cranial reconstruction
+S TRAUMA 3 Secondary Reconstruction
+S TRAUMA 3.2 Pediatric Cranial
+- Describe the principles of secondary facial reconstruction
+- Describe pediatric cranioplasty options
+# Secondary reconstruction of facial soft tissue
+S TRAUMA 3.3 Secondary Reconstruction of Facial Soft
+- Describe scar revision and local flaps for traumatic defects
+# Ocular considerations and secondary orbital reconstruction
+S TRAUMA 3.4 Ocular Considerations
+S TRAUMA 3.7 Secondary Orbital
+- Assess enophthalmos and diplopia
+- Plan secondary orbital reconstruction with navigation and patient-specific implants
+# Secondary NOE repair and posttraumatic nasal deformity
+S TRAUMA 3.5 Secondary Nasoethmoid
+S TRAUMA 3.6 Posttraumatic Nasal
+- Correct telecanthus and nasal deformities after trauma
+# Secondary midfacial reconstruction
+S TRAUMA 3.8 Secondary Midfacial
+- Plan osteotomies and grafts for midface malunion
+# Secondary osteotomies and posttraumatic malocclusion
+S TRAUMA 3.9 Secondary Osteotomies
+S POSNICK 35 Management of Secondary Jaw
+- Correct posttraumatic malocclusion with orthognathic osteotomies
+# Secondary traumatic TMJ reconstruction
+S TRAUMA 3.10 Secondary Traumatic TMJ
+- Manage posttraumatic ankylosis and condylar malunion
+# Maxillofacial prosthodontics and custom craniofacial implants
+S TRAUMA 3.11 Maxillofacial Prosthodontics
+S TRAUMA 3.12 Custom Craniofacial
+- Describe obturators and facial prostheses
+- Describe custom implants (PEEK, titanium, PMMA)
+# Secondary microvascular reconstruction of traumatic injuries
+S TRAUMA 3.13 Secondary Microvascular
+- Indicate free flaps after facial trauma
+# Virtual surgical planning
+S TRAUMA 3.14 Virtual Surgical
+- Describe the workflow of virtual surgical planning
+- Describe cutting guides, navigation and patient-specific implants
+# Secondary nerve reconstruction
+S TRAUMA 3.16 Secondary Nerve
+- Describe the repair of trigeminal and facial nerve injuries
+# Face transplantation
+S TRAUMA 3.17 Facial Transplantation
+S FLAPS 64 Face Transplantation
+- Describe the indications and outcomes of face transplantation
+- Describe immunosuppression and ethical issues
+
+@AREA 14 | TMJ | tmj
+@BOOKS TMJD, ATLAS_ATM, MERCURI, CFM_TCS, POSNICK, DISTR
+
+## Foundations
+# History and evolution of TMJ surgery
+S TMJD 1: Temporomandibular Joint from the Pyramids
+S MERCURI Chapter 3: History
+- Describe the evolution of TMJ surgery and alloplastic reconstruction
+> Temporomandibular joint anatomy and biomechanics
+> Development of the mandible and TMJ
+> Imaging of the temporomandibular joint
+# TMJ biomechanics
+S MERCURI Chapter 1: TMJ Biomechanics
+- Describe joint loading and the forces acting on the TMJ
+- Relate biomechanics to joint replacement design
+# Epidemiology and classification of TMJ disorders
+S TMJD 2: Importance of Identification
+S TMJD 4: Incidence
+S TMJD 13: Surgical Classification
+- Describe the prevalence of TMD
+- Apply a surgical classification of TMJ disorders
+# Understanding TMJ disorders
+S TMJD 5: Understanding
+- Describe the etiology of TMD
+- Distinguish intra-articular from masticatory muscle disorders
+- Recognize headache associated with TMD
+# Clinical evaluation of the TMJ
+S TMJD 6: Clinical Evaluation
+- Perform a TMJ examination (range of motion, sounds, palpation)
+- Apply the DC/TMD diagnostic criteria
+# Psychological assessment in TMJ disorders
+S TMJD 8: Psychological Assessment
+- Recognize psychosocial factors in TMD
+# Synovial fluid analysis
+S TMJD 12: Synovial Fluid
+- Describe synovial fluid biomarkers in TMJ disease
+# Pathology of the TMJ
+S ATLAS_ATM 3- PATOLOG
+- Describe the histopathology of osteoarthritis, ankylosis and condylar hyperplasia
+# Rheumatologic diseases of the TMJ
+S ATLAS_ATM 4- ENFERMEDADES MÉDICAS
+- Describe TMJ involvement in osteoarthritis, rheumatoid arthritis, ankylosing spondylitis and juvenile arthritis
+
+## Non-surgical management
+# Non-surgical and pharmacological management of TMD
+S TMJD 9: Non-surgical
+- Describe physical therapy, medication and behavioral therapy for TMD
+# Occlusion and TMJ disorders
+S TMJD 10: Occlusion
+S POSNICK 9 Temporomandibular Disorders
+- Discuss the role of occlusion in TMD
+- Discuss the effects of orthodontics and orthognathic surgery on TMD
+# Occlusal splint therapy
+S TMJD 11: Occlusal Splint
+- Compare stabilization and anterior repositioning splints
+- Explain the proposed mechanisms of action
+
+## Surgical management
+# Surgical approaches to the TMJ
+S TMJD 14: Surgical Approaches
+S ATLAS_ATM 2- ACCESO
+- Describe preauricular, endaural, retromandibular and submandibular approaches
+- Protect the facial nerve during TMJ approaches
+# Internal derangement of the TMJ
+S TMJD 15: Internal Derangements
+S ATLAS_ATM 10- CIRUGIA PARA LAS ALTERACIONES INTERNAS
+- Stage internal derangement (Wilkes classification)
+- Describe disc repositioning, discectomy and eminectomy
+# Arthrocentesis
+S TMJD 19: Arthrocentesis
+- Indicate arthrocentesis and describe the technique
+# TMJ arthroscopy
+S TMJD 20: Fundamentals of Temporomandibular Joint Arthroscopy
+S TMJD 21: Temporomandibular Joint Arthroscopy Using
+S ATLAS_ATM 6- ARTROSCOPIA
+- Describe arthroscopic anatomy and diagnostic findings
+- Describe operative arthroscopy techniques
+# Post-traumatic TMJ disorders
+S ATLAS_ATM 7- ALTERACIONES POST
+- Describe post-traumatic osteoarthritis and whiplash-related TMD
+> Condylar fractures
+# TMJ ankylosis
+S TMJD 17: Temporomandibular Joint Ankylosis
+S ATLAS_ATM 9- ANQUILOSIS
+- Classify TMJ ankylosis
+- Describe gap arthroplasty, interpositional arthroplasty and costochondral grafting
+- Prevent re-ankylosis
+# Hypermobility and dislocation
+S TMJD 18: Temporomandibular Joint Hypermobility
+S ATLAS_ATM 8- DISLOCACI
+- Reduce an acute dislocation
+- Describe treatments for recurrent dislocation
+# Growth disorders of the TMJ
+S ATLAS_ATM 11- ALTERACIONES DEL CRECIMIENTO
+- Describe condylar hyperplasia and hemimandibular elongation
+- Describe acquired and congenital condylar hypoplasia
+# Idiopathic condylar resorption
+S POSNICK 36 Idiopathic Condylar
+- Describe risk factors and diagnosis of condylar resorption
+- Discuss treatment options and timing
+# Uncommon TMJ tumors and lesions
+S ATLAS_ATM 12- TRANSTORNOS
+- Describe synovial chondromatosis, osteochondroma and other rare TMJ lesions
+# TMJ disorders in syndromes and children
+S TMJD 23: Syndromes Affecting
+S TMJD 24: Paediatric
+- Describe TMJ involvement in syndromes
+- Describe pediatric TMJ disorders including juvenile arthritis
+# Complications of TMJ surgery
+S TMJD 25: Complications
+- Recognize and prevent facial nerve injury, bleeding and infection
+# Distraction osteogenesis for ramus-condyle unit reconstruction
+S TMJD 26: Role of Distraction
+S DISTR !Ch. 41 Reconstruction of the Ramus-Condyle Unit Using Transport Distraction
+- Describe transport distraction for condylar reconstruction
+# Airway management in TMJ surgery
+S TMJD 27: Fibreoptic Intubation
+- Plan awake fiberoptic intubation in limited mouth opening
+
+## Total joint replacement
+# TMJ total joint replacement biomaterials
+S MERCURI Chapter 2: TMJ TJR Biomaterials
+- Describe the materials used in TMJ prostheses and their wear
+# Stock TMJ prostheses
+S MERCURI Chapter 4: Stock Prostheses
+S TMJD 22: Alloplastic
+- Indicate alloplastic TMJ reconstruction
+- Describe stock prosthesis implantation
+# Custom TMJ prostheses
+S MERCURI Chapter 5: Custom
+- Describe the virtual planning and fabrication of custom devices
+# Concomitant TMJ replacement and orthognathic surgery
+S MERCURI Chapter 6: Concomitant
+- Plan simultaneous joint replacement and orthognathic surgery
+# Mandibular reconstruction with TMJ replacement devices
+S MERCURI Chapter 7: Mandibular Replacement
+- Describe extended prostheses after mandibular resection
+# TMJ replacement in Treacher Collins syndrome and hemifacial microsomia
+S CFM_TCS Chapter 20:
+- Describe the indications of TMJ replacement in craniofacial syndromes
+# Complications of TMJ total joint replacement
+S MERCURI Chapter 8: Complications
+- Prevent and manage infection, heterotopic bone and failure
+# Material hypersensitivity and tribocorrosion
+S MERCURI Chapter 9: Material Hypersensitivity
+S MERCURI Chapter 10: Tribocorrosion
+- Describe metal hypersensitivity and its testing
+- Describe tribocorrosion of joint devices
+# Management of failed TMJ replacement
+S MERCURI Chapter 11: Management of Failing
+- Plan revision of a failed prosthesis
+# Bioengineered TMJ replacement
+S MERCURI Chapter 12: Bioengineered
+- Describe tissue engineering approaches for the TMJ

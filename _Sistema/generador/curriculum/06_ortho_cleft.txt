@@ -1,0 +1,475 @@
+@AREA 15 | Orthognathic Surgery | orthognathic
+@BOOKS POSNICK, REYNEKE, DISTR, AO
+
+## Basic principles
+# Perspectives on the face and history of orthognathic surgery
+S POSNICK 1 The New Perspectives
+S POSNICK 2 Pioneers and Milestones
+- Describe the evolution of orthognathic surgery
+- Describe modern facial aesthetic concepts
+# Definition, prevalence and etiology of dentofacial deformities
+S POSNICK 3 Definition and Prevalence
+S POSNICK 4 Hereditary, Developmental
+- Define dentofacial deformity
+- Describe hereditary, developmental and environmental causes
+# Principles of orthognathic surgery and treatment objectives
+S REYNEKE Chapter 1: Principles
+- Describe treatment options for dentofacial deformities (camouflage versus surgery)
+- State the functional and aesthetic objectives of treatment
+- Conduct the patient consultation and interdisciplinary referral
+# Orthodontic considerations
+S POSNICK 5 Orthodontic Considerations
+- Describe presurgical orthodontic decompensation
+- Describe the surgery-first approach
+# Periodontal considerations
+S POSNICK 6 Periodontal Considerations
+- Assess periodontal risk before orthodontic and surgical treatment
+# Psychosocial considerations
+S POSNICK 7 Psychosocial Considerations
+- Assess motivation and expectations
+- Recognize body dysmorphic disorder
+# Speech, mastication and swallowing
+S POSNICK 8 Speech, Mastication
+- Describe the functional effects of dentofacial deformities
+# Nasal airway considerations
+S POSNICK 10 Nasal Airway
+- Evaluate the nasal airway
+- Plan septoplasty and turbinate reduction with orthognathic surgery
+# Anesthesia, blood loss and airway management
+S POSNICK 11 Anesthesia Techniques
+S DISTR !Ch. 3 Ambulatory Anesthesia
+- Describe nasotracheal intubation and controlled hypotension
+- Reduce blood loss and manage fluids
+- Plan postoperative airway care
+> Occlusion and TMJ disorders
+
+## Evaluation and planning
+# Systematic patient evaluation
+S REYNEKE Chapter 2: Systematic Patient Evaluation
+- Perform a systematic facial aesthetic evaluation
+- Perform a cephalometric analysis
+- Evaluate the dental models and occlusion
+# Diagnosis, treatment planning and visual treatment objectives
+S REYNEKE Chapter 3: Diagnosis and Treatment Planning
+S POSNICK 12 Orthognathic Surgery Treatment Planning
+- Build a problem list and treatment plan
+- Predict soft tissue changes from skeletal movements
+- Prepare visual treatment objectives
+# Analytic model surgery
+S POSNICK 13 Standard Analytic Model
+S POSNICK 14 Mandible-First
+S DISTR !Ch. 7 Analytical Model Surgery
+- Perform model surgery and fabricate splints
+- Compare maxilla-first and mandible-first sequences
+# Three-dimensional virtual surgical planning
+S DISTR !Ch. 1 Three-Dimensional Facial Treatment Planning
+S DISTR !Ch. 6 Three-Dimensional Virtual Approach to Diagnosis and Treatment Planning
+S DISTR !Ch. 8 Tactile Surgical Planning Using Patient-Specific Anatomic Models
+S DISTR !Ch. 9 Fabricating a Surgical Wafer Splint by Three-Dimensional Virtual Model Surgery
+S APERT 27: Virtual Surgical Planning
+- Describe the virtual planning workflow
+- Fabricate digital splints and guides
+# Sequencing of orthognathic procedures
+S POSNICK 15 Sequencing
+S AO 7.4 Special considerations and sequencing
+- Plan the order of procedures in bimaxillary surgery
+- Describe intraoperative steps
+
+## Surgical techniques
+# Bilateral sagittal split osteotomy
+S REYNEKE Bilateral Split
+S AO 7.2 Standard osteotomies in the mandible
+- Describe the BSSO technique and its variants
+- Choose fixation (bicortical screws, plates)
+- Prevent bad splits and nerve injury
+# Intraoral vertical ramus osteotomy
+S REYNEKE Intraoral Vertical
+- Indicate IVRO
+- Describe the technique and postoperative care
+# Le Fort I osteotomy
+S REYNEKE Le Fort I Maxillary
+S AO 7.3 Standard osteotomies in the maxilla
+- Describe the Le Fort I technique, segmentation and down-fracture
+- Describe fixation and vascular considerations
+# Genioplasty
+S REYNEKE Genioplasty
+S POSNICK 37 Aesthetic Alteration of the Chin
+S DISTR !Ch. 52 Genioplasty with Implants
+- Assess the chin
+- Describe osseous genioplasty and alloplastic implants
+# Fixation and perioperative management in orthognathic surgery
+S AO 7.1 Definitions
+S AO 7.5 Perioperative
+- Describe fixation principles for osteotomies
+- Plan perioperative and postoperative care
+# Grafts in orthognathic surgery
+S POSNICK 18 Grafts Frequently
+S DISTR !Ch. 51 Bone Grafting in Orthognathic Surgery
+- Indicate bone and cartilage grafts
+- Describe donor sites
+# Surgical orthodontics - skeletal anchorage and accelerated tooth movement
+S DISTR !Ch. 12 Surgical Orthodontics in Mandibular Widening
+S DISTR !Ch. 13 Speedy Surgical Orthodontic Treatment with Skeletal Anchorage in Adults
+S DISTR !Ch. 14 Optimizing Orthodontic Therapy with Dentoalveolar Distraction Osteogenesis
+S DISTR !Ch. 15 Selective Alveolar Decortication
+S DISTR !Ch. 16 Miniature Implants and Retromolar Fixtures for Orthodontic Anchorage
+S DISTR !Ch. 17 Open-Bite Closure by Intruding Maxillary Molars with Skeletal Anchorage
+- Describe skeletal anchorage devices
+- Describe corticotomy-assisted orthodontics
+# Piezosurgery and minimally invasive orthognathic surgery
+S DISTR !Ch. 19 Clinical Experience with Piezosurgery
+S DISTR !Ch. 40 Minimally Invasive Orthognathic Surgery
+- Describe the advantages of piezosurgery
+- Describe endoscopic and minimally invasive techniques
+
+## Dentofacial deformities
+# Mandibular anteroposterior deficiency
+S REYNEKE Mandibular Anteroposterior Deficiency
+S POSNICK 19 Primary Mandibular Deficiency
+- Describe the clinical and cephalometric features
+- Plan mandibular advancement
+# Mandibular excess and maxillary deficiency
+S REYNEKE Mandibular Anteroposterior Excess
+S REYNEKE Maxillary Anteroposterior Deficiency
+S POSNICK 20 Maxillary Deficiency
+- Describe the Class III deformity
+- Plan maxillary advancement and mandibular setback
+# Maxillary anteroposterior excess
+S REYNEKE Maxillary Anteroposterior Excess
+- Describe maxillary protrusion and its correction
+# Vertical maxillary excess - long face
+S REYNEKE Maxillary Vertical Excess
+S POSNICK 21 Long Face
+- Describe the long face and gummy smile
+- Plan maxillary impaction
+# Vertical maxillary deficiency - short face
+S REYNEKE Maxillary Vertical Deficiency
+S POSNICK 23 Short Face
+- Describe the short face
+- Plan maxillary downgrafting
+# Open bite deformities
+S REYNEKE Open Bite Deformities
+- Distinguish dental from skeletal open bite
+- Describe surgical correction and relapse
+# Facial asymmetry
+S REYNEKE Dentofacial Asymmetry
+S POSNICK 22 Asymmetric Mandibular
+- Evaluate facial asymmetry
+- Plan correction of mandibular asymmetry
+# Rotation of the maxillomandibular complex
+S REYNEKE Rotation of the Maxillomandibular
+- Describe clockwise and counterclockwise rotation
+- Predict its effects on aesthetics and airway
+# Bimaxillary dental protrusion
+S POSNICK 24 Bimaxillary
+- Describe bimaxillary protrusion and its treatment
+# Dentofacial disharmony in adults
+S POSNICK 25 Dentofacial Disharmonies in Adults
+- Describe combined reconstruction and rejuvenation in adults
+# Obstructive sleep apnea
+S POSNICK 26 Obstructive Sleep
+S DISTR !Ch. 36 Treatment Goals for Obstructive Sleep Apnea
+S DISTR !Ch. 38 Distraction Osteogenesis in the Management of Obstructive Sleep Apnea Syndrome
+S DISTR !Ch. 39 Treatment of Obstructive Sleep Apnea by Immediate Surgical Lengthening of the Maxilla and the Mandible
+- Evaluate OSA (polysomnography, airway imaging)
+- Indicate maxillomandibular advancement
+- Describe outcomes of skeletal surgery for OSA
+
+## Distraction osteogenesis
+# Biology and principles of distraction osteogenesis
+S DISTR !Ch. 2 Formation and Mineralization of Maxillary Membranous Bone during Distraction Osteogenesis
+S DISTR !Ch. 5 Need for Distraction Osteogenesis
+S DISTR !Ch. 10 Surgical Planning for Distraction Osteogenesis
+- Describe the phases of distraction (latency, distraction, consolidation)
+- Describe the biology of regenerate bone
+- Choose distraction devices and vectors
+# Maxillary distraction
+S DISTR !Ch. 18 Maxillary Lengthening by Orthognathic Surgery
+S DISTR !Ch. 20 Simultaneous Correction of Three-Dimensional Maxillary Deformity by Le Fort I Osteotomy and Distraction
+S DISTR !Ch. 21 Bimaxillary Transverse Osteodistraction
+S DISTR !Ch. 22 Distraction Osteogenesis of the Maxilla at the Le Fort I Level Using an Internal Distractor
+S DISTR !Ch. 23 Lengthening the Maxilla by Distraction Osteogenesis
+- Describe Le Fort I distraction and transverse maxillary distraction (SARPE)
+# Midface distraction at the Le Fort III level
+S DISTR !Ch. 24 Gradual Repositioning of the Midface at the Subcranial Le Fort III Level by Distraction Osteogenesis
+S DISTR !Ch. 25 Combined Push-Pull Midface Distraction Osteogenesis
+- Describe Le Fort III distraction with external and internal devices
+# Mandibular distraction
+S DISTR !Ch. 28 Mandibular Lengthening Using Local Anesthesia Only
+S DISTR !Ch. 29 Mandibular Lengthening by Distraction Osteogenesis
+S DISTR !Ch. 30 Sagittal Distraction Osteogenesis of the Mandible
+S DISTR !Ch. 31 Intraoral Multiaxis Mandibular Distraction Osteogenesis
+S DISTR !Ch. 32 Surgical Orthodontics in Mandibular Lengthening
+S DISTR !Ch. 33 Logarithmic Distraction of the Mandible Using an Internal Curved Distractor
+S DISTR !Ch. 34 Intraoral Distraction Osteogenesis - Devices and Treatment Concepts
+- Describe mandibular lengthening and widening by distraction
+- Compare extraoral and intraoral devices
+# Neonatal mandibular distraction for airway obstruction
+S DISTR !Ch. 37 Airway-Compromising Mandibular Hypoplasia in Neonates
+- Indicate mandibular distraction in neonates with airway obstruction
+> Pierre Robin sequence and airway management
+# Alveolar distraction
+S DISTR !Ch. 44 Three-Dimensional Alveolar Ridges Distraction Osteogenesis
+S DISTR !Ch. 45 Alveolar Distraction for Height and Width
+- Describe vertical and horizontal alveolar distraction before implants
+# Bone transport for jaw reconstruction
+S DISTR !Ch. 46 Bone Transport by Distraction Osteogenesis for Maxillomandibular Reconstruction
+S DISTR !Ch. 47 Multidirectional Bone Transport Using an Internal Distraction Device
+S DISTR !Ch. 50 Reconstruction of Acquired Segmental Defects of the Mandible in the Age of Distraction Osteogenesis
+- Describe bone transport for segmental defects
+- Compare bone transport with free flaps
+# Distraction osteogenesis versus conventional orthognathic surgery
+S DISTR !Ch. 26 Alternative Treatment Strategies to Bimaxillary Surgery
+S DISTR !Ch. 27 Bilateral Sagittal Ramus Osteotomy versus Distraction Osteogenesis for Mandibular Advancement
+S REYNEKE Distraction Osteogenesis and Orthognathic
+- Choose between distraction and conventional osteotomies
+- Describe stability and relapse of each approach
+
+## Complications
+# Complications of orthognathic surgery
+S POSNICK 16 Complications Associated
+S AO 7.6 Complications and pitfalls
+- Recognize intraoperative complications (bleeding, bad split, malposition)
+- Manage postoperative infection, relapse and nonunion
+# Inferior alveolar nerve injury and its repair
+S DISTR !Ch. 35 Surgical Treatment of Inferior Alveolar Nerve Injuries Associated with Orthognathic Surgery
+- Classify nerve injuries
+- Indicate microsurgical nerve repair
+# Malocclusion after orthodontics and orthognathic surgery
+S POSNICK 17 Malocclusion after
+- Prevent and treat postoperative malocclusion
+# Early surgical intervention and craniofacial growth
+S DISTR !Ch. 11 Craniofacial Growth Consideration of Early Surgical Intervention
+- Discuss the effects of surgery on growth
+- Decide on surgical timing in growing patients
+
+## Aesthetic adjuncts
+# Rhinoplasty in the orthognathic patient
+S POSNICK 38 Aesthetic Alteration of the Nose
+- Predict nasal changes after maxillary surgery
+- Plan simultaneous or staged rhinoplasty
+# Otoplasty for prominent ears
+S POSNICK 39 Aesthetic Alteration of Prominent
+- Describe the anatomy of the prominent ear
+- Describe otoplasty techniques
+# Aesthetic surgery of the neck and lower face
+S POSNICK 40 Aesthetic Alteration of the Soft
+- Describe submental liposuction and neck lift with orthognathic surgery
+# Office-based adjuncts - perioral rejuvenation and radiowave surgery
+S DISTR !Ch. 4 Surgery Center Accreditation, Radiowave Surgery and Rejuvenation of the Lip and Perioral Area
+- Describe perioral rejuvenation options
+
+@AREA 16 | Cleft Lip and Palate | cleft
+@BOOKS GLOBAL, BERKOWITZ, POSNICK, DISTR
+
+## Foundations
+# Global burden of cleft disease and barriers to care
+S GLOBAL 1: Introduction
+S GLOBAL 2: Burden of Cleft
+S GLOBAL 3: Patient Barriers
+S GLOBAL 4: Innovations in Reaching
+- Describe the epidemiology and global burden of clefts
+- Describe barriers to care and strategies to reach patients
+> Embryology of cleft lip and palate
+> Quantitative and multifactorial inheritance
+# Patterns, anatomy and classification of clefts
+S GLOBAL 5: Patterns, Anatomy
+S BERKOWITZ 6: Complete Unilateral
+S BERKOWITZ 7: Complete Bilateral
+- Classify clefts (LAHSHAL, Kernahan, Veau)
+- Describe the anatomy of the unilateral and bilateral cleft lip and nose
+- Describe the muscle anatomy of the cleft palate
+# Neonatal cleft morphology and palatal arch form
+S BERKOWITZ 4: The Effect of Clefting
+S BERKOWITZ 5: Alternative Method
+- Describe the neonatal cleft arch form and its changes
+# Facial growth in cleft patients
+S BERKOWITZ 2: The Value of Longitudinal
+S BERKOWITZ 9: Characteristics of Facial Morphology
+S BERKOWITZ 10: A 25-Year Longitudinal
+- Describe facial growth patterns in unoperated and operated clefts
+- Use longitudinal records to evaluate outcomes
+# Feeding, nutrition and pediatric evaluation
+S GLOBAL 6: Early Nutrition
+S GLOBAL 8: Pediatric and Anesthesiologic
+- Describe feeding techniques for infants with clefts
+- Screen for associated anomalies before surgery
+# Surgical evaluation, treatment planning and team care
+S GLOBAL 7: Surgical Evaluation
+S BERKOWITZ 44: Examining the Team
+S BERKOWITZ 27: The Need for Differential
+- Describe the timeline of cleft treatment
+- Describe the role of each team member
+# Anesthesia for cleft surgery
+S GLOBAL 9: Anesthesia for Patients
+- Describe airway and anesthetic management in cleft surgery
+# Presurgical orthopedics and nasoalveolar molding
+S BERKOWITZ 20: Neonatal Maxillary Orthopedics
+S BERKOWITZ 21: A Comparison of the Effects of the Latham
+S GLOBAL 26: Cleft Dental Treatment
+- Describe passive and active presurgical orthopedics
+- Describe nasoalveolar molding
+- Discuss evidence on effects on growth
+
+## Cleft lip and nose
+# Principles of cleft lip repair
+S GLOBAL 10: Principles of Cleft Lip
+- Describe the goals and timing of lip repair
+- Describe the markings and landmarks
+# Unilateral cleft lip repair - rotation-advancement
+S GLOBAL 11: Unilateral Cleft Lip repair: Rotation
+- Describe the Millard rotation-advancement technique
+# Unilateral cleft lip repair - Mohler and anatomic subunit techniques
+S GLOBAL 12: Unilateral Cleft Lip Repair: Modified Mohler
+S GLOBAL 13: Unilateral Cleft Lip Repair: Anatomic Subunit
+- Describe the modified Mohler and Fisher anatomic subunit techniques
+- Compare techniques
+# Bilateral cleft lip repair and management of the premaxilla
+S GLOBAL 14: Bilateral Cleft Lip
+S BERKOWITZ 19: Management of the Premaxilla
+- Describe bilateral cleft lip repair
+- Manage the protruding premaxilla
+# Secondary cleft lip repair
+S GLOBAL 15: Secondary Cleft Lip
+- Correct secondary lip deformities (whistle deformity, vermilion and scar problems)
+# Cleft rhinoplasty
+S GLOBAL 22: Cleft Rhinoplasty
+- Describe the cleft nasal deformity
+- Describe primary and definitive cleft rhinoplasty
+# Lip pits and van der Woude syndrome
+S BERKOWITZ 8: Lip Pits
+- Describe lip pits and their association with clefts
+
+## Cleft palate
+# Principles and timing of cleft palate repair
+S GLOBAL 16: Principles of Cleft Palate
+S BERKOWITZ 17: Choosing the Best Time
+S BERKOWITZ 37: Optimal Age for Palatoplasty
+- Describe the goals of palate repair
+- Discuss timing in relation to speech and growth
+# Palatoplasty techniques
+S GLOBAL 17: Cleft Palate Repair: Early Anterior
+S GLOBAL 18: Cleft Palate repair: Double-Opposing
+S BERKOWITZ 18: Two-Stage Palatal Surgery
+- Describe intravelar veloplasty and Furlow double-opposing Z-plasty
+- Describe two-flap and two-stage palatoplasty
+# Palatal wound healing and the effect of surgery on growth
+S BERKOWITZ 14: Palatal Wound Healing
+S BERKOWITZ 15: Facial Growth Related
+S BERKOWITZ 16: The Influence of Conservative
+- Explain how palatal scarring affects maxillary growth
+# Palatal fistulas
+S GLOBAL 19: Palatal Fistulas
+- Classify palatal fistulas (Pittsburgh)
+- Describe repair techniques
+
+## Speech and velopharyngeal function
+# The velopharyngeal mechanism
+S BERKOWITZ 33: Variations in Nasopharyngeal
+S BERKOWITZ 34: The Velopharyngeal Mechanism
+- Describe velopharyngeal anatomy and closure patterns
+# Speech assessment and disorders in cleft palate
+S BERKOWITZ 32: Diagnostic Procedures
+S BERKOWITZ 38: Speech, Language
+S GLOBAL 28: Speech and Resonance
+- Describe hypernasality, nasal emission and compensatory articulation
+- Describe nasendoscopy and videofluoroscopy
+# Surgical management of velopharyngeal insufficiency
+S GLOBAL 20: Speech Surgery
+S BERKOWITZ 35: Surgical Management of Velopharyngeal
+S BERKOWITZ 36: Velopharyngeal Dysfunction Management
+- Compare pharyngeal flap, sphincter pharyngoplasty and re-repair
+- Apply VPI management algorithms
+# Prosthetic speech appliances
+S BERKOWITZ 39: Prosthetic Speech
+S BERKOWITZ 40: Palatal Lift
+- Describe speech bulbs and palatal lifts
+
+## Alveolus, jaws and orthodontics
+# Alveolar cleft bone grafting
+S GLOBAL 21: Alveolar Bone Graft
+S BERKOWITZ 26: Secondary Bone Grafting
+S DISTR !Ch. 48 Use of Tissue-Engineered Osteogenic Material for Alveolar Cleft Osteoplasty
+- Describe the goals and timing of alveolar bone grafting
+- Describe the technique and donor sites (iliac crest)
+- Evaluate outcomes
+# Cleft orthodontic care
+S GLOBAL 27: Cleft Orthodontic
+- Describe orthodontic treatment in each dental stage
+# Protraction facemask for midface retrusion
+S BERKOWITZ 22: Protraction Facial Mask
+S BERKOWITZ 23: Protraction Facial Mask for Early
+- Indicate facemask therapy
+# Cleft orthognathic surgery - unilateral cleft lip and palate
+S POSNICK 32 Cleft–Orthognathic Surgery: The Unilateral
+S BERKOWITZ 24: LeFort I Osteotomy
+S BERKOWITZ 25: Cleft Jaw Deformities
+S GLOBAL 23: Orthognathic Surgery
+- Describe the cleft jaw deformity
+- Plan Le Fort I in cleft patients and manage residual fistulas
+# Cleft orthognathic surgery - bilateral cleft and isolated cleft palate
+S POSNICK 33 Cleft–Orthognathic Surgery: The Bilateral
+S POSNICK 34 Cleft–Orthognathic Surgery: The Isolated
+- Describe the specific problems of bilateral clefts and isolated cleft palate
+# Maxillary distraction in cleft patients
+S BERKOWITZ 28: Rigid External Distraction
+S BERKOWITZ 30: Management of Maxillary Deformities
+S BERKOWITZ 31: Preventing Relapse
+S DISTR !Ch. 49 Maxillary Distraction for Patients with Cleft Lip and Palate
+- Indicate maxillary distraction instead of Le Fort I advancement
+- Prevent relapse
+# Mandibular remodeling by distraction
+S BERKOWITZ 29: Remodeling the Mandible
+- Describe mandibular distraction in cleft patients
+
+## Associated conditions and care
+# Pierre Robin sequence and airway management
+S BERKOWITZ 11: Airway Management in Patients with Robin
+S BERKOWITZ 12: Pierre Robin Sequence
+S GLOBAL 25: Pierre Robin Sequence
+- Describe the triad and pathogenesis of Robin sequence
+- Choose between positioning, nasopharyngeal airway, tongue-lip adhesion, mandibular distraction and tracheostomy
+# Otology and hearing in cleft palate
+S BERKOWITZ 13: Management of Otopathology
+S GLOBAL 29: Audiology, Otology
+- Describe otitis media with effusion in cleft palate
+- Indicate tympanostomy tubes
+# Psychosocial aspects of clefts
+S BERKOWITZ 45: Living with a Cleft
+S BERKOWITZ 46: Managing Teasing
+S GLOBAL 30: Psychosocial
+- Describe psychological challenges and support
+# Postoperative and nursing care
+S GLOBAL 31: Optimizing Postoperative
+- Describe postoperative care after lip and palate repair
+> Lateral and rare craniofacial clefts
+> Orofacial clefting syndromes
+
+## Outcomes and care delivery
+# Outcome assessment and intercenter studies
+S GLOBAL 37: Outcome Assessment
+S BERKOWITZ 47: Eurocleft
+S BERKOWITZ 48: Berkowitz Recording
+- Describe outcome measures (GOSLON, speech outcomes)
+- Describe Eurocleft and Americleft studies
+# Cleft care in low-resource settings
+S GLOBAL 38: Comprehensive Cleft Care
+S GLOBAL 39: Empowering Local
+S GLOBAL 40: Short-Term International
+S GLOBAL 41: Creating a Culture
+S GLOBAL 42: Strengthening Surgical
+S BERKOWITZ 41: Cleft Palate Treatment in Developing
+S BERKOWITZ 42: Birthing and Building
+S BERKOWITZ 43: Challenges in Cleft Care
+- Describe sustainable cleft care models
+- Discuss the ethics of short-term surgical missions
+# Surgical education and simulation in cleft care
+S GLOBAL 32: Operating Room Function
+S GLOBAL 33: Cleft Lip and Palate Simulators
+S GLOBAL 34: Cleft Surgeon Training
+S GLOBAL 35: Educator Workshops: Visiting
+S GLOBAL 36: Educator Workshops: Skills
+- Describe simulators and training curricula
+# Ethics and health policy in craniofacial care
+S BERKOWITZ 49: Social, Ethical
+- Discuss ethical and policy issues in craniofacial care

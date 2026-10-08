@@ -1,0 +1,19 @@
+01	Anatomy	Anatomy - Index	54	GRAY,IWANAGA,IMAGING,CARSTENS,SKULLBASE,TMJD,ATLAS_ATM,FLAPS,SPERBER,BORON,DOLOR,AO,TRAUMA,HNC,POSNICK
+02	Embryology	Embryology - Index	25	SPERBER,CARSTENS,CSO,BERKOWITZ
+03	Genetics	Genetics - Index	25	PIERCE,HARTL,CSO,APERT
+04	Physiology	Physiology - Index	39	BORON
+05	Pharmacology	Pharmacology - Index	58	KATZUNG,DOLOR,CRIT
+06	Microbiology	Microbiology - Index	36	MURRAY
+07	Biostatistics	Biostatistics - Index	14	BIOEST,TRAUMA,CRIT,HNC
+08	Imaging	Imaging - Index	28	IMAGING,TMJD,ATLAS_ATM,TRAUMA,FRAGISKOS,HNC,CSO
+09	Oral Pathology	Oral Pathology - Index	40	NEVILLE
+10	Oral Surgery	Oral Surgery - Index	15	FRAGISKOS
+11	Pain Medicine	Pain Medicine - Index	24	DOLOR,NEVILLE,TRAUMA
+12	Critical Care	Critical Care - Index	66	CRIT
+13	Facial Trauma	Facial Trauma - Index	37	TRAUMA,AO,TMJD,POSNICK,FLAPS
+14	TMJ	TMJ - Index	36	TMJD,ATLAS_ATM,MERCURI,CFM_TCS,POSNICK,DISTR
+15	Orthognathic Surgery	Orthognathic Surgery - Index	49	POSNICK,REYNEKE,DISTR,AO
+16	Cleft Lip and Palate	Cleft Lip and Palate - Index	38	GLOBAL,BERKOWITZ,POSNICK,DISTR
+17	Craniofacial Surgery	Craniofacial Surgery - Index	68	CFM_TCS,CSO,APERT,GORLIN,SKULLBASE,POSNICK,GLOBAL
+18	Head and Neck Oncology	Head and Neck Oncology - Index	35	HNC,FLAPS
+19	Reconstructive Surgery	Reconstructive Surgery - Index	32	FLAPS

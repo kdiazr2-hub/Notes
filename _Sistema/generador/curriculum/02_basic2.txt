@@ -1,0 +1,753 @@
+@AREA 04 | Physiology | physiology
+@BOOKS BORON
+
+## Cell physiology
+# Foundations of physiology and functional organization of the cell
+S BORON Capítulo 1 -
+S BORON Capítulo 2 -
+- Define homeostasis and the internal environment
+- Describe the organization of the cell, membranes and organelles
+- Describe the body fluid compartments
+# Signal transduction and regulation of gene expression
+S BORON Capítulo 3 -
+S BORON Capítulo 4 -
+- Classify chemical signals and receptor types
+- Describe second messenger cascades (cAMP, IP3, Ca2+, kinases)
+- Explain how signals regulate gene transcription
+# Transport of solutes and water
+S BORON Capítulo 5 -
+- Distinguish passive diffusion, facilitated transport and active transport
+- Describe the Na-K pump, channels and carriers
+- Explain osmosis and cell volume regulation
+# Membrane electrophysiology and action potentials
+S BORON Capítulo 6 -
+S BORON Capítulo 7 -
+- Explain the resting membrane potential (Nernst and Goldman equations)
+- Describe the ionic basis of the action potential
+- Explain the mechanism of local anesthetics on sodium channels
+# Synaptic transmission and the neuromuscular junction
+S BORON Capítulo 8 -
+- Describe the steps of neuromuscular transmission
+- Explain the actions of neuromuscular blockers and cholinesterase inhibitors
+# Physiology of skeletal, cardiac and smooth muscle
+S BORON Capítulo 9 -
+- Describe excitation-contraction coupling in each muscle type
+- Explain the length-tension and force-velocity relationships
+- Compare the regulation of skeletal, cardiac and smooth muscle
+
+## Nervous system
+# Organization of the nervous system and neuronal microenvironment
+S BORON Capítulo 10 -
+S BORON Capítulo 11 -
+- Describe the gross organization of the central and peripheral nervous system
+- Describe the blood-brain barrier, CSF and glial cells
+# Physiology of neurons and synaptic transmission in the CNS
+S BORON Capítulo 12 -
+S BORON Capítulo 13 -
+- Describe signal conduction and myelination
+- Describe the main CNS neurotransmitters and receptors
+# Autonomic nervous system
+S BORON Capítulo 14 -
+- Compare the sympathetic and parasympathetic divisions
+- Describe autonomic receptors and their effects on target organs
+- Describe the autonomic innervation of the salivary glands
+# Sensory transduction
+S BORON Capítulo 15 -
+- Describe the transduction of touch, temperature and pain
+- Describe taste, smell, hearing and vision
+# Circuits of the central nervous system
+S BORON Capítulo 16 -
+- Describe spinal reflexes and motor control
+- Describe the circuits of the masticatory and swallowing reflexes
+
+## Cardiovascular system
+# Organization of the cardiovascular system and blood
+S BORON Capítulo 17 -
+S BORON Capítulo 18 -
+- Describe the systemic and pulmonary circulations and pressure profiles
+- Describe blood composition, hemostasis and coagulation
+# Arteries, veins and microcirculation
+S BORON Capítulo 19 -
+S BORON Capítulo 20 -
+- Explain the relationship of pressure, flow and resistance (Poiseuille)
+- Describe capillary exchange and Starling forces
+- Explain the formation of edema
+# Cardiac electrophysiology and the ECG
+S BORON Capítulo 21 -
+- Describe cardiac action potentials and the conduction system
+- Interpret the normal ECG waves and intervals
+# The heart as a pump
+S BORON Capítulo 22 -
+- Describe the cardiac cycle and pressure-volume loops
+- Explain preload, afterload and contractility
+# Regulation of arterial pressure and cardiac output
+S BORON Capítulo 23 -
+S BORON Capítulo 25 -
+- Describe the baroreceptor reflex
+- Describe short- and long-term blood pressure control
+- Explain the integrated response to hemorrhage and exercise
+# Special circulations
+S BORON Capítulo 24 -
+- Describe cerebral, coronary, skeletal muscle and cutaneous circulations
+- Explain autoregulation and its relevance to flap perfusion
+
+## Respiratory system
+# Organization of the respiratory system and mechanics of ventilation
+S BORON Capítulo 26 -
+S BORON Capítulo 27 -
+- Describe the airways and lung volumes
+- Explain compliance, resistance and the work of breathing
+# Acid-base physiology
+S BORON Capítulo 28 -
+- Describe the buffer systems and the Henderson-Hasselbalch equation
+- Interpret simple and mixed acid-base disorders
+# Transport of oxygen and carbon dioxide in blood
+S BORON Capítulo 29 -
+- Describe the oxyhemoglobin dissociation curve and its shifts
+- Describe the forms of CO2 transport
+# Gas exchange and ventilation-perfusion
+S BORON Capítulo 30 -
+S BORON Capítulo 31 -
+- Describe alveolar gas exchange and diffusion
+- Explain ventilation-perfusion mismatch, shunt and dead space
+# Control of ventilation
+S BORON Capítulo 32 -
+- Describe the central and peripheral chemoreceptors
+- Explain the neural control of breathing and its relevance to sleep apnea
+
+## Urinary system
+# Glomerular filtration and renal blood flow
+S BORON Capítulo 33 -
+S BORON Capítulo 34 -
+- Describe the organization of the nephron
+- Explain the determinants of glomerular filtration rate and its autoregulation
+# Tubular transport of sodium, potassium and other solutes
+S BORON Capítulo 35 -
+S BORON Capítulo 36 -
+S BORON Capítulo 37 -
+- Describe sodium and chloride reabsorption along the nephron
+- Describe potassium handling
+- Describe calcium, phosphate and glucose transport
+# Urine concentration and renal acid-base transport
+S BORON Capítulo 38 -
+S BORON Capítulo 39 -
+- Explain the countercurrent mechanism and the role of ADH
+- Explain renal acid excretion and bicarbonate reabsorption
+# Integration of salt and water balance
+S BORON Capítulo 40 -
+- Describe the renin-angiotensin-aldosterone system
+- Explain the regulation of extracellular volume and osmolality
+
+## Gastrointestinal system
+# Organization of the GI system and gastric function
+S BORON Capítulo 41 -
+S BORON Capítulo 42 -
+- Describe the enteric nervous system and GI motility
+- Describe gastric acid secretion and its regulation
+# Pancreas and salivary glands
+S BORON Capítulo 43 -
+- Describe the formation and composition of saliva
+- Explain the neural control of salivary secretion
+- Describe exocrine pancreatic secretion
+# Intestinal fluid transport, digestion and absorption
+S BORON Capítulo 44 -
+S BORON Capítulo 45 -
+- Describe intestinal fluid and electrolyte transport
+- Describe digestion and absorption of carbohydrates, proteins and fats
+# Hepatobiliary function
+S BORON Capítulo 46 -
+- Describe bile formation and enterohepatic circulation
+- Describe hepatic metabolism and drug detoxification
+
+## Endocrine system
+# Organization of the endocrine system, growth and body mass
+S BORON Capítulo 47 -
+S BORON Capítulo 48 -
+- Describe the hypothalamic-pituitary axis
+- Describe the regulation of growth hormone and IGF-1
+- Describe the regulation of appetite and body mass
+# Thyroid gland
+S BORON Capítulo 49 -
+- Describe thyroid hormone synthesis and regulation
+- Describe the effects of hypo- and hyperthyroidism
+# Adrenal gland
+S BORON Capítulo 50 -
+- Describe cortisol and aldosterone physiology
+- Describe catecholamine physiology and the stress response
+# Endocrine pancreas
+S BORON Capítulo 51 -
+- Describe insulin and glucagon physiology
+- Describe the metabolic effects of diabetes mellitus
+# Parathyroid glands, vitamin D and calcium homeostasis
+S BORON Capítulo 52 -
+- Describe the regulation of calcium and phosphate by PTH, vitamin D and calcitonin
+- Relate calcium homeostasis to bone remodeling
+
+## Reproduction and everyday physiology
+# Sexual differentiation and reproductive systems
+S BORON Capítulo 53 -
+S BORON Capítulo 54 -
+S BORON Capítulo 55 -
+- Describe sexual differentiation
+- Describe the male and female reproductive axes
+# Pregnancy, fetal and neonatal physiology
+S BORON Capítulo 56 -
+S BORON Capítulo 57 -
+- Describe the physiological changes of pregnancy
+- Describe fetal circulation and the transition at birth
+# Metabolism and thermoregulation
+S BORON Capítulo 58 -
+S BORON Capítulo 59 -
+- Describe energy metabolism in fed and fasting states
+- Describe body temperature regulation and fever
+# Exercise, environmental physiology and aging
+S BORON Capítulo 60 -
+S BORON Capítulo 61 -
+S BORON Capítulo 62 -
+- Describe the physiological responses to exercise
+- Describe adaptation to altitude, diving and heat
+- Describe the physiological changes of aging
+
+@AREA 05 | Pharmacology | pharmacology
+@BOOKS KATZUNG, DOLOR, CRIT
+
+## General principles
+# Nature of drugs and drug development
+S KATZUNG !Ch. 1 Introduction - The Nature of Drugs and Drug Development and Regulation
+- Define drug, receptor, agonist and antagonist
+- Describe the phases of drug development and regulation
+# Drug receptors and pharmacodynamics
+S KATZUNG !Ch. 2 Drug Receptors and Pharmacodynamics
+- Describe dose-response curves, efficacy and potency
+- Explain therapeutic index and receptor regulation
+# Pharmacokinetics and rational dosing
+S KATZUNG !Ch. 3 Pharmacokinetics and Pharmacodynamics - Rational Dosing
+- Define volume of distribution, clearance, half-life and bioavailability
+- Calculate loading and maintenance doses
+- Explain steady state and dose adjustment in renal failure
+# Drug biotransformation and pharmacogenomics
+S KATZUNG !Ch. 4 Drug Biotransformation
+S KATZUNG !Ch. 5 Pharmacogenomics
+S DOLOR 7 Farmacogenética
+- Describe phase I and phase II metabolism and the cytochrome P450 system
+- Explain enzyme induction, inhibition and drug interactions
+- Relate genetic polymorphisms to drug response (e.g., CYP2D6 and codeine)
+
+## Autonomic drugs
+# Introduction to autonomic pharmacology
+S KATZUNG !Ch. 6 Introduction to Autonomic Pharmacology
+- Describe autonomic neurotransmitters and receptors
+- Predict the effects of autonomic drugs on organ systems
+# Cholinergic agonists and cholinesterase inhibitors
+S KATZUNG !Ch. 7 Cholinoceptor-Activating and Cholinesterase-Inhibiting Drugs
+- Classify direct and indirect cholinomimetics
+- Describe their uses (e.g., neostigmine reversal, pilocarpine for xerostomia)
+# Anticholinergic drugs
+S KATZUNG !Ch. 8 Cholinoceptor-Blocking Drugs
+- Describe the actions of atropine, glycopyrrolate and scopolamine
+- Describe antimuscarinic uses in sialorrhea and anesthesia
+- Recognize anticholinergic toxicity
+# Adrenergic agonists and vasopressors
+S KATZUNG !Ch. 9 Adrenoceptor Agonists and Sympathomimetic Drugs
+- Describe the receptor selectivity of epinephrine, norepinephrine, phenylephrine and dopamine
+- Explain the use of epinephrine with local anesthetics
+# Adrenergic antagonists
+S KATZUNG !Ch. 10 Adrenoceptor Antagonist Drugs
+- Describe alpha and beta blockers and their uses
+- Explain beta blockers for controlled hypotension
+
+## Cardiovascular-renal drugs
+# Antihypertensive drugs
+S KATZUNG !Ch. 11 Antihypertensive Agents
+- Classify antihypertensive drugs and their mechanisms
+- Manage hypertension in the surgical patient
+# Vasodilators and treatment of angina
+S KATZUNG !Ch. 12 Vasodilators and the Treatment of Angina Pectoris
+- Describe nitrates, calcium channel blockers and beta blockers in angina
+# Drugs used in heart failure
+S KATZUNG !Ch. 13 Drugs Used in Heart Failure
+- Describe the drugs that improve survival in heart failure
+- Describe the use of inotropes
+# Antiarrhythmic drugs
+S KATZUNG !Ch. 14 Agents Used in Cardiac Arrhythmias
+- Describe the Vaughan Williams classification
+- Describe the management of common perioperative arrhythmias
+# Diuretics
+S KATZUNG !Ch. 15 Diuretic Agents
+- Classify diuretics by site of action
+- Describe their uses and electrolyte complications (e.g., mannitol, furosemide)
+
+## Autacoids and respiratory drugs
+# Histamine, serotonin and ergot alkaloids
+S KATZUNG !Ch. 16 Histamine, Serotonin, and the Ergot Alkaloids
+- Describe H1 and H2 antihistamines and their uses
+- Describe serotonin agonists and antagonists (e.g., ondansetron, triptans)
+# Vasoactive peptides and nitric oxide
+S KATZUNG !Ch. 17 Vasoactive Peptides
+S KATZUNG !Ch. 19 Nitric Oxide
+- Describe the angiotensin, kinin and endothelin systems
+- Describe the physiology and therapeutic uses of nitric oxide
+# Prostaglandins and other eicosanoids
+S KATZUNG !Ch. 18 Prostaglandins and Other Eicosanoids
+- Describe the arachidonic acid cascade
+- Explain the basis of NSAID and corticosteroid actions
+# Drugs used in asthma
+S KATZUNG !Ch. 20 Drugs Used in Asthma
+- Describe bronchodilators and anti-inflammatory drugs in asthma
+- Manage the asthmatic surgical patient
+
+## CNS drugs and anesthesia
+# Sedative-hypnotics and introduction to CNS pharmacology
+S KATZUNG !Ch. 21 Introduction to the Pharmacology of CNS Drugs
+S KATZUNG !Ch. 22 Sedative-Hypnotic Drugs
+- Describe CNS neurotransmitter targets
+- Describe benzodiazepines, their antagonist flumazenil and uses in conscious sedation
+# Alcohols
+S KATZUNG !Ch. 23 The Alcohols
+- Describe ethanol pharmacology and alcohol withdrawal
+# Antiseizure drugs
+S KATZUNG !Ch. 24 Antiseizure Drugs
+- Classify antiseizure drugs
+- Describe the use of carbamazepine and others in trigeminal neuralgia
+# General anesthetics
+S KATZUNG !Ch. 25 General Anesthetics
+- Describe inhaled and intravenous anesthetics
+- Describe propofol, ketamine and etomidate
+# Local anesthetics
+S KATZUNG !Ch. 26 Local Anesthetics
+- Describe the mechanism of action and classification (amides, esters)
+- Calculate maximum safe doses
+- Recognize and manage local anesthetic systemic toxicity
+# Neuromuscular blockers and skeletal muscle relaxants
+S KATZUNG !Ch. 27 Skeletal Muscle Relaxants
+- Compare depolarizing and nondepolarizing blockers
+- Describe reversal agents (neostigmine, sugammadex)
+- Describe malignant hyperthermia and its treatment
+# Drugs for parkinsonism and movement disorders
+S KATZUNG !Ch. 28 Pharmacologic Management of Parkinsonism and Other Movement Disorders
+- Describe dopaminergic therapy and drugs for movement disorders
+# Antipsychotics and lithium
+S KATZUNG !Ch. 29 Antipsychotic Agents and Lithium
+- Describe typical and atypical antipsychotics and their adverse effects
+# Antidepressants
+S KATZUNG !Ch. 30 Antidepressant Agents
+- Classify antidepressants
+- Describe their role in chronic pain
+# Opioid agonists and antagonists
+S KATZUNG !Ch. 31 Opioid Agonists and Antagonists
+S DOLOR 14 Analgésicos opioides
+S DOLOR 15 Dependencia
+- Describe opioid receptors and the main opioids
+- Manage adverse effects and reversal with naloxone
+- Describe opioid tolerance, dependence and safe prescribing
+# Drugs of abuse
+S KATZUNG !Ch. 32 Drugs of Abuse
+- Describe the pharmacology of common drugs of abuse
+- Recognize the surgical implications of substance use
+
+## Analgesics and anti-inflammatory drugs
+# NSAIDs, acetaminophen and drugs for gout
+S KATZUNG !Ch. 36 Nonsteroidal Anti-Inflammatory Drugs, Disease-Modifying Antirheumatic Drugs, Nonopioid Analgesics and Drugs Used in Gout
+S DOLOR 13 Analgésicos simples
+- Describe COX-1 and COX-2 inhibition
+- Compare NSAIDs and acetaminophen
+- Describe the adverse effects and contraindications of NSAIDs
+# Adjuvant analgesics and topical treatments
+S DOLOR 16 Antidepresivos
+S DOLOR 17 Fármacos coanalgésicos
+S DOLOR 18 Tratamientos de acción tópica
+- Describe antidepressants and antiepileptics in neuropathic pain
+- Describe coanalgesics and topical agents
+
+## Blood and lipids
+# Hematopoietic agents
+S KATZUNG !Ch. 33 Agents Used in Cytopenias - Hematopoietic Growth Factors
+- Describe iron, B12, folate and growth factor therapy
+# Anticoagulants, antiplatelets and hemostatic agents
+S KATZUNG !Ch. 34 Drugs Used in Disorders of Coagulation
+- Describe heparins, warfarin and direct oral anticoagulants
+- Describe antiplatelet drugs
+- Manage anticoagulated patients in oral surgery and use tranexamic acid
+# Drugs for dyslipidemia
+S KATZUNG !Ch. 35 Agents Used in Dyslipidemia
+- Describe statins and other lipid-lowering drugs
+
+## Endocrine drugs
+# Hypothalamic and pituitary hormones
+S KATZUNG !Ch. 37 Hypothalamic and Pituitary Hormones
+- Describe the clinical use of pituitary hormones and analogs
+# Thyroid and antithyroid drugs
+S KATZUNG !Ch. 38 Thyroid and Antithyroid Drugs
+- Describe levothyroxine and antithyroid drugs
+# Corticosteroids
+S KATZUNG !Ch. 39 Adrenocorticosteroids and Adrenocortical Antagonists
+- Describe glucocorticoid actions and potencies
+- Describe perioperative steroid use (edema, PONV) and stress dosing
+# Gonadal hormones and inhibitors
+S KATZUNG !Ch. 40 The Gonadal Hormones and Inhibitors
+- Describe estrogens, progestins, androgens and their antagonists
+# Antidiabetic drugs
+S KATZUNG !Ch. 41 Pancreatic Hormones and Antidiabetic Drugs
+- Describe insulin types and oral antidiabetic drugs
+- Manage the diabetic patient perioperatively
+# Drugs affecting bone mineral homeostasis
+S KATZUNG !Ch. 42 Agents That Affect Bone Mineral Homeostasis
+- Describe bisphosphonates, denosumab and teriparatide
+- Relate antiresorptive drugs to osteonecrosis of the jaw
+
+## Antimicrobial chemotherapy
+# Beta-lactam antibiotics
+S KATZUNG !Ch. 43 Beta-Lactam and Other Cell Wall- and Membrane-Active Antibiotics
+- Describe penicillins, cephalosporins, carbapenems and vancomycin
+- Describe beta-lactamase inhibitors and penicillin allergy
+# Tetracyclines, macrolides, clindamycin and others
+S KATZUNG !Ch. 44 Tetracyclines, Macrolides, Clindamycin, Chloramphenicol, Streptogramins and Oxazolidinones
+- Describe the spectrum and adverse effects of each group
+- Describe the role of clindamycin in odontogenic infections
+# Aminoglycosides
+S KATZUNG !Ch. 45 Aminoglycosides and Spectinomycin
+- Describe the mechanism, spectrum and toxicity of aminoglycosides
+# Sulfonamides, trimethoprim and fluoroquinolones
+S KATZUNG !Ch. 46 Sulfonamides, Trimethoprim, and Quinolones
+- Describe the mechanism, spectrum and adverse effects
+# Antimycobacterial drugs
+S KATZUNG !Ch. 47 Antimycobacterial Drugs
+- Describe first-line drugs for tuberculosis
+# Antifungal agents
+S KATZUNG !Ch. 48 Antifungal Agents
+- Describe azoles, polyenes and echinocandins
+- Choose treatment for oral candidiasis and invasive fungal sinusitis
+# Antiviral agents
+S KATZUNG !Ch. 49 Antiviral Agents
+- Describe antiherpes drugs and antiretroviral classes
+# Miscellaneous antimicrobials, disinfectants and antiseptics
+S KATZUNG !Ch. 50 Miscellaneous Antimicrobial Agents - Disinfectants, Antiseptics and Sterilants
+- Describe metronidazole and other agents
+- Describe chlorhexidine and other antiseptics
+# Clinical use of antimicrobial agents
+S KATZUNG !Ch. 51 Clinical Use of Antimicrobial Agents
+S CRIT 61 Principles of Antimicrobial
+- Apply principles of empiric and definitive therapy
+- Describe surgical antibiotic prophylaxis
+- Describe antimicrobial stewardship
+# Antiprotozoal and anthelmintic drugs
+S KATZUNG !Ch. 52 Antiprotozoal Drugs
+S KATZUNG !Ch. 53 Clinical Pharmacology of the Antihelminthic Drugs
+- Describe the main antiprotozoal and anthelmintic drugs
+# Cancer chemotherapy
+S KATZUNG !Ch. 54 Cancer Chemotherapy
+- Classify cytotoxic drugs and their mechanisms
+- Describe the drugs used in head and neck cancer (cisplatin, 5-FU, taxanes)
+# Immunopharmacology
+S KATZUNG !Ch. 55 Immunopharmacology
+- Describe immunosuppressants and monoclonal antibodies
+- Relate immunosuppression to surgical risk and transplantation
+
+## Toxicology and special topics
+# Toxicology and management of the poisoned patient
+S KATZUNG !Ch. 56 Introduction to Toxicology - Occupational and Environmental
+S KATZUNG !Ch. 57 Heavy Metal Intoxication and Chelators
+S KATZUNG !Ch. 58 Management of the Poisoned Patient
+S CRIT 124 Toxicology in Adults
+- Describe the general approach to poisoning
+- Describe common antidotes
+# Pediatric, perinatal and geriatric pharmacology
+S KATZUNG !Ch. 59 Special Aspects of Perinatal and Pediatric Pharmacology
+S KATZUNG !Ch. 60 Special Aspects of Geriatric Pharmacology
+- Describe drug use in pregnancy and lactation
+- Adjust doses in children and elderly patients
+# Dermatologic and gastrointestinal drugs
+S KATZUNG !Ch. 61 Dermatologic Pharmacology
+S KATZUNG !Ch. 62 Drugs Used in the Treatment of Gastrointestinal Diseases
+- Describe topical dermatologic agents
+- Describe antiemetics and acid suppressants
+# Over-the-counter agents, supplements and rational prescribing
+S KATZUNG !Ch. 63 Therapeutic and Toxic Potential of Over-the-Counter Agents
+S KATZUNG !Ch. 64 Dietary Supplements and Herbal Medications
+S KATZUNG !Ch. 65 Rational Prescribing and Prescription Writing
+- Recognize supplements that affect bleeding and anesthesia
+- Write safe and correct prescriptions
+# Important drug interactions
+S KATZUNG !Ch. 66 Important Drug Interactions and Their Mechanisms
+- Describe pharmacokinetic and pharmacodynamic interactions
+- Recognize the interactions most relevant in surgical practice
+# Critical care pharmacology
+S CRIT 125 Critical Care Pharmacology
+- Describe pharmacokinetic changes in critical illness
+- Describe the use of sedatives, vasopressors and antimicrobials in the ICU
+
+@AREA 06 | Microbiology | microbiology
+@BOOKS MURRAY
+
+## Introduction and laboratory diagnosis
+# Introduction to medical microbiology and the human microbiota
+S MURRAY !Cap. 1 Introducción a la microbiología médica
+S MURRAY !Cap. 2 Flora microbiana comensal y patógena en el ser humano
+- Describe the main groups of microorganisms
+- Describe the normal oral and skin flora
+# Sterilization, disinfection and antisepsis
+S MURRAY !Cap. 3 Esterilización, desinfección y antisepsia
+- Define sterilization, disinfection and antisepsis
+- Describe the methods used for surgical instruments
+# Laboratory diagnosis - microscopy, culture, molecular and serologic methods
+S MURRAY !Cap. 4 Microscopía y cultivo in vitro
+S MURRAY !Cap. 5 Diagnóstico molecular
+S MURRAY !Cap. 6 Diagnóstico serológico
+- Describe Gram stain and culture techniques
+- Describe PCR-based and serologic diagnosis
+- Collect specimens correctly from head and neck infections
+
+## Immunology
+# Host defenses and innate immunity
+S MURRAY !Cap. 7 Elementos de las respuestas protectoras del hospedador
+S MURRAY !Cap. 8 Respuestas innatas del hospedador
+- Describe barriers, phagocytes, complement and inflammation
+# Adaptive immunity
+S MURRAY !Cap. 9 Respuestas inmunitarias específicas frente a antígenos
+- Describe T-cell and B-cell responses
+- Describe antibody classes and functions
+# Immune responses to infection and vaccines
+S MURRAY !Cap. 10 Respuestas inmunitarias a los microorganismos infecciosos
+S MURRAY !Cap. 11 Vacunas antimicrobianas
+- Describe immune responses to bacteria, viruses, fungi and parasites
+- Describe types of vaccines and immunization (e.g., tetanus)
+
+## Bacteriology
+# Bacterial structure, metabolism and genetics
+S MURRAY !Cap. 12 Clasificación, estructura y replicación de las bacterias
+S MURRAY !Cap. 13 Metabolismo y genética de las bacterias
+- Compare gram-positive and gram-negative cell walls
+- Describe bacterial growth and gene transfer
+# Bacterial pathogenesis and laboratory diagnosis
+S MURRAY !Cap. 14 Mecanismos de patogenicidad bacteriana
+S MURRAY !Cap. 15 Papel de las bacterias en la enfermedad
+S MURRAY !Cap. 16 Diagnóstico de laboratorio de las enfermedades bacterianas
+- Describe virulence factors, toxins and biofilms
+- Describe the laboratory approach to bacterial infections
+# Antibacterial agents and resistance
+S MURRAY !Cap. 17 Agentes antibacterianos
+- Describe the targets of antibacterial drugs
+- Describe the mechanisms of antimicrobial resistance (e.g., MRSA, beta-lactamases)
+# Staphylococcus
+S MURRAY !Cap. 18 Staphylococcus y cocos grampositivos relacionados
+- Describe S. aureus virulence factors and diseases
+- Describe MRSA and its treatment
+# Streptococcus and Enterococcus
+S MURRAY !Cap. 19 Streptococcus
+S MURRAY !Cap. 20 Enterococcus y otros cocos grampositivos
+- Classify streptococci and describe their diseases
+- Describe viridans streptococci in odontogenic infection and endocarditis
+# Bacillus, Listeria, Corynebacterium and Nocardia
+S MURRAY !Cap. 21 Bacillus
+S MURRAY !Cap. 22 Listeria y Erysipelothrix
+S MURRAY !Cap. 23 Corynebacterium y otros bacilos grampositivos
+S MURRAY !Cap. 24 Nocardia y bacterias relacionadas
+- Describe the clinical features of these gram-positive bacilli
+- Describe diphtheria
+# Mycobacterium
+S MURRAY !Cap. 25 Mycobacterium
+- Describe tuberculosis, atypical mycobacteria and leprosy
+- Describe cervical tuberculous lymphadenitis
+# Neisseria
+S MURRAY !Cap. 26 Neisseria y géneros relacionados
+- Describe gonorrhea and meningococcal disease
+# Enterobacteriaceae
+S MURRAY !Cap. 27 Enterobacteriaceae
+- Describe the main enteric gram-negative bacilli and their infections
+# Vibrio, Campylobacter and Helicobacter
+S MURRAY !Cap. 28 Vibrio y Aeromonas
+S MURRAY !Cap. 29 Campylobacter y Helicobacter
+- Describe cholera, Campylobacter enteritis and H. pylori
+# Pseudomonas and other gram-negative bacilli
+S MURRAY !Cap. 30 Pseudomonas y bacterias relacionadas
+S MURRAY !Cap. 31 Haemophilus y bacterias relacionadas
+S MURRAY !Cap. 32 Bordetella
+S MURRAY !Cap. 33 Francisella y Brucella
+S MURRAY !Cap. 34 Legionella
+S MURRAY !Cap. 35 Otros bacilos gramnegativos
+- Describe Pseudomonas infections and resistance
+- Describe Haemophilus, Bordetella, Legionella and HACEK organisms
+# Clostridium
+S MURRAY !Cap. 36 Clostridium
+- Describe tetanus, botulism, gas gangrene and C. difficile
+- Describe the mechanism of botulinum toxin
+# Anaerobic bacteria
+S MURRAY !Cap. 37 Bacterias grampositivas anaerobias no formadoras de esporas
+S MURRAY !Cap. 38 Bacterias gramnegativas anaerobias
+- Describe the anaerobes of odontogenic infections (Prevotella, Fusobacterium, Peptostreptococcus)
+- Describe actinomycosis
+# Treponema, Borrelia and Leptospira
+S MURRAY !Cap. 39 Treponema, Borrelia y Leptospira
+- Describe syphilis stages and diagnosis
+- Describe Lyme disease
+# Mycoplasma, Rickettsia, Chlamydia and related bacteria
+S MURRAY !Cap. 40 Mycoplasma y Ureaplasma
+S MURRAY !Cap. 41 Rickettsia y Orientia
+S MURRAY !Cap. 42 Ehrlichia, Anaplasma y Coxiella
+S MURRAY !Cap. 43 Chlamydia y Chlamydophila
+- Describe the clinical features of these intracellular bacteria
+
+## Virology
+# Viral structure, pathogenesis and laboratory diagnosis
+S MURRAY !Cap. 44 Clasificación, estructura y replicación vírica
+S MURRAY !Cap. 45 Mecanismos de patogenia vírica
+S MURRAY !Cap. 46 Papel de los virus en las enfermedades
+S MURRAY !Cap. 47 Diagnóstico de laboratorio de las enfermedades víricas
+S MURRAY !Cap. 48 Fármacos antivirales y control de las infecciones
+- Describe viral structure and replication
+- Describe viral pathogenesis and oncogenesis
+- Describe viral diagnosis and infection control
+# Papillomavirus and polyomavirus
+S MURRAY !Cap. 49 Papilomavirus y poliomavirus
+- Describe HPV types and oral and oropharyngeal lesions
+- Explain HPV oncogenesis (E6, E7)
+# Human herpesviruses
+S MURRAY !Cap. 51 Virus herpes humanos
+- Describe HSV, VZV, EBV, CMV and HHV-8 diseases
+- Relate herpesviruses to oral lesions and cancer
+# Respiratory viruses
+S MURRAY !Cap. 50 Adenovirus
+S MURRAY !Cap. 55 Coronavirus y norovirus
+S MURRAY !Cap. 56 Paramixovirus
+S MURRAY !Cap. 57 Ortomixovirus
+- Describe influenza, coronavirus, mumps and measles
+# Other viruses
+S MURRAY !Cap. 52 Poxvirus
+S MURRAY !Cap. 53 Parvovirus
+S MURRAY !Cap. 54 Picornavirus
+S MURRAY !Cap. 58 Rhabdovirus, filovirus y bornavirus
+S MURRAY !Cap. 59 Reovirus
+S MURRAY !Cap. 60 Togavirus y flavivirus
+S MURRAY !Cap. 61 Bunyaviridae y Arenaviridae
+- Describe hand-foot-and-mouth disease and herpangina
+- Describe rabies and arboviruses
+# Retroviruses and HIV
+S MURRAY !Cap. 62 Retrovirus
+- Describe HIV replication and disease progression
+- Describe the oral manifestations of HIV
+# Hepatitis viruses
+S MURRAY !Cap. 63 Virus de las hepatitis
+- Describe hepatitis A to E
+- Describe occupational exposure and prevention
+# Prions
+S MURRAY !Cap. 64 Virus lentos no convencionales - priones
+- Describe prion diseases and instrument decontamination
+
+## Mycology
+# Fungal biology, pathogenesis and diagnosis
+S MURRAY !Cap. 65 Clasificación, estructura y replicación de los hongos
+S MURRAY !Cap. 66 Patogenia de las micosis
+S MURRAY !Cap. 67 Importancia de los hongos en la enfermedad
+S MURRAY !Cap. 68 Diagnóstico de laboratorio de las micosis
+S MURRAY !Cap. 69 Fármacos antifúngicos
+- Describe fungal structure and pathogenesis
+- Describe the laboratory diagnosis of mycoses
+# Superficial, cutaneous and subcutaneous mycoses
+S MURRAY !Cap. 70 Micosis superficiales y cutáneas
+S MURRAY !Cap. 71 Micosis subcutáneas
+- Describe dermatophytosis and sporotrichosis
+# Systemic dimorphic mycoses
+S MURRAY !Cap. 72 Micosis sistémicas causadas por hongos dimórficos
+- Describe histoplasmosis, blastomycosis, coccidioidomycosis and paracoccidioidomycosis
+# Opportunistic mycoses
+S MURRAY !Cap. 73 Micosis oportunistas
+S MURRAY !Cap. 74 Micosis e infecciones seudomicóticas de etiología atípica o desconocida
+S MURRAY !Cap. 75 Micotoxinas y micotoxicosis
+- Describe candidiasis, aspergillosis and mucormycosis
+- Recognize invasive fungal sinusitis as an emergency
+
+## Parasitology
+# Parasite biology, diagnosis and antiparasitic drugs
+S MURRAY !Cap. 76 Clasificación, estructura y replicación de los parásitos
+S MURRAY !Cap. 77 Patogenia de las parasitosis
+S MURRAY !Cap. 78 Papel de los parásitos en la enfermedad
+S MURRAY !Cap. 79 Diagnóstico de laboratorio de las parasitosis
+S MURRAY !Cap. 80 Fármacos antiparasitarios
+- Classify parasites
+- Describe the diagnosis of parasitic infections
+# Protozoa
+S MURRAY !Cap. 81 Protozoos intestinales y urogenitales
+S MURRAY !Cap. 82 Protozoos sanguíneos y tisulares
+- Describe malaria, toxoplasmosis and leishmaniasis
+# Helminths and arthropods
+S MURRAY !Cap. 83 Nematodos
+S MURRAY !Cap. 84 Tremátodos
+S MURRAY !Cap. 85 Cestodos
+S MURRAY !Cap. 86 Artrópodos
+- Describe the main nematodes, trematodes and cestodes
+- Describe cysticercosis
+- Describe myiasis and other arthropod infestations
+
+@AREA 07 | Biostatistics | biostatistics
+@BOOKS BIOEST, TRAUMA, CRIT, HNC
+
+## Descriptive statistics
+# Basic concepts - populations, samples and variables
+S BIOEST !Cap. 1 Conceptos previos @13
+- Define population, sample and statistical unit
+- Classify variables (qualitative, quantitative, discrete, continuous)
+- Build frequency tables and graphs
+# Descriptive measures
+S BIOEST !Cap. 2 Medidas descriptivas @39
+- Calculate measures of central tendency and dispersion
+- Calculate quartiles and percentiles
+- Describe skewness and kurtosis
+# Bivariate variables - correlation and regression
+S BIOEST !Cap. 3 Variables bidimensionales @73
+- Build contingency tables
+- Calculate and interpret the correlation coefficient
+- Fit and interpret a simple linear regression
+
+## Probability
+# Probability
+S BIOEST !Cap. 4 Cálculo de probabilidades y variables aleatorias @99
+- Apply the rules of probability and Bayes' theorem
+- Calculate sensitivity, specificity and predictive values
+# Random variables
+S BIOEST !Cap. 5 Variables aleatorias @123
+- Define discrete and continuous random variables
+- Calculate expected value and variance
+# Probability distributions
+S BIOEST !Cap. 6 Principales leyes de distribución de variables aleatorias @131
+- Describe the binomial, Poisson and normal distributions
+- Use the standard normal distribution
+- Describe the t, chi-square and F distributions
+
+## Inference
+# Introduction to inference and sampling
+S BIOEST !Cap. 7 Introducción a la inferencia @163
+- Describe sampling methods
+- Explain sampling distributions and the central limit theorem
+# Confidence intervals
+S BIOEST !Cap. 8 Estimación confidencial @175
+- Calculate confidence intervals for means and proportions
+- Estimate sample size
+# Hypothesis testing
+S BIOEST !Cap. 9 Contrastes de hipótesis @203
+- Define null and alternative hypotheses, type I and II errors and power
+- Interpret p-values
+- Apply t-tests for one and two samples
+# Chi-square tests
+S BIOEST !Cap. 10 Contrastes basados en el estadístico Ji-Cuadrado @255
+- Apply chi-square tests of independence and goodness of fit
+- Know when to use Fisher's exact test
+# Analysis of variance
+S BIOEST !Cap. 11 Análisis de la varianza @283
+- Apply one-way ANOVA
+- Interpret post hoc comparisons
+# Non-parametric tests
+S BIOEST !Cap. 12 Contrastes no paramétricos @305
+- Choose non-parametric tests (Mann-Whitney, Wilcoxon, Kruskal-Wallis)
+- Decide between parametric and non-parametric methods
+
+## Evidence-based medicine
+# Evidence-based medicine and critical appraisal
+S TRAUMA Appendix 1 Evidence-Based Medicine
+S CRIT 7 Interpreting and Applying Evidence
+- Describe levels of evidence and study designs
+- Critically appraise a clinical article
+- Interpret relative risk, odds ratio and number needed to treat
+# Clinical trial methodology
+S HNC 43: Phase I Study Methodology
+- Describe the phases of clinical trials
+- Describe phase I trial design

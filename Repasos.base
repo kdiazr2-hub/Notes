@@ -1,0 +1,66 @@
+filters:
+  and:
+    - tipo == "sesion"
+formulas:
+  dias_restantes: (date(proximo_repaso) - today()).days
+views:
+  - type: table
+    name: Toca hoy
+    filters:
+      and:
+        - file.hasProperty("proximo_repaso")
+        - date(proximo_repaso) <= today()
+    order:
+      - file.name
+      - area
+      - modulo
+      - proximo_repaso
+      - ultimo_repaso
+      - repasos
+    sort:
+      - property: proximo_repaso
+        direction: ASC
+  - type: table
+    name: Próximos 7 días
+    filters:
+      and:
+        - file.hasProperty("proximo_repaso")
+        - date(proximo_repaso) > today()
+        - date(proximo_repaso) <= today() + "7d"
+    order:
+      - file.name
+      - area
+      - proximo_repaso
+      - formula.dias_restantes
+      - repasos
+    sort:
+      - property: proximo_repaso
+        direction: ASC
+  - type: table
+    name: Todas programadas
+    filters:
+      and:
+        - file.hasProperty("proximo_repaso")
+    order:
+      - file.name
+      - area
+      - estado
+      - ultimo_estudio
+      - proximo_repaso
+      - repasos
+    sort:
+      - property: proximo_repaso
+        direction: ASC
+  - type: table
+    name: En curso
+    filters:
+      and:
+        - estado == "en curso"
+    order:
+      - file.name
+      - area
+      - modulo
+      - ultimo_estudio
+    sort:
+      - property: ultimo_estudio
+        direction: DESC

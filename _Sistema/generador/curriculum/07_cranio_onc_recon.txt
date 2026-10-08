@@ -1,0 +1,674 @@
+@AREA 17 | Craniofacial Surgery | craniofacial
+@BOOKS CFM_TCS, CSO, APERT, GORLIN, SKULLBASE, POSNICK, GLOBAL
+
+## Syndromology
+# Approach to syndromes - deformations, disruptions and teratogens
+S GORLIN 1. Deformations
+S GORLIN 2. Teratogenic
+- Distinguish malformation, deformation, disruption and dysplasia
+- Describe the main teratogens (retinoids, alcohol, anticonvulsants)
+# Chromosomal syndromes
+S GORLIN 3. Chromosomal Syndromes: Common
+S GORLIN 4. Chromosomal Syndromes: Unusual
+- Describe trisomy 21, 22q11.2 deletion and other chromosomal syndromes
+# Metabolic disorders and skeletal dysplasias
+S GORLIN 5. Metabolic
+S GORLIN 6. Syndromes Affecting Bone: The Osteogenesis
+S GORLIN 7. Syndromes Affecting Bone: Chondrodysplasias
+S GORLIN 8. Syndromes Affecting Bone: Craniotubular
+S GORLIN 9. Syndromes Affecting Bone: Other
+- Describe craniofacial features of metabolic diseases and skeletal dysplasias
+# Short stature and overgrowth syndromes
+S GORLIN 10. Proportionate
+S GORLIN 11. Overgrowth
+- Describe Beckwith-Wiedemann and other overgrowth syndromes
+# Hamartoneoplastic and skin syndromes
+S GORLIN 12. Hamartoneoplastic
+S GORLIN 13. Syndromes Affecting the Skin
+- Describe neurofibromatosis, Gorlin-Goltz and other hamartoneoplastic syndromes
+# CNS, contracture and unusual facies syndromes
+S GORLIN 17. Syndromes Affecting the Central
+S GORLIN 18. Syndromes with Contractures
+S GORLIN 24. Syndromes with Unusual Facies: Well
+S GORLIN 25. Syndromes with Unusual Facies: Other
+- Recognize the facial gestalt of common syndromes (e.g., Williams, Noonan)
+# Branchial arch and oral-acral disorders
+S GORLIN 19. Branchial Arch
+- Describe oculo-auriculo-vertebral spectrum, Treacher Collins, Nager and Townes-Brocks
+- Describe oral-acral syndromes (e.g., Möbius)
+# Orofacial clefting syndromes
+S GORLIN 20. Orofacial Clefting Syndromes: General
+S GORLIN 21. Orofacial Clefting Syndromes: Common
+S GORLIN 22. Orofacial Clefting Syndromes: Other
+S GORLIN 23. Orofacial Clefting Syndromes: Associations
+- Distinguish syndromic from non-syndromic clefts
+- Describe van der Woude, Stickler, 22q11.2 deletion and other clefting syndromes
+# Syndromes with dental, periodontal and ocular findings
+S GORLIN 26. Syndromes with Gingival
+S GORLIN 27. Syndromes with Unusual Dental
+S GORLIN 30. Syndromes of the Eye
+- Recognize syndromes through dental and ocular findings
+# Abnormal craniofacial contour and miscellaneous syndromes
+S GORLIN 16. Syndromes of Abnormal Craniofacial Contour
+S GORLIN 28. Well-Known Miscellaneous
+S GORLIN 29. Other Miscellaneous
+- Describe syndromes of abnormal craniofacial contour and other notable syndromes
+
+## Craniosynostosis - principles
+# History of craniosynostosis surgery
+S CSO 1. Historical Perspective
+- Describe the evolution of techniques and controversies
+> Calvaria and cranial sutures
+> Genetics of craniosynostosis
+# Neurocranial growth in craniosynostosis
+S CSO 4. Craniofacial Anomalies and Neurocognitive
+S CSO 5. Neurocranial Growth
+- Describe how synostosis alters neurocranial growth
+- Describe neurocognitive findings in FGFR mouse models
+# Clinical and antenatal diagnosis of craniosynostosis
+S CSO 6. Clinical Diagnosis
+S CSO 20. Antenatal Diagnosis
+- Distinguish synostosis from positional plagiocephaly
+- Describe antenatal diagnosis
+# Indications for surgery and controversies
+S CSO 14. Controversies
+- Discuss functional versus aesthetic indications and timing
+# Raised intracranial pressure, CSF and venous anomalies
+S CSO 15. Ventricular and Pericerebral
+S CSO 16. Craniocerebral Disproportion
+S CSO 17. Non-invasive Assessment
+S CSO 18. Venous Anomalies
+- Describe the causes and detection of raised ICP (papilledema, OCT, monitoring)
+- Describe venous outflow anomalies in syndromic synostosis
+# Chiari malformation and syringomyelia
+S CSO 19. Cerebellar Tonsils
+S CSO 50. Foramen Magnum
+- Describe tonsillar herniation in craniosynostosis
+- Indicate foramen magnum decompression
+# Hydrocephalus in craniosynostosis
+S CSO 35. Hydrocephalus and Craniosynostosis
+S CSO 36. Management of Hydrocephalus
+- Describe the association and its management
+# The multidisciplinary craniofacial team
+S CSO 22. ENT and Craniosynostosis
+S CSO 26. The Role of a Psychologist
+- Describe ENT, airway and psychological care in craniosynostosis
+# Anesthesia, hemostasis and transfusion in craniofacial surgery
+S CSO 29. Craniosynostosis: Anesthetic
+S CSO 30. Hemostasis and Transfusion
+- Describe anesthetic considerations and blood loss reduction (tranexamic acid)
+- Recognize venous air embolism
+# 3D technology and models in craniofacial surgery
+S CSO 27. The Role of 3D
+S CSO 28. 3D Models
+- Describe 3D printing and planning in craniofacial surgery
+
+## Non-syndromic craniosynostosis
+# Sagittal synostosis
+S CSO 7. Sagittal Suture Synostosis: Key Points
+S CSO 38. Sagittal Suture Synostosis: Endoscopic
+S CSO 39. Sagittal Suture Synostosis: Open Vault
+S CSO 40. Sagittal Suture Synostosis: Distraction
+S CSO 41. Spring-Mediated
+S CSO 42. Sagittal Suture Synostosis: Surgical Technique in Older
+- Describe the scaphocephaly phenotype
+- Compare endoscopic strip craniectomy, springs, distraction and open vault remodeling by age
+# Metopic synostosis
+S CSO 8. Key Points for the Neurosurgeons and Management
+S CSO 43. Metopic Suture Synostosis: Endoscopic
+S CSO 44. Metopic Suture Synostosis: Open Vault
+- Describe trigonocephaly and its severity grading
+- Describe fronto-orbital advancement for metopic synostosis
+# Unicoronal synostosis
+S CSO 9. Unilateral Coronal
+S CSO 45. Unicoronal Suture Synostosis: Endoscopic
+S CSO 46. Unicoronal Suture Synostosis: Open Vault
+- Describe anterior plagiocephaly and its orbital findings
+- Describe treatment options
+# Bicoronal synostosis
+S CSO 47. Bicoronal
+- Describe brachycephaly and its syndromic associations
+# Lambdoid and bilambdoid synostosis
+S CSO 10. Lambdoid Sutures Synostosis
+S CSO 11. Bilambdoid
+S CSO 48. Lambdoid Suture Synostosis: Endoscopic
+S CSO 49. Lambdoid Suture Synostosis: Open Vault
+- Distinguish lambdoid synostosis from positional plagiocephaly
+- Describe its surgical management
+# Oxycephaly and multisuture synostosis
+S CSO 12. Oxycephaly
+S CSO 13. Multiple Sutures
+- Describe pansynostosis and its risk of raised ICP
+# Endoscopic and vault remodeling techniques
+S CSO 31. Principles and Techniques of Endoscopic
+S CSO 32. Principles and Technique of Anterior Vault
+S CSO 33. Principles and Techniques of Posterior Vault
+S CSO 34. Technical Tips
+- Describe endoscopic, anterior and posterior vault remodeling techniques
+- Describe tips for older children
+# Postoperative care, complications and long-term outcomes
+S CSO 23. Complications and Long-Term
+S CSO 37. Postoperative Management
+S CSO 51. Evaluation Tools
+S CSO 53. Quality of Life
+S CSO 54. Long Follow-Up
+- Describe postoperative management and complications
+- Describe outcome and quality-of-life assessment
+
+## Syndromic craniosynostosis
+# Syndromic craniosynostosis - Crouzon, Pfeiffer, Muenke and Saethre-Chotzen
+S CSO 24. Syndromic Craniosynostosis
+S GORLIN 14. Syndromes with Craniosynostosis: General
+S GORLIN 15. Syndromes with Craniosynostosis: Miscellaneous
+S POSNICK 30 Syndromes with Craniosynostosis
+- Describe the phenotype and genetics of each syndrome
+- Describe the staged treatment protocol (vault, midface, orthognathic)
+# Apert syndrome - history, anatomy and diagnosis
+S APERT 1: Introduction
+S APERT 2: Eugène Apert
+S APERT 3: Head and Neck and Extremity
+S APERT 6: Diagnosis and Imaging
+- Describe the craniofacial and limb features of Apert syndrome
+- Describe its diagnosis and imaging
+# Apert syndrome - perioperative, airway and ophthalmic care
+S APERT 7: Perioperative
+S APERT 8: Ophthalmic Evaluation
+S APERT 9: Surgery on the Eyes
+S APERT 13: Airway Assessment
+- Describe airway obstruction and its management
+- Describe exorbitism and corneal protection
+# Apert syndrome - otologic, cleft palate and orthodontic care
+S APERT 10: Otologic
+S APERT 11: Cleft Palate
+S APERT 12: Orthodontic Care
+- Describe hearing loss, cleft palate and dental anomalies in Apert syndrome
+# Early cranial vault surgery in syndromic craniosynostosis
+S APERT 14: Neurosurgical Considerations
+S APERT 15: Early Surgery
+S APERT 16: Management of the Posterior Vault
+- Describe endoscopic strip craniectomy and posterior vault distraction
+# Fronto-orbital advancement and Le Fort III
+S APERT 17: Two-Stage Strategy
+S APERT 24: Le Fort III Distraction
+- Describe fronto-orbital advancement
+- Describe Le Fort III advancement and distraction
+# Monobloc advancement with distraction
+S APERT 18: Monobloc Advancement with Internal
+S APERT 19: Monobloc Advancement with External
+S APERT 20: Midface Management
+- Compare monobloc with internal and external distraction
+- Describe the role of Le Fort II with monobloc
+# Hypertelorism correction - facial bipartition and box osteotomy
+S APERT 21: Hypertelorism Correction: Monobloc
+S APERT 22: Hypertelorism Correction: Box
+S APERT 23: Segmental Subcranial
+- Measure hypertelorism
+- Compare facial bipartition and box osteotomy
+# Orthognathic surgery and aesthetic refinements in syndromic patients
+S APERT 25: Orthognathic Surgery I
+S APERT 26: Orthognathic Surgery II
+S APERT 28: Aesthetic Refinements
+S APERT 29: Aesthetic Refinements During
+- Plan skeletal maturity orthognathic surgery in syndromic patients
+- Describe soft tissue and skeletal refinements
+# Apert hand and foot
+S APERT 31: Surgical Treatment of the Apert Hand
+S APERT 32: Management of the Apert Foot
+- Describe syndactyly classification and surgical release
+# Neurocognitive, psychosocial and economic aspects of syndromic craniosynostosis
+S APERT 33: Neurocognitive
+S APERT 34: Social and Psychological
+S APERT 35: Living with Apert
+S APERT 36: Caring for a Child
+S APERT 37: Economic Considerations
+S APERT 38: Global Health
+- Describe neurocognitive outcomes and family support
+- Discuss economic and global health aspects
+# Innovations in craniofacial surgery
+S APERT 30: Innovations
+- Describe emerging technologies in craniofacial surgery
+
+## Craniofacial microsomia
+# Craniofacial microsomia - etiology, anatomy and classification
+S CFM_TCS Chapter 1:
+- Describe theories of etiology
+- Classify CFM (OMENS, Pruzansky-Kaban)
+> Pharyngeal arches
+# Craniofacial microsomia - initial evaluation and function
+S CFM_TCS Chapter 2:
+S CFM_TCS Chapter 3:
+- Perform the initial evaluation
+- Assess breathing, feeding, swallowing and speech
+# Craniofacial microsomia - extracraniofacial manifestations
+S CFM_TCS Chapter 4:
+- Describe vertebral, cardiac and renal anomalies in CFM
+# Craniofacial microsomia - mandibular deformity in the growing patient
+S CFM_TCS Chapter 5:
+- Discuss early intervention: distraction versus costochondral graft
+# Craniofacial microsomia - TMJ malformation
+S CFM_TCS Chapter 6:
+- Describe surgical management of the absent or malformed TMJ
+# Craniofacial microsomia - definitive maxillomandibular reconstruction
+S CFM_TCS Chapter 7:
+S CFM_TCS Chapter 8:
+S POSNICK 28 Hemifacial Microsomia
+- Plan definitive orthognathic correction
+- Describe orthodontic considerations
+# Hearing loss in craniofacial microsomia and Treacher Collins syndrome
+S CFM_TCS Chapter 9:
+S CFM_TCS Chapter 23:
+- Describe conductive hearing loss and bone-anchored hearing devices
+# Microtia and ear reconstruction
+S CFM_TCS Chapter 10:
+S CFM_TCS Chapter 24:
+- Classify microtia
+- Describe autologous costal cartilage reconstruction (Brent, Nagata) and alloplastic options
+- Describe ear prostheses
+> Development of the orbit, eye and ear
+# Craniofacial microsomia - soft tissue correction and facial reanimation
+S CFM_TCS Chapter 11:
+- Describe fat grafting and free tissue transfer for soft tissue deficiency
+- Describe facial reanimation
+# Craniofacial microsomia - treatment overview
+S CFM_TCS Chapter 12:
+- Summarize the age-based treatment plan
+
+## Treacher Collins syndrome
+# Treacher Collins syndrome - etiology and anatomy
+S CFM_TCS Chapter 13:
+- Describe the genetics (TCOF1, POLR1C, POLR1D) and phenotype
+# Treacher Collins syndrome - evaluation, airway, feeding and systemic issues
+S CFM_TCS Chapter 14:
+S CFM_TCS Chapter 15:
+S CFM_TCS Chapter 16:
+- Assess airway obstruction and feeding problems
+- Describe associated systemic conditions
+# Treacher Collins syndrome - coloboma and eyelid reconstruction
+S CFM_TCS Chapter 17:
+- Describe lower eyelid coloboma reconstruction
+# Treacher Collins syndrome - orbitozygomatic reconstruction
+S CFM_TCS Chapter 18:
+- Describe zygomatic reconstruction with grafts and implants
+# Treacher Collins syndrome - mandibular deformity in growing patients
+S CFM_TCS Chapter 19:
+- Describe mandibular distraction for airway and growth
+# Treacher Collins syndrome - definitive maxillomandibular correction
+S CFM_TCS Chapter 21:
+S CFM_TCS Chapter 22:
+S POSNICK 27 Treacher Collins
+- Plan counterclockwise rotation of the maxillomandibular complex
+- Describe orthodontic management
+# Treacher Collins syndrome - rhinoplasty and treatment overview
+S CFM_TCS Chapter 25:
+S CFM_TCS Chapter 26:
+- Summarize the treatment timeline in Treacher Collins syndrome
+
+## Other craniofacial malformations
+# Lateral and rare craniofacial clefts
+S GLOBAL 24: Lateral and Rare
+- Apply the Tessier classification
+- Describe the management of rare facial clefts
+# Binder syndrome and other complex malformations
+S POSNICK 29 Binder Syndrome
+S POSNICK 31 Selected Complex Malformations
+- Describe maxillonasal dysplasia and its treatment
+> Pierre Robin sequence and airway management
+
+## Skull base and craniofacial approaches
+# Neurosurgical instruments and subfrontal approaches
+S SKULLBASE 1 Instruments
+S SKULLBASE 2 Subfrontal
+S SKULLBASE 3 Supraorbital
+- Describe the bicoronal, subfrontal and supraorbital eyebrow approaches
+# Frontotemporal and orbitozygomatic approaches
+S SKULLBASE 4 Frontotemporal
+S SKULLBASE 5 Orbitozygomatic
+- Describe the pterional and orbitozygomatic approaches
+# Subtemporal, middle fossa and petrosal approaches
+S SKULLBASE 7 Subtemporal
+S SKULLBASE 11 Middle Cranial Fossa
+S SKULLBASE 12 Translabyrinthine
+- Describe lateral skull base approaches
+# Posterior fossa and craniocervical approaches
+S SKULLBASE 6 Transcallosal
+S SKULLBASE 8 Suboccipital Lateral Approaches (Presigmoid)
+S SKULLBASE 9 Suboccipital Lateral Approaches (Retrosigmoid)
+S SKULLBASE 10 Suboccipital Median
+S SKULLBASE 13 Dorsolateral
+- Describe suboccipital and craniocervical approaches
+# Endoscopic transsphenoidal and expanded endonasal approaches
+S SKULLBASE 14Transsphenoidal
+S SKULLBASE 15 Endonasal Endoscope
+S SKULLBASE 16 Transsphenoidal Approaches: Microscopic
+S SKULLBASE 17 Expanded Endoscopic
+- Describe endoscopic endonasal access to the skull base
+- Describe nasoseptal flap reconstruction
+# Orbital approaches
+S SKULLBASE 18 Orbital Approaches
+- Describe transconjunctival, subciliary, transcaruncular and lateral orbitotomy approaches
+# Transoral and transmandibular approaches
+S SKULLBASE 19 Transoral
+S SKULLBASE 22 Transmandibular
+- Describe transoral and mandibulotomy approaches to the skull base
+# Midfacial approaches and facial translocation
+S SKULLBASE 20 Midfacial Approaches
+S SKULLBASE 21 Midfacial Translocation
+- Describe Le Fort I, midfacial degloving and facial translocation approaches
+# Anterior cranial base reconstruction
+S SKULLBASE 23 Anterior Cranial Base
+- Describe pericranial flap and other skull base reconstruction techniques
+
+@AREA 18 | Head and Neck Oncology | oncology
+@BOOKS HNC, FLAPS
+
+## Tumor biology
+# Epidemiology and etiology of head and neck cancer
+S HNC 1: Epidemiology
+- Describe the global epidemiology of head and neck cancer
+- Describe risk factors (tobacco, alcohol, areca nut, HPV)
+# Prevention and precancerous lesions
+S HNC 2: Head and Neck Cancer Prevention
+- Describe the natural history of oral precancer
+- Describe chemoprevention and HPV vaccination
+> Oral potentially malignant disorders
+# Cellular and molecular pathology of head and neck tumors
+S HNC 3: Cellular and Molecular
+- Describe squamous carcinogenesis and adverse pathologic features (perineural invasion, depth of invasion, ENE)
+# Genetics, epigenetics and oncogenomics
+S HNC 4: Oncogenomics
+S HNC 5: Genetics and Epigenetics
+- Describe the genetic progression model of HNSCC
+- Describe the main mutations (TP53, CDKN2A, PIK3CA, NOTCH1)
+# Tumor immunology and immunotherapy
+S HNC 6: Immunology
+- Describe immune escape in head and neck cancer
+- Describe immune checkpoint inhibitors
+# Biomarkers, HPV and EBV
+S HNC 7: Biomarkers
+S HNC 8: HPV and EBV
+- Describe p16 and HPV testing
+- Compare HPV-positive and HPV-negative oropharyngeal cancer
+- Describe EBV in nasopharyngeal carcinoma
+# Hypoxia, preclinical models and translational research
+S HNC 10: Preclinical
+S HNC 11: Translational
+S HNC 12: Hypoxia
+- Describe the clinical relevance of tumor hypoxia
+- Describe preclinical models and translational research
+
+## Diagnosis and staging
+# Staging and prognosis of head and neck cancer
+S HNC 9: Head and Neck Cancer Staging
+- Apply the AJCC/UICC TNM staging (including depth of invasion and ENE)
+- Describe prognostic factors
+> Imaging of head and neck cancer
+# Sentinel node biopsy
+S HNC 15: Sentinel Node
+- Indicate sentinel node biopsy in early oral cancer
+- Describe the technique
+
+## Treatment modalities
+# Radiotherapy - IMRT, stereotactic and proton therapy
+S HNC 16: Intensity-Modulated
+S HNC 17: Stereotactic
+S HNC 18: Proton Beam
+- Describe radiotherapy principles and fractionation
+- Compare IMRT, SBRT and proton therapy
+# Systemic chemotherapy
+S HNC 19: Principles of Systemic
+- Describe induction, concurrent and palliative chemotherapy
+> Cancer chemotherapy
+# Molecular targeted therapies
+S HNC 20: Molecular Targeted
+- Describe cetuximab and other targeted agents
+# Laser and transoral robotic surgery
+S HNC 21: Laser Endoscopic
+S HNC 22: Transoral Robotic
+- Indicate transoral laser and robotic surgery
+# Principles of surgical reconstruction
+S HNC 32: Principles and New Approaches
+- Describe the reconstructive ladder in head and neck oncology
+> Head and neck reconstruction
+# Management of the neck
+S HNC 33: Multidisciplinary Treatment of the Neck
+- Classify neck dissections
+- Indicate elective and therapeutic neck dissection
+# Adjuvant treatment of high-risk resected disease
+S HNC 34: Postoperative Management
+- Indicate postoperative radiotherapy and chemoradiotherapy
+# Unresectable disease
+S HNC 35: Multidisciplinary Approach of Unresectable
+- Define unresectability and describe its treatment
+# Recurrent and metastatic disease
+S HNC 42: Systemic Treatment of Recurrent
+- Describe systemic options for recurrent/metastatic HNSCC
+# Salvage therapy
+S HNC 48: Salvage Therapy
+- Describe salvage surgery and re-irradiation
+
+## Disease sites
+# Oral cavity and maxillary sinus cancer
+S HNC 24: Multidisciplinary Management of Oral Cavity
+S HNC 25: Oral Oncology
+- Describe the management of oral cavity cancer by subsite
+- Describe margins and mandibular resection (marginal versus segmental)
+- Describe maxillectomy and maxillary sinus cancer management
+# Skull base tumors
+S HNC 23: Multidisciplinary Management of Skull Base
+- Describe the management of sinonasal and skull base tumors
+# Nasopharyngeal carcinoma
+S HNC 26: Management of Nasopharyngeal
+- Describe the staging and chemoradiotherapy of nasopharyngeal carcinoma
+# Oropharyngeal carcinoma
+S HNC 27: Multidisciplinary Management of Oropharynx
+- Describe treatment of HPV-positive and HPV-negative oropharyngeal cancer
+# Hypopharyngeal carcinoma
+S HNC 28: Multidisciplinary Management of Hypopharyngeal
+- Describe the management of hypopharyngeal cancer
+# Laryngeal cancer and organ preservation
+S HNC 29: Cancers of the Larynx
+S HNC 30: Diagnosis and Multidisciplinary Treatment of Laryngeal
+S HNC 31: Programs of Organ
+- Describe early and advanced laryngeal cancer treatment
+- Describe organ preservation protocols
+# Salivary gland cancer
+S HNC 36: Management of Salivary
+- Describe the surgical and adjuvant management of salivary gland cancer
+# Mucosal and cutaneous melanoma of the head and neck
+S HNC 37: Primary Mucosal Melanomas
+S HNC 38: Head and Neck Cutaneous Melanoma
+- Describe the management of mucosal and cutaneous melanoma
+# Cervical metastases from an unknown primary
+S HNC 39: Cervical Lymph Node Metastases
+- Describe the work-up and treatment of the unknown primary
+# Thyroid and parathyroid cancer
+S HNC 40: The Management of Thyroid
+- Describe the types and management of thyroid cancer
+# Head and neck paragangliomas
+S HNC 41: Head and Neck Paragangliomas
+- Classify and manage carotid body and vagal paragangliomas
+
+## Survivorship and special populations
+# The elderly head and neck cancer patient
+S HNC 44: Treatment of the Elderly
+- Adapt treatment to older patients (geriatric assessment)
+# Normal tissue complications and their management
+S HNC 45: Normal Tissue Complications
+S HNC 46: Advances in Management of Complications
+- Describe mucositis, xerostomia, trismus and osteoradionecrosis
+- Describe their prevention and management
+# Rehabilitation after head and neck cancer
+S HNC 47: Rehabilitation
+- Describe speech, swallowing and dental rehabilitation
+# Quality of life and psycho-oncology
+S HNC 49: Quality of Life
+S HNC 50: Psycho-oncologic
+- Describe quality-of-life measures and psychological support
+# Nanomedicine and quality assurance in head and neck oncology
+S HNC 51: Advances in Nanomedicine
+S HNC 52: Head and Neck Quality Assurance
+- Describe nanomedicine applications and quality assurance in radiotherapy
+
+@AREA 19 | Reconstructive Surgery | reconstructive
+@BOOKS FLAPS
+
+## Principles
+# Problem analysis and classification of flaps
+S FLAPS 1 Problem Analysis
+S FLAPS 2 Classification of Flaps
+- Analyze a defect and apply the reconstructive ladder
+- Classify flaps by blood supply, composition and movement
+# Flap selection
+S FLAPS 3 Considerations in Flap Selection
+- Choose a flap according to defect, donor site and patient factors
+# Emerging technology, prefabrication and tissue engineering
+S FLAPS 4 Emerging Technology
+S FLAPS 5 Prefabrication
+S FLAPS 6 Tissue Engineering
+S FLAPS 9 Robotic Applications
+- Describe flap prefabrication and prelamination
+- Describe tissue engineering and robotics in reconstruction
+# Lipofilling and lymphedema surgery
+S FLAPS 7 Percutaneous Aponeurotomy
+S FLAPS 8 Lymphedema
+- Describe fat grafting principles
+- Describe surgical treatment of lymphedema
+# Recipient vessels in the trunk and extremities
+S FLAPS 11 Clinical Anatomy and Recipient Vessel Selection in the Chest
+S FLAPS 12 Clinical Anatomy and Recipient Vessel Selection in the Upper
+S FLAPS 13 Clinical Anatomy and Recipient Vessel Selection and Exposure
+- Describe recipient vessel options outside the head and neck
+> Recipient vessels for microvascular head and neck reconstruction
+> External carotid artery and its branches
+
+## Microsurgery
+# Microsurgical techniques - nerves and vessels
+S FLAPS 24 Nerves
+S FLAPS 25 Vessels
+- Describe microvascular anastomosis (end-to-end, end-to-side, couplers)
+- Describe nerve repair and grafting
+# Flap thinning and avoiding complications
+S FLAPS 26 Thinning
+S FLAPS 27 Avoiding Complications
+- Describe flap thinning and tailoring
+- Prevent technical complications
+# Flap monitoring, re-exploration and salvage
+S FLAPS 28 Flap Re-exploration
+S FLAPS 29 Postoperative Care
+- Monitor free flaps clinically and with devices
+- Recognize venous and arterial compromise and indicate re-exploration
+# Reconstructive options after flap failure
+S FLAPS 30 Reconstructive Options
+- Plan salvage reconstruction after flap loss
+
+## Regional reconstruction
+# Head and neck reconstruction
+S FLAPS 14 Head and Neck Reconstruction
+- Choose reconstruction for oral cavity, mandible, maxilla, pharynx and skin defects
+- Describe the principles of virtual planning in jaw reconstruction
+# Facial reanimation
+S FLAPS 15 Facial Reanimation
+- Describe static and dynamic reanimation
+- Describe cross-face nerve grafts, nerve transfers and free gracilis transfer
+# Breast, chest and back reconstruction
+S FLAPS 16 Breast Reconstruction
+S FLAPS 17 Chest and Back
+- Describe the main options in breast, chest wall and back reconstruction
+# Abdominal wall and pelvic reconstruction
+S FLAPS 18 Abdominal Wall
+S FLAPS 19 Pelvic and Urogenital
+- Describe abdominal wall and pelvic reconstruction
+# Upper extremity and brachial plexus reconstruction
+S FLAPS 20 Upper Extremity Reconstruction
+S FLAPS 21 Adult Brachial Plexus
+- Describe upper extremity coverage and brachial plexus reconstruction
+# Lower extremity reconstruction
+S FLAPS 22 Lower Extremity Reconstruction
+- Describe lower extremity reconstruction by zone
+# Functional muscle transfers
+S FLAPS 23 Functional Muscle Transfers
+- Describe functional free muscle transfer
+
+## Workhorse flaps for the head and neck
+# Local flaps of the head and neck
+S FLAPS 31 Local Flaps in the Head
+- Describe advancement, rotation, transposition and interpolation flaps
+- Describe forehead and nasolabial flaps
+# Temporoparietal fascia flap
+S FLAPS 32 Temporoparietal
+- Describe the anatomy and uses of the temporoparietal fascia flap
+# Supraclavicular, pectoralis major and deltopectoral flaps
+S FLAPS 33 Supraclavicular
+S FLAPS 34 Pectoralis Major
+S FLAPS 35 Deltopectoral
+- Describe the anatomy and harvest of the main pedicled chest flaps
+- Choose pedicled flaps for head and neck salvage
+# Radial forearm and lateral arm flaps
+S FLAPS 46 Lateral Arm
+S FLAPS 47 Radial Forearm
+- Describe the anatomy and harvest of the radial forearm flap and the Allen test
+- Describe the lateral arm flap
+# Fibula flap
+S FLAPS 52 Fibula Flap
+- Describe the anatomy and harvest of the fibula flap
+- Describe osteotomies for mandibular and maxillary reconstruction
+# Anterolateral thigh and tensor fascia lata flaps
+S FLAPS 59 Anterolateral
+S FLAPS 60 Tensor Fascia
+- Describe perforator anatomy and harvest of the ALT flap
+# Scapular, parascapular and latissimus dorsi flaps
+S FLAPS 39 Trapezius
+S FLAPS 40 Scapular
+S FLAPS 41 Latissimus Dorsi
+- Describe the subscapular system and its chimeric flaps
+- Describe the trapezius and latissimus dorsi flaps
+# Iliac crest flap
+S FLAPS 42 Iliac Flap
+- Describe the deep circumflex iliac artery flap for jaw reconstruction
+# Rectus abdominis, jejunum and omentum flaps
+S FLAPS 36 Omentum
+S FLAPS 37 Rectus Abdominis
+S FLAPS 38 Jejunum
+- Describe the rectus abdominis flap for large defects
+- Describe jejunum and omentum for pharyngeal and skull base reconstruction
+# Gracilis and medial femoral condyle flaps
+S FLAPS 49 Gracilis
+S FLAPS 55 Medial Femoral
+- Describe the gracilis flap for facial reanimation
+- Describe the medial femoral condyle flap
+
+## Other workhorse flaps
+# Trunk perforator flaps
+S FLAPS 56 Perforator Flaps in the Lateral Thoracic
+S FLAPS 57 Deep and Superficial Inferior
+S FLAPS 58 Superior and Inferior Gluteal
+S FLAPS 43 Groin Flap
+S FLAPS 44 Gluteus Flap
+- Describe DIEP, SIEA, gluteal, groin and SCIP flaps
+# Lower extremity local flaps
+S FLAPS 48 Local Flaps in the Foot
+S FLAPS 50 Gastrocnemius
+S FLAPS 51 Soleus
+S FLAPS 53 Glabrous Skin
+S FLAPS 54 Toe Flaps
+- Describe gastrocnemius, soleus, foot and toe flaps
+# Pedicled flaps of the hand
+S FLAPS 45 Pedicled Flaps of the Hand
+- Describe the main pedicled flaps of the hand
+# Posterior tibial artery perforator and free-style flaps
+S FLAPS 61 Posterior Tibial
+S FLAPS 62 Free-style
+- Describe free-style perforator flap harvest
+
+## Reconstructive transplantation
+# Reconstructive transplantation - program, immunology and nerve allografts
+S FLAPS 63 Starting a Reconstructive
+S FLAPS 67 Immunology and Research
+S FLAPS 68 Peripheral Nerve
+- Describe vascularized composite allotransplantation immunology
+- Describe the requirements of a transplant program
+# Hand, larynx, abdominal wall and uterus transplantation
+S FLAPS 65 Hand and Upper Extremity
+S FLAPS 66 Laryngeal
+- Describe the indications and outcomes of these transplants
+> Face transplantation

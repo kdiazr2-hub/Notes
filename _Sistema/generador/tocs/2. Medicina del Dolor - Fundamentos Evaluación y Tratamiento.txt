@@ -1,0 +1,70 @@
+PAGES 546
+Medicina del Dolor Fundamentos, Evaluación y Tratamiento  [p?]
+Preliminar  [p3]
+Título  [p4]
+Página legal  [p5]
+Índice de autores  [p7]
+Prólogo  [p11]
+Prefacio  [p13]
+Índice  [p15]
+ SECCIÓN 1 ÁREA DE CONOCIMIENTO DEL DOLOR.FUNDAMENTOS  [p19]
+  1 Principios generales, concepto de dolory taxonomía  [p21]
+  2 Epidemiología e impacto de los procesosdolorosos  [p27]
+  3 Bases estructurales y anatomía del dolor  [p39]
+  4 Neurobiología del dolor: mecanismosmoleculares periféricos y espinales  [p49]
+  5 Neurobiología del dolor: mecanismosmoleculares centrales y modulación del dolor  [p57]
+  6 Componentes del dolor  [p63]
+  7 Farmacogenética aplicada al dolor  [p69]
+SECCIÓN 2 ASPECTOS CLÍNICOS:EVALUACIÓN DEL DOLOR  [p79]
+  8 Tipos de dolor  [p81]
+  9 Historia clínica del dolor: anamnesisy exploración  [p89]
+  10 Evaluación del dolor  [p99]
+  11 Evaluación psicológica del dolor  [p109]
+SECCIÓN 3 TRATAMIENTO DEL DOLOR  [p117]
+  12 Principios generales en el tratamientodel dolor/evaluación de la respuesta  [p119]
+  SECCIÓN 3.1 TRATAMIENTOSFARMACOLÓGICOS  [p125]
+    13 Analgésicos simples y antiinflamatoriosno esteroideos  [p127]
+    14 Analgésicos opioides  [p139]
+    15 Dependencia y deshabituación de opioidesy otras sustancias  [p149]
+    16 Antidepresivos y antiepilépticos  [p161]
+    17 Fármacos coanalgésicos y coadyuvantes  [p167]
+    18 Tratamientos de acción tópica  [p175]
+  SECCIÓN 3.2 TRATAMIENTOSNO FARMACOLÓGICOS  [p187]
+    19 Rehabilitación, terapia físicay ejercicio terapéutico  [p189]
+    20 Acupuntura y otras terapiascomplementarias  [p197]
+    21 Técnicas de intervencióny tratamiento psicológico  [p207]
+  SECCIÓN 3.3 TÉCNICAS INTERVENCIONISTAS  [p215]
+    22 Principios generales de las técnicas intervencionistas. Bloqueos y radiofrecuencia,neuromodulación, cirugía  [p217]
+    23 Bloqueos y técnicas intervencionistasen cuello y cabeza  [p229]
+    24 Bloqueos y técnicas intervencionistasde nervios perifericos: tórax y abdomen  [p241]
+    25 Bloqueos y técnicas intervencionistasen nervios periféricos (MMSS y MMII)  [p257]
+    26 Bloqueos y técnicas intervencionistasespinales y del sistema nervioso simpático  [p269]
+    27 Bloqueos articulares y de tejidos blandos  [p277]
+    28 Técnicas intervencionistas ecoguiadas  [p291]
+    29 Neuromodulación: estimulación medulare infusión intratecal  [p307]
+SECCIÓN 4 SITUACIONES CLÍNICAS DE DOLOR  [p319]
+  30 Dolor neuropático periférico. Generalidades.Neuropatías y dolor radicular  [p321]
+  31 Dolor neuropático central  [p331]
+  32 Síndromes de dolor regional complejo  [p339]
+  33 Dolor craneofacial  [p349]
+  34 Dolor espinal y post-cirugía espinal  [p361]
+  35 Dolor articular y miofascial  [p373]
+  36 Fibromialgia  [p385]
+  37 Dolor oncológico  [p397]
+  38 Dolor visceral  [p403]
+  39 Dolor vascular  [p412]
+  40 Dolor agudo en urgencias y quemados  [p419]
+  41 Dolor agudo en el postoperatorio  [p427]
+  42 Dolor psicogéno  [p437]
+SECCIÓN 5 DOLOR EN SITUACIONESESPECIALES  [p445]
+  43 Dolor en el anciano  [p447]
+  44 Dolor en niños  [p457]
+  45 Dolor y comorbilidad: insuficiencia hepática,renal y respiratoria  [p467]
+  46 Dolor y embarazo  [p477]
+  47 Dolor en el paciente terminal/situaciones paliativas  [p485]
+  48 Síndromes dolorosos poco frecuentes  [p495]
+SECCIÓN 6 ORGANIZACIÓN EN EL ÁREA DEL DOLOR  [p503]
+  49 Unidades de dolor y criterios de derivación  [p505]
+  50 Investigación y docencia en el campo del dolor  [p513]
+Indice analítico  [p523]
+booksmedicos.org  [p523]

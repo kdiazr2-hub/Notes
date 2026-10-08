@@ -1,0 +1,411 @@
+@AREA 01 | Anatomy | anatomy
+@BOOKS GRAY, IWANAGA, IMAGING, CARSTENS, SKULLBASE, TMJD, ATLAS_ATM, FLAPS, SPERBER, BORON, DOLOR, AO, TRAUMA, HNC, POSNICK
+
+## Skull and osteology
+# Skull overview and cranial sutures
+S GRAY 8 Cráneo
+S IWANAGA Overview (Skull)
+S IWANAGA Sutures of the Skull
+- Identify the bones of the neurocranium and viscerocranium in all standard views
+- Name the cranial sutures, fontanelles and craniometric points
+- Describe the age-related closure of sutures and fontanelles
+# Individual skull bones and cervical vertebrae
+S GRAY 8 Cráneo
+S GRAY REGION DORSAL
+S IWANAGA Separate Bones
+S IWANAGA Cervical Vertebrae
+- Describe the surface features of the frontal, sphenoid, ethmoid, temporal, zygomatic, maxillary and mandibular bones
+- Identify muscle attachments relevant to surgical approaches and fixation
+- Describe the atlas, axis and craniocervical junction
+# Cranial base, cranial fossae and foramina
+S GRAY 8 Cavidad craneal
+S IMAGING Chapter 276. Skull Base Overview
+S IMAGING Jugular Foramen
+S CARSTENS 8: Developmental Anatomy of the Craniofacial Bones
+- Describe the anterior, middle and posterior cranial fossae and their boundaries
+- List the foramina of the skull base and the structures that pass through each
+- Describe the clivus, sella turcica and jugular foramen and their neurovascular relations
+# Facial skeleton, buttresses and the mandible
+S GRAY 8 Cráneo
+S AO 1.3. Fractures in the craniomaxillofacial
+S IMAGING Chapter 138. Mandible-Maxilla and TMJ Overview
+S IMAGING Chapter 311. Skull Base and Facial Trauma Overview
+- Describe the vertical and horizontal buttresses of the midface
+- Describe the regions of the mandible and its zones of strength and weakness
+- Relate skeletal architecture to fracture patterns and fixation
+# Temporomandibular joint anatomy and biomechanics
+S GRAY 8 Fosas temporal e infratemporal
+S IWANAGA 3.11
+S ATLAS_ATM 1- ANATOMIA
+S TMJD 3: Anatomy and Basic Biomechanics
+- Describe the articular surfaces, disc, capsule, ligaments and retrodiscal tissue
+- Describe the blood and nerve supply of the TMJ
+- Explain rotation and translation during mouth opening and the role of the masticatory muscles
+
+## Face, scalp and muscles
+# Superficial anatomy of the face
+S GRAY 8 Cara
+S IWANAGA 1: Anatomy of the Superficial Face
+S CARSTENS 11: Developmental Anatomy of Craniofacial Skin
+- Describe the layers of the facial soft tissue (skin, subcutaneous fat compartments, SMAS, retaining ligaments, deep fascia)
+- Locate the danger zones of the facial nerve branches
+- Relate facial soft tissue anatomy to incision planning and aging
+# Scalp and temporal region
+S GRAY 8 Cuero cabelludo
+S GRAY 8 Fosas temporal e infratemporal
+S CARSTENS 11: Developmental Anatomy of Craniofacial Skin
+S SKULLBASE 4 Frontotemporal
+- Describe the five layers of the scalp and its blood supply
+- Describe the temporal fascia layers, temporal fat pads and the course of the frontal branch of the facial nerve
+- Apply this anatomy to coronal and temporal approaches
+# Muscles of facial expression
+S GRAY 8 Cara
+S IWANAGA Related Mimetic Muscles
+S CARSTENS Second Arch Muscles of Facial Expression
+- Name the muscles of facial expression by region, with their actions and innervation
+- Describe the modiolus and the perioral and periorbital muscle groups
+- Relate facial muscle anatomy to facial palsy and reanimation
+# Muscles of mastication
+S GRAY 8 Fosas temporal e infratemporal
+S CARSTENS The First Pharyngeal Arch
+S IMAGING Chapter12. Masticator Space Overview
+- Describe the origin, insertion, action and innervation of the masseter, temporalis and pterygoid muscles
+- Describe the suprahyoid muscles and their role in mouth opening
+- Describe the masticator space and its contents
+
+## Oral cavity
+# Oral cavity surface anatomy and lips
+S GRAY 8 Cavidad oral
+S IWANAGA Surface Anatomy of the Oral Cavity
+S IWANAGA 3.10
+S IMAGING Chapter 121. Oral Cavity Overview
+- Describe the boundaries and subsites of the oral cavity and vestibule
+- Describe the layered anatomy and blood supply of the lips
+- Relate lip anatomy to lip reconstruction
+# Maxilla and maxillary sinus
+S GRAY 8 Cavidades nasales
+S IWANAGA Maxilla and Maxillary Sinus
+- Describe the anatomy of the maxilla and its relationship with teeth, orbit and nasal cavity
+- Describe the maxillary sinus walls, ostium, septa and neurovascular supply
+- Apply sinus anatomy to extractions, implants and osteotomies
+# Mandible - mental region and mandibular canal
+S GRAY 8 Fosas temporal e infratemporal
+S IWANAGA Mental Area
+S IWANAGA Mandibular Canal
+- Describe the course and variants of the inferior alveolar canal and mental foramen
+- Describe the anterior loop, incisive canal and lingual foramina
+- Identify anatomical risks to the inferior alveolar and mental nerves during surgery
+# Pterygomandibular space and retromolar area
+S GRAY 8 Fosas temporal e infratemporal
+S IWANAGA Pterygomandibular Space
+- Define the boundaries and contents of the pterygomandibular space
+- Apply the anatomy to the inferior alveolar nerve block and third molar surgery
+- Describe the position of the lingual nerve in the retromolar area
+# Palate
+S GRAY 8 Cavidad oral
+S IWANAGA 3.7
+- Describe the bony and muscular anatomy of the hard and soft palate
+- Describe the blood and nerve supply of the palate (greater palatine and nasopalatine)
+- Relate palatal anatomy to cleft palate repair and palatal flaps
+# Tongue
+S GRAY 8 Cavidad oral
+S IWANAGA 3.8
+S SPERBER Chapter 15:
+- Describe the intrinsic and extrinsic tongue muscles
+- Describe the motor, general sensory and taste innervation of the tongue
+- Describe the blood supply and lymphatic drainage of the tongue
+# Floor of the mouth - sublingual and submandibular spaces
+S GRAY 8 Cavidad oral
+S IWANAGA Floor of the Mouth
+- Describe the mylohyoid muscle as the divider between the sublingual and submandibular spaces
+- Identify the contents of each space (ducts, glands, lingual and hypoglossal nerves)
+- Relate the anatomy to the spread of odontogenic infections
+
+## Nose, orbit and ear
+# Nose, nasal cavity and paranasal sinuses
+S GRAY 8 Cavidades nasales
+S IWANAGA Nose, Nasal Cavity
+S IMAGING Chapter 213. Sinonasal Overview
+S POSNICK 10 Nasal Airway
+- Describe the nasal framework, septum, turbinates and meatuses
+- Describe the drainage pathways of the paranasal sinuses (ostiomeatal complex, sphenoethmoidal recess)
+- Describe the arterial supply of the nose and the sites of epistaxis
+# Orbit - bony walls and contents
+S GRAY 8 Órbita
+S IWANAGA 4.3
+S IMAGING Chapter 251. Orbit Overview
+S CARSTENS 13: The Orbit
+- Describe the bony walls, fissures and canals of the orbit and what passes through each
+- Describe the extraocular muscles, the annulus of Zinn and their innervation
+- Identify the structures at risk in orbital fractures and approaches
+# Eyelids, lacrimal apparatus and periorbital soft tissue
+S GRAY 8 Órbita
+S CARSTENS Soft Tissues of the Orbit
+S IMAGING Chapter 251. Orbit Overview
+- Describe the lamellae of the eyelid, tarsal plates and canthal tendons
+- Describe the lacrimal gland and the lacrimal drainage system
+- Relate periorbital anatomy to transconjunctival and subciliary approaches
+# Ear - external, middle and inner ear
+S GRAY 8 Oído
+S IWANAGA 4.4
+S IMAGING Chapter 323. Temporal Bone Overview
+- Describe the anatomy of the auricle and its blood supply
+- Describe the middle ear, ossicles, mastoid and Eustachian tube
+- Describe the inner ear and the internal auditory canal
+
+## Neck viscera and glands
+# Pharynx, tonsils and parapharyngeal space
+S GRAY 8 Faringe
+S IWANAGA Pharynx and Parapharyngeal
+S IMAGING Chapter4. Pharyngeal Mucosal Space Overview
+S IMAGING Chapter2. Parapharyngeal Space Overview
+- Describe the subdivisions, constrictor muscles and fascia of the pharynx
+- Describe Waldeyer's ring and the palatine tonsil with its blood supply
+- Define the pre- and post-styloid parapharyngeal compartments and their contents
+# Larynx
+S GRAY 8 Laringe
+S IWANAGA 4.6
+S IMAGING Chapter 83. Hypopharynx
+S CARSTENS Formation of the Larynx and Trachea
+- Describe the laryngeal cartilages, membranes, spaces and intrinsic muscles
+- Describe the innervation and blood supply of the larynx
+- Identify the landmarks for cricothyrotomy
+# Visceral compartment - thyroid, parathyroids, trachea and esophagus
+S GRAY Cuello: glándulas tiroides
+S GRAY Cuello: raíz del cuello
+S IMAGING Chapter 68. Visceral Space Overview
+S BORON Capítulo 49 -
+S BORON Capítulo 52 -
+- Describe the anatomy, blood supply and venous drainage of the thyroid gland
+- Describe the location and blood supply of the parathyroid glands
+- Describe the relations of the cervical trachea, esophagus and recurrent laryngeal nerves
+- Identify the landmarks for tracheostomy
+# Salivary glands - parotid, submandibular and sublingual
+S GRAY 8 Cara
+S GRAY 8 Cavidad oral
+S IMAGING Chapter21. Parotid Space Overview
+S SPERBER Chapter 16:
+S BORON Capítulo 43 -
+- Describe the parotid gland, its lobes, duct and relationship with the facial nerve
+- Describe the submandibular and sublingual glands and their ducts
+- Describe the secretomotor innervation of the salivary glands
+
+## Fascia and regions of the neck
+# Fascial layers and deep spaces of the head and neck
+S GRAY Cuello: fascia
+S IWANAGA Overview of Anatomical Spaces
+S IMAGING Chapter 1.Suprahyoid
+S CARSTENS Fascial Layers of the Pharyngeal Arches
+- Describe the layers of the deep cervical fascia
+- Classify the suprahyoid and infrahyoid spaces and those that span the whole neck
+- Trace the pathways of infection spread between spaces
+# Retropharyngeal, danger and prevertebral spaces
+S GRAY Cuello: fascia
+S IMAGING Chapter48. Retropharyngeal Space Overview
+S IMAGING Chapter 56. Perivertebral
+- Distinguish the retropharyngeal, danger and prevertebral spaces
+- Explain how infection reaches the mediastinum
+# Infratemporal and pterygopalatine fossae
+S GRAY 8 Fosas temporal e infratemporal
+S GRAY 8 Fosa pterigopalatina
+S IWANAGA Infratemporal and Pterygopalatine
+- Define the boundaries and contents of the infratemporal fossa
+- Describe the mandibular nerve and its branches in the fossa
+- Describe the pterygopalatine fossa, its ganglion and its communications
+# Triangles of the neck and cervical muscles
+S GRAY Cuello: triángulo anterior, músculos
+S GRAY Cuello: triángulo posterior
+S IWANAGA Neck (Submental
+S CARSTENS Myology of the Neck
+S IMAGING Chapter 64. Posterior Cervical
+- Describe the anterior and posterior triangles and their subdivisions
+- Describe the sternocleidomastoid, strap, scalene and prevertebral muscles
+- Identify the structures at risk in neck dissection and submandibular approaches
+
+## Arteries
+# Common and internal carotid arteries
+S GRAY Cuello: triángulo anterior, sistema carotídeo
+S GRAY 8 Encéfalo e irrigación
+S IMAGING Chapter34. Carotid Space Overview
+S CARSTENS 6: Development of the Craniofacial Blood Supply: Intracranial
+- Describe the course of the common carotid artery and the carotid bifurcation
+- Describe the cervical, petrous, cavernous and supraclinoid segments of the internal carotid artery
+- Describe the carotid sheath and its contents
+# External carotid artery and its branches
+S GRAY Cuello: triángulo anterior, sistema carotídeo
+S CARSTENS Arteries of the Pharyngeal Arches and Jaws
+S FLAPS 10 Clinical Anatomy of the Head and Neck
+- Name the branches of the external carotid artery in order and their territories
+- Describe the facial, lingual and superior thyroid arteries in detail
+- Identify surgical landmarks for ligation of the external carotid artery
+# Maxillary artery and blood supply of the jaws
+S GRAY 8 Fosas temporal e infratemporal
+S GRAY 8 Fosa pterigopalatina
+S CARSTENS First Pharyngeal Arch: Internal Facial
+S IWANAGA Infratemporal and Pterygopalatine
+- Describe the three parts of the maxillary artery and their branches
+- Describe the blood supply of the maxilla and mandible and its relevance to osteotomies
+- Relate the descending palatine artery to the Le Fort I osteotomy
+# Blood supply of the face and facial angiosomes
+S GRAY 8 Cara
+S CARSTENS Blood Supply to the Face
+S CARSTENS The Facial Midline: A Vascular Watershed
+- Describe the arterial anastomoses of the face between external and internal carotid systems
+- Describe facial angiosomes and their use in flap design
+# Subclavian and vertebral arteries and the thyrocervical trunk
+S GRAY Cuello: raíz del cuello
+S CARSTENS Vertebral Artery
+S FLAPS 10 Clinical Anatomy of the Head and Neck
+- Describe the branches of the subclavian artery relevant to the neck
+- Describe the thyrocervical trunk and transverse cervical artery
+- Describe the course of the vertebral artery
+# Ophthalmic artery and blood supply of the orbit
+S GRAY 8 Órbita
+S CARSTENS The Eye and Orbit
+- Describe the ophthalmic artery and its branches
+- Explain the risk of blindness from facial filler and embolization through ophthalmic anastomoses
+# Intracranial circulation and the circle of Willis
+S GRAY 8 Encéfalo e irrigación
+S CARSTENS Part 3. Blood Supply to the Forebrain
+S CARSTENS Part 4. Blood Supply to the Hindbrain
+- Describe the circle of Willis and its variants
+- Describe the territories of the anterior, middle and posterior cerebral arteries
+# Recipient vessels for microvascular head and neck reconstruction
+S GRAY Cuello: triángulo anterior, sistema carotídeo
+S FLAPS 10 Clinical Anatomy of the Head and Neck
+- Describe the main recipient arteries and veins in the neck
+- Explain how to choose and expose recipient vessels, including in the vessel-depleted neck
+
+## Veins, meninges and dural sinuses
+# Venous drainage of the face and the pterygoid plexus
+S GRAY 8 Cara
+S GRAY 8 Fosas temporal e infratemporal
+S IWANAGA Venous Drainage
+- Describe the facial, retromandibular and pterygoid venous systems
+- Explain the connections with the cavernous sinus and the danger triangle of the face
+# Jugular veins and venous drainage of the neck
+S GRAY Cuello: drenaje venoso superficial
+S GRAY Cuello: triángulo anterior, sistema carotídeo
+S IMAGING Chapter34. Carotid Space Overview
+S IWANAGA Venous Drainage
+- Describe the internal, external and anterior jugular veins and their tributaries
+- Describe the venous variants relevant to neck dissection and free flap anastomosis
+# Meninges and dural venous sinuses
+S GRAY 8 Meninges
+S GRAY 8 Encéfalo e irrigación
+S CARSTENS 12: The Meninges
+S IMAGING Dural Sinuses
+- Describe the layers of the meninges and the dural folds
+- Describe the dural venous sinuses and the cavernous sinus with its contents
+- Relate the anatomy to cavernous sinus thrombosis and skull base surgery
+
+## Lymphatics
+# Cervical lymph node levels
+S GRAY Cuello: sistema linfático
+S IMAGING Chapter 94. Lymph Node Overview
+S HNC 33: Multidisciplinary Treatment of the Neck
+- Describe the cervical lymph node levels (I to VII) and their boundaries
+- Describe the superficial lymph nodes of the head (occipital, mastoid, parotid, facial)
+- Describe the thoracic duct and its termination
+# Lymphatic drainage by subsite
+S GRAY Cuello: sistema linfático
+S IMAGING Chapter 94. Lymph Node Overview
+S HNC 15: Sentinel Node
+- Describe the lymphatic drainage of the lip, oral cavity, tongue, pharynx, larynx, thyroid and skin of the face
+- Predict nodal spread and skip metastases from the primary site
+- Relate drainage patterns to elective neck dissection and sentinel node biopsy
+
+## Cranial nerves and autonomic nervous system
+# Cranial nerves - overview and intracranial course
+S GRAY 8 Nervios craneales
+S IWANAGA 5: Cranial Nerves
+- Describe the origin, intracranial course and foramina of the twelve cranial nerves
+- Summarize the functional components of each cranial nerve
+- Localize cranial nerve lesions from clinical findings
+# Olfactory nerve
+S GRAY 8 Nervios craneales
+S GRAY 8 Cavidades nasales
+S CARSTENS Neuroendocrine Anatomy of the Forebrain
+- Describe the olfactory epithelium, cribriform plate and olfactory pathway
+- Relate the anatomy to anosmia after anterior skull base fractures
+# Optic nerve and visual pathway
+S GRAY 8 Órbita
+S GRAY 8 Nervios craneales
+S IMAGING Chapter 251. Orbit Overview
+S CARSTENS 13: The Orbit
+- Describe the segments of the optic nerve and the optic canal
+- Describe the visual pathway and lesions that cause visual field defects
+- Relate the anatomy to traumatic optic neuropathy
+# Oculomotor, trochlear and abducens nerves
+S GRAY 8 Órbita
+S CARSTENS Neuromyology of the Eye and Orbit
+S IWANAGA 5: Cranial Nerves
+- Describe the course of cranial nerves III, IV and VI through the cavernous sinus and superior orbital fissure
+- Recognize the clinical signs of each palsy
+- Describe superior orbital fissure syndrome and orbital apex syndrome
+# Trigeminal nerve
+S GRAY 8 Nervios craneales
+S GRAY 8 Fosas temporal e infratemporal
+S GRAY 8 Fosa pterigopalatina
+S IWANAGA 5: Cranial Nerves
+S CARSTENS The First Pharyngeal Arch
+S DOLOR 23 Bloqueos
+- Describe the three divisions of the trigeminal nerve and their branches
+- Map the sensory territories of the face and oral cavity
+- Apply the anatomy to local anesthetic nerve blocks and nerve injuries
+# Facial nerve
+S GRAY 8 Cara
+S GRAY 8 Oído
+S IWANAGA 5: Cranial Nerves
+S IMAGING Intratemporal Facial Nerve
+S TRAUMA 1.5 Traumatic Facial Nerve
+- Describe the intracranial, intratemporal and extratemporal course of the facial nerve and its branches
+- Describe the branching patterns within the parotid gland and the landmarks to locate the main trunk
+- Describe the chorda tympani and the parasympathetic fibers of the facial nerve
+# Vestibulocochlear nerve and the cerebellopontine angle
+S GRAY 8 Oído
+S IMAGING Chapter 397. CPA-IAC Overview
+- Describe the cerebellopontine angle and the internal auditory canal with their contents
+- Describe the cochlear and vestibular pathways
+# Glossopharyngeal nerve
+S GRAY Cuello: triángulo anterior, nervios craneales
+S GRAY 8 Faringe
+S CARSTENS Glossopharyngeal Nerve IX
+- Describe the course and branches of the glossopharyngeal nerve
+- Describe its role in taste, the gag reflex and the carotid sinus reflex
+# Vagus nerve and laryngeal nerves
+S GRAY Cuello: triángulo anterior, nervios craneales
+S GRAY Cuello: raíz del cuello
+S GRAY 8 Laringe
+S CARSTENS Vagus Nerve
+S IMAGING Chapter34. Carotid Space Overview
+- Describe the course of the vagus nerve in the neck
+- Describe the superior and recurrent laryngeal nerves and the consequences of their injury
+# Spinal accessory nerve
+S GRAY Cuello: triángulo posterior
+S GRAY Cuello: triángulo anterior, nervios craneales
+S CARSTENS The Spinal Accessory Nerve: Is It
+S IMAGING Chapter 64. Posterior Cervical
+- Describe the course of the spinal accessory nerve in the posterior triangle
+- Identify landmarks to protect it during neck dissection (Erb's point)
+# Hypoglossal nerve
+S GRAY Cuello: triángulo anterior, nervios craneales
+S GRAY 8 Cavidad oral
+S CARSTENS Hypoglossal Nerve (Fig
+- Describe the course of the hypoglossal nerve and its relationship to the carotid arteries and the ansa cervicalis
+- Recognize the signs of hypoglossal nerve injury
+# Cervical plexus and brachial plexus
+S GRAY Cuello: plexo cervical
+S CARSTENS Cervical Nerves and Plexuses
+S FLAPS 21 Adult Brachial Plexus
+- Describe the sensory and motor branches of the cervical plexus and the ansa cervicalis
+- Describe the phrenic nerve
+- Describe the roots, trunks and relations of the brachial plexus in the neck
+# Autonomic nervous system of the head and neck
+S GRAY Cuello: tronco simpático
+S GRAY 8 Fosa pterigopalatina
+S BORON Capítulo 14 -
+S IWANAGA Infratemporal and Pterygopalatine
+- Describe the four parasympathetic ganglia of the head and their connections
+- Describe the cervical sympathetic chain and Horner syndrome
+- Describe the autonomic innervation of the salivary and lacrimal glands

@@ -1,0 +1,354 @@
+@AREA 12 | Critical Care | critical-care
+@BOOKS CRIT
+
+## Organization of critical care
+# Approach to critical care and ICU organization
+S CRIT 1 An Approach to Critical Care
+S CRIT 2 Measuring Quality
+S CRIT 3 Intensive Care Unit Staffing
+S CRIT 10 Telemedicine
+S CRIT 11 Transportation of the Critically Ill
+S CRIT 12 Rapid Response Teams
+- Describe a systematic approach to the critically ill patient
+- Describe quality measures, staffing models and rapid response teams
+- Plan the safe transport of a critically ill patient
+# Infection prevention and preventing morbidity in the ICU
+S CRIT 4 Infection Prevention
+S CRIT 5 Preventing Morbidity
+- Describe bundles to prevent line infections, VAP and pressure injuries
+- Describe VTE and stress ulcer prophylaxis
+# Severity scoring and cost-effectiveness in the ICU
+S CRIT 13 Assessment of Severity
+S CRIT 6 Assessing Cost-Effectiveness
+- Use severity scores (APACHE, SOFA)
+- Describe cost-effectiveness analysis in critical care
+# Chronic critical illness and long-term outcomes
+S CRIT 14 Chronic Critical Illness
+S CRIT 15 Long-Term Outcomes
+- Describe chronic critical illness and post-intensive care syndrome
+# Family, palliative care, ethics and legal issues
+S CRIT 16 Care of the Caregiver
+S CRIT 17 Caring for the Family
+S CRIT 18 Providing Palliative Care
+S CRIT 19 Legal Issues
+- Communicate with families in the ICU
+- Describe withholding and withdrawing life-sustaining therapy
+- Describe legal issues in critical care
+# Disaster preparedness and medical informatics
+S CRIT 8 Principles of Medical Informatics
+S CRIT 9 Preparedness for Catastrophe
+- Describe mass casualty preparedness and triage
+- Describe clinical informatics in the ICU
+
+## General management of the patient
+# Nutrition and glycemic control
+S CRIT 20 Nutrition Therapy
+S CRIT 21 Glycemic Control
+- Plan enteral and parenteral nutrition
+- Describe glycemic targets in critical illness
+# Pain control, sedation and neuromuscular blockade
+S CRIT 22 Pain Control, Sedation
+- Use analgesia-first sedation and sedation scales
+- Describe the indications and risks of neuromuscular blockade
+# Sleep and physical therapy in the ICU
+S CRIT 23 Sleep
+S CRIT 24 Physical Therapy
+- Describe sleep disruption and early mobilization in the ICU
+# Cardiopulmonary resuscitation and therapeutic hypothermia
+S CRIT 25 Cardiopulmonary Resuscitation
+S CRIT 26 Therapeutic Hypothermia
+- Apply ACLS algorithms
+- Describe post-cardiac arrest care and targeted temperature management
+# Intravascular devices and hemodynamic waveforms
+S CRIT 27 Intravascular Devices
+S CRIT 28 Interpretation of Hemodynamic Waveforms
+- Describe central venous and arterial line placement and complications
+- Interpret arterial and central venous waveforms
+# ICU ultrasonography and interventional radiology
+S CRIT 29 ICU Ultrasonography
+S CRIT 30 Interventional Radiology
+- Describe point-of-care ultrasound in the ICU
+- Describe the role of interventional radiology (e.g., embolization)
+
+## Cardiovascular disorders
+# Circulatory pathophysiology and hemodynamic monitoring
+S CRIT 31 The Pathophysiology of the Circulation
+S CRIT 32 Assessing the Circulation
+- Describe venous return and cardiac function in critical illness
+- Describe oximetry and cardiac output monitoring
+# Shock and fluid resuscitation
+S CRIT 33 Shock
+S CRIT 34 Judging the Adequacy of Fluid
+- Classify shock and its hemodynamic profiles
+- Assess fluid responsiveness
+- Choose fluids and vasopressors
+# Ventricular dysfunction and acute right heart syndromes
+S CRIT 35 Ventricular Dysfunction
+S CRIT 38 Acute Right Heart
+- Manage acute left and right ventricular failure
+# Cardiac arrhythmias, pacing and cardioversion
+S CRIT 36 Cardiac Arrhythmias
+- Manage tachy- and bradyarrhythmias in the ICU
+- Describe cardioversion, defibrillation and pacing
+# Myocardial ischemia
+S CRIT 37 Myocardial Ischemia
+- Recognize and manage acute coronary syndromes and perioperative myocardial injury
+# Pulmonary embolism - thrombus, air and fat
+S CRIT 39 Pulmonary Embolic Disorders
+- Diagnose and treat pulmonary thromboembolism
+- Recognize air and fat embolism
+# Pericardial disease, valvular disease and aortic dissection
+S CRIT 40 Pericardial Disease
+S CRIT 41 Valvular Heart Disease
+S CRIT 42 Aortic Dissection
+- Recognize cardiac tamponade
+- Describe critical valvular disease and aortic dissection
+
+## Pulmonary disorders and airway
+# Acute respiratory failure
+S CRIT 43 The Pathophysiology and Differential Diagnosis of Acute Respiratory
+- Classify hypoxemic and hypercapnic respiratory failure
+- Build a differential diagnosis
+# Airway management
+S CRIT 45 Airway Management
+- Assess the difficult airway
+- Describe rapid sequence intubation and difficult airway algorithms
+- Describe surgical airway (cricothyrotomy)
+# Tracheostomy
+S CRIT 46 Tracheostomy
+- Indicate and time tracheostomy
+- Compare surgical and percutaneous techniques
+- Manage tracheostomy complications and emergencies
+# Upper airway obstruction
+S CRIT 47 Upper Airway Obstruction
+- Recognize causes of upper airway obstruction (infection, angioedema, tumor, trauma)
+- Plan emergency management
+# Noninvasive ventilation
+S CRIT 44 Noninvasive Ventilation
+- Indicate NIV and high-flow nasal oxygen
+- Recognize NIV failure
+# Mechanical ventilation - waveforms, management and novel modes
+S CRIT 48 Ventilator Waveforms
+S CRIT 49 Management of the Ventilated Patient
+S CRIT 50 Novel Modes
+- Describe the basic modes of mechanical ventilation
+- Interpret pressure and flow waveforms
+- Adjust the ventilator
+# Ventilator-induced lung injury, ARDS and extracorporeal support
+S CRIT 51 Ventilator-Induced Lung Injury
+S CRIT 52 Acute Lung Injury
+S CRIT 53 Extracorporeal Lung Support
+- Apply lung-protective ventilation
+- Describe the diagnosis and management of ARDS
+- Describe ECMO indications
+# Acute-on-chronic respiratory failure, status asthmaticus and restrictive disease
+S CRIT 54 Acute-on-Chronic
+S CRIT 55 Status Asthmaticus
+S CRIT 58 Restrictive Disease
+- Manage COPD exacerbations and status asthmaticus
+# Thoracostomy and massive hemoptysis
+S CRIT 56 Thoracostomy
+S CRIT 57 Massive Hemoptysis
+- Describe chest tube placement
+- Manage massive hemoptysis
+# Ventilator-associated pneumonia and liberation from ventilation
+S CRIT 59 Ventilator-Associated Pneumonia
+S CRIT 60 Liberation From Mechanical
+- Prevent and treat VAP
+- Perform spontaneous breathing trials and extubation
+
+## Infectious disorders
+# Sepsis and septic shock
+S CRIT 62 Sepsis and Immunoparalysis
+S CRIT 64 Sepsis, Severe Sepsis
+- Apply sepsis definitions and bundles
+- Describe immune dysfunction in sepsis
+# Persistent fever and catheter-related infections
+S CRIT 63 Persistent Fever
+S CRIT 66 Infectious Complications of Intravascular
+- Investigate fever in the ICU
+- Manage catheter-related bloodstream infections
+# Pneumonia
+S CRIT 65 Pneumonia
+- Manage severe community- and hospital-acquired pneumonia
+# Life-threatening infections of the head, neck and upper airway
+S CRIT 73 Life-Threatening Infections of the Head
+- Recognize Ludwig angina, deep neck abscesses, epiglottitis and Lemierre syndrome
+- Prioritize airway control and source control
+# Soft tissue infections
+S CRIT 74 Soft Tissue Infections
+- Recognize necrotizing soft tissue infections, including cervical necrotizing fasciitis
+- Describe urgent surgical management
+# Infections of the central nervous system
+S CRIT 71 Bacterial Infections of the Central
+S CRIT 72 Encephalomyelitis
+- Manage bacterial meningitis and brain abscess
+- Recognize encephalitis
+# Endocarditis and intravascular infections
+S CRIT 67 Endocarditis
+- Diagnose infective endocarditis (Duke criteria)
+# Infections in immunocompromised patients
+S CRIT 68 Approach to Infection in Patients Receiving Cytotoxic
+S CRIT 69 Human Immunodeficiency Virus
+S CRIT 70 Fungal Infections
+- Manage neutropenic fever
+- Describe ICU care of HIV patients and invasive fungal infections
+# Other infections in the ICU
+S CRIT 75 Urinary Tract Infections
+S CRIT 76 Gastrointestinal Infections
+S CRIT 77 Management of the Critically Ill Traveler
+S CRIT 78 Severe Malaria
+S CRIT 79 Tetanus
+S CRIT 80 Viral Hemorrhagic
+S CRIT 81 Biological Warfare
+- Describe C. difficile infection and urosepsis
+- Recognize tetanus and its management
+- Describe infections in travelers and biological threats
+
+## Neurologic disorders
+# Delirium and ICU-acquired weakness
+S CRIT 82 Delirium
+S CRIT 83 ICU-Acquired Weakness
+- Screen for and prevent delirium
+- Describe ICU-acquired weakness
+# Cerebrovascular disease and seizures
+S CRIT 84 Cerebrovascular Disease
+S CRIT 85 Seizures in the Intensive
+- Manage acute stroke and intracranial hemorrhage
+- Manage status epilepticus
+# Intracranial pressure
+S CRIT 86 Intracranial Pressure
+- Describe ICP physiology and monitoring
+- Describe the stepwise management of raised ICP
+# Neuromuscular respiratory failure, coma and brain death
+S CRIT 87 Neuromuscular Diseases
+S CRIT 88 Coma, Persistent Vegetative
+- Recognize Guillain-Barré and myasthenic crisis
+- Describe the determination of brain death
+
+## Hematologic and oncologic disorders
+# Anemia and red blood cell transfusion
+S CRIT 89 Anemia and Red Blood Cell
+- Apply restrictive transfusion thresholds
+- Recognize transfusion reactions
+# Bleeding disorders and thrombotic microangiopathies
+S CRIT 90 Bleeding Disorders
+S CRIT 91 TTP, HUS
+- Manage coagulopathy, DIC and massive transfusion
+- Recognize TTP and HUS
+# Oncologic emergencies and complications of cancer therapy
+S CRIT 92 Acute Leukemia
+S CRIT 93 Oncologic Emergencies
+S CRIT 94 Hematopoietic Stem Cell
+S CRIT 95 Toxicities of Chemotherapy
+- Recognize tumor lysis syndrome, hypercalcemia and superior vena cava syndrome
+- Describe toxicities of chemotherapy and graft-versus-host disease
+# Sickle cell disease
+S CRIT 96 Sickle Cell Disease
+- Manage sickle cell crises and perioperative risks
+
+## Renal and metabolic disorders
+# Acute kidney injury and renal replacement therapy
+S CRIT 97 Acute Kidney Injury
+S CRIT 98 Renal Replacement Therapy
+- Classify and investigate acute kidney injury
+- Indicate renal replacement therapy
+# Electrolyte disorders
+S CRIT 99 Electrolyte Disorders
+- Manage disorders of sodium, potassium, calcium, magnesium and phosphate
+- Recognize hypocalcemia after thyroid and parathyroid surgery
+# Acid-base balance
+S CRIT 100 Acid-Base Balance
+- Interpret arterial blood gases step by step
+- Use the anion gap and delta ratio
+# Endocrine emergencies
+S CRIT 101 Hyperglycemic Crisis
+S CRIT 102 Critical Illness–Related Corticosteroid
+S CRIT 103 Thyroid Disease
+- Manage DKA, hyperosmolar state and hypoglycemia
+- Recognize adrenal insufficiency and thyroid storm
+
+## Gastrointestinal disorders
+# Gastrointestinal hemorrhage and obstruction
+S CRIT 104 Jaundice, Diarrhea
+S CRIT 105 Gastrointestinal Hemorrhage
+- Manage upper and lower GI bleeding
+- Approach jaundice, diarrhea and ileus
+# Liver failure and cirrhosis
+S CRIT 106 Acute Liver Failure
+S CRIT 107 Management of the Patient With Cirrhosis
+- Manage acute liver failure
+- Describe perioperative risks in cirrhosis
+# Acute pancreatitis and mesenteric ischemia
+S CRIT 108 Acute Pancreatitis
+S CRIT 109 Mesenteric Ischemia
+- Manage severe acute pancreatitis
+- Recognize mesenteric ischemia
+
+## The surgical and trauma patient
+# Preoperative assessment of the high-risk surgical patient
+S CRIT 110 Special Considerations in the Surgical
+S CRIT 111 Preoperative Assessment
+- Stratify perioperative cardiac and pulmonary risk
+- Optimize the high-risk patient before surgery
+# Postoperative critical care
+S CRIT 112 Principles of Postoperative Critical
+- Manage common postoperative complications in the ICU
+- Describe ICU care after major head and neck surgery
+# Acute abdomen and abdominal compartment syndrome
+S CRIT 113 The Acute Abdomen
+S CRIT 114 Abdominal Compartment
+- Recognize the acute abdomen and intra-abdominal sepsis
+- Measure intra-abdominal pressure
+# Transplant patients and organ donors
+S CRIT 115 The Transplant Patient
+S CRIT 116 Care of the Multiorgan Donor
+- Describe ICU care of transplant recipients
+- Describe the management of the organ donor
+# Priorities in multisystem trauma
+S CRIT 117 Priorities in Multisystem Trauma
+- Apply the ATLS primary and secondary survey
+- Describe damage control resuscitation
+# Head injury
+S CRIT 118 Head Injury
+- Classify traumatic brain injury (GCS)
+- Describe the ICU management of severe TBI
+# Spinal injuries
+S CRIT 119 Spinal Injuries
+- Clear the cervical spine
+- Manage acute spinal cord injury
+# Torso, pelvic and extremity trauma
+S CRIT 120 Torso Trauma
+S CRIT 121 Pelvic Ring Injuries
+- Describe chest and abdominal trauma management
+- Describe pelvic and extremity trauma priorities
+# Burns and electrical injuries
+S CRIT 122 Electrical Trauma
+S CRIT 123 Critical Care of the Burn Patient
+- Calculate burn size and fluid resuscitation
+- Recognize inhalation injury and facial burns
+- Describe electrical injury
+
+## Special problems
+# Anaphylaxis
+S CRIT 128 Anaphylactic
+- Recognize and treat anaphylaxis
+- Describe perioperative allergic reactions
+# Rheumatologic and dermatologic conditions in the ICU
+S CRIT 126 Rheumatology in the ICU
+S CRIT 129 Dermatologic Conditions
+- Recognize rheumatologic emergencies
+- Recognize SJS and TEN in the ICU
+# Critical illness in pregnancy and obesity
+S CRIT 127 Critical Illness in Pregnancy
+S CRIT 130 The Obesity Epidemic
+- Describe the physiologic changes of pregnancy relevant to critical care
+- Describe airway and ventilation issues in obesity
+# Hypothermia, diving medicine and drowning
+S CRIT 131 Hypothermia
+S CRIT 132 Diving Medicine
+- Manage accidental hypothermia
+- Describe drowning and decompression illness
+> Toxicology and management of the poisoned patient
+> Critical care pharmacology
+> Clinical use of antimicrobial agents
