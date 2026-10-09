@@ -79,3 +79,7 @@ Registro cronológico, solo se añade al final. Formato: `## [AAAA-MM-DD] operac
 - Generador: `build.py` tiene ahora `VOLUMES`/`book_file()`; el temario y `tocs/` siguen usando las páginas del libro completo. Documentado en CLAUDE.md §5.
 - El PDF completo se movió fuera de la bóveda, a `Documentos/Libros completos (fuera de la boveda)/`.
 - Ya ningún libro pasa de 100 MB; la biblioteca ocupa 1,5 GB.
+
+## [2026-10-08] schema | Libros fuera de git
+- Se subieron los libros a GitHub, pero tardaban demasiado en descargarse en el móvil, así que se sacaron del historial: se quitaron los 4 commits de libros, se añadió `.gitignore` con `2. Sources/Libros/` y el usuario hizo el push forzado. GitHub queda en `790c80e`, sin ningún PDF de libros; `.git` local pasó de 1,4 GB a 44 MB.
+- Los 37 PDF siguen en el disco y en OneDrive; las skills los leen del disco. Ajustes del repositorio: `core.longpaths=true` y `core.autocrlf=input`. Documentado en CLAUDE.md §7.
