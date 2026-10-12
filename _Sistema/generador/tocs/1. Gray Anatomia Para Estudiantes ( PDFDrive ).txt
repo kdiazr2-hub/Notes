@@ -1,8 +1,8 @@
 PAGES 1069
 REGION DORSAL DEL TRONCO (incluye columna cervical)  [p38]
 8 Cabeza y cuello: Conceptos generales  [p759]
-8 Cráneo  [p773]
-8 Cavidad craneal  [p783]
+8 Cráneo  [p774]
+8 Cavidad craneal  [p784]
 8 Meninges  [p793]
 8 Encéfalo e irrigación  [p797]
 8 Nervios craneales  [p811]
