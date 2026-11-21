@@ -97,3 +97,8 @@ Registro cronológico, solo se añade al final. Formato: `## [AAAA-MM-DD] operac
 - Los enlaces usan los nombres de archivo del repositorio de libros: en el ordenador, `2. Sources/Libros/` debe tener esos 25 PDF con esos nombres (`_Sistema/libros_repo.md`).
 - Generador: `BOOKS` con los 25 libros; fuentes explícitas `S CLAVE !Etiqueta @página`; se eliminó `tocs/` y el reparto en volúmenes de Posnick. `make_index.py` agrupa las 14 áreas. CLAUDE.md actualizado (§1, §2, §5, §7).
 - Pendiente (zona del usuario, no se tocó): la nota de *Skull overview* tiene 12 enlaces a sesiones que ya no existen.
+
+## [2026-11-21] schema | Libros de vuelta en git
+- A petición del usuario, los 25 PDF de `kdiazr2-hub/libros` se copiaron a `2. Sources/Libros/` (mismos nombres que en los enlaces; 360 MB; el mayor, 25 MB) y se quitó la exclusión de `.gitignore`. Esto revierte la decisión del 2026-10-08: cada clon de la bóveda, también el del móvil, descarga los libros.
+- Verificación: todos los enlaces a PDF de las sesiones e índices encuentran su archivo. Solo quedan sin PDF dos enlaces dentro de las notas del usuario en *Skull overview* (Gray, que no está en el repositorio de libros, y el nombre antiguo del Iwanaga).
+- CLAUDE.md §5 y §7 y `_Sistema/libros_repo.md` actualizados.

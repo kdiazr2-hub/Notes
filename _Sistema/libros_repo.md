@@ -8,13 +8,10 @@ Desde el 2026-11-21 el temario (`3. Notes`) se construye **solo** con los 25 lib
 
 `[[Facial Trauma Surgery From Primary Repair to Reconstruction - Dorafshar, Rodriguez & Manson (2020).pdf#page=162|…]]`
 
-## En el ordenador (Obsidian)
-`2. Sources/Libros/` no va en git. Para que los enlaces abran, esa carpeta debe tener los 25 PDF con esos nombres. Lo más sencillo es descargar el repositorio de libros y copiar sus PDF ahí (sin la carpeta `contenido/`, que no hace falta en Obsidian).
+## Dónde están los PDF
+Desde el 2026-11-21 los 25 PDF están copiados en `2. Sources/Libros/` y **van en git**, así que los enlaces abren en el ordenador, en el móvil y en una sesión en la nube sin hacer nada más.
 
-## En una sesión en la nube
-1. Añadir el repositorio a la sesión (`add_repo` kdiazr2-hub/libros) y clonarlo junto a la bóveda.
-2. El nombre del PDF en el bloque **Sources** es el mismo que en el repositorio.
-3. Leer solo las páginas del capítulo: `contenido/<nombre>.txt`, donde **la página N del PDF es `texto.split('\f')[N-1]`**; o pypdf sobre el PDF si hacen falta figuras.
+El repositorio de libros sigue siendo útil por `contenido/<nombre>.txt`, el texto completo de cada libro para buscar: **la página N del PDF es `texto.split('\f')[N-1]`**. Si se cambia un libro, hay que cambiarlo en los dos repositorios.
 
 ## Claves del generador (`_Sistema/generador/build.py`)
 
