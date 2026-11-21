@@ -1,0 +1,7976 @@
+Joe Iwanaga
+R. Shane Tubbs
+
+Atlas of Oral and
+Maxillofacial Anatomy
+
+123
+
+Atlas of Oral and Maxillofacial Anatomy
+
+Joe Iwanaga • R. Shane Tubbs
+
+Atlas of Oral and Maxillofacial
+Anatomy
+
+Joe Iwanaga
+Department of Neurosurgery
+Clinical Neuroscience Research Center (CNRC)
+Tulane University School of Medicine
+New Orleans, LA
+USA
+
+R. Shane Tubbs
+Department of Neurosurgery
+Clinical Neuroscience Research Center (CNRC)
+Tulane University School of Medicine
+New Orleans, CA
+USA
+
+ISBN 978-3-030-78326-6    ISBN 978-3-030-78327-3
+https://doi.org/10.1007/978-3-030-78327-3
+
+(eBook)
+
+© Springer Nature Switzerland AG 2021
+This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is
+concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction
+on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation,
+computer software, or by similar or dissimilar methodology now known or hereafter developed.
+The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not
+imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and
+regulations and therefore free for general use.
+The publisher, the authors, and the editors are safe to assume that the advice and information in this book are believed
+to be true and accurate at the date of publication. Neither the publisher nor the authors or the editors give a warranty,
+expressed or implied, with respect to the material contained herein or for any errors or omissions that may have been
+made. The publisher remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+This Springer imprint is published by the registered company Springer Nature Switzerland AG
+The registered company address is: Gewerbestrasse 11, 6330 Cham, Switzerland
+
+Preface
+
+This atlas focuses on the oral and maxillofacial regions and is relevant in the disciplines of oral
+and maxillofacial surgery. The fine anatomy involved in oral and maxillofacial surgery has
+progressed greatly in recent years, and therefore knowledge of anatomical structures relevant
+to this field is now more important than ever. However, anatomical atlases that demonstrate the
+newest anatomical findings in the oral and maxillofacial regions in a comprehensive manner
+are scant. For oral and maxillofacial surgery, observing oral anatomy from the same view as
+seen in clinical practice is critical for a better understanding of various invasive procedures.
+However, to our knowledge, no other books have included high-resolution images of intraoral
+anatomical dissections, especially using fresh cadavers. For example, the lingual nerve is a
+structure that is always mentioned by mentors—“Be careful not to damage the lingual nerve as
+it runs next to the lingual cortical plate.” Yes, we know that the lingual nerve is always at risk
+when we make an incision in the retromolar to molar areas of the mandible; however, how
+should we better minimize potential injury by an improved knowledge of this anatomy from an
+intraoral, surgical view? The answer to this question and others is found throughout this atlas
+via step-by-step fresh-cadaver dissections. We believe that this book will satisfy current needs
+in the discipline of oral and maxillofacial surgery and is timely.
+New Orleans, LA, USA
+New Orleans, CA, USA 
+
+Joe Iwanaga
+R. Shane Tubbs
+
+v
+
+Contents
+
+1	Anatomy of the Superficial Face�����������������������������������������������������������������������������    1
+1.1	Superficial Face�������������������������������������������������������������������������������������������������    1
+2	Bones of the Head and Neck �����������������������������������������������������������������������������������    5
+2.1	Overview (Skull)�����������������������������������������������������������������������������������������������    5
+2.2	Sutures of the Skull�������������������������������������������������������������������������������������������   10
+2.3	Separate Bones���������������������������������������������������������������������������������������������������   13
+2.4	Cervical Vertebrae���������������������������������������������������������������������������������������������   42
+Reference �������������������������������������������������������������������������������������������������������������������   45
+3	Anatomy of the Oral Cavity�������������������������������������������������������������������������������������   47
+3.1	Surface Anatomy of the Oral Cavity�����������������������������������������������������������������   47
+3.2	Related Mimetic Muscles ���������������������������������������������������������������������������������   48
+3.3	Maxilla and Maxillary Sinus�����������������������������������������������������������������������������   50
+3.4	Mental Area�������������������������������������������������������������������������������������������������������   56
+3.5	Mandibular Canal�����������������������������������������������������������������������������������������������   63
+3.6	Pterygomandibular Space and Retromolar Area�����������������������������������������������   71
+3.7	Palate�����������������������������������������������������������������������������������������������������������������   77
+3.8	Tongue���������������������������������������������������������������������������������������������������������������   83
+3.9	Floor of the Mouth (Sublingual and Submandibular Spaces)���������������������������   85
+3.10	Lip ���������������������������������������������������������������������������������������������������������������������   94
+3.11	Temporomandibular Joint ���������������������������������������������������������������������������������   97
+References������������������������������������������������������������������������������������������������������������������� 105
+4	Maxillofacial Anatomy and Anatomical Spaces����������������������������������������������������� 107
+4.1	Overview of Anatomical Spaces ����������������������������������������������������������������������� 107
+4.2	Nose, Nasal Cavity, and Paranasal Sinuses������������������������������������������������������� 108
+4.3	Orbit������������������������������������������������������������������������������������������������������������������� 116
+4.4	Ear ��������������������������������������������������������������������������������������������������������������������� 127
+4.5	Pharynx and Parapharyngeal Spaces����������������������������������������������������������������� 132
+4.6	Larynx ��������������������������������������������������������������������������������������������������������������� 139
+4.7	Infratemporal and Pterygopalatine Fossae��������������������������������������������������������� 144
+4.8	Neck (Submental Space, Submandibular, etc.)������������������������������������������������� 148
+4.9	Venous Drainage of the Oral and Maxillofacial Areas ������������������������������������� 159
+References������������������������������������������������������������������������������������������������������������������� 163
+5	Cranial Nerves����������������������������������������������������������������������������������������������������������� 165
+5.1	Intracranial Course of the Cranial Nerves��������������������������������������������������������� 165
+
+vii
+
+1
+
+Anatomy of the Superficial Face
+
+1.1
+
+Superficial Face
+
+Summary
+The maxillofacial region has a rich blood and nerve supply.
+The former derived from the external carotid artery and terminal branches of the internal carotid artery. The mimetic
+muscles are innervated by the extracranial facial nerve
+
+branches, and the sensation of the skin is supplied by primarily, trigeminal nerve branches. Some of these nerve branches
+often communicate with adjacent nerves, e.g., marginal mandibular branch of the facial nerve and mental nerve, although
+the function of such connections is unclear. In this section,
+the superficial structures of the maxillofacial region will be
+demonstrated.
+
+© Springer Nature Switzerland AG 2021
+J. Iwanaga, R. S. Tubbs, Atlas of Oral and Maxillofacial Anatomy, https://doi.org/10.1007/978-3-030-78327-3_1
+
+1
+
+2
+
+1
+
+Anatomy of the Superficial Face
+
+Superficial temporal
+artery
+Temporalis muscle
+Auriculotemporal
+nerve
+Facial nerve
+Parotid gland
+
+Facial artery
+
+Fig. 1.1 Lateral view of the face
+
+Supraorbital/supratrochlear nerve
+
+Auriculotemporal nerve
+
+Superficial temporal artery
+Superficial temporal vein
+
+Temporal branches
+
+Zygomatic branch
+
+Facial nerve
+
+Buccal branches
+Marginal mandibular branch
+
+Cervical branch
+Communicating branch with the mental nerve
+
+Fig. 1.2 Terminal branches of the facial nerve (lateral view)
+
+1.1 Superficial Face
+
+3
+
+Frontal belly of
+occipitofrontalis
+muscle
+Corrugator
+supercilli muscle
+Orbicularis oculi
+muscle (orbital
+and palpebral parts)
+Levator labii superioris
+alaeque nasi muscle (cut)
+Nasalis muscle
+Angular artery and vein
+Zygomaticus minor and
+major muscles (cut)
+Infraorbital artery and
+nerve
+Parotid gland
+Masseter muscle
+Orbicularis oris muscle
+Mentalis muscle
+Depressor anguli oris
+muscle (cut)
+Depressor labii inferioris
+muscle (cut)
+
+Fig. 1.3 Anterior view of the face
+
+Supraorbital/supratrochlear
+nerve
+
+Infraorbital nerve
+
+Mental nerve
+
+Fig. 1.4 Terminal cutaneous branches of the trigeminal nerve (anterior view)
+
+2
+
+Bones of the Head and Neck
+
+2.1
+
+Overview (Skull)
+
+Summary
+The skull consists of 23 bones including the hyoid bone: eight
+paired bones (temporal, zygomatic, parietal, maxillary, nasal,
+lacrimal and palatine bones, and the inferior nasal concha) and
+seven unpaired bones (occipital, frontal, sphenoid, ethmoid,
+
+hyoid, mandible, and vomer). The vomer and inferior nasal
+concha are within the nasal cavity. Three foramina (or notches)
+of the face, e.g., supraorbital, infraorbital, and mental foramina,
+are usually observed from an anterior view. A number of structures exist at the skull base as well as the cranial fossae, which
+allows vessels and nerves to leave and enter the skull and also
+act as the attachment of many skeletal muscles.
+
+Frontal bone
+
+Supraorbital foramen
+Supraorbital notch
+Superior orbital fissure
+
+Nasal aperture
+
+Inferior orbital fissure
+
+Zygomatic bone
+Infraorbital foramen
+
+Mental foramen
+
+Fig. 2.1 Anterior view of the skull
+
+© Springer Nature Switzerland AG 2021
+J. Iwanaga, R. S. Tubbs, Atlas of Oral and Maxillofacial Anatomy, https://doi.org/10.1007/978-3-030-78327-3_2
+
+5
+
+2
+
+6
+
+Parietal bone
+
+Bones of the Head and Neck
+
+Frontal bone
+
+Sphenoid bone
+
+Ethmoid bone
+
+Lacrimal bone
+
+Palatine bone
+
+Zygomatic bone
+
+Temporal bone
+
+Maxilla
+Nasal bone
+Inferior nasal concha
+
+Nasal Septum
+
+Mandible
+
+Fig. 2.2 Anterior view of the schematic skull. © Fisher/Tubbs 2020. All Rights Reserved
+
+Parietal bone
+
+Frontal bone
+Ethmoid bone
+Palatine bone
+Lacrimal bone
+
+Temporal bone
+Nasal bone
+Maxilla
+Sphenoid bone
+Inferior nasal concha
+
+Zygomatic bone
+
+Mandible
+
+Fig. 2.3 Oblique view of the schematic skull. © Fisher/Tubbs 2020. All Rights Reserved
+
+7
+
+2.1 Overview (Skull)
+
+Parietal bones
+Frontal bone
+
+Vomer
+Occipital bone
+Sphenoid bone
+
+Temporal bone
+
+Temporal bone
+Nasal bone
+
+Ethmoid bone
+
+Zygomatic bone
+
+Palatine bone
+Lacrimal bone
+
+Inferior nasal concha
+
+Zygomatic bone
+
+Maxillae
+Mandible
+
+Fig. 2.4 Oblique view of the schematic exploded skull. © Fisher/Tubbs 2020. All Rights Reserved
+
+Lambdoid suture
+Occipital bone
+External occipital protuberance
+
+Sagittal suture
+
+Supreme nuchal line
+Superior nuchal line
+
+Occipital condyle
+Inferior nuchal line
+Mastoid process
+
+Pterygoid process
+
+Mandibular angle
+
+Fig. 2.5 Posterior view of the skull
+
+Bony palate
+
+8
+
+2
+
+Coronal suture
+Sphenoparietal suture
+Sphenofrontal suture
+Glabella
+Sphenosquamous suture
+
+Bones of the Head and Neck
+
+Superior temporal line
+
+Zygomatic arch
+Squamous suture
+Lambdoid suture
+
+Anterior nasal spine
+
+External acoustic meatus
+
+Mastoid process
+Mental foramen
+
+Styloid process
+
+Fig. 2.6 Lateral view of the skull
+
+Incisive foramen
+Greater and lesser palatine foramina
+Lateral and medial plates
+of pterygoid process
+Pterygoid and scaphoid fossae
+Foramen of Vesalius
+Foramen ovale
+
+Median palatine suture
+Transverse palatine suture
+Zygomatic arch
+Posterior nasal spine
+Hamulus
+Foramen lacerum
+Pharyngeal tubercle
+
+Articular eminence
+
+Mandibular fossa
+
+Foramen spinosum
+
+External acoustic meatus
+
+Spine of sphenoid
+Groove for auditory tube
+Mastoid process
+
+Carotid canal
+Styloid process
+Stylomastoid foramen
+
+Mastoid notch
+Groove for occipital artery
+
+Jugular fossa
+
+Condylar canal and fossa
+
+Occipital condyle
+
+Foramen magnum
+
+Inferior nuchal line
+
+External occipital protuberance
+
+Superior nuchal line
+
+Fig. 2.7 Inferior view of the skull
+
+9
+
+2.1 Overview (Skull)
+
+Coronal suture
+
+Frontal bone
+
+Frontal bone
+
+Ethmoid bone
+
+Sphenoid bone
+
+Lacrimal bone
+Palatine bone
+
+Parietal bone
+
+Zygomatic bone
+Sagittal suture
+
+Lambdoid suture
+
+Fig. 2.8 Superior view of the skull
+
+Maxilla
+
+Fig. 2.10 Anterior view of the schematic orbit. The orbital wall consists of seven bones: frontal, sphenoid, zygomatic, ethmoid, lacrimal,
+palatine, and maxillary bones
+
+Groove for superior sagittal sinus
+Frontal crest
+Foramen cecum
+Lesser wing of sphenoid
+
+Crista galli
+Cribriform plate
+
+Anterior clinoid process
+
+Optic canal
+Superior orbital fissure
+Foramen rotundum
+Foramen ovale
+
+Hypophysial fossa
+
+Foramen spinosum
+
+Posterior clinoid process
+Trigeminal impression
+Arcuate eminence
+Groove for superior petrous sinus
+Groove for sigmoid sinus
+Groove for inferior petrous sinus
+
+Carotid canal
+Foramen lacerum
+Internal acoustic meatus
+Jugular foramen
+
+Internal occipital crest
+Groove for transverse sinus
+Internal occipital protuberance
+Groove for superior sagittal sinus
+
+Fig. 2.9 Superior view of the cranial fossae
+
+Hypoglossal canal
+
+10
+
+2
+
+2.2
+
+Sutures of the Skull
+
+Bones of the Head and Neck
+
+Metopic suture
+
+Summary
+The sutures of the skull are mostly paired except for the sagittal, median palatine, intermaxillary, and internasal sutures.
+Many of these are still unfused at birth. For example, the
+metopic (frontal) suture usually closes at the age of 3 months
+to 2-years-old. Therefore, the metopic suture is usually not
+observed in adults. Also, the incisive suture is usually still
+open under the age of 12 years and is thus rarely visible in
+the adult. Usually, the anterior and posterior fontanelles
+close at the age of one and a half years old and three months
+old, respectively. The coronal, sagittal, and lambdoid sutures
+are still visible in the adult; however, some smaller sutures
+are often completely fused in adults. Knowledge of these
+sutures is vital to understanding clinical pathologies such as
+craniosynostosis, hydrocephalus, fractures, and rapid maxillary expansion.
+
+Sagittal suture
+Coronal suture
+
+Fig. 2.13 Metopic suture on 3D reconstructed CT
+
+Coronal suture
+Sphenofrontal suture
+
+Sphenoparietal suture
+
+Frontal bone
+
+Coronal suture
+
+Sphenosquamous suture
+
+Parietal bone
+Sagittal suture
+
+Occipital bone
+
+Fig. 2.14 Sutures in the temporal fossa
+
+Lambdoid suture
+Sagittal suture
+
+Fig. 2.11 Superior view showing the sutures of the calvaria
+
+Wormian bone
+Metopic suture
+Frontal bone
+
+Coronal suture
+
+Lambdoid suture
+
+Parietal bone
+Sagittal suture
+Lambdoid suture
+Occipital bone
+
+Fig. 2.12 Superior view of the calvaria with a metopic suture (also
+known as the frontal suture)
+
+Fig. 2.15 Sutures of the posterior calvaria with a Wormian bone
+also known as an intrasutural or sutural bone
+
+2.2 Sutures of the Skull
+
+11
+Frontonasal suture
+
+Coronal suture
+Squamous suture
+Parietomastoid suture
+
+Frontomaxillary suture
+
+Lambdoid suture
+Occipitomastoid suture
+
+Nasomaxillary suture
+
+Fig. 2.16 Sutures of the lateral and posterior skull
+Fig. 2.19 Anterior view of the sutures around the nasal bones
+
+Parietomastoid
+suture
+
+Lambdoid suture
+Occipitomastoid
+suture
+
+Frontonasal suture
+
+Nasion
+
+Frontomaxillary suture
+
+Internasal suture
+
+Mastoid foramen
+
+Nasomaxillary suture
+
+Fig. 2.17 Sutures and foramina around the mastoid process
+
+Fig. 2.20 Oblique view of the sutures related to the nasal bones
+Palate
+Zygomatic arch
+Petrosphenoidal fissure
+
+Petrotympanic fissure
+
+Foramen
+magnum
+
+Fig. 2.18 Fissures of the inferior skull
+Ethmoidomaxillary suture
+
+Fig. 2.21 Sutures of the medial wall of the orbit
+
+12
+
+2
+
+Bones of the Head and Neck
+
+Supraorbital foramen
+Frontosphenoidal suture
+
+Frontozygomatic suture (Orbital part)
+Sphenozygomatic suture
+
+Zygomaticomaxillary suture (Orbital part)
+
+Zygomaticomaxillary suture (Facial part)
+
+Fig. 2.22 Sutures of the lateral wall of the orbit
+
+Frontozygomatic suture
+(Temporal part)
+
+Inferior orbital fissure
+
+Sphenozygomatic suture
+Zygomaticotemporal foramen
+Zygomaticomaxillary suture
+(Infratemporal part)
+Zygomaticomaxillary suture
+(Infratemporal part)
+
+Inferior orbital fissure
+
+Fig. 2.25 Posteroinferior view
+
+Fig. 2.23 Posterior view of the zygoma
+
+Optic canal
+
+Median palatine suture
+
+Frontozygomatic suture
+Sphenoethmoidal suture
+
+Intermaxillary suture
+
+Infraorbital foramen
+
+Temporozygomatic suture
+
+Zygomaticofacial foramen
+Mental foramen
+
+Zygomaticomaxillary suture
+(Facial part)
+
+Fig. 2.26 Anterior view
+Fig. 2.24 Lateral view of the zygoma
+
+2.3 Separate Bones
+
+13
+
+2.3
+Palatoethmoidal suture
+
+Inferior orbital fissure
+
+Palatomaxillary suture
+
+Separate Bones
+
+Summary
+In this chapter, the features of the bones forming the skull
+will be discussed:
+Frontal, occipital, temporal, parietal, maxillary, zygomatic, sphenoid, ethmoid, nasal, inferior nasal concha, palatine, lacrimal, mandible, vomer, and hyoid bones. In addition,
+the auditory ossicles, i.e., malleus, incus, and stapes are also
+discussed.
+
+Fig. 2.27 Sutures in the posterior orbit
+
+Squamous part
+Orbital part
+Nasal part
+Anterior nasal spine
+Pterygomaxillary suture
+
+Fig. 2.31 The frontal bone consists of squamous, orbital, and nasal
+parts
+
+Fig. 2.28 Lateral view of the maxilla
+
+Incisive foramen
+Median palatine suture
+Transverse palatine suture
+
+Greater and lesser palatine
+foramina
+
+Fig. 2.29 Inferior view of the palate
+
+Incisive suture
+
+Median palatine suture
+Transverse palatine suture
+
+Fig. 2.30 Inferior view of the palate with an incisive suture
+
+14
+
+2
+
+Bones of the Head and Neck
+
+Parietal border
+
+Frontal eminence
+
+Superciliary arch
+
+Supraorbital margin
+Zygomatic process
+Glabella
+Supraorbital notch
+Nasal border
+
+Nasal margin
+
+Fig. 2.32 Anterior view of the external surface of the frontal bone
+
+Superciliary arch
+
+Glabella
+
+Supraorbital notch
+Trochlear fovea
+Fossa for lacrimal gland
+
+Orbital surface
+
+Nasal spine
+
+Sphenoidal margin
+Roof of the ethmoidal cells
+
+Ethmoidal notch
+
+Fig. 2.33 Inferior view of the frontal bone
+
+2.3 Separate Bones
+
+15
+
+Groove for superior sagittal sinus
+
+Frontal crest
+Foramen cecum
+
+Orbital plate
+
+Sphenoidal margin
+
+Fig. 2.34 Posterior view (internal surface) of the frontal bone
+
+Temporal line
+Parietal margin
+
+Squamous part
+Lateral parts
+
+Temporal surface
+
+Basilar part
+
+Superciliary arch
+Zygomatic process
+
+Fig. 2.36 The occipital bone consists of the squamous, lateral, and
+basilar parts
+Fig. 2.35 Lateral view of the frontal bone (left side)
+
+16
+
+2
+
+Bones of the Head and Neck
+
+Cruciform eminence
+
+Cerebral fossa
+
+Hypoglossal canal
+
+Internal occipital protuberance
+Groove for transverse sinus
+
+Internal occipital crest
+
+Cerebellar fossa
+
+Groove for marginal sinus
+
+Fig. 2.37 Oblique view of the internal surface of the occipital bone
+
+External occipital protuberance
+Superior nuchal line
+External occipital crest
+Inferior nuchal line
+Opisthion
+Frontal crest
+Foramen cecum
+
+Foramen
+magnum
+
+Condylar fossa
+
+Jugular process
+Occipital condyle
+Basion
+Pharyngeal tubercle
+
+Fig. 2.38 Inferior view of the external surface of the occipital bone
+
+2.3 Separate Bones
+
+17
+
+Lambdoidal border
+
+Cerebral fossa
+Internal occipital protuberance
+Groove for transverse sinus
+
+Groove for occipital sinus
+Cerebellar fossa
+
+Mastoid border
+
+Condylar canal
+
+Clivus
+Groove for sigmoid sinus
+
+Jugular notch
+Jugular tubercle
+
+Fig. 2.39 Anterior view of the internal surface of the occipital bone
+
+Squamous part
+
+Petrous part
+
+Tympanic part
+
+Fig. 2.40 Temporal bone consists of squamous, petrous, and tympanic parts
+
+2
+
+Parietal border
+
+Bones of the Head and Neck
+Superior
+
+18
+
+Anterior
+
+Groove for middle temporal artery
+Squamomastoid suture
+Sphenoidal margin
+Parietal notch
+
+Suprameatal fovea
+Suprameatal spine
+Mastoid notch
+Mastoid process
+Tympanomastoid fissure
+
+Zygomatic process
+
+Articular tubercle
+(articular eminence)
+Mandibular fossa
+Tympanosquamous fissure
+External acoustic meatus
+and opening
+Sheath of styloid process
+Styloid process
+
+Fig. 2.41 External surface of the right temporal bone. The suprameatal spine is a projection for attachment of the auricular cartilage
+
+Superior
+
+Parietal border
+
+Anterior
+
+Cerebral surface
+Arcuate eminence
+Sphenoidal margin
+
+Petrosquamous fissure
+Parietal notch
+
+Tegmen tympani
+
+Trigeminal impression
+Internal acoustic meatus and opening
+Apex of petrous part
+Groove for inferior petrosal sinus
+
+Fig. 2.42 Internal surface of the right temporal bone
+
+Groove for superior
+petrosal sinus
+Occipital margin
+Subarcuate fossa
+Opening of vestibular canaliculus
+Groove for sigmoid sinus
+Mastoid foramen
+Intrajugular process
+Jugular notch
+Styloid process
+
+2.3 Separate Bones
+
+19
+External acoustic meatus
+Tympanosquamous fissure
+
+Tympanomastoid fissure
+Mastoid process
+
+Zygomatic process
+
+Mastoid notch
+Mandibular fossa
+Styloid process
+Groove for occipital artery
+Stylomastoid foramen
+Sheath of styloid process
+
+Petrosquamous fissure
+
+Jugular fossa
+
+Petrotympanic fissure
+Carotid canal (internal opening)
+Carotid canal (external opening)
+Opening of cochlear canaliculus
+
+Fig. 2.43 Inferior view of the right temporal bone. Within the mandibular fossa, the tympanosquamous fissure runs laterally, and the tegmental
+crest divides into a petrosquamous fissure (anterior to the tegmental crest) and petrotympanic fissure (posterior to the tegmental crest) medially
+
+Zygomatic process
+
+Tegmen tympani
+
+Groove for superior
+petrosal sinus
+
+Groove for lesser petrosal nerve
+Groove for greater petrosal nerve
+Arcuate eminence
+
+Trigeminal impression
+
+Fig. 2.44 Superior view of the right temporal bone
+
+20
+
+2
+
+Bones of the Head and Neck
+
+Arcuate eminence
+
+Trigeminal impression
+
+Zygomatic process
+
+Carotid canal (internal opening)
+
+Mastoid process
+
+Sheath of styloid process
+
+Styloid process
+
+Fig. 2.45 Anterior view of the right temporal bone
+
+Superior
+
+Sagittal border
+
+Anterior
+Occipital angle
+Frontal angle
+
+Parietal eminence
+
+Frontal border
+
+Occipital border
+
+Superior temporal line
+
+Inferior temporal line
+
+Mastoidal angle
+
+Sphenoidal angle
+Squamosal border
+
+Fig. 2.46 External surface of the left parietal bone
+
+21
+Superior
+
+2.3 Separate Bones
+
+Sagittal border
+Groove for superior sagittal sinus
+
+Anterior
+Frontal angle
+
+Occipital angle
+
+Parietal foramen
+Occipital border
+
+Frontal border
+
+Groove for middle
+meningeal artery (parietal branch)
+
+Groove for middle
+meningeal artery (frontal
+branch)
+
+Groove for sigmoid sinus
+Mastoid angle
+
+Squamosal border
+
+Sphenoidal angle
+
+Fig. 2.47 Internal surface of the left parietal bone
+
+Body
+Alveolar process
+
+Frontal process
+
+Palatine process
+
+Zygomatic process
+
+Fig. 2.48 The maxilla consists of a body, alveolar process, frontal process, palatine process, and zygomatic process
+
+22
+
+2
+
+Bones of the Head and Neck
+Anterior nasal spine
+
+Incisive foramen
+
+Dental alveoli
+
+Zygomatic process
+Zygomatic border
+
+Alveolar arch
+
+Interalveolar septa
+
+Sagittal border
+Palatine process
+
+Interradicular septa
+Palatine spine
+Palatine groove
+Palatine border
+
+Fig. 2.49 Inferior view of the right maxilla
+
+Lateral
+Anterior
+
+Pterygopalatine fossa
+Orbital surface
+
+Infraorbital groove
+
+Palatine border
+
+Zygomatic border
+Sagittal border
+Zygomatic process
+Lacrimal groove
+Infraorbital canal
+
+Lacrimal notch
+
+Fig. 2.50 Superior view of the right maxilla
+
+2.3 Separate Bones
+
+Frontal process
+
+23
+Frontal border
+
+Nasal border
+
+Infraorbital foramen
+(opening is not
+shown)
+
+Zygomatic border
+
+Sagittal border
+
+Zygomatic process
+
+Anterior nasal spine
+
+Fig. 2.51 Anterior view of the right maxilla
+
+Frontal border
+
+Frontal process
+
+Lacrimal margin
+Lacrimal groove
+
+Nasal border
+
+Orbital surface
+Lacrimal notch
+Infraorbital groove
+
+Pterygopalatine fossa
+
+Infraorbital margin
+Infraorbital foramen
+
+Zygomatic process
+
+Nasal notch
+Anterior nasal spine
+
+Alveolar canals
+
+Maxillary tuberosity
+
+Fig. 2.52 Lateral view of the right maxilla
+
+Canine fossa
+Alveolar yokes
+
+24
+
+2
+Frontal process
+
+Bones of the Head and Neck
+
+Lacrimal margin
+Lacrimal groove
+
+Ethmoidal crest
+Infraorbital canal
+
+Anterior lacrimal crest
+
+Maxillary sinus
+
+Conchal crest
+
+Greater palatine groove
+Incisive canal
+Nasal crest
+Palatine process
+Alveolar process
+
+Fig. 2.53 Medial view of the right maxilla
+
+Frontal process
+
+Infraorbital groove
+
+Alveolar canals
+Zygomatic process
+Palatine process
+
+Maxillary tuberosity
+
+Fig. 2.54 Posterior view of the right maxilla
+
+2.3 Separate Bones
+
+25
+
+Superior
+
+Frontal border
+
+Frontal process
+
+Anterior
+Orbital tubercle
+
+Zygomaticofacial foramina
+Temporal process
+
+Temporal border
+
+Maxillary border
+
+Fig. 2.55 Lateral view of the left zygoma
+
+Superior
+
+Frontal border
+
+Frontal process
+
+Anterior
+
+Marginal tubercle
+
+Orbital surface
+
+Zygomaticotemporal
+foramen
+
+Temporal border
+
+Maxillary border
+Temporal process
+
+Fig. 2.56 Medial view of the left zygoma
+
+26
+
+2
+
+Bones of the Head and Neck
+
+Zygomaticoorbital foramina
+
+Orbital tubercle
+
+Zygomaticotemporal foramen
+
+Infratemporal surface
+
+Orbital surface
+
+Fig. 2.57 Left zygoma. The orbital tubercle is a small eminence within the orbit and is for the attachment of the lateral palpebral ligament
+
+Body
+
+Lesser wing
+
+Greater wing
+
+Pterygoid process
+
+Fig. 2.58 The sphenoid bone consists of a body, lesser wings, greater wings, and pterygoid processes
+
+2.3 Separate Bones
+
+27
+
+Superior
+
+Sphenoidal crest
+
+Lateral
+
+Frontal margin
+
+Parietal margin
+Temporal surface
+Squamosal margin
+Superior orbital fissure
+
+Zygomatic margin
+
+Infratemporal crest
+
+Orbital surface
+
+Sphenoidal sinus
+
+Sphenoidal concha
+
+Pterygoid canal
+Vaginal process
+
+Sphenoidal rostrum
+
+Pterygoid hamulus
+
+Fig. 2.59 Anterior view of the sphenoid bone
+
+Superior
+Lateral
+Anterior clinoid process
+Cerebral surface
+Superior orbital fissure
+Foramen rotundum
+Sphenoid lingula
+Sulcus of auditory tube
+Spine of sphenoid bone
+
+Carotid sulcus
+Dorsum sellae
+
+Pterygoid canal
+Scaphoid fossa
+
+Pterygoid notch
+Pterygoid hamulus
+
+Lateral plate
+Pterygoid fossa
+Medial plate
+
+Fig. 2.60 Posterior view of the sphenoid bone
+
+28
+
+2
+Anterior
+
+Lateral
+
+Limbus of sphenoid
+
+Bones of the Head and Neck
+
+Sphenoidal yoke
+Chiasmatic sulcus
+Frontal margin
+
+Tuberculum sellae
+
+Optic canal
+Superior orbital fissure
+
+Hypophysial fossa of
+sella turcica
+
+Anterior clinoid process
+
+Foramen rotundum
+Foramen ovale
+
+Carotid sulcus
+
+Foramen spinosum
+
+Posterior clinoid process
+Dorsum sellae
+
+Fig. 2.61 Superior view of the sphenoid bone
+
+Anterior
+
+Lateral
+
+Sphenoidal rostrum
+
+Frontal margin
+
+Temporal surface
+Infratemporal crest
+Maxillary surface
+
+Infratemporal surface
+Foramen ovale
+Foramen spinosum
+
+Fig. 2.62 Inferior view of the sphenoid bone
+
+Superior
+
+Posterior
+
+Parietal margin
+Frontal margin
+
+Squamosal margin
+
+Temporal surface
+Zygomatic margin
+Spine of sphenoid
+Pterygospinous process
+
+Fig. 2.63 Lateral view of the sphenoid bone (right side)
+
+Infratemporal crest
+
+2.3 Separate Bones
+
+29
+
+Cribriform plate
+
+Ethmoidal labyrinth
+
+Perpendicular plate
+
+Anterior view
+
+Superior view
+
+Fig. 2.64 The ethmoid bone consists of the cribriform plate, ethmoidal labyrinth, and perpendicular plate
+
+Superior
+
+Crista galli
+
+Lateral
+Ala of crista galli
+
+Ethmoidal cells
+Perpendicular plate
+
+Middle nasal concha
+
+Ethmoidal bulla
+
+Fig. 2.65 Anterior view of the ethmoid bone
+
+Uncinate process
+
+30
+
+2
+
+Bones of the Head and Neck
+
+Superior
+
+Crista galli
+
+Lateral
+Ala of crista galli
+
+Ethmoidal cells
+Perpendicular plate
+
+Supreme nasal concha
+
+Superior nasal concha
+Middle nasal concha
+
+Fig. 2.66 Posterior view of the ethmoid bone
+
+Superior
+
+Crista galli
+
+Anterior
+
+Ala of crista galli
+
+Orbital plate
+
+Perpendicular plate
+
+Fig. 2.67 Lateral (left) view of the ethmoid bone
+
+Cribriform plate
+
+2.3 Separate Bones
+
+31
+
+Anterior
+Perpendicular plate
+
+Lateral
+
+Anterior, middle, posterior
+ethmoidal cells
+
+Ala of crista galli
+
+Crista galli
+
+Cribriform plate
+Cribriform foramina
+
+Fig. 2.68 Superior view of the ethmoid bone
+
+Anterior
+Lateral
+
+Uncinate process
+Middle nasal concha
+Perpendicular plate
+
+Fig. 2.69 Ethmoid bone inferior view
+
+32
+
+2
+Frontal border
+
+Bones of the Head and Neck
+
+Frontal border
+
+Nasal foramina
+
+Sagittal border
+
+Maxillary border
+
+Sagittal border
+
+Maxillary border
+
+Ethmoidal groove
+
+External surface
+
+Internal surface
+
+5mm
+
+Fig. 2.70 External and internal surfaces of the left nasal bone. The ethmoidal groove accommodates the external nasal branch of the anterior
+ethmoidal nerve (originally from the nasociliary nerve). The nasal foramina are pathways for small veins
+
+Superior
+
+Ethmoidal process
+
+Anterior
+Lacrimal process
+Palatine process
+
+5mm
+
+Fig. 2.71 Medial view of the right inferior nasal concha
+
+Superior
+
+2.3 Separate Bones
+
+33
+
+Ethmoidal process
+Anterior
+Lacrimal process
+
+Palatine process
+
+Maxillary process
+
+Fig. 2.72 Lateral view of the right inferior nasal concha
+
+Perpendicular plate
+
+Pyramidal process
+
+Orbital process
+
+Horizontal plate
+
+Sphenoidal process
+
+Fig. 2.73 The palatine bone consists of the perpendicular plate, pyramidal process, orbital process, horizontal process, and sphenoidal process
+
+34
+
+2
+
+Bones of the Head and Neck
+
+Superior
+
+Orbital process
+Lateral
+Sphenopalatine notch
+Sphenoidal process
+
+Perpendicular plate
+Conchal crest
+Nasal surface
+
+Lesser palatine canal
+
+Nasal crest
+Posterior nasal spine
+Pyramidal process
+Horizontal plate
+(Palatine surface)
+
+Articulates with medial plate
+of pterygoid process
+
+Fig. 2.74 Posterior view of the right palatine bone
+
+Sphenopalatine notch
+
+Superior
+
+Orbital process
+
+Anterior
+
+Lesser palatine canal
+
+Greater palatine groove
+
+Fig. 2.75 Lateral view of the right palatine bone
+
+2.3 Separate Bones
+
+35
+
+Superior
+
+Orbital process
+
+Sphenopalatine notch
+
+Anterior
+
+Sphenoidal process
+
+Ethmoidal crest
+
+Superior nasal meatus
+
+Conchal crest
+
+Middle nasal meatus
+
+Inferior nasal meatus
+
+Lesser palatine foramen
+
+Nasal crest
+
+Fig. 2.76 Medial view of the right palatine bone
+
+Anterior
+Lateral
+
+Greater palatine foramen
+
+Sagittal border
+
+Palatine crest
+
+Pyramidal process
+
+Fig. 2.77 Inferior view of the right palatine bone
+
+Lesser palatine foramen
+
+36
+
+2
+Frontal border
+
+Bones of the Head and Neck
+
+Frontal border
+Posterior lacrimal crest
+
+Maxillary border
+
+Maxillary border
+
+Ethmoidal border
+
+Ethmoidal border
+
+Lacrimal groove
+
+5mm
+
+Lacrimal hamulus
+External (orbital) surface
+
+Anterior surface
+
+Internal (nasal) surface
+
+Fig. 2.78 The left lacrimal bone. The lacrimal groove forms the fossa for the lacrimal sac together with the lacrimal groove of the maxillary bone
+
+Body
+Alveolar process
+Ramus
+
+Fig. 2.79 The mandible consists of a body, ramus, and alveolar part (alveolar process of the mandible)
+
+2.3 Separate Bones
+
+37
+
+Condyle
+
+Ramus
+
+Mandibular symphysis
+
+Mental protuberance
+Mental foramen
+Mental tubercle (bilateral)
+
+Fig. 2.80 Anterior view of the mandible
+
+Median lingual foramen
+Superior mental spine(s)
+
+Lateral lingual foramen
+
+Submandibular fossa
+
+Sublingual fossa
+
+Inferior mental spine(s)
+
+Digastric fossa
+
+Fig. 2.81 Posterior view of the mandible
+
+38
+
+2
+
+Bones of the Head and Neck
+
+Condylar process
+Lingula
+
+Alveolar arch
+
+Coronoid process
+Retromolar triangle
+Body of mandible
+Median lingual foramen
+Superior mental spine(s)
+Inferior mental spine(s)
+Digastric fossa
+
+Fig. 2.82 Superior view of the mandible
+
+Fig. 2.83 Magnified posterior view of the mandible
+
+Alveolar yokes
+Mandibular
+symphysis
+
+Mental
+protuberance
+
+Mental foramen
+
+Mental tubercle
+(bilateral)
+
+Fig. 2.84 Magnified anterolateral view of the mandible. The teeth are embedded in the dental alveoli which result in the the formation of the
+alveolar yokes on the buccal/labial sides
+
+2.3 Separate Bones
+
+39
+
+Pterygoid fovea
+
+Coronoid process
+
+Condylar process
+
+Internal oblique line
+
+Ramus of mandible
+
+External oblique line
+
+Masseteric tuberosity
+
+Fig. 2.85 Anterolateral view of the mandibular ramus
+
+Pterygoid fovea
+Coronoid process
+
+Condylar process
+
+Neck of mandible
+Temporal crest
+Mandibular notch
+Lingula
+Retromolar fossa
+
+Mandibular foramen*
+
+Mylohyoid groove
+
+Pterygoid tuberosity
+
+Angle of mandible
+Mylohyoid line
+
+Fig. 2.86 Medial view of the mandible. *The 2nd edition of
+Terminologia Anatomica uses inferior alveolar foramen for the mandibular foramen (the mandibular foramen is listed as a synonym).
+
+FIPAT. (2019) TerminologiaAnatomica 2nd ed. FIPAT.library.dal.ca.
+Federative International Programme for Anatomical Terminology
+
+2
+
+Bones of the Head and Neck
+
+Superior
+
+40
+
+Anterior
+Ala of vomer
+
+Cuneiform part of vomer
+
+Sphenoidal border
+Ethmoidal border
+
+Vomerine crest of choana
+Posterior border
+Vomerine groove
+
+Palatine border
+10mm
+
+Fig. 2.87 Lateral (right) view of the vomer. The nasopalatine nerve and sphenopalatine vessels run on the vomerine groove
+
+Superior
+
+Left
+
+Anterior
+Right
+
+Ala of vomer
+
+Vomerine
+crest of choana
+
+Fig. 2.88 Posterolateral (right) view of the vomer
+
+Cuneiform part of vomer
+
+2.3
+
+Separate Bones
+
+41
+Greater horn
+
+Lesser horn
+
+Body
+
+Fig. 2.89 Anterior view of the hyoid bone
+
+Facet for incus
+
+Facet for malleus
+
+Head
+
+Neck
+
+Short limb
+
+Malleus
+Incus
+
+Lateral process
+
+Body
+Long limb
+Anterior process
+Lenticular process
+
+Tympanic membrane
+
+Head
+
+Manubrium (handle)
+
+Neck
+
+Posterior crus
+
+Anterior crus
+Stapes
+
+Footplate
+
+2mm
+
+Fig. 2.90 Right auditory ossicles
+
+42
+
+2.4
+
+2
+
+Bones of the Head and Neck
+
+Cervical Vertebrae
+
+Summary
+There are seven cervical vertebrae. C1, C2, and C7 vertebrae
+show unique features so they are also known by the names
+atlas, axis, and vertebra prominens, respectively. The occipital bone, C1 and C2 form the craniocervical junction.
+Knowledge of normal bony features of each cervical vertebra
+helps in understanding the regional anatomy and its variations. In this section, the osteology of the cervical vertebrae
+will be discussed.
+
+C1
+
+C2
+
+C3
+
+C4
+
+C5
+
+*
+
+*
+
+C6
+
+C7
+
+Anterior view
+
+Fig. 2.91 The cervical vertebrae. The superior articular surfaces of C1
+articulate with the occipital condyles and the inferior articular facet of
+C7 joins with the superior articular facet of T1. The philtrum of the
+upper lip can serve as a landmark for the position of the dens (Fisahn
+
+Posterior view
+
+Lateral view
+
+et al. 2018). The carotid tubercle (of Chassaignac) (*) i.e., the anterior
+tubercle of C6 is used as an anatomical landmark for regional anesthesia such as a brachial plexus blockade
+
+2.4 Cervical Vertebrae
+
+43
+Tubercle for transverse ligament
+Anterior tubercle
+Anterior arch
+Vertebral foramen
+
+Transverse foramen
+
+Transverse process
+
+Lateral mass
+
+Groove for vertebral artery
+Posterior arch
+Superior articular surface
+
+Posterior tubercle
+
+Superior view
+
+Inferior articular surface
+
+Inferior view
+
+Fig. 2.92 Superior and inferior views of the first cervical vertebra (atlas)
+
+Articular facet for dens
+Anterior tubercle
+
+*
+
+*
+
+Posterior tubercle
+Anterior view
+
+Posterior view
+
+Fig. 2.93 Anterior and posterior views of the first cervical vertebra (atlas). A lateral ponticle of the transverse process* (anatomical variation) is
+observed on the right side
+
+44
+
+2
+
+Bones of the Head and Neck
+
+Dens
+Anterior articular facet
+Posterior articular facet
+Superior articular facet
+
+Pedicle
+
+Inferior articular facet
+
+Lamina
+Spinous process
+Posterior view
+
+Anterior view
+
+Fig. 2.94 Anterior and posterior views of the second cervical vertebra (axis)
+
+Body
+
+Superior articular facet
+
+Anterior tubercle
+Costal lamella
+Posterior tubercle
+
+Groove for
+spinal nerve
+
+Pedicle
+
+Lamina
+
+Inferior articular facet
+
+Lateral view
+
+Fig. 2.95 Lateral and inferior views of the third and fifth cervical vertebrae
+
+Spinous process
+
+Inferior view
+
+Reference
+
+45
+Body
+
+Uncinate process
+Transverse foramen
+
+Lamina
+Pedicle
+
+Spinous process
+Posterior view
+
+Fig. 2.96 Posterior and superior views of the seventh cervical vertebra, also known as the vertebra prominens, with similar features as the
+C3–C6 vertebrae but with a more prominent spinous process. The specimen shown has a septated right transverse foramen (arrows). The ver-
+
+Reference
+Fisahn C, Montalbano MJ, Iwanaga J, Moisi M, Loukas M, Chapman
+JR, Oskouian RJ, Tubbs RS. A new superficial landmark for the
+odontoid process: a cadaveric study. Anat Sci Int. 2018;93(2):
+203–6. https://doi.org/10.1007/s12565-017-0390-1.
+
+Superior view
+
+tebral arteries usually enter the transverse foramina of C6 and ascend to
+C1. The transverse foramina of C7 usually transmit vertebral veins and
+not the vertebral arteries
+
+3
+
+Anatomy of the Oral Cavity
+
+3.1
+
+Surface Anatomy of the Oral Cavity
+
+Summary
+In this section, the surface structures of the oral cavity, which
+are necessary to understand the mimetic muscles and floor of
+the mouth, will be reviewed.
+
+Upper labial frenulum
+
+Buccal frenula
+
+Uvula
+
+Palatopharyngeal arch
+
+Papilla of
+parotid duct opening
+
+Palatoglossal arch
+
+Palatine tonsil
+
+Lower labial frenulum
+
+Buccal frenulum
+
+Fig. 3.1 Surface anatomy of the oral cavity. © Fisher/Tubbs 2020. All Rights Reserved
+
+© Springer Nature Switzerland AG 2021
+J. Iwanaga, R. S. Tubbs, Atlas of Oral and Maxillofacial Anatomy, https://doi.org/10.1007/978-3-030-78327-3_3
+
+47
+
+48
+
+3
+
+Upper labial frenulum
+
+Anatomy of the Oral Cavity
+
+Fimbriated fold
+
+Lingual frenulum
+
+Sublingual fold
+Sublingual caruncle
+Buccal frenulum
+
+Courtesy of Dr. Shiromoto
+
+Fig. 3.2 Frontal view
+
+Courtesy of Dr. Shiromoto
+
+Fig. 3.4 Surface anatomy of floor of the mouth
+
+Upper labial frenulum
+Buccal frenulum
+
+Papilla of
+parotid duct
+
+Buccal frenulum
+
+Courtesy of Dr. Shiromoto
+
+Fig. 3.3 Surface anatomy of the oral vestibule
+
+3.2
+
+Related Mimetic Muscles
+
+Summary
+Maxillofacial surgery necessitates a comprehensive anatomical knowledge of the mimetic muscles and thus these have
+been well depicted in anatomy and surgical textbooks.
+However, extraoral views of the mimetic muscles are not
+applicable for dentistry or oral surgery as these specialties
+need an intraoral perspective. For a better understanding,
+intraoral dissection of the mimetic muscles is necessary. In
+this chapter, the mimetic muscles are shown via intraoral dissection that is the same view as dentists and oral surgeons
+see in their daily practice. Of all mimetic muscles, the incisivus labii inferioris and superioris muscles have not been well
+described in the literature.
+
+3.2 Related Mimetic Muscles
+
+49
+Orbicularis oris (upper)
+
+Incisivus labii superioris
+Levator anguli oris
+
+Levator anguli oris
+Orbicularis oris
+
+Buccinator
+
+Buccinator
+
+Depressor anguli oris
+Depressor anguli oris
+
+Orbicularis oris (lower)
+
+Incisivus labii inferioris
+
+Mentalis
+
+Fig. 3.5 Schema of the mimetic muscles from an oral cavity view. The incisivus labii superioris and inferioris muscles are shown. These muscles
+contribute to the oral vestibule of the oral cavity. © Fisher/Tubbs 2020. All Rights Reserved
+
+Orbicularis oris (upper)
+Incisivus labii superioris
+
+Levator anguli oris
+
+Levator anguli oris
+Buccal space
+Buccinator
+Buccinator
+
+Buccinator
+Bucco-mandibular space
+
+Buccinator
+Depressor anguli oris
+
+Mental foramen
+Incisivus labii inferioris
+Incisivus labii inferioris
+Orbicularis oris (lower)
+Mentalis
+
+Fig. 3.6 Intraoral dissection of the mimetic muscles. Superiorly, there is an entrance into the buccal space between the buccinator and incisivus
+labii superioris. Inferiorly, there is entrance into the bucco-mandibular space between the buccinator and incisivus labii inferioris muscles
+
+50
+
+3
+Intraoral view
+
+Anatomy of the Oral Cavity
+
+Extraoral view
+
+Buccinator
+BMS
+BMS
+
+Incisivus labii inferioris
+
+Fig. 3.7 Intraoral and extraoral view of the buccomandibular space
+(BMS). Intraorally, BMS’s entrance into is shown between the buccinator and incisivus labii inferioris muscles. Extraorally the BMS lies lat-
+
+3.3
+
+Maxilla and Maxillary Sinus
+
+eral to the buccinator and does not have continuation with the buccal
+space superiorly (Iwanaga et al. 2017). © Fisher/Tubbs 2020. All Rights
+Reserved
+
+processes of the maxilla and lies inferolateral to the nasal
+cavity, which is normally positioned from the mesial part of
+Summary
+the upper first premolar to the distal part of the upper third
+The maxillary sinus is one of the four paranasal sinuses that molar with the lowest at the first and second molar teeth. In
+is related to both dentistry and rhinology as it is adjacent to implant dentistry, the maxillary sinus is related to augmentathe nasal and oral cavities. The maxillary sinus is pyramid-­ tion procedures (sinus lift) of the sinus floor and thus a thorshaped and is the largest of the paranasal sinuses. The floor ough understanding of surrounding structures, e.g., posterior
+of the maxillary sinus is formed by the palatine and alveolar superior alveolar artery, is vital for avoiding complications.
+
+3.3 Maxilla and Maxillary Sinus
+
+51
+
+Orbit
+
+Maxillary
+sinus
+
+Posterior superior
+alveolar artery/nerve
+
+Nasal cavity
+
+Teeth
+
+Fig. 3.8 The maxillary sinus is one of the four paranasal sinuses and is surrounded by various structures such as the nasal cavity medially, the
+posterior superior alveolar nerve/vessels posterolaterally, the apices of the molar teeth inferiorly, and the orbit superiorly
+
+Posterior nasal spine
+Lateral plate of pterygoid process
+
+Maxillary process of zygoma
+
+Maxillary sinus
+
+Zygomaticomaxillary suture
+Zygomatic process of maxilla
+
+Nasal floor
+Anterior nasal spine
+
+Fig. 3.9 Superior view of the floor of the maxillary sinus. The maxillary sinus is located within the maxilla with the zygoma laterally. The
+maxillary process of the zygoma articulates with the zygomatic process
+of the maxilla. The mean volume of the maxillary sinus in adults is
+
+12.5 ml (range 5.0 to 22 ml), and the mean length, width and height are
+27.96 mm, 19.57 mm, and 25.33 mm, respectively (Gosau et al. 2009;
+Lovasova et al. 2018)
+
+52
+
+3
+
+Anatomy of the Oral Cavity
+
+Maxillary sinus septum
+
+Fig. 3.10 Coronal CT image of the maxillary sinuses. The infraorbital
+canals (arrows) run right above the superior wall of the maxillary sinus.
+Within the canal, the infraorbital nerve and vessels travel to emerge
+from the infraorbital foramina. In this image, the nasal septum is
+slightly deviated to the left side
+
+a
+
+b
+
+Fig. 3.11 Left maxillary sinus with anterior cadaveric views (a–c) and
+coronal CBCT image (d). (a) The maxillary sinus wall is still intact but
+the ostium is not visible; (b) The superior and anterior walls of the
+maxillary sinus have been removed and the sinus membrane is shown
+
+Fig. 3.12 Maxillary sinus septum following down-fracture of the maxilla during Le Fort I osteotomy (Courtesy of Dr. Ibaragi)
+
+c
+
+d
+
+but the ostium is not visible (b); The sinus membrane is removed and
+the ostium is visible (arrow); (d) Coronal image of the maxillary sinus
+and its ostium (arrow)
+
+3.3 Maxilla and Maxillary Sinus
+
+53
+Maxillary sinus septum
+(Deep to the bony surface)
+
+Maxillary sinus septa
+
+Schneiderian membrane
+
+Fig. 3.13 Maxillary sinus septum during sinus lift (Courtesy of Dr.
+Ibaragi)
+
+Maxillary sinus septum
+
+Fig. 3.15 CBCT axial image of maxillary sinus septa
+
+Maxillary sinus septum
+Palate
+
+Fig. 3.14 CBCT sagittal image of the maxillary sinus septum
+
+Fig. 3.16 CBCT coronal image of the maxillary sinus septum
+
+Lateral plate of pterygoid
+process
+
+Pterygopalatine fossa
+(deep to the
+pterygomaxillary fissure)
+
+Posterior wall of maxillary
+sinus
+
+Fig. 3.17 Lateral view of the skull. The posterior superior alveolar
+nerve/vessels enter the posterior wall of the maxillary sinus (circle).
+Note that the pterygopalatine fossa deep to the pterygomaxillary fissure
+
+is formed between the posterior wall of the maxillary sinus and lateral
+plate of the pterygoid process of the sphenoid
+
+54
+
+3
+
+Anatomy of the Oral Cavity
+PSACs
+
+PSACs
+
+Maxillary artery
+Posterior superior
+alveolar artery
+
+Fig. 3.18 Schematic drawing of the arterial supply of the maxilla. The
+posterior superior alveolar artery arises from the maxillary artery within
+and around the pterygopalatine fossa. It forms an arterial plexus with
+the anterior and middle superior alveolar arteries to supply the maxillary sinus and upper teeth. © Fisher/Tubbs 2020. All Rights Reserved
+
+PSACs
+
+PSACs
+
+Fig. 3.20 Although reports in the literature on implant dentistry have
+referred to these canals as posterior superior alveolar arteries and have
+performed morphometric analysis such as the diameter and length of the
+“arteries,” the only structures seen in the CT/CBCT images are bony
+canals or grooves, not the vessels or nerves. Here, we only refer to these
+structures as posterior superior alveolar canals (PSACs) in CBCT images
+
+Anterior superior alveolar canal (Canalis sinuosus)
+Middle superior alveolar canal
+
+Fig. 3.19 Anterior and middle superior alveolar canals run within the anterior and lateral walls of the maxillary sinus, respectively
+
+55
+
+Superior
+
+3.3 Maxilla and Maxillary Sinus
+
+Anterior
+
+Maxillary artery
+Posterior superior alveolar nerve
+Posterior superior alveolar artery
+
+Ramus of mandible
+
+Fig. 3.21 Lateral cadaveric dissection of the face. Note that all of the
+soft tissues except the posterior superior alveolar artery and nerve
+(PSAA/PSAN) on the right lateral face have been removed to see the
+
+relationship between the PSAA/PSAN and bone. The PSAA arises from
+the maxillary artery and gives rise to multiple branches. The PSAN
+leaves the maxillary nerve (not shown here) in the pterygopalatine fossa
+
+Fig. 3.22 Cadaveric demonstration of posterior superior alveolar nerve blockade. Blockade of the posterior superior alveolar nerve can damage
+the posterior superior alveolar artery due to its close relationship (right image)
+
+56
+
+3
+
+ms
+
+ms
+
+ms
+
+ms
+
+Anatomy of the Oral Cavity
+
+mental nerve supplies the skin of the lower lip and chin areas,
+which are very sensitive. Therefore, even minimal damage to
+the mental nerve can potentially cause discomfort and affect
+a patients’ quality of life. Except resection of malignant
+tumors or other large pathology of the mandible such as ameloblastoma, the mental nerve should be preserved, e.g., dental implant surgery, tooth removal, apicoectomy, and
+mandibular fracture surgery. Therefore, anatomical knowledge of this area should include not only the mental foramen
+but also the accessory mental foramen which could be overlooked on computed tomography if the interpreter is not
+familiar with this variation.
+
+Fig. 3.23 Coronal CT image of the maxillary sinus. The intraosseus
+course of the posterior superior alveolar canals are shown (yellow
+arrows). Various studies reported that an intraosseus course, within the
+maxillary sinus, and a superficial course (external cortex) are seen in
+47–71%, 13–47%, and 5–6%, respectively (Tehranchi et al. 2017;
+Chitsazi et al. 2017; Pandharbale et al. 2016; Danesh-sani et al. 2017).
+The red arrow indicates the concavity where periosteal elevation could
+be challenging during sinus lift due to its depth and angle
+
+3.4
+
+Mental Area
+
+Summary
+The mental area is often incised during oral surgery. The
+mental nerve and vessels pass through the mental foramen.
+In dentistry, some dentists believe that “touching the mental
+foramen” means results in paresthesia although this might be
+an exaggeration. However, as a terminal branch of V3, the
+
+MF
+
+Fig. 3.24 In a dentulous mandible, the mental foramen (MF) is usually
+located in the middle of the mandibular body (between the alveolar
+ridge and inferior to the border of the mandible). In most cases, the MF
+is positioned below the second premolar or between the first and second
+premolars and opens posterosuperiorly and this is the so-called “anterior loop” of the mandibular canal
+
+3.4 Mental Area
+
+a
+
+Fig. 3.25 Dentulous mandible. (a) anterior view; (b) superior view
+
+Fig. 3.26 In an edentulous mandible, especially a severely reduced
+mandible, the mental foramen is located on the superior surface of the
+mandibular body. Lateral view
+
+57
+
+b
+
+58
+
+3
+
+a
+
+Anatomy of the Oral Cavity
+
+b
+
+Fig. 3.27 Edentulous mandible. (a) Anterior view; (b) superior view
+
+a
+
+b
+
+Fig. 3.28 Mental foramina (arrows) on coronal cone-beam computed tomography images. (a) dentulous; (b) edentulous
+
+3.4 Mental Area
+
+59
+
+Mandibular foramen
+
+1: Angular branch
+1
+
+2: Lateral labial branch
+
+2
+
+3
+
+3: Medial labial branch
+4: Mental branch
+
+4
+
+Mental foramen
+
+Fig. 3.29 Distribution of the mental nerve. The mental nerve arises from the mental foramen and divides into 3–4 branches. It supplies the angle,
+lower lip, mental area, and buccal (labial) gingiva and mucosa of from the incisors to the premolar area
+
+Upper lip
+
+Lower lip
+
+Angle
+
+*
+Mental nerve
+Fig. 3.30 The mental nerve arising from the mental foramen (left side). It innervates the lower lip, angle of the mouth, and mental area. Note the
+posterior branch (*) communicates with the marginal mandibular branch of CN VII
+
+60
+
+3
+
+a
+
+Anatomy of the Oral Cavity
+
+b
+
+Fig. 3.31 Buccal mucosa in the premolar area and the mental nerve (left mandible). (a) Before dissection; (b) after dissection
+
+a
+
+b
+
+Fig. 3.32 Mental foramen located on the superior surface of the bone and mental nerve in an edentulous mandible (left mandible). (a) Dry mandible; (b) cadaveric dissection
+
+3.4 Mental Area
+
+61
+
+a
+
+b
+
+Mental foramen
+
+Facial artery
+
+Inferior labial artery
+
+Fig. 3.33 Mental artery (arrows) running along with mental nerve. Its diameter is very small compared to the mental nerve. The mental artery
+usually anastomoses with branches of the submental and/or inferior labial artery (Kikuta et al. 2020). (a) Right mandible; (b) magnified picture
+
+Lingual
+Mesial
+
+Distal
+Buccal
+
+Inferior alveolar nerve
+Incisive branch
+
+Mental nerve
+
+Anterior loop
+
+Fig. 3.34 The main trunk of inferior alveolar nerve turns posterosuperiorly to form an “anterior loop” and emerge from the mental foramen (superior view of right mandible). It is reported that anterior loop is observed in 28–94%. The longest loop was 11 mm reported by Neiva et al. (2004)
+
+62
+
+3
+
+a
+
+Anatomy of the Oral Cavity
+
+b
+
+Fig. 3.35 Accessory mental foramina (AMFs, arrows). AMF is defined
+as a foramen located around but smaller than the mental foramen (MF)
+and displaying continuity with the mandibular canal by computed
+
+tomography (Naitoh et al. 2009a; Iwanaga et al. 2016). Accessory mental nerves and/or arteries travel through the AMF (Iwanaga et al. 2015).
+(a) Three-dimensionally reconstracted CT image; (b) Coronal CT image
+
+Lower first molar
+
+Accessory mental foramen
+Accessory mental nerve
+
+Mental foramen
+
+Mental nerve
+
+Fig. 3.36 Accessory mental nerve (AMN) arising from an accessory
+mental foramen (AMF) (right side). Large AMF tends to open near
+the mental foramen. Injury of AMF/AMN could lead to neurosensory
+
+disturbance of the lower lip/mental area. The area of numbness might
+depend on the foramen size and degree of injury (Iwanaga et al.
+2016)
+
+3.5 Mandibular Canal
+
+63
+High position
+
+Moderate risk
+
+High risk
+
+<30% (AMF/MF)
+
+>30% (AMF/MF)
+
+Low risk
+
+Moderate risk
+
+Low position
+High position: superior, anterior or posterior to MF
+Low position: inferior to MF
+
+Fig. 3.37 A high-positioned AMF is more likely to be damaged and a large size AMF is more likely to cause neurosensory disturbance when
+damaged (Iwanaga et al. 2019a, 2019b)
+
+3.5
+
+Mandibular Canal
+
+Summary
+The mandibular canal is a bony canal coursing inside the
+mandible and it carries the inferior alveolar nerve and vessels.
+The mandibular foramen is the entrance of the canal with the
+lingula being located anteromedially and the ramus of the
+mandible laterally. The main component of the canal is the
+inferior alveolar nerve which is more than twice as large as
+the vessels. The structure of the superior wall of the mandibular canal can change with tooth loss. When teeth are present,
+the majority of the superior wall shows a trabecular or osteoporotic pattern, however, with tooth absence, a smooth-type
+wall is seen. After entering the mandibular foramen, the mandibular canal runs anteroinferiorly and gradually approaches
+the lingual cortical plate. When it reaches below the first
+molar, the canal becomes closest to the lingual plate and then
+suddenly changes its angle buccally and courses toward the
+mental foramen with/without an anterior loop. Anatomical
+variations of the mandibular canal will also be demonstrated.
+
+Lingula
+
+Mandibular foramen
+(Inferior alveolar foramen)
+Mylohyoid groove
+
+Fig. 3.38 The mandibular foramen, the entrance of the mandibular
+canal, is located almost at the center of the medial aspect of the ramus
+of the mandible. The lingula is a small tubercle/spine to which the sphenomandibular ligament attaches
+
+64
+
+3
+
+Fig. 3.39 The mandibular canal contains the inferior alveolar nerve/
+vessels. Entering the mandibular foramen, the mandibular canal runs
+anteroinferiorly and slightly medially to approach the lingual cortical
+plate. Below the first molar, the canal becomes closest to the lingual
+
+Anatomy of the Oral Cavity
+
+plate and then suddenly changes its angle buccally and courses toward
+the mental foramen with/without an anterior loop (Yu et al. 2016).
+© Fisher/Tubbs 2020. All Rights Reserved
+
+Mandibular canal
+
+Fig. 3.40 Lateral view of the mandibular canal (right side). The mandibular canal courses inside the mandible. The inferior alveolar nerve/
+vessels give rise to branches to the retromolar area and molar and pre-
+
+molar teeth. The anterior teeth (central and lateral incisors) are supplied
+by incisive branches that leave the main trunk of the nerve
+
+3.5 Mandibular Canal
+
+65
+
+Axial
+
+1
+
+Sagittal
+
+2
+
+3
+
+1
+
+2
+
+4
+Coronal
+
+5
+
+3
+
+4
+
+5
+
+Fig. 3.41 Relationship between the root of the lower third molar and the mandibular canal (red dashed circles) in CBCT
+
+Incisive branch
+
+Fig. 3.42 Superior view of the mandibular canal and the anterior loop
+of the right mandible. The mental neurovascular bundles emerge from
+the mental foramen (red arrow in the left photo). The wall of the man-
+
+dible is removed in the right photo to show the inferior alveolar neurovascular bundle (white arrow)
+
+66
+
+3
+
+Anatomy of the Oral Cavity
+
+Mandibular canal
+
+Vein
+
+Artery
+
+Nerve
+
+Diameter
+Mandibular canal: 2.52mm
+Inferior alveolar artery: 0.42mm
+Inferior alveolar vein: 0.58mm
+Inferior alveolar nerve: 1.84mm
+
+Fig. 3.43 Contents in the mandibular canal. The inferior alveolar
+nerve is usually the largest structure in the canal. Although the majority
+of the canal accommodates the nerve below the artery and vein, various
+positions in the canal have been reported (Kilic et al. 2010; Matani et al.
+2014)
+
+Fig. 3.44 Coronal CBCT images of different mandibles. The distance
+from the alveolar ridge to the mandibular canal decreases with tooth
+loss. This is extremely important when planning dental implant surgery.
+
+Also, complete/partial dentures can cause nerve compression when
+bony resorption is severe
+
+3.5 Mandibular Canal
+
+Fig. 3.45 Cadaveric coronal slices through different mandibles (same
+specimens as the CBCT images in Fig. 3.44). The distance from the
+alveolar ridge to the mandibular canal decreases with tooth loss. This
+
+67
+
+fact is extremely important when planning dental implant surgery. Also
+complete/partial dentures can cause nerve compression when bony
+resorption is severe
+
+Fig. 3.46 A case of a severely resorbed mandible in a patient using a partial denture. The patient presented with severe pain in the right chin area
+when chewing (Courtesy of Dr. Keisuke Noridomi)
+
+68
+
+3
+
+Anatomy of the Oral Cavity
+
+Lekholm and Zarb’ sclassification
+
+Type 1
+
+Type 2
+
+Type 3
+
+Type 4
+
+Fig. 3.47 Lekholm and Zarb’s bone density classification for dental implants (Lekholm and Zarb 1985)
+
+Type of bone
+
+Type 1
+
+Type 2
+
+Type 3
+
+Type 4
+
+Homogeneous
+
+Thick cortical bone
+
+Thin cortical bone with
+
+Very thin cortical
+
+cortical bone
+
+with marrow cavity
+
+dense trabecular bone
+
+bone with low
+
+of good strength
+
+density trabecular
+bone of poor
+wtrength
+
+Fig. 3.48 Lekholm and Zarb’s bone density classification for dental implants (Lekholm and Zarb 1985). This classification is originally based on
+plain radiography and morphology
+
+Misch’s bone density classification
+
+D1
+
+D2
+
+D3
+
+Fig. 3.49 Schema of Misch’s bone density classification for dental implants (Misch 1988)
+
+D4
+
+3.5 Mandibular Canal
+
+Description
+
+69
+D1
+
+D2
+
+D3
+
+D4
+
+Dense cortical
+
+Thick porous cortical
+
+Thin porous cortical
+
+Fine trabecular
+
+and coarse trabecular
+
+and fine trabecular
+
+Type of bone
+
+Oak-like bone
+
+White pine wood
+
+Balsa wood
+
+Styrofoam
+
+Typical anatomical
+
+Atrophic anterior
+
+Anterior mandible
+
+Anterior maxilla
+
+Posterior maxilla
+
+location
+
+mandible
+
+Posterior mandible
+
+Posterior maxilla
+
+Osteoplasty D3
+
+Anterior maxilla
+
+Posterior mandible
+Osteoplasty D2
+
+Hounsfield units
+
+>1250 HU
+
+850-1250 HU
+
+350-850 HU
+
+150-350 HU
+
+Fig. 3.50 Description of Misch’s bone density classification for dental implants (Misch 1988, 1990, 1999). This classification was originally
+based on only the operator’s perception (hand feel resistance). Related Hounsfield units were added later
+
+Type I
+
+Type II
+
+Fig. 3.51 Iwanaga’s classification for dental implants (Iwanaga et al.
+2019a, 2020a). The cancellous bone pattern of the mandible is classified into three different types based on microscopic and gross anatomi-
+
+Type III
+
+cal observations: type I, trabecular pattern; type II, osteoporotic; and
+type III, dense-irregular patterns
+
+MC
+Schematic drawing
+
+Class I (trabecular)
+
+Buccal
+
+Class III (dense/irregular)
+
+Lingual
+
+Anatomy of the Oral Cavity
+
+MC
+
+MC
+Class II (osteoporotic)
+
+3
+
+Lingual
+
+Buccal
+
+Lingual
+
+Buccal
+
+Superior wal
+of MC
+
+Buccal
+
+Cancellous bone
+
+Lingual
+
+70
+
+MC
+Class IV (smooth)
+
+Fig. 3.52 Iwanaga’s classification for dental implants (Iwanaga et al.
+2019b, 2020b). The superior wall of the mandibular canal is classified
+into four classes based on microscopic and gross anatomical observa-
+
+tions: class I, trabecular pattern; class II, osteoporotic; class III, dense-­
+irregular; and class IV, smooth
+
+Fig. 3.53 Bifid/trifid mandibular canal. Left cadaveric photo shows a
+bifid mandibular canal (superior and inferior). The superior mandibular
+canal includes the nerve and artery and the inferior one the vein. The
+cadaveric photo in the center focuses on a trifid mandibular canal (pos-
+
+terior view of the mandibular foramen). The right coronal CBCT image
+shows branches of the mandibular canal (yellow arrows). It can be very
+confusing to differentiate the branches of the canal and multiple mandibular canals
+
+Carte and Keen’s classification (1971)
+
+Fig. 3.54 Carter and Keen (1971) classified the mandibular canal into three different types
+
+3.6 Pterygomandibular Space and Retromolar Area
+Naitoh’s classification (2009)
+
+Nortjé’s classification (1977)
+
+Type I
+
+71
+
+Type II
+
+Type III
+
+Type I
+
+Type II
+
+Type III
+
+Type IV
+
+Fig. 3.55 Bifid/trifid mandibular canal. Nortjé (1977) and Naitoh et al. (2009b) proposed different classifications for the bifid mandibular canal.
+The retromolar canal is categorized as one type of bifid mandibular canal
+
+3.6
+
+Pterygomandibular Space
+and Retromolar Area
+
+Summary
+The pterygomandibular space is bordered by the ramus of
+the mandible laterally and the medial pterygoid muscle
+medially where the mandibular foramen, the target of the
+inferior alveolar nerve block, is located.
+The retromolar area is situated posterior to the molar
+teeth and is surrounded by the pterygomandibular and parapharyngeal spaces posteriorly and by the floor of the oral
+cavity inferomedially. Regardless of its small area, several
+
+important structures exist in the retromolar area, e.g., lingual nerve, retromolar gland, buccinator muscle, buccal
+nerve, retromolar pad. Some of these are not well discussed
+in the literature despite their potential clinical importance.
+In this section, anatomical structures in the retromolar area
+will be shown as well as anatomical variations such as the
+retromolar canal/foramen, which was discussed in the mandibular canal section as one of the subtypes of the bifid
+mandibular canal. In dentistry and oral surgery, the course
+of the lingual nerve in the retromolar area is important
+when the mucosal incision is made for wisdom tooth
+extraction.
+
+72
+
+3
+
+Anatomy of the Oral Cavity
+
+Condyle
+
+Coronoid process
+
+Retromolar fossa
+Retromolar pad
+
+Retromolar trigone
+
+Lingual
+
+Fig. 3.56 The retromolar fossa is the concavity of the retromolar area
+that extends to the anterior border of the ramus of the mandible. The
+retromolar trigone is a smaller triangular-shaped, flat area. Both struc-
+
+Retromolar pad
+
+Buccal
+
+tures are on the surface of the mandible. The retromolar pad is a soft
+tissue structure and does not attach to the mandible
+
+Retromolar gland
+
+1mm
+
+Fig. 3.57 Intraoral dissection of the left retromolar area in a fresh cadaver. Note that the retromolar gland and overlying mucosa form the retromolar pad. The retromolar gland is a mucinous gland and is innervated by a branch of the lingual nerve (Iwanaga et al. 2018)
+
+3.6 Pterygomandibular Space and Retromolar Area
+
+73
+
+MPM
+MPM
+
+SPCM
+
+RMG
+
+SPCM
+
+LN
+
+LN
+
+RMG
+
+BM
+
+MHM
+BM
+
+MHM
+
+Fig. 3.58 Various structures in and around the retromolar area, floor of
+the oral cavity, and pterygomandibular space. BM buccinator muscle,
+LN lingual nerve, MHM mylohyoid muscle, MPM medial pterygoid
+
+muscle, RMG retromolar gland, SPCM superior pharyngeal constrictor
+muscle (Iwanaga et al. 2018). © Fisher/Tubbs 2020. All Rights Reserved
+
+MPM
+
+PPS
+
+Buccinator
+
+Third molar
+SPCM
+
+Tongue
+
+Fig. 3.59 The lingual nerve traveling through pterygomandibular
+space (yellow arrowheads) runs below the inferior border of the superior pharyngeal constrictor muscle and appears in the floor of the mouth
+(white arrowheads). Note the medial pterygoid muscle is located
+
+between the pterygomandibular and parapharyngeal spaces. MPM
+medial pterygoid muscle, PPS parapharyngeal space, SPCM superior
+pharyngeal constrictor muscle
+
+74
+
+3
+
+Anatomy of the Oral Cavity
+
+Incision line
+
+RMP
+
+RMP
+
+LN
+
+RMP
+
+LN
+
+FM
+BM
+BM
+
+Fig. 3.60 When looking into the retromolar area from a dentist’s point
+of view, the lingual nerve runs from and travels posterior to the retromolar pad and appears medial to the retromolar pad (gland). Therefore, if
+a mucosal incision is made medial to the retromolar pad deep enough,
+
+BM
+
+the lingual nerve might be damaged. The lingual nerve does not “pierce”
+the retromolar gland/pad. BM buccal mucosa, FM floor of mouth, RMP
+retromolar pad (Iwanaga et al. 2020a)
+
+Lingual nerve
+
+Fig. 3.61 Removal of the impacted lower third molar often requires distal mucosal incision, which can damage the lingual nerve if the incision is
+too medial (lingually)
+
+3.6 Pterygomandibular Space and Retromolar Area
+
+75
+
+Buccal nerve
+
+Tongue
+
+Point A
+
+Fig. 3.62 Recommended injection site for buccal nerve blockade is
+seen at Point A (on the anterior border of the ramus of the mandible and
+1 mm lateral to the third molar tooth). However, two recent anatomical
+studies have shown that the buccal nerve is not adjacent to Point A
+(mean distance of 12–13 mm) (Iwanaga et al. 2019a; Takezawa et al.
+2018)
+
+Traditional drawing of buccal nerve
+
+Buccal nerve
+
+Fig. 3.63 Many dental textbooks have shown an incorrect course of
+the main trunk of the buccal nerve due to a lack of evidence via intraoral
+dissection (left). This traditional concept has been the reason that injection of Point A is called “buccal nerve block.” However, the main trunk
+
+Corrected course of buccal nerve
+
+Buccal nerve
+
+of the buccal nerve is not blocked with injection at Point A. The corrected course of the buccal nerve based on the result of intraoral dissection is shown on the right (Iwanaga et al. 2019b). © Fisher/Tubbs 2020.
+All Rights Reserved
+
+76
+
+3
+
+Anatomy of the Oral Cavity
+
+Retromolar foramina
+
+Fig. 3.64 In this mandible, the retromolar foramen is located in the
+retromolar fossa. The retromolar foramen accommodates a part of the
+inferior alveolar nerve/vessels. However, the nerve from this foramen
+
+innervates the buccal gingiva of the lower molars and is the area where
+the branch of the buccal nerve usually travels (Motamedi et al. 2016)
+
+Courtesy of Dr. Ibaragi
+
+Courtesy of Dr. Ibaragi
+
+Fig. 3.65 Retromolar foramen and canal. According to Naitoh et al. (2009b), the retromolar canal is one of the subtypes of a bifid mandibular
+canal. In this case, the opening of the retromolar foramen is located in the retromolar triangle
+
+3.7 Palate
+
+77
+
+3.7
+
+Tendon of temporalis
+
+Retromolar foramen
+
+Buccal
+(Lateral)
+
+Retromolar nerve
+
+Floor of mouth
+
+Fig. 3.66 The retromolar nerve, arising from the retromolar foramen,
+innervates the buccal gingiva and mucosa of the lower molars
+
+Palate
+
+Summary
+The palate forms the roof of the oral cavity and is divided
+into hard and soft palates. The hard palate is lined with keratinized and immobile mucosa. The soft palate is lined by
+non-keratinized and mobile mucosa which forms the
+entrance for the fauces between the oral cavity and oropharynx. The depth of the palatal mucosa, maxilla and palatine
+bone forms the bony palate.
+The palate is supplied by the greater and lesser palatine
+arteries posteriorly, and sphenopalatine artery anteriorly.
+Sensory and parasympathetic fibers are carried by the greater
+and lesser palatine nerves posteriorly and the nasopalatine
+nerve anteriorly. The palatine glands are minor salivary
+glands that are mostly located bilaterally in the posterior palate. Greater palatine nerve blockade and other surgical techniques require detailed knowledge of the palatal area.
+
+Neurovascular bundles
+Retromolar foramen
+
+Courtesy of Dr. Kikuta
+
+Fig. 3.67 Retromolar neurovascular bundles arising from the retromolar foramen. One clinical study showed that injury of the large retromolar foramen during removal of the lower third molar resulted in
+paresthesia of the buccal gingiva of the lower molar (Kikuta et al. 2018)
+
+Coronal
+
+Axial
+
+Maxillary sinus
+
+Sagittal
+
+Nasal septum
+
+Fig. 3.68 The greater palatine foramina (red arrows) are intraoral exits
+of the greater palatine canals which contain the greater palatine nerve
+and vessels. The greater palatine foramina usually open in an inferior-­
+anterior-­medial direction. Posterior to the greater palatine foramina,
+
+there are lesser palatine foramina (yellow arrow) which accommodate
+the lesser palatine nerve and vessels. The greater and lesser palatine
+nerves and vessels supply the hard and soft palates, respectively
+
+78
+
+3
+
+Anatomy of the Oral Cavity
+Lesser palatine foramen
+
+Lesser palatine nerve
+
+Anterior
+
+Posterior
+
+Greater palatine nerves
+Alveolar process of maxilla
+
+* * *
+
+Greater palatine foramen
+Horizontal plate of palatine bone
+
+*Bony bridge
+
+Incisive foramen
+
+Fig. 3.69 The greater palatine foramen (red area) is located near the
+posterior edge of the bony palate and formed at the junction of the alveolar process of the maxilla and the horizontal plate of the palatine bone.
+Therefore, the greater palatine foramen can be located by tracing the
+base of the alveolar process from anteriorly to posteriorly with the edge
+of the dental mirror or Q-tip
+
+Fig. 3.72 Inferior view of the left palate in an edentulous maxilla. The
+greater palatine foramen (dashed line) gives rise to the greater palatine
+artery (red) and nerve (yellow). The nerve usually splits into two to four
+branches (Hafeez et al. 2015). The artery is also highly branched along
+its course over the palate (Klosek and Rungruang 2009) . Note that the
+lesser palatine nerve arises from the lesser palatine foramen and innervates the lateral part of the hard palate (anatomical variation)
+
+Variant lesser palatine nerve
+
+Posterior
+
+Anterior
+
+Transverse palatine suture
+
+Greater palatine nerve
+
+Greater palatine foramina
+
+Fig. 3.70 Inferior view of the greater palatine foramina (red areas).
+The course of the greater palatine nerve and vessels can be predicted by
+following the junction of the two bones, the alveolar process of the
+maxilla and the horizontal plate of the palatine bone, where the greater
+palatine foramen is formed
+
+Fig. 3.73 Inferior view of the left palate in a partially dentulous dry
+maxilla. The variant lesser palatine nerve shown in the earlier figure is
+seen as a dashed arrow. In this variation, the branches of the greater
+palatine nerve mainly supply the hard palate and the variant nerve supplies the palatal gingiva of the maxilla
+
+Posterior
+
+Anterior
+
+Posterior
+
+Anterior
+
+Greater palatine foramen
+
+Lesser palatine foramen
+
+Fig. 3.71 Greater palatine groove (arrowheads) for the greater palatine
+nerve/vessels extending from the greater palatine foramen (arrow)
+
+Fig. 3.74 Inferior view of the left palate in an edentulous maxilla. The
+greater palatine foramen gives rise to the greater palatine artery. Note that the
+artery from the lesser palatine foramen has an anastomosis (arrows) with the
+greater palatine artery that originates from the greater palatine foramen
+
+3.7 Palate
+
+79
+
+Maxillary sinus
+Palatine glands
+Greater palatine nerve
+Greater palatine artery
+
+Upper first molar
+
+Fig. 3.75 Posterior view of a coronal section of the left palate at the
+first molar level. Note that the palatal mucosa is thick. In this case, the
+greater palatine artery runs on the surface of the base of the alveolar
+process of the maxilla
+
+Fig. 3.77 Example of the greater palatine nerve block. After locating
+the greater palatine foramen using the Q-tip method as shown in the
+following two figures, the needle is inserted into the mucosa approximately 5-mm deep
+
+Fig. 3.76 Example of how to detect the greater palatine foramen in a
+patient. The dashed line in the left figure shows the junction of the horizontal and alveolar parts. A Q-tip or the edge of a dental mirror is gently
+
+slid anteriorly to posteriorly to find the depression on the surface of the
+mucosa near the last molar region. This is where the greater palatine
+foramen is located deep to the mucosa
+
+80
+
+Fig. 3.78 Greater palatine nerve block. The needle is aimed slightly
+anterior to the depression located with a Q-tip from the corner of the
+contralateral side of the mouth. As the target is the greater palatine
+nerve, the needle should not be inserted too deeply into the foramen. In
+case the needle enters too deeply e.g., 30 mm, the pterygopalatine ganglion can be blocked as the ganglion is situated in the pterygopalatine
+fossa which is approximately 30 mm from the foramen
+
+3
+
+Anatomy of the Oral Cavity
+
+Fig. 3.79 The incisive foramen is seen posterior to the central incisors.
+The incisive canal, running in the depth of the foramen, connecting the
+oral and nasal cavities, is where the greater palatine and sphenopalatine
+arteries anastomose. The nasopalatine nerve leaves the incisive foramen
+to innervate the anterior palate
+
+Fig. 3.80 Midsagittal CBCT images showing incisive canals. The arrow points to a septum in the canal
+
+3.7 Palate
+
+81
+
+Fig. 3.81 Axial CBCT image showing incisive canals. Inside the canal, a septum/septa are often observed. It is either an incomplete septum (left
+figure) or a complete septum (right figure)
+
+Fig. 3.82 A cadaveric image of the incisive canals in the depth of the incisive foramen. Note the multiple septa inside the canal
+
+82
+
+3
+
+Anatomy of the Oral Cavity
+
+Sphenopalatine artery
+
+Choana
+
+Posterior septal branch of the sphenopalatine
+artery and nasopalatine nerve
+
+Incisive canal
+Nasopharynx
+Maxilla
+
+Hard palate
+
+Soft palate
+
+Nasal septum
+
+Fig. 3.83 A midsagittal cadaveric view of the nasal septum. Posterior septal branch of the sphenopalatine artery and nasopalatine nerve course
+together and enter the incisive canal
+
+Anterior superior alveolar branch
+
+Middle superior alveolar branch
+Nasopalatine nerve
+
+Greater palatine nerve
+Posterior superior alveolar branch
+
+Lesser palatine nerve
+
+Fig. 3.84 Innervation of the palate. Anterior palate (from central incisor to canine) is innervated by the nasopalatine nerve and the posterior part
+is by the greater palatine nerve. Both nerves are branches of the maxillary nerve. © Fisher/Tubbs 2020. All Rights Reserved
+
+3.8 Tongue
+
+3.8
+
+Tongue
+
+Summary
+The tongue is a muscular organ located in the oral cavity. The
+functions of the tongue include gustation, support of mastication
+
+83
+
+and digestion, deglutition, and speech. Thus, the sensory and
+motor nerves contributing to the function of the tongue via cranial nerves V, VII, IX, and XII are important. The tongue muscles
+consist of intrinsic and extrinsic muscles. The anterior two-thirds
+and posterior one-third of the tongue have varied innervations.
+Epiglottis
+Median glossoepiglottic fold
+Lateral glossoepiglottic fold
+Epiglottic vallecula
+Palatopharyngeal arch and muscle (cut)
+
+Root (posterior 1/3)
+
+Palatine tonsil (cut)
+Palatoglossal arch and muscle (cut)
+Lingual tonsil
+Foramen cecum
+Terminal sulcus
+Vallate papillae
+
+Body (anterior 2/3)
+
+Foliate papillae
+Fungiform papillae
+Median sulcus
+Filiform papillae
+
+Fig. 3.85 The body (anterior two-thirds) and root (posterior one-third)
+of the tongue. There is a collection of lymphoid tissue on the surface of
+the root of the tongue (lingual tonsil). Also, the palatine tonsils are
+located in the tonsillar fossae between the palatoglossal and palatopha-
+
+ryngeal arches. There are four papillae of the tongue, i.e., circumvallate
+papillae, foliate papillae (leaf-like), filiform papillae (thread-like), and
+fungiform papillae (mushroom-like). © Fisher/Tubbs 2020. All Rights
+Reserved
+
+Fungiform papillae (reddish color)
+
+Filiform papillae (white color)
+
+Fig. 3.86 Surface anatomy of the anterior tongue
+
+84
+
+3
+
+Anatomy of the Oral Cavity
+
+Epiglottis
+
+Lingual tonsil
+Foramen Cecum
+Terminal sulcus
+
+Circumvallate papillae
+
+Folliate papillae
+
+Fig. 3.87 Surface anatomy of the posterior tongue
+
+Superior pharyngeal constrictor muscle
+
+Palatoglossus muscle
+
+Digastric muscle (cut)
+Stylopharyngeus muscle
+Inferior longitudinal muscle
+
+Stylohyoid muscle
+Styloglossus muscle
+
+Genioglossus muscle
+Hyoglossus muscle
+
+Geniohyoid muscle
+
+Middle pharyngeal constrictor muscle
+
+Mylohyoid muscle (cut)
+
+Fig. 3.88 Lateral view of the tongue and its related muscles. The
+tongue is formed mostly by muscles, i.e., intrinsic and extrinsic tongue
+muscles. They are all innervated by the hypoglossal nerve (CN XII)
+
+with the exception of the palatoglossus muscle which is innervated by
+the vagus nerve (CN X). © Fisher/Tubbs 2020. All Rights Reserved
+
+3.9 Floor of the Mouth (Sublingual and Submandibular Spaces)
+
+Palatoglossus muscle
+Styloglossus muscle
+
+85
+
+Superior longitudinal muscle
+Vertical/transverse muscle
+Inferior longitudinal muscle
+
+Hyoglossus muscle
+Genioglossus muscle
+
+Septum
+
+Fig. 3.89 Posterior view of the tongue and its related muscles. © Fisher/Tubbs 2020. All Rights Reserved
+
+Gustatory sensation
+
+Somatic sensation
+
+Vagus nerve (CN X)
+
+Vagus nerve (CN X)
+
+Glossopharyngeal nerve (CN IX)
+
+Facial nerve (CN VII)
+via chorda tympani
+
+Glossopharyngeal nerve (CN IX)
+
+Lingual nerve (CN V3)
+
+Fig. 3.90 The tongue is innervated by different cranial nerves including the trigeminal (CN V), facial (CN VII), glossopharyngeal (CN IX), and
+hypoglossal (CN XII) nerves. © Fisher/Tubbs 2020. All Rights Reserved
+
+3.9
+
+ loor of the Mouth (Sublingual
+F
+and Submandibular Spaces)
+
+Summary
+The floor of the mouth is considered a “dangerous” area for
+dentists as it contains nerves and vessels which are not visible even on cone-beam computed tomography (CBCT).
+Also, non-malignant surgeries or even surgeries for cosmetic/functional reasons such as dental implant surgeries
+
+can damage structures in the floor of the mouth. These iatrogenic injuries can potentially lead to life-threatening hemorrhage and permanent injury to sensory nerves. To avoid
+these, a three-dimensional understanding of the anatomy of
+the floor is necessary. In this section, the general anatomy of
+the floor will be demonstrated. The course of many of these
+nerves that are not visible on CBCT images can be predicted
+if the anatomical relationships between the nerves and other
+landmarks are well understood.
+
+86
+
+3
+
+Mylohyoid line
+
+Anatomy of the Oral Cavity
+
+Mylohyoid line
+Mandibular foramen
+
+Mandibular foramen
+
+Mylohyoid groove
+
+Mylohyoid groove
+
+Submandibular fossa
+Stafne bone cavity
+
+Fig. 3.91 The floor of the mouth is bound by the mylohyoid muscle
+inferiorly. The bony attachment of the muscle to the mandible is the
+mylohyoid line. Below the line, there is a concavity which is called the
+submandibular fossa
+
+Fig. 3.93 The Stafne bone cavity is generally located slightly above
+the inferior border of the mandible and inferior to the mandibular canal
+with a reported incidence of 0.1–6.06%. The submandibular gland, connective tissue, fat tissue, muscle, lymphatic tissue or vessels have all
+been considered potential contents of the cavity. It is also called a salivary inclusion cyst, static bone cavity, lingual bone defect, and latent
+cyst (Iwanaga et al. 2019a)
+
+Fig. 3.92 The submandibular fossa is seen at the inferior part of the mandible in the lower molar area. The depth of the fossa varies in each individual or each tooth
+
+3.9 Floor of the Mouth (Sublingual and Submandibular Spaces)
+
+Superior
+mental spine(s)
+Inferior
+mental spine(s)
+
+Median lingual
+foramen
+
+87
+
+Openings of the
+submandibular duct at
+the sublingual caruncle
+
+Median lingual
+foramen
+Digastric fossa
+
+Fig. 3.96 The sublingual fold (white arrows) is formed along the
+openings of the minor sublingual ducts (Rivinus’s ducts)
+
+Fig. 3.94 Posterior view of the mandible. The superior and inferior
+mental spines are the origins of the genioglossus and geniohyoid muscles, respectively. The digastric fossa is the bony attachment of the anterior belly of the digastric muscle. The median lingual foramen is located
+in the midline on the lingual surface of the mandible and is considered
+the entrance for a branch of the submental/sublingual artery or nerve to
+mylohyoid
+
+Inferior alveolar nerve nerve
+Minor sublingual ducts
+(Rivinus’s ducts)
+
+Lingual nerve
+
+Submandibular duct
+
+Submandibular gland
+Hyoid bone
+Sublingual gland
+
+Fig. 3.95 The floor of the mouth is bound by the mylohyoid muscle
+inferiorly. The lingual nerve runs on the superior surface of the mylohyoid muscle and never runs inferior to the muscle. This means the
+
+Mylohyoid muscle
+
+position (height) of the mylohyoid muscle is one landmark for identifying the course of the lingual nerve. © Fisher/Tubbs 2020. All Rights
+Reserved
+
+88
+
+3
+
+Anatomy of the Oral Cavity
+
+Sublingual gland
+
+Fig. 3.97 Before (left) and after (right) the mucosa of the floor is reflected. Note that the minor sublingual ducts (Rivinus’s ducts) are nearer the
+mucosa (arrowheads) over the sublingual gland and form the sublingual fold
+
+Sublingual gland
+
+Fig. 3.98 Before (left) and after (right) mucous incision (dashed line)
+in the floor medial to the sublingual fold (arrowheads). Note that the
+incision leads to direct access to the submandibular duct (green,
+
+retracted superiorly) and lingual nerve (yellow). This shows that an
+incision lateral to the sublingual fold is less likely to injure the lingual
+nerve unless it is too deep
+
+3.9 Floor of the Mouth (Sublingual and Submandibular Spaces)
+
+89
+
+Sublingual gland
+Sublingual duct (Wharton’s duct)
+
+Sublingual artery
+Lingual nerve
+Hypoglossal nerve
+Nerve to mylohyoid
+Inferior alveolar nerve
+Submental artery
+
+Fig. 3.99 Superior view of the floor. The mucosa and connective tissue of the floor of the mouth have been removed
+
+Lingual nerve
+Communicating br
+
+Hypoglossal nerve
+
+Fig. 3.100 Magnified view of the last figure. Note that a communicating branch between the lingual nerve and hypoglossal nerve is observed
+
+90
+
+3
+Submandibular duct
+(Wharton’s duct)
+
+Anatomy of the Oral Cavity
+
+Tongue
+
+Sublingual gland
+Sublingual
+gland
+
+Hypoglossal
+nerve
+
+Branch to
+sublingual gland
+
+Lingual nerve
+
+Lingual nerve
+
+Fig. 3.101 Superolateral view of the floor of the oral cavity
+
+Fig. 3.102 A branch to the sublingual gland arising from the lingual
+nerve is shown. The postganglionic parasympathetic fibers in this branch
+originate from the submandibular ganglion via the chorda tympani
+
+Fig. 3.103 Course of the lingual nerve. At its entry into the floor of the mouth, the lingual nerve runs next to the lingual cortical plate. This is the
+area where the lingual nerve is most likely to be damaged
+
+3.9 Floor of the Mouth (Sublingual and Submandibular Spaces)
+
+Neutral position
+
+Protruded
+
+91
+
+Deviated to left
+
+Elevated superiorly
+
+Fig. 3.104 The lingual nerve terminates at the anterior two-thirds of
+the tongue. So the lingual nerve always changes its course with various
+tongue positions. When the tongue is protruded, the course can be very
+
+close to the lingual plate. Again, the lingual nerve always runs above the
+mylohyoid muscle
+
+Dentulous mandible
+
+Edentulous mandible
+
+Fig. 3.105 The relative distance from the surface of the floor to the
+mylohyoid line (dashed lines) becomes closer when the alveolar bone is
+severely reduced (e.g., after tooth loss). The mylohyoid line (dashed
+
+lines) in the retromolar area is a good landmark for estimating the
+course of the lingual nerve (yellow lines) along the surface of the floor
+
+92
+
+Axial
+
+3
+
+Sagittal
+
+Fig. 3.106 A median lingual foramen (arrows)
+
+Axial
+
+Fig. 3.107 A lateral lingual foramen (arrows)
+
+Sagittal
+
+Anatomy of the Oral Cavity
+
+3.9 Floor of the Mouth (Sublingual and Submandibular Spaces)
+
+93
+Inferior view (submandibular space)
+
+Superior view (sublingual space)
+
+Mylohyoid muscle
+
+Submental artery
+
+Median lingual foramen
+
+Sublingual artery
+Lateral lingual foramen
+
+Mylohyoid muscle
+
+Fig. 3.108 The sublingual artery runs within the sublingual space
+(above the mylohyoid muscle) and gives rise to multiple branches in the
+floor. Some of the branches enter median/lateral lingual foramina. The
+
+Inferior border of mandible
+
+submental artery runs within the submandibular space (below the mylohyoid muscle). The median/lateral lingual foramina receive the branches
+of the submental artery
+
+High position
+
+Moderate
+risk
+
+Sublingual artery
+
+High risk
+
+Mylohyoid muscle
+Submental artery
+<1mm
+
+Fig. 3.109 Posterior view of the sublingual and submandibular spaces.
+Note that the mylohyoid muscle is a border of the oral cavity and submandibular area
+
+>1mm
+
+Moderate
+risk
+
+Low risk
+
+Low position
+High position: superior to mental spine (MLF)/mylohyoid line (LLF)
+Low position: inferior to mental spine (MLF)/mylohyoid line (LLF)
+
+Fig. 3.110 Risk assessment chart for the lingual foramina (Iwanaga
+et al. 2019a). MLF median lingual foramen, LLF lateral lingual foramen
+
+94
+
+3
+
+3.10
+
+Fig. 3.111 The submandibular fossa is occasionally a deep concavity
+(arrow) so that the periosteal elevator might slip and tear the periosteum
+and lead to injury of the lingual foramina and lingual nerve. Most dentists are aware of the concavity, however, they should still be very careful not to perforate the periosteum especially if a CBCT is not taken
+prior to the surgery
+
+Fig. 3.112 Impacted lower third molar. It is easy to understand why
+perforation of the lingual cortical plate or displacement of the impacted
+lower wisdom tooth/fragment to the sublingual and submandibular
+
+Anatomy of the Oral Cavity
+
+Lip
+
+Summary
+The lips are two folds that surround the oral orifice. On each side,
+a labial commissure forms the angle (corner) of the mouth, usually near the first premolar tooth. The center of the upper lip has
+a shallow vertical groove, i.e., the philtrum, which is bounded by
+the columella of the nose superiorly. The lower lip has a small
+depression in the midline that corresponds to the tubercle. The
+junction between the hair bearing external skin and the hairless
+red surface of the upper lip usually forms the so-called Cupid’s
+bow (Standring 2015). The blood supply of the lip is provided
+mainly by the facial artery and its branches. Skin sensation is
+provided by the trigeminal nerve and the cervical plexus.
+Histologically, the free external surface of the lips is covered by
+a thin keratinized epidermis, which is continuous with the
+mucosa at the vermilion (red) zone (Standring 2015). General
+knowledge of lip anatomy is necessary for surgeries in and
+around the lip such as cosmetic and reconstructive surgeries.
+
+spaces could lead to lingual nerve paresthesia. The lingual nerve runs
+just above the mylohyoid muscle. The muscle’s origin (mylohyoid line)
+is shown as the dashed lines
+
+3.10 Lip
+
+95
+Philtrum
+Cupid’s bow
+
+Vermilion border
+
+Oral commissure
+
+Labiomental fold
+
+Fig. 3.113 Surface anatomy of the lip. © Fisher/Tubbs 2020. All Rights Reserved
+
+Superior
+labial branch
+
+Superior labial
+branches of
+infraorbital nerve
+
+Facial artery
+
+Inferior labial branch
+
+Branch of
+submental artery
+Fig. 3.114 Blood supply and sensory innervation of the lips. © Fisher/Tubbs 2020. All Rights Reserved
+
+Mental nerve
+
+Great auricular nerve
+Transverse
+cervical nerve
+
+96
+
+3
+Superior
+
+Anterior
+
+Nose
+
+Infraorbital nerve
+
+Anatomy of the Oral Cavity
+
+Upper lip
+Lower lip
+
+Superior labial branches
+Upper lip
+Lower lip
+
+Inferior
+labial glands
+
+Angle of mouth
+Inferior labial branches
+
+Mental nerve
+
+Mental nerve
+
+Fig. 3.115 Extraoral dissection showing the superior labial branches
+of the infraorbital nerve and inferior labial branches of the mental nerve
+innervating the upper and lower lips, respectively
+
+Columellar
+artery
+
+Fig. 3.117 Extraoral dissection (a part of the orbicularis oris is
+removed) showing the inferior labial glands here innervated by the inferior labial branches of the mental nerve. The postganglionic parasympathetic fibers to these glands might originate from the otic ganglion
+
+SLb
+Midline
+SLA
+Right
+
+Left
+
+Orbicularis oris
+
+Inferior labial glands
+
+Mental
+nerve
+
+ILA
+ILbs
+
+Orbicularis oris
+
+Fig. 3.116 Posterior view of the upper and lower lips. The superior
+labial (SLA) and inferior labial (ILA) arteries supply the upper and
+lower lips, respectively. The superior labial branch (SLb) of the infraorbital nerve and inferior labial branch (ILb) of the mental nerve innervate the upper and lower lips, respectively. Note that the superior labial
+glands are larger in size in the midline, whereas, the inferior labial
+glands are larger in size around the corner of the mouth
+
+Fig. 3.118 Intraoral dissection (labial mucosa is removed) showing
+the inferior labial glands with an innervation from the inferior labial
+branches of the mental nerve. Note that the glands are located on the
+surface of the orbicularis oris muscle
+
+3.11 Temporomandibular Joint
+
+97
+
+Labial mucosa
+
+Skeletal muscle
+
+Inferior labial glands
+Vermilion zone
+Skin
+
+Oral vestibule
+
+Skin
+Courtesy of Dr. Watanabe
+
+Fig. 3.119 Parasagittal section of the lower lip. Between the skin and
+mucosa, the vermilion zone is covered with a specialized keratinized
+stratified squamous epithelium. The epithelium is thin near the skin but
+
+3.11
+
+gradually thickens as it approaches the mucosa and then becomes thick
+abruptly when it reaches the mucosa (Standring 2015). Note the inferior
+labial glands are located just beneath the labial mucosa
+
+Temporomandibular Joint
+
+Summary
+The temporomandibular joint (TMJ) is classified as a synovial joint that allows elevation, rotation, permits gliding, and
+depression and normally functions in mastication, biting,
+suckling, yawning, swallowing, and speaking. The mandibular fossa, the articular eminence of the temporal bone, and
+the mandibular condyle all contribute to the TMJ. The articular surfaces of the TMJ are uniquely lined with fibrocartilage
+rather than the normal hyaline cartilage. Its joint cavity is
+divided into superior and inferior joint spaces by an articular
+disc, and the disc attaches to the capsule. The main muscles
+that allow for TMJ articulation are the masseter, temporalis,
+and medial and lateral pterygoid muscles known as the muscles of mastication. From a clinical perspective, understanding the anatomy of the TMJ is significant for TMJ surgery,
+diagnosis of temporomandibular joint disorders, and related
+diseases and treatments.
+
+Mandibular
+fossa
+External acoustic
+meatus
+
+Coronoid process
+
+Mandibular
+condyle
+Articular
+eminence
+Ramus of
+Mandible
+
+Fig. 3.120 The mandibular fossa, the articular eminence of the temporal bone, and the mandibular condyle form the TMJ. Note the external
+acoustic meatus is located just behind the TMJ
+
+98
+
+3
+Axial
+
+Sagittal
+
+Anatomy of the Oral Cavity
+
+Coronal
+
+EAM
+
+Fig. 3.121 CBCT images of the TMJ. The external acoustic meatus (EAM) is positioned just behind the condyle. The thinnest part of the mandibular fossa (arrows) is 1.0–1.2 mm (Al-Koshab et al. 2015)
+
+Superior
+
+Intermediate zone
+
+Posterior band
+EAM
+
+Condyle
+Anterior band
+LPM
+
+Zygomatic arch
+
+Joint capsule
+
+Anterior
+
+Lateral ligament
+
+Courtesy of Dr Yoshiaki Nakamura
+
+Fig. 3.122 Sagittal MRI image of the right TMJ. The articular disc has
+three distinct parts: anterior band, thinner intermediate zone, and posterior band. The intermediate zone lacks vascularity and acts as the force-­
+accepting segment. The external acoustic meatus (EAM) is positioned
+just posterior to the condyle. Note that the disc (red area) appears as a
+“bow tie.” LPM lateral pterygoid muscle
+
+Condyle
+
+Fig. 3.123 Cadaveric dissection of the left TMJ. Note both the capsule
+and lateral ligament attach to the condyle and zygomatic arch
+
+3.11 Temporomandibular Joint
+
+99
+Superior
+
+Zygomatic arch
+Joint capsule (cut)
+
+Anterior
+Superior joint space
+
+Articular eminence
+
+Joint disc
+
+Fig. 3.124 Cadaveric dissection of the left TMJ. Note both the capsule and lateral ligament were incised and the superior joint space is being
+observed
+
+Superior
+
+Mandibular fossa
+
+Anterior
+Articular eminence
+
+Superior joint space
+
+Joint disc
+
+Inferior joint space
+Mandibular condyle
+
+Joint capsule
+
+Fig. 3.125 Cadaveric dissection of the left TMJ. The joint disc has been opened. The inferior joint space is now observed between the joint disc
+and condyle
+
+100
+
+3
+
+Anatomy of the Oral Cavity
+
+Superior
+Anterior
+
+Superior joint space
+
+Articular eminence
+Inferior joint space
+Joint disc
+(intermediate zone)
+
+Mandibular condyle
+
+Fig. 3.126 Cadaveric dissection of the left TMJ. Note the lateral pterygoid muscle inserts into both the disc and neck of the condyle (arrows)
+
+Lateral
+
+Lateral
+
+Mandibular fossa
+
+Anterior
+
+Anterior
+
+Foramen spinosum
+
+Foramen ovale
+Foramen of Vesalius
+
+Petrotympanic fissure
+
+Fibrocartilage of the mandibular fossa
+
+Fig. 3.127 Inferior view of the mandibular fossa. The presence of fibrocartilage rather than hyaline cartilage is important because it has the ability
+to repair and remodel. The thinnest portion of the mandibular fossa may be lined with synovial membranes
+
+3.11 Temporomandibular Joint
+
+101
+
+Superior
+
+Disc
+
+Anterior
+Lateral
+
+*
+
+Disc
+
+Condyle
+LPM
+
+Fig. 3.128 Superolateral view of the joint disc. The disc does not look
+like a plate/sheet which is often shown in sagittal images but rather as a
+cap that covers the entire condyle (left figure). The lateral pterygoid
+
+muscle (LPM) inserts into the disc and neck of the condyle (right figure). The inferior joint space* is observed between the disc and
+condyle
+
+Medial
+
+Temporalis
+muscle
+
+Anterior
+
+LPM
+Joint disc
+
+Lateral
+pterygoid
+muscle
+Medial
+petrygoid
+muscle
+
+Fig. 3.129 Superior view of the joint disc and lateral pterygoid muscle
+(LPM). The LPM originates from the lateral plate of the pterygoid process so that the LPM courses anteromedial to posterolateral. As a result,
+the LPM inserts into only the anterior and medial parts of the disc and
+neck of the condyle, not the lateral part. This is one of the reasons why
+the mandible deviates to the contralateral side when the unilateral lateral pterygoid muscle contracts (arrow)
+
+Masseter
+muscle
+
+Fig. 3.130 Lateral view of the four muscles of masstication. The zygomatic arch and coronoid process have been resected
+
+102
+
+3
+
+Anatomy of the Oral Cavity
+
+midline
+
+Fig. 3.131 Unilateral lateral pterygoid muscle contraction (dashed arrow) moves the jaw to the contralateral side (arrow)
+
+Medial view
+Joint capsule
+Zygomatic
+process of
+temporal bone
+Deep temporal
+artery
+Transverse
+facial artery
+
+Middle meningeal
+artery
+
+Maxillary artery
+Masseteric. artery
+Lateral pterygoid
+muscle (cut)
+Sphenomandibular
+ligament
+Facial artery
+Lingual artery
+
+Anterior tympanic
+artery
+Superficial temporal
+artery
+Deep auricular artery
+Maxillary artery
+Inferior alveolar
+artery
+Right external carotid artery
+
+Fig. 3.132 Medial view of the blood supply of the TMJ
+
+3.11 Temporomandibular Joint
+
+103
+
+Lateral view
+Deep temporal
+arteries
+
+Lateral ligament
+
+Zygomatic process
+of temporal bone
+
+Transverse facial
+artery
+Temporomandibular
+joint capsule
+
+Maxillary artery
+
+Superficial temporal
+artery
+Left and right external
+carotid arteries
+Facial artery
+Lingual artery
+
+Fig. 3.133 Lateral view of the blood supply of the TMJ
+
+Superior
+
+Anterior
+
+Zygomatic arch
+
+Eminence
+
+Perforation
+
+Fig. 3.134 Perforation of the left joint disc (superolateral view)
+
+Disc
+
+104
+
+3
+
+Right
+
+Anatomy of the Oral Cavity
+
+Left
+
+Perforation
+
+Fig. 3.135 Perforation of the left joint disc (anterosuperior view)
+
+Normal
+
+Osteophytes
+
+Fig. 3.136 Variations of the structural change of the head of the condyle
+
+Erosion
+
+Flattening
+
+References
+
+References
+Al-Koshab M, Nambiar P, John J. Assessment of condyle and glenoid
+fossa morphology using CBCT in south-east Asians. PLoS One.
+2015;10(3):e0121682. https://doi.org/10.1371/journal.pone.0121682.
+Carter RB, Keen E. The intramandibular course of the inferior alveolar
+nerve. J Anat. 1971;108(Pt 3):433.
+Chitsazi MT, Shirmohammadi A, Faramarzi M, Esmaieli F, Chitsazi
+S. Evaluation of the position of the posterior superior alveolar artery
+in relation to the maxillary sinus using the cone-beam computed
+tomography scans. J Clin Exp Dent. 2017;9:e394–9.
+Danesh-Sani SA, Movahed A, ElChaar ES, Chong Chan K,
+Amintavakoli N. Radiographic evaluation of maxillary sinus lateral wall and posterior superior alveolar artery anatomy: a cone
+beam computed tomographic study. Clin Implant Dent Relat Res.
+2017;19:151–60.
+Gosau M, Rink D, Driemel O, Draenert FG. Maxillary sinus anatomy:
+a cadaveric study with clinical implications. Anat Rec (Hoboken).
+2009;292:352–4.
+Hafeez NS, Ganapathy S, Sondekoppam R, Johnson M, Merrifield P,
+Galil KS. Anatomical variations of the greater palatine nerve in the
+greater palatine canal. J Can Dent Assoc. 2015;81:f14.
+Iwanaga J, Tubbs RS. Buccal nerve dissection via an intraoral
+approach: correcting an error regarding buccal nerve blockade. J
+Oral Maxillofac Surg. 2019;77(6):1154–e1.
+Iwanaga J, Saga T, Tabira Y, Nakamura M, Kitashima S, Watanabe K,
+Yamaki KI. The clinical anatomy of accessory mental nerves and
+foramina. Clin Anat. 2015;28(7):848–56.
+Iwanaga J, Watanabe K, Saga T, Tabira Y, Kitashima S, Kusukawa
+J, Yamaki K. Accessory mental foramina and nerves: application to periodontal, periapical, and implant surgery. Clin Anat.
+2016;29(4):493–501. https://doi.org/10.1002/ca.22635.
+Iwanaga J, Kamura Y, Tanaka T, Watanabe K, Kusukawa J, Oskouian
+RJ, Tubbs RS. A new space of the face: the bucco-mandibular space.
+Clin Anat. 2017;30(7):958–962. https://doi.org/10.1002/ca.22964.
+Iwanaga J, Nakamura K, Alonso F, Kirkpatrick C, Oskouian RJ,
+Watanabe K, Tubbs RS. Anatomical study of the so-called “retromolar gland”: distinguishing normal anatomy from oral cavity
+pathology. Clin Anat. 2018;31(4):462–5. https://doi.org/10.1002/
+ca.23047.
+Iwanaga J, Kikuta S, Tanaka T, Kamura Y, Tubbs RS. Review of risk
+assessment of major anatomical variations in clinical dentistry:
+accessory foramina of the mandible. Clin Anat. 2019a;32(5):672–7.
+Iwanaga J, Wong TL, Kikuta S, Tubbs RS. Stafne bone cavity: a rare
+cadaveric case report. Anat Cell Biol. 2019b;52(3):354–6.
+Iwanaga J, Katafuchi M, Matsushita Y, Kato T, Horner K, Tubbs
+RS. Anatomy of the mandibular canal and surrounding structures: part I: morphology of the superior wall of the mandibular
+canal. Ann Anat. 2020a;232:151580. https://doi.org/10.1016/j.
+aanat.2020b.151580.
+Iwanaga J, Anand MK, Jain MN, Nagata M, Matsushita Y, Ibaragi S,
+Kusukawa J, Tubbs RS. Microsurgical anatomy of the superior
+wall of the mandibular canal and surrounding structures: suggestion for new classifications for dental implantology. Clin Anat.
+2020b;33(2):223–31. https://doi.org/10.1002/ca.23456.
+Kikuta S, Iwanaga J, Nakamura K, Hino K, Nakamura M, Kusukawa
+J. The retromolar canals and foramina: radiographic observation
+and application to oral surgery. Surg Radiol Anat. 2018 Jun;40(6):
+647–52. https://doi.org/10.1007/s00276-018-2005-5.
+Kikuta S, Iwanaga J, Kusukawa J, Tubbs RS. The mental artery: anatomical study and literature review. J Anat. 2020;236(3):564–9.
+https://doi.org/10.1111/joa.13113.
+
+105
+Kilic C, Kamburoğlu K, Ozen T, Balcioglu HA, Kurt B, Kutoglu T,
+Ozan H. The position of the mandibular canal and histologic feature of the inferior alveolar nerve. Clin Anat. 2010;23(1):34–42.
+https://doi.org/10.1002/ca.20889. PMID: 19918867.
+Klosek SK, Rungruang T. Anatomical study of the greater palatine
+artery and related structures of the palatal vault: considerations for
+palate as the subepithelial connective tissue graft donor site. Surg
+Radiol Anat. 2009;31:245–50.
+Lekholm U, Zarb GA. Patient selection and preparation. In: Branemark
+PI, Zarb GA, Albrektsson T, editors. Tissue-integrated prostheses:
+osseointegration in clinical dentistry. Chicago: Quintessence Publ
+Co; 1985. p. 199–209.
+Lovasova K, Kachlik D, Rozpravkova M, Matusevska M, Ferkova J,
+Kluchova D. Three-dimensional CAD/CAM imaging of the maxillary sinus in ageing process. Ann Anat. 2018;218:69–82.
+Matani JD, Kheur MG, Kheur SM, Jambhekar SS. The anatomic inter
+relationship of the neurovascular structures within the inferior
+Alveolar Canal: a cadaveric and histological study. J Maxillofac
+Oral
+Surg.
+2014;13(4):499–502.
+https://doi.org/10.1007/
+s12663-013-0563-y.
+Misch CE. Bone character: second vital implant criterion. Dent Today.
+1988;7:39–40.
+Misch CE. Density of bone: effect on treatment plans, surgical approach, healing, and progressive bone loading. Int J Oral
+Implantol. 1990;6:23–31.
+Misch CE. Contemporary implant dentistry. 2nd ed. St. Louis, MO:
+Mosby; 1999.
+Motamedi MH, Gharedaghi J, Mehralizadeh S, Navi F, Badkoobeh A,
+Valaei N, Azizi T. Anthropomorphic assessment of the retromolar foramen and retromolar nerve: anomaly or variation of normal
+anatomy? Int J Oral Maxillofac Surg. 2016;45(2):241–4. https://doi.
+org/10.1016/j.ijom.2015.10.017.
+Naitoh M, Hiraiwa Y, Aimiya H, Gotoh K, Ariji E. Accessory mental foramen assessment using cone-beam computed tomography. Oral Surg Oral Med Oral Pathol Oral Radiol Endodontol.
+2009a;107(2):289–94.
+Naitoh M, Hiraiwa Y, Aimiya H, Ariji E. Observation of bifid mandibular canal using cone-beam computerized tomography. Int J Oral
+Maxillofac Implants. 2009b;24(1):155–9.
+Neiva RF, Gapsli R, Wang HL. Morphometric analysis of implant-related
+anatomy in Caucasian skulls. J Periodontol. 2004;75(8):1061–7.
+Nortjé CJ, Farman AG, Grotepass FW. Variations in the normal anatomy of the inferior dental (mandibular) canal: a retrospective study
+of panoramic radiographs from 3612 routine dental patients. Br J
+Oral Surg. 1977;15(1):55–63.
+Pandharbale AA, Gadgil RM, Bhoosreddy AR, Kunte VR, Ahire BS,
+Shinde MR, Joshi SS. Evaluation of the posterior superior alveolar artery using cone beam computed tomography. Pol J Radiol.
+2016;81:606–10.
+Standring S, editor. Gray’s anatomy: the anatomical basis of clinical
+practice. London: Elsevier Health Sciences; 2015.
+Takezawa K, Ghabriel M, Townsend G. The course and distribution
+of the buccal nerve: clinical relevance in dentistry. Aust Dent J.
+2018;63(1):66–71. https://doi.org/10.1111/adj.12543. Epub 2017
+Sep 8. PMID: 28646596.
+Tehranchi M, Taleghani F, Shahab S, Nouri A. Prevalence and location
+of the posterior superior alveolar artery using cone-beam computed
+tomography. Imag Sci Dent. 2017;47:39–44.
+Yu SK, Lee MH, Jeon YH, Chung YY, Kim HJ. Anatomical configuration of the inferior alveolar neurovascular bundle: a histomorphometric analysis. Surg Radiol Anat. 2016;38(2):195–201. https://doi.
+org/10.1007/s00276-015-1540-6.
+
+4
+
+Maxillofacial Anatomy and Anatomical
+Spaces
+
+4.1
+
+Overview of Anatomical Spaces
+
+Summary
+The anatomical spaces of the face are defined as loose connective tissues bordered by the mucosa, bone, muscles, and
+fasciae and which contain vessels, nerves, salivary glands
+and ducts, and muscles. Infections and tumors can spread via
+these spaces to reach the mediastinum, for example. Also,
+pathology in these spaces can cause dysfunction of adjacent
+nerves.
+
+Pterygomandibular
+space
+
+Danger space
+
+Parapharyngeal
+space
+
+Retropharyngeal
+space
+
+Buccal space
+
+Fig. 4.1 Axial view of the spaces. Note the alar fascia (arrow) dividing
+the space located posterior to the posterior pharyngeal wall into the
+retropharyngeal and “danger” spaces
+
+© Springer Nature Switzerland AG 2021
+J. Iwanaga, R. S. Tubbs, Atlas of Oral and Maxillofacial Anatomy, https://doi.org/10.1007/978-3-030-78327-3_4
+
+107
+
+108
+
+4
+
+4.2
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+ ose, Nasal Cavity, and Paranasal
+N
+Sinuses
+
+Summary
+The nose and nasal cavity consist of the frontal, nasal, maxillary, ethmoid, lacrimal, inferior nasal concha, palatine, and
+sphenoid bones and major alar, minor alar, septal nasal, vomeronasal, and accessory nasal cartilages. In general, there are
+three pairs of nasal conchae, the superior and middle conchae are parts of the ethmoid bone, and the inferior nasal
+concha is a separate bone. Below each concha exists a nasal
+meatus (superior, middle, and inferior) which is a pathway
+for air and accommodates the openings of the paranasal
+sinuses (maxillary sinus, frontal sinus, sphenoidal sinus, and
+ethmoidal cells) and nasolacrimal duct. The main blood supply is from the sphenopalatine branch of the maxillary artery
+and anterior and posterior ethmoidal branches of the ophthalmic artery (a small area of the nostril is supplied by the
+collumellar branch of the facial artery). The innervation is
+via the nasopalatine nerve (V2), anterior ethmoidal nerve
+(V1), and internal nasal branch of the infraorbital nerve (V2).
+Sublingual space
+
+Submandibular
+space
+
+Buccomandibular
+space
+
+Buccal space
+
+Fig. 4.2 Coronal view of the spaces. The buccomandibular space is a
+separate space from the buccal space and was first reported in 2017
+(Iwanaga et al. 2017)
+
+P-A
+
+Oblique
+
+Maxillary sinus
+
+Ethmoidal cells
+
+Lateral
+
+Frontal sinus
+
+Sphenoidal sinus
+Courtesy of Dr. Takeshita
+
+Fig. 4.3 Paranasal sinuses in a patient with a dentulous mandible
+
+4.2 Nose, Nasal Cavity, and Paranasal Sinuses
+P-A
+
+109
+Oblique
+
+Maxillary sinus
+
+Lateral
+
+Ethmoidal cells
+
+Frontal sinus
+
+Sphenoidal sinus
+Courtesy of Dr. Takeshita
+
+Fig. 4.4 Paranasal sinuses in a patient with an edentulous mandible. The volume of the maxillary sinus increases after upper tooth loss
+
+FS
+
+EC
+
+*
+
+EC
+
+SS
+MS
+
+MS
+
+Fig. 4.5 The paranasal sinuses on coronal CT images. Note the opening of the maxillary sinus into the middle nasal meatus which is observed
+above the uncinate process (*) on the far left image. EC ethmoid cells; MS maxillary sinus; FS frontal sinus; SS sphenoid sinus
+
+110
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Orbit
+
+EC
+
+EC
+
+SS
+
+Orbit
+
+SS
+SC
+
+MC
+
+MS
+
+*
+
+MS
+
+MC
+
+MS
+
+IC
+
+MS
+IC
+
+Fig. 4.6 The nasal cavity on coronal CT images. Note the ethmoidal
+bulla (*) is observed medial to the opening of the maxillary sinus into
+the middle meatus on the left image (arrow). EC ethmoid cells; MS
+
+Frontal bone
+
+Lacrimal bone
+
+Nasal bone
+
+Inferior nasal
+concha
+
+Maxilla
+
+Palatine bone
+
+Ethmoid bone
+
+Sphenoid bone
+
+Fig. 4.7 Medial view of the bony structures in of the nasal cavity
+
+maxillary sinus; FS frontal sinus; SS sphenoid sinus; IC inferior concha;
+MC middle concha; and SC superior concha
+
+4.2 Nose, Nasal Cavity, and Paranasal Sinuses
+Fig. 4.8 Medial view of the
+nasal cavity
+
+Olfactory nerves
+Sphenoidal sinus
+
+111
+
+Frontal sinus
+Superior nasal concha
+and meatus
+Middle nasal concha
+and meatus
+Inferior nasal concha
+and meatus
+Nostril
+
+Palate
+Choana
+
+Fig. 4.9 Medial view of the
+nasal cavity. Note the superior,
+middle, and inferior nasal
+conchae are removed
+
+Sphenoidal sinus
+
+Frontal sinus
+Superior nasal meatus
+Middle nasal meatus
+
+Inferior nasal meatus
+
+Nostril
+Palate
+Choana
+
+112
+Fig. 4.10 Medial view of the
+nasal cavity showing the
+openings of the paranasal sinuses
+and nasolacrimal duct
+*Ethmoidal bulla
+
+4
+Opening of posterior ethmoidal
+cell (into superior nasal meatus)
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Opening of frontal sinus
+(into middle nasal meatus)
+Opening of anterior and
+middle ethmoidal cells
+(into middle nasal meatus)
+
+*
+
+Opening of maxillary sinus
+(into middle nasal meatus)
+Opening of sphenoidal sinus
+(into superior nasal meatus)
+
+Opening of nasolacrimal duct
+
+Fig. 4.11 Medial view of the
+nasal cavity. The medial wall of
+the ethmoidal cells and ethmoidal
+bulla are removed
+
+Frontal sinus
+
+Ethmoidal cells
+Semilunar hiatus
+Opening of
+maxillary sinus
+Uncinate process
+(deep to mucosa)
+Sphenoidal sinus
+
+Opening of
+nasolacrimal duct
+
+4.2 Nose, Nasal Cavity, and Paranasal Sinuses
+Fig. 4.12 Medial view of the
+nasal cavity. Note that the four
+paranasal sinuses are shown
+
+113
+
+Frontal sinus
+
+Sphenoidal sinus
+
+Ethmoidal cells
+
+Maxillary sinus
+
+Fig. 4.13 Medial view of the
+nasal septum
+Perpendicular plate of
+ethmoid bone
+
+Septal nasal cartilage
+
+Vomeronasal cartilage
+
+Vomer
+
+114
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Infratrochlear nerve
+
+External nasal branch
+(Anterior ethmoidal nerve)
+
+External nasal branch
+(Infraorbital nerve)
+
+Fig. 4.14 Innervation of the external nose
+
+Major alar cartilage
+Frontal bone
+
+Lateral
+crus
+
+Medial
+crus
+
+Nasal bones
+Frontal process
+of maxillary bone
+Lateral process of
+septal nasal cartilages
+Septal nasal cartilage
+Minor alar cartilage
+
+Anterior nasal
+spine of
+maxillary bone
+
+Accessory nasal
+cartilage
+Major alar
+cartilage
+
+Lateral crus
+
+Intermaxillary
+suture
+
+Medial crus
+
+Septal nasal cartilage
+Anterior nasal spine
+of maxillary bone
+Alar fibrofatty tissue
+Infraorbital foramen
+
+Fig. 4.15 Schematic drawing of the nasal cartilages
+
+Alar
+fibrofatty
+tissue
+
+Septal
+nasal
+cartilage
+
+4.2 Nose, Nasal Cavity, and Paranasal Sinuses
+
+Posterior septal branch
+of sphenopalatine artery
+
+115
+
+Anterior septal
+branch of anterior
+ethmoidal artery
+Anterior lateral nasal
+branch of anterior
+ethmoidal artery
+
+Posterior lateral nasal
+branches of
+sphenopalatine artery
+
+External nasal branch
+of anterior ethmoidal
+artery
+
+Fig. 4.16 Blood supply of the nasal cavity
+
+Nasopalatine nerve
+Olfactory nerves
+
+Medial internal nasal
+branch of anterior
+ethmoidal nerve
+Lateral internal nasal
+branch of anterior
+ethmoidal nerve
+External nasal branch
+of anterior ethmoidal
+nerve
+
+Pterygopalatine
+ganglion
+Posterior superior
+lateral nasal branch of
+maxillary nerve
+Posterior Inferior
+lateral nasal branch of
+greater palatine nerve
+
+Fig. 4.17 Innervation of the nasal cavity and nasal septum
+
+Internal nasal branch
+of infraorbital nerve
+
+116
+
+4
+
+Fig. 4.18 Blood supply and
+innervation of the nasal cavity
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Medial internal nasal branch of anterior ethmoidal nerve
+
+Sphenopalatine foramen
+Anterior septal branch of anterior ethmoidal artery
+
+Posterior septal branches of sphenopalatine artery
+
+Nasopalatine nerve
+
+Fig. 4.19 Origin of the
+sphenopalatine artery and
+nasopalatine nerve via the
+sphenopalatine foramen
+
+Superior
+Lateral
+
+Sphenopalatine foramen
+
+Anterior
+
+Sphenopalatine artery
+
+Posterior septal branches
+
+Nasopalatine
+nerve
+
+4.3
+
+Orbit
+
+Summary
+Vision is carried out by the optic nerve. To move the eyeball,
+cranial nerves III, IV, and VI enter the orbit via superior
+orbital fissure. Tears are produced in the lacrimal gland and
+function to prevent dryness of the cornea. The excessive fluid
+
+is collected by the medially located nasolacrimal duct to
+drain into the inferior nasal meatus. The orbit receives arterial branches from the ophthalmic, facial, and transverse
+facial arteries. Importantly, the superior and inferior ophthalmic veins drain into the cavernous sinus so that infections in
+the orbit can affect the cavernous sinus. In this section, the
+anatomy of the orbit will be shown.
+
+4.3 Orbit
+
+117
+
+Fig. 4.20 Anterior view of the
+right eye. The epicanthus (or
+epicanthal fold) is seen in
+one-third of healthy young North
+American Caucasians (Farkas
+and Cheung 1979) and around
+50-90% of Koreans and Japanese
+(Lai et al. 2012)
+
+Pupil
+Upper eyelid
+
+Iris
+
+Eyelashes
+Plica semilunaris
+Lateral palpebral
+commissure
+
+Medial palpebral
+commissure
+
+Anterior
+palpebral margin
+
+Epicanthus
+Lacrimal caruncle
+
+Posterior
+palpebral margin
+Lower eyelid
+
+Frontal bone
+(cut away)
+Orbital part of
+lacrimal gland
+Palpebral part of
+lacrimal gland
+Excretory ducts
+of lacrimal gland
+Plica semilunaris
+and lacrimal lake
+Lacrimal caruncle
+
+Superior lacrimal
+papilla and punctum
+Lacrimal canaliculi
+Lacrimal sac
+Nasolarcrimal duct
+Middle nasal concha
+Nasal cavity
+Inferior nasal
+concha (cut)
+
+Inferior lacrimal
+papilla and punctum
+Opening of
+nasolacrimal duct
+Inferior nasal meatus
+
+Fig. 4.21 Pathway of the tears which are produced in the lacrimal gland which is innervated by the lacrimal nerve, a branch of V1. The
+autonomic fibers that travel along the lacrimal nerve to the gland are derived from the facial nerve
+
+118
+Fig. 4.22 Anterior view of the
+right orbit. The postganglionic
+parasympathetic fibers for the
+lacrimal gland originate from the
+pterygopalatine ganglion via the
+zygomaticotemporal nerve which
+sends a communicating branch
+(*) to the lacrimal nerve to
+supply the parasympathetic fibers
+
+4
+
+Lacrimal gland
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Lacrimal nerve
+
+*
+*
+*
+Zygomatic nerve
+Zygomaticotemporal
+nerve
+
+Zygomaticofacial
+nerves
+
+4.3 Orbit
+
+119
+
+Iris
+Zonular fibers
+(suspensory
+ligament of lens)
+Scleral venous
+sinus (canal of
+Schlemm)
+Scleral spur
+Ciliary body and
+ciliary muscle
+Ciliary part of
+retina
+
+Lens
+
+Capsule
+of lens
+
+Cornea
+Anterior chamber
+Posterior chamber
+Iridocorneal angle
+Ciliary process
+Bulbar conjunctiva
+Ora serrata
+Tendon of medial
+rectus muscle
+
+Tendon of lateral
+rectus muscle
+Optic (visual)
+part of retina
+Choroid
+Perichoroidal
+space
+Sclera
+
+Vitreous body
+
+Fascial sheath of
+eyeball (Tenon’s
+capsule)
+
+Hyaloid canal
+
+Episcleral space
+Fovea centralis
+in macula (lutea)
+Meningeal sheath
+of optic nerve
+Subrachnoid space
+
+Fig. 4.23 Axial section of the left eyeball
+
+Lamina cribrosa
+of sclera
+Optic nerve (II)
+Central retinal
+artery and vein
+
+120
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Ora serrata
+
+Iris
+
+Lens
+
+Anterior chamber
+
+Ciliary processes
+Ciliary processes
+
+Fig. 4.24 Coronal section of the eyeball. Anterior segment viewed
+from behind
+
+Fig. 4.26 Coronal section of the
+eyeball. Right optic nerve and
+retinal arterioles are shown
+
+Fig. 4.25 Coronal section of the eyeball. Anterior segment viewed
+from behind. Lens is removed
+
+Superior temporal
+retinal arteriole
+
+Superior macular
+retinal arteriole
+Macula
+Fovea centralis
+Inferior macular
+retinal arteriole
+Inferior temporal
+retinal arteriole
+
+Superior nasal retinal
+arteriole
+Central retinal artery
+Inferior nasal retinal
+arteriole
+
+4.3 Orbit
+Fig. 4.27 Sagittal image of
+the orbit
+
+121
+Levator palpebrae
+superioris muscle
+Orbital septum
+Superior
+conjunctival fornix
+Superior tarsal
+(Müller's) muscle
+(smooth)
+Orbicularis oculi
+muscle (palpebral
+part)
+
+Sclera
+
+Superior tarsus
+
+Bulbar
+conjunctiva
+
+Tarsal (meibomian)
+glands
+
+Palpebral
+conjunctiva
+
+Sebaceous glands
+
+Cornea
+
+Eyelashes (cilia)
+
+Lens
+
+Openings of tarsal
+glands
+
+Anterior
+chamber
+
+Inferior tarsus
+
+Iris
+
+Orbicularis oculi
+muscle (palpebral
+part)
+
+Posterior
+chamber
+
+Inferior
+conjunctival fornix
+Orbital septum
+
+Orbicularis oculi
+
+Medial
+
+Lateral
+
+Medial
+
+Lateral
+
+Orbicularis oculi
+
+Fig. 4.28 Anterior view of the right eyelids
+
+122
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+Insertion of
+levator palpebrae
+superioris muscle
+
+Orbital septum
+Superior palpebral
+arterial arch
+Superior tarsus
+Superior lateral
+palpebral artery
+
+Inferior lateral
+palpebral artery
+Inferior tarsus
+Inferior palpebral
+arterial arch
+
+Superior medial
+palpebral artery
+
+Lacrimal sac
+Inferior medial
+palpebral artery
+Angular artery and
+vein
+
+Fig. 4.29 Anterior view of the right eye after removal of the orbicularis oculi
+
+Lateral palpebral ligament
+
+Fig. 4.30 Medial and lateral palpebral ligaments
+
+Medial palpebral ligament
+
+4.3 Orbit
+
+123
+
+Fig. 4.31 Anterior view of the
+right extraocular muscles.
+© Fisher/Tubbs 2020. All Rights
+Reserved
+
+Superior oblique muscle
+(Trochlear nerve: CN IV)
+
+Trochlea
+
+Superior rectus muscle
+
+Lateral rectus muscle
+(Abducens nerve: CN VI)
+
+Medial rectus muscle
+
+Inferior rectus muscle
+Inferior oblique muscle
+(Oculomotor nerve: CN III)
+
+Levator palpebrae
+superioris muscle
+
+Superior oblique muscle
+Superior rectus muscle
+and levator palpebrae
+superioris muscle
+
+Superior rectus muscle
+
+Optic nerve
+
+Lacrimal gland
+Superior oblique muscle
+
+Lateral rectus muscle
+
+Eyeball
+Medial rectus muscle
+
+Medial rectus muscle
+
+Inferior rectus muscle
+
+Inferior rectus muscle
+Maxillary sinus
+
+Fig. 4.32 Coronal MRI of the right orbit (posterior to the eyeball)
+
+Fig. 4.33 Coronal MRI of the right orbit (middle of the eyeball)
+
+Anterior
+
+Fig. 4.34 Superior view of the
+floor of the left anterior cranial
+fossa
+
+Inferior oblique muscle
+
+Lateral
+
+Superior wall of orbit
+
+Frontal crest
+
+Foramen cecum
+
+Crista galli
+Cribriform plate
+
+Lesser wing
+of sphenoid
+
+124
+
+4
+
+Fig. 4.35 Superior view of the
+left orbit. The superior walls of
+the orbit, frontal sinus, ethmoidal
+cells, and sphenoidal sinus are
+removed
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Frontal sinus
+
+Foramen cecum
+Orbital fat
+
+Ethmoidal cells
+Crista galli
+Cribriform plate
+
+Sphenoidal sinus
+
+Trochlea
+
+Frontal sinus
+Supratrochlear artery
+Supratrochlear nerve
+Supraorbital nerve
+
+Lacrimal gland
+Levator palpebrae
+superioris
+
+Crista galli
+Superior oblique muscle
+
+Ethmoidal cells
+Superior rectus muscle
+Lateral rectus muscle
+Frontal nerve
+
+Trochlear nerve
+
+Lacrimal nerve
+
+Sphenoidal sinus
+Common tendinous ring
+(Anulus of Zinn)
+
+Fig. 4.36 Superior view of the left orbit following removal of the orbital fat
+
+4.3 Orbit
+
+125
+
+Trochlea
+
+Frontal sinus
+
+Inferior ophthalmic vein
+Lacrimal gland
+Superior ophthalmic vein
+Lacrimal nerve
+
+Crista galli
+Levator palpebrae
+superioris (cut and turned
+medially)
+Superior oblique muscle
+
+Superior rectus muscle
+
+Frontal nerve (cut)
+
+Superior branch of
+oculomotor nerve
+Trochlear nerve
+Sphenoidal sinus
+Common tendinous ring
+(Anulus of Zinn)
+
+Fig. 4.37 Superior view of the left orbit. The supraorbital and supratrochlear nerves have been resected. The levator palpebrae superioris muscle
+is cut proximally and turned medially
+
+Trochlea
+
+Supratrochlear artery
+Optic nerve
+Eyeball
+Lacrimal gland
+Anterior ethmoidal artery
+Posterior ciliary arteries
+Lacrimal nerve (cut)
+
+Anterior ethmoidal nerve
+Superior oblique muscle
+
+Short ciliary nerve
+
+Medial rectus muscle
+
+Long ciliary nerve
+Lacrimal artery
+
+Trochlear nerve
+
+Nasociliary nerve
+
+Ophthalmic artery
+
+Frontal nerve (cut)
+
+Common tendinous ring
+(Anulus of Zinn)
+
+Fig. 4.38 Superior view of the left orbit. The levator palpebrae superioris and superior rectus muscles are removed. Note that the branches of the
+ophthalmic artery and that the optic nerve is within its meningeal sheath
+
+126
+
+4
+
+Fig. 4.39 Superior view of the
+left orbit. Distal two-thirds of the
+optic nerve is removed and the
+inferior rectus muscle is shown
+deep to it. Note the superior
+branch of the oculomotor nerve is
+removed
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Eyeball
+
+Optic nerve (cut)
+Lacrimal gland
+Infratrochlear nerve
+Anterior ethmoidal nerve
+
+Lateral rectus muscle
+
+Medial rectus muscle
+
+Short ciliary nerve
+Long ciliary nerve
+Nasociliary nerve
+
+Inferior rectus muscle
+
+Branch to ciliary
+ganglion (oculomotor)
+
+Inferior branch of the
+oculomotor nerve
+
+Origin of inferior oblique
+muscle
+Eyeball
+Medial rectus muscle
+
+Lateral rectus muscle
+Branch to inferior oblique muscle
+(inferior branch of CN III)
+
+Abducens nerve
+
+Inferior rectus muscle
+
+Branches to inferior rectus
+muscle (inferior branch of CN III)
+Branch to medial rectus
+muscle (inferior branch of CN III)
+Inferior branch of the
+oculomotor nerve
+
+Fig. 4.40 Superior view of the left orbit. The optic and nasociliary nerves have been removed. The distribution of the abducens and the inferior
+branch of the oculomotor nerves are shown
+
+4.4 Ear
+
+4.4
+
+127
+
+Ear
+
+Summary
+The ear consists of external, middle, and internal parts. The
+major function of the ear is hearing and balance. The external ear channels sound to the tympanic membrane. The middle ear, also known as the tympanic cavity contains the three
+
+ear ossicles, i.e., malleus, incus, and stapes. The ossicles
+transmit sound to the inner ear. The eustachian tube, originating from the tympanic cavity, connects to the nasopharynx and helps the ear drain fluid and equalizes air pressure.
+The internal ear, the deepest part of the ear, has two different
+structures and functions. The vestibule contributes to balance and the cochlea is the organ of hearing.
+
+Vestibule
+Base of stapes in oval
+(vestibular) window
+Facial nerve (VII) cut
+Prominence of
+lateral semicircular
+canal
+
+Semicircular ducts,
+ampulla, utricle and
+saccule
+
+Tegmen tympani
+
+Facial nerve (VIII)
+cut
+
+Incus
+Epitympanic
+recess
+
+Internal acoustic
+meatus
+
+Malleus (head)
+
+Vestibulocochlear
+nerve (VIII)
+
+Auricle
+Limbs of stapes
+
+Cochlear nerve
+
+External
+acoustic meatus
+
+Vestibular nerve
+
+Tympanic
+membrane
+Tympanic cavity
+
+Nasopharynx
+
+Promontory
+Parotid gland
+Round window
+Internal jugular
+vein
+
+Helicotrema
+Auditory
+(pharyngotympanic,
+eustachian) tube
+
+Scala vestibuli
+Cochlear duct
+contains spiral
+organ of Corti
+Scala tympani
+
+Fig. 4.41 Anterior view of the external, middle, and internal parts of the ear
+
+Cochlea
+
+128
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Lateral process of malleus
+
+Helix
+Scaphoid fossa
+Crura of antihelix
+Antihelix
+
+Handle of malleus
+
+Crus of helix
+Concha of auricle
+Tragus
+
+Tympanic membrane
+
+Intertragic notch
+Antitragus
+Lobule of auricle
+
+Fig. 4.42 Superficial anatomy of the right auricle
+
+Fig. 4.44 Endoscopic view of
+the left middle ear (tympanic
+membrane is removed)
+
+Fig. 4.43 Endoscopic view of the left tympanic membrane
+
+Lateral process
+of malleus
+Tendon of tensor
+tympani muscle
+Handle of malleus
+
+Chorda tympani
+Tendon of stapedius muscle
+Long limb of incus
+Stapes
+Fossa of cochlear window
+
+4.4 Ear
+
+129
+
+Anterior
+
+Fig. 4.45 Superior view of the
+left petrous part of the temporal
+bone
+
+Arcuate eminence
+
+Lateral
+
+Superior
+petrosal sinus
+
+Opening of internal
+acoustic meatus
+Facial and
+vestibulocochlear
+nerves
+
+Sigmoid sinus
+
+Anterior
+
+Fig. 4.46 Superior view of the
+left temporal bone
+
+Lateral
+
+Arcuate eminence
+
+Anterior semicircular canal
+
+Internal acoustic meatus
+
+Superior petrosal sinus
+
+Posterior semicircular canal
+
+Sigmoid sinus
+
+4
+
+Anterior
+
+Fig. 4.47 Superior and medial
+views of the left temporal bone
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Superior
+
+130
+
+Lateral
+Anterior
+semicircular
+canal
+
+Tympanic cavity
+Eustachian tube
+
+Posterior
+semicircular
+canal
+Internal acoustic meatus
+Anterior semicircular canal
+Lateral semicircular canal
+
+Internal
+acoustic
+meatus
+
+Sigmoid sinus
+
+Anterior
+Lateral
+
+Lateral semicircular canal
+Anterior semicircular canal
+
+Cochlea
+
+Internal acoustic meatus
+
+Anterior semicircular canal
+Cochlea
+Lateral semicircular canal
+Superior
+
+Facial canal
+
+Anterior
+
+Fig. 4.48 Superior view of the left petrous part of the temporal bone
+
+4.4 Ear
+
+131
+
+Fig. 4.49 Superior view of the
+left petrous part of the temporal
+bone
+
+V3
+
+Geniculate ganglion
+Malleus
+Incus
+Facial nerve
+Stapes
+
+Greater petrosal nerve
+Trigeminal nerve
+
+Opening of internal
+acoustic meatus
+Facial nerve
+Vestibulocochlear nerve
+
+Fig. 4.50 Superior view of the
+left petrous part. Facial nerve,
+geniculate ganglion, and greater
+petrosal nerve are resected
+
+Tensor tympani muscle
+Tympanic membrane
+
+Eustachian tube
+
+Malleus
+Incus
+
+Facial nerve (cut)
+Footplate of stapes
+
+Cochlear nerve
+Opening of internal
+acoustic meatus
+
+Superior and inferior
+vestibular nerves
+
+132
+
+4.5
+
+4
+
+Pharynx and Parapharyngeal Spaces
+
+Summary
+The pharynx is a part of both the upper respiratory system
+and is divided into three parts: nasopharynx, oropharynx,
+and laryngopharynx. The function of the pharynx as a part of
+the respiratory system is for warming, humidifying, and filtering inspired air. As a part of the digestive system, its three
+pharyngeal constrictor muscles help propel food into the
+esophagus. The pharynx contains a ring of lymphatic tissue
+Fig. 4.51 Medial view of the
+pharynx. The pharynx is divided
+into three parts: nasopharynx,
+oropharynx, and laryngopharynx.
+The nasopharynx borders the
+skull base superiorly and the
+inferior edge of the uvula
+inferiorly; the oropharynx is
+bordered by the superior edge of
+the epiglottis inferiorly; the
+laryngopharynx is bordered by
+the inferior border of the cricoid
+cartilage inferioly. Waldeyer’s
+ring is formed by the lingual
+tonsil, palatine tonsil, and
+pharyngeal tonsil. © Fisher/
+Tubbs 2020. All Rights Reserved
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+called Waldeyer’s ring and this is formed by the lingual,
+(tubal), palatine, and pharyngeal tonsils. The majority of the
+blood supply to the pharynx is via the ascending pharyngeal
+artery and branches of the facial, lingual, and maxillary
+arteries. The pharynx is innervated by branches of CNs V,
+IX, and X. The parapharyngeal space is a pathway for the
+major vessels, cranial nerves, and other anatomical structures. The auditory tubes (eustachian tubes) connect the
+nasopharynx to the middle ear so that the air pressure in the
+middle ear can be equalized.
+
+Sphenoidal sinus
+Pharyngeal tonsil
+Pharyngeal raphe
+Pharyngeal opening of auditory tube
+Palatine tonsil
+Foramen cecum
+
+Nasopharynx
+
+Lingual tonsil
+Oropharynx
+
+Epiglottis
+Pharyngeal constrictor muscles
+Hyoepiglottic ligament
+
+Laryngopharynx
+
+Thyrohyoid membrane
+Thyroid cartilage
+Vocal fold
+Transverse arytenoid muscle
+Cricoid cartilage
+Thyroid gland
+Investing layer of deep cervical fascia
+Trachea
+Pretracheal layer of deep cervical fascia
+Esophagus
+
+PG
+
+PG
+SS
+
+SS
+ICA
+
+Middle concha
+
+Nasal septum
+Choana
+Inferior concha
+ES
+
+ES
+
+Palate
+
+Tongue
+
+Palate
+
+U
+Tongue
+
+U
+
+Fig. 4.52 Medial view of the nasopharynx and surrounding structures. Before (left) and after (right) removal of the nasal septum. ES eustachian
+tube, PG pituitary gland, SS sphenoidal sinus, U uvula
+
+4.5 Pharynx and Parapharyngeal Spaces
+Fig. 4.53 Posterior view of the
+pharynx. © Fisher/Tubbs 2020.
+All Rights Reserved
+
+133
+Pharyngeal tonsil
+
+Eustachian tube
+
+Pharyngeal recess
+Salpingopharyngeal fold
+Torus levatorius
+
+Nasopharynx
+
+Palatine tonsil
+Oropharynx
+
+Palatopharyngeal arch
+Epiglottis
+Aryepiglottic fold
+
+Laryngopharynx
+
+Piriform recess
+Cuneiform tubercle
+Corniculate tubercle
+Interarytenoid notch
+
+Pharyngeal tubercle
+Pharyngeal raphe
+Posterior belly of digastric
+Styloglossus
+
+Eustachian tube
+Levator veli palatini
+Pharyngobasilar fascia
+Superior pharyngeal constrictor
+
+Medial pterygoid muscle
+Middle pharyngeal constrictor
+Stylopharyngeus
+Cuneiform tubercle
+
+Palatopharyngeus
+Epiglottis
+
+Corniculate tubercle
+
+Transverse and oblique
+arytenoid muscles
+
+Thyroid cartilage
+Posterior cricoarytenoid muscle
+Inferior pharyngeal constrictor
+
+Longitudinal esophagus
+muscle
+
+Fig. 4.54 Posterior view of the pharynx. The pharyngeal constrictor
+muscles are all innervated by the vagus nerve via the pharyngeal plexus.
+Although it is controversial, the cricopharyngeal part of the inferior
+
+pharyngeal constrictor muscle can be supplied by the external branch of
+the superior laryngeal nerve and recurrent laryngeal nerve (Sakamoto
+2013; Standring 2020). © Fisher/Tubbs 2020. All Rights Reserved
+
+134
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Sinus of Morgagni
+Torus tubarius
+
+Torus tubarius
+Eustachian tube
+(auditory tube)
+Posterior wall of pharynx
+
+Eustachian tube
+Salpingopharyngeal
+fold
+Posterior wall
+of pharynx
+
+Fig. 4.55 Anterior view of the posterior wall of the pharynx
+
+Cartilaginous part of
+eustachian tube
+
+Salpingopharyngeus
+muscle
+Superior pharyngeal
+constrictor muscle
+
+Epiglottis
+
+Fig. 4.57 Anteromedial view of the posterior and lateral walls of the
+pharynx. Note the overlying mucosa has been removed
+
+Fig. 4.58 Anteromedial view of
+the posterior and lateral walls of
+the pharynx. Before (left) and
+after (right) removal of the
+overlying mucosa
+
+Eustachian tube
+
+Torus tubarius
+Salpingopharyngeal fold
+Lateral retropharyngeal
+(Rouvière) lymph nodes
+Retropharyngeal space
+Longus capitis and colli
+
+Fig. 4.56 Anteromedial view of the posterior and lateral walls of the
+pharynx
+
+4.5 Pharynx and Parapharyngeal Spaces
+
+135
+
+Fig. 4.59 Lateral view of the
+pharyngeal plexus. © Fisher/
+Tubbs 2020. All Rights Reserved
+
+Pharyngobasilar fascia
+Superior pharyngeal constrictor
+Internal carotid artery
+
+Palatopharyngeus muscle
+
+Internal jugular vein
+Glossopharyngeal nerve
+Stylopharyngeus
+Styloglossus
+Stylohyoid
+Pharyngeal branch of
+glossopharyngeal nerve
+Pharyngeal branch
+of vagus nerve
+
+Middle pharyngeal constrictor
+
+Vagus nerve
+Hyoid
+
+Superior
+
+Fig. 4.60 Lateral view of the
+pharynx. Pharyngeal branches of
+the vagus and glossopharyngeal
+nerves form the pharyngeal
+plexus (red dashed circle). CCA
+common carotid artery, RPS
+retropharyngeal space
+
+Stylomandibular
+ligament
+
+Anterior
+Pharyngeal branch of
+vagus nerve
+
+Mandibular angle
+
+Superior laryngeal
+nerve
+
+CN IX
+CN XII
+Hyoid bone
+Internal branch of
+superior laryngeal nerve
+External branch of
+superior laryngeal nerve
+
+RPS
+
+CCA
+
+136
+
+4
+
+Pterygomandibular
+space
+
+Danger space
+
+Parapharyngeal
+space
+
+Retropharyngeal
+space
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Buccal space
+
+Fig. 4.61 Axial view of the spaces. Note the alar fascia (arrow) divides
+the space located posterior to the posterior pharyngeal wall into the
+retropharyngeal and “danger” spaces. The parapharyngeal space is further divided into pre- and poststyloid spaces based on the relationship
+between the styloid muscles, i.e., stylohyoid, styloglossus, and stylopharyngeus muscles
+
+Fig. 4.62 Axial image of the
+parapharyngeal space (blue area)
+and related structures on
+contrasted computed tomography
+
+Medial pterygoid
+muscle
+Lateral pterygoid
+muscle
+
+Internal carotid artery
+
+Parapharyngeal
+space
+
+External carotid artery
+Styloid process
+
+Parotid gland
+
+Internal jugular vein
+
+Courtesy of Dr. Takeshita
+
+4.5 Pharynx and Parapharyngeal Spaces
+Fig. 4.63 Axial section of the
+parapharyngeal space (red area)
+and related structures on
+magnetic resonance image
+(T1W1). Note that the adipose
+tissue in the parapharyngeal
+space enhances
+
+137
+
+Medial pterygoid muscle
+Lateral pterygoid muscle
+
+Internal carotid artery
+External carotid artery
+
+Parapharyngeal space
+Parotid gland
+
+Internal jugular vein
+
+Courtesy of Dr. Takeshita
+
+Hypoglossal nerve
+Vagus nerve
+Glossopharyngeal nerve
+
+Accessory nerve
+Superior cervical ganglion
+
+Vagus nerve (cut)
+
+Sigmoid sinus
+Superior and inferior ganglia of
+vagus nerve (CN X)
+Occipital artery
+Sternocleidomastoid muscle (cut)
+Retropharyngeal node
+
+Jugulodigastric node
+
+Ascending pharyngeal artery
+Facial artery
+
+Sympathetic trunk
+
+Pharyngeal venous plexus
+Deep cervical nodes
+
+Middle cervical ganglion
+
+Fig. 4.64 Posterior view of the pharynx and para/retropharyngeal spaces
+
+Common carotid artery
+
+138
+
+4
+External carotid artery
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Sympathetic trunk
+Ascending pharyngeal artery
+
+Styloid process
+
+Parotid gland
+
+Longus capitis muscle
+
+Spinal accessory nerve (CN XI)
+Facial artery
+Vagus nerve (CN X)
+Glossopharyngeal nerve (CN XI)
+
+Internal jugular vein
+
+Pharyngeal plexus
+Pharyngeal constrictor muscles
+
+CN XII
+Epiglottis
+
+Stylohyoid muscle
+
+Fig. 4.65 Anterior view (transoral view) of the right parapharyngeal space
+
+Fig. 4.66 Anterior view
+(transoral view) of the right
+parapharyngeal space. Most of
+the structures in the prestyloid
+(lateral styloid) space have been
+removed. Note Rouvière’s lymph
+node lies on the surface of the
+lateral border of the longus
+capitis and medial to the internal
+carotid artery. Rouvière lymph
+node is located within the
+buccopharyngeal fascia at the C1
+or C2 vertebral level near the
+opening of the carotid canal and
+drains into the jugulodigastric
+node
+
+Ascending
+pharyngeal artery
+Internal carotid artery
+Parotid gland
+
+Longus capitis muscle
+Lateral retropharyngeal
+(Rouvière) lymph node
+Vagus nerve
+
+Stylopharyngeus
+muscle
+Styloglossus muscle
+Stylohyoid muscle
+
+Pharyngeal branch
+of vagus nerve
+
+Epiglottis
+
+4.6 Larynx
+
+4.6
+
+139
+
+Larynx
+
+Summary
+The larynx is the airway that extends from the tongue to the
+trachea, which open into the laryngopharynx and forms the
+anterior wall of it. The larynx consists of five cartilages, i.e.,
+epiglottic, thyroid, cricoid, corniculate, and arytenoid cartilages, and hyoid bone. Intrinsic muscles of the larynx are
+
+innervated by vagus nerve branches, either external branch
+of the superior laryngeal nerve or recurrent laryngeal nerve.
+Dysfunction of the intrinsic muscles can result in hoarseness
+or loss of tone. Internal branch of the superior laryngeal
+nerve supplies the sensory fibers to the larynx. The larynx is
+supplied by the superior thyroid branch of the external
+carotid artery superiorly and inferior thyroid branch of the
+thyrocervical trunk (branch of subclavian artery).
+
+Epiglottis
+Hyoid bone
+Thyrohyoid membrane
+Superior horn of thyroid cartilage
+
+Vocal ligament
+Median cricothyroid ligament
+Inferior horn of
+thyroid cartilage
+Cricoid cartilage
+Tracheal cartilages
+Membranous wall
+Anterior view
+
+Fig. 4.67 Anterior and posterior views of larynx
+
+Posterior view
+
+140
+
+4
+
+Fig. 4.68 Anterosuperior view
+of the cricoid, arytenoid, and
+corniculate cartilages
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Corniculate cartilage
+Muscular process
+Arytenoid cartilage
+
+Cricoid cartilage
+
+Arytenoid articular surface
+
+Vocal process
+
+Lamina
+
+Arch
+
+Fig. 4.69 Lateral view of the
+larynx. The external branch of
+the superior laryngeal nerve
+innervates the cricothyroid
+muscle that increases the tension
+of the vocal ligaments. Internal
+branch mainly consists of
+sensory fibers and it communicates with the anterior branch of
+the recurrent laryngeal nerve to
+form the nerve of Galen medial
+to the thyroid cartilage
+
+Superior laryngeal nerve
+Hyoid bone
+Internal branch
+Thyrohyoid membrane
+External branch
+
+Thyroid cartilage
+
+Foramen for superior laryngeal
+vessels and internal branch of
+superior laryngeal nerve
+
+Cricothyroid ligament
+Cricothyroid muscle
+Cricoid cartilage
+Trachea
+
+Epiglottis
+Aryepiglottic fold
+Cuneiform tubercle
+Corniculate tubercle
+Oblique arytenoid muscle
+Transverse arytenoid muscle
+Thyroid cartilage
+Posterior cricoarytenoid muscle
+Cricoid cartilage
+
+Fig. 4.70 Posterior view of the larynx
+
+Posterior cricoarytenoid muscle
+
+4.6 Larynx
+Fig. 4.71 Postrolateral view of
+the larynx. Right side of the
+thyroid cartilage has been
+removed
+
+141
+
+Epiglottis
+
+Thyroepiglottic part of thyroarytenoid muscle
+Aryepiglottic part of oblique arytenoid muscle
+Oblique and transverse arytenoid muscles
+Thyroarytenoid muscle
+Lateral cricoarytenoid muscle
+Posterior cricoarytenoid muscle
+Conus elasticus
+Cricothyroid muscle (cut)
+
+Fig. 4.72 Superior view of the
+larynx
+
+Lamina of cricoid cartilage
+Posterior cricoarytenoid muscle
+
+Oblique and transverse arytenoid muscles
+Lateral cricoarytenoid muscle
+
+Cricothyroid muscles
+(straight and oblique parts)
+Thyroarytenoid muscle
+Vocalis muscle
+Vocal ligament
+
+Lamina of thyroid cartilage
+
+142
+
+4
+
+Action
+
+Adduction
+
+Abduction
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Adduction
+
+Shortening
+(relaxation)
+
+Lengthening
+(increasing tension)
+
+Oblique arytenoid
+transverse arytenoid
+
+Vocalis
+Thyroarytenoid
+
+Cricothyroid
+
+Recurrent laryngeal
+
+Recurrent laryngeal
+
+External branch of
+superior
+laryngeal nerve
+
+Schema
+
+Muscle
+Innervation
+
+Posterior cricoarytenoid Lateral cricoarytenoid
+Recurrent laryngeal
+
+Recurrent laryngeal
+
+Fig. 4.73 Action of intrinsic muscles of the larynx to the vocal cord
+
+Anterior
+
+Internal branch of
+superior laryngeal
+nerve
+
+Superior
+
+Fig. 4.74 The external branch of
+the superior laryngeal nerve
+innervates the cricothyroid
+muscle and cricopharyngeal part
+of the inferior pharyngeal
+constrictor (Sakamoto 2013;
+Standring 2020). The internal
+branch of the superior laryngeal
+nerve pierces the foramen for the
+superior laryngeal vessels and
+internal branch of the superior
+laryngeal nerve to provide
+sensory fibers to the larynx
+Internal branch of
+superior laryngeal
+nerve
+
+External branch
+of superior
+laryngeal nerve
+Extra-thyroid cartilage
+
+Intra-thyroid cartilage
+
+4.6 Larynx
+Fig. 4.75 The internal branch of
+the superior laryngeal nerve
+provides sensory branches to the
+larynx above the vocal cords and
+communicates with the anterior
+branch of the recurrent laryngeal
+nerve to form the nerve of Galen
+medial to the thyroid cartilage.
+© Fisher/Tubbs 2020. All Rights
+Reserved
+
+143
+
+Internal branch of superior laryngeal nerve
+
+Superior thyroid artery
+Thyroid cartilage
+Nerve of Galen
+Posterior cricoarytenoid muscle
+Inferior thyroid artery
+Anterior branch of recurrent laryngeal nerve
+Posterior branch of recurrent laryngeal nerve
+Recurrent laryngeal nerve
+
+Fig. 4.76 The internal branch of
+the superior laryngeal nerve and
+anterior branch of the recurrent
+laryngeal nerve communicate to
+form the nerve of Galen medial
+to the thyroid cartilage. All the
+laryngeal muscles except the
+cricothyroid muscle are
+innervated by the recurrent
+laryngeal nerve
+
+Internal branch of superior
+laryngeal nerve
+Transverse and oblique
+arytenoid muscles
+Superior thyroid artery
+
+Nerve of Galen
+Posterior cricoarytenoid muscle
+Inferior thyroid artery
+Anterior branch of recurrent
+laryngeal nerve
+Posterior branch recurrent
+laryngeal nerve
+Recurrent laryngeal nerve
+
+144
+
+4
+
+4.7
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Infratemporal and Pterygopalatine
+Fossae
+
+Summary
+The pterygopalatine fossa (PT fossa) is bounded by the greater
+wing of the sphenoid bone superiorly, pterygoid process posteriorly, and infratemporal surface of the maxilla anteriorly.
+The infratemporal fossa (IT fossa) is situated medial and
+inferior to the zygomatic arch and is not fully bounded by
+bony structures. Its boundaries include the infratemporal
+crest of the sphenoid bone superiorly, infratemporal surface
+of the maxilla anteriorly, articular tubercle of the temporal
+bone posteriorly, lateral plate of the pterygoid process medially, medial pterygoid muscle inferiorly, and ramus of the
+mandible laterally.
+The PT fossa is mainly related to V2 and its branches, and
+the IT fossa to V3 and its branches. Both fossae are supplied
+by the maxillary artery and its branches.
+
+Piriform recess
+Aryepiglottic fold
+Ventricular fold (false cord)
+Vocal fold (true cord)
+Epiglottis
+
+Root of tongue
+
+Fig. 4.77 Superior view of the larynx
+
+PTF
+
+Lateral plate
+ITF
+
+Fig. 4.78 Lateral view of the left infratemporal fossa (ITF)
+
+Fig. 4.80 Lateral view of the
+left infratemporal and pterygopalatine fossae. The ramus of the
+mandible, lateral pterygoid
+muscle, posterior wall of the
+maxilla, infraorbital canal wall,
+foramen ovale (dashed line), and
+foramen rotundum (dashed line)
+are removed for clarity. Muscular
+branches are not shown. BM
+buccinator, MPM medial
+pterygoid muscle
+
+Fig. 4.79 Lateral view of the left ptyerygopalatine fossa (PTF)
+
+Nerve and
+artery of the pterygoid canal
+(Vidian nerve and artery)
+
+Trigeminal ganglion
+
+V1
+
+V2
+
+Infraorbital nerve
+
+V3
+
+Middle meningeal artery
+(entering foramen
+spinosum)
+Otic ganglion
+(deep to V3)
+Auriculotemporal nerve
+
+Posterior superior alveolar
+nerve and artery
+Buccal nerve
+(cut)
+
+Maxillary artery
+Inferior alveolar artery (cut)
+
+MPM
+Lingual nerve
+BM
+Inferior alveolar nerve
+
+4.7 Infratemporal and Pterygopalatine Fossae
+
+Superior
+
+Fig. 4.81 Lateral magnified
+view of the left infratemporal
+fossa
+
+145
+
+Auriculotemporal nerve
+
+Foramen ovale
+
+Anterior
+
+V3
+
+Accessory meningeal artery
+Middle meningeal artery
+Buccal nerve
+
+Inferior alveolar artery
+
+Maxillary artery
+
+Inferior alveolar nerve
+
+Lingual nerve
+
+Superior
+
+Fig. 4.82 Posterior view of the
+left pterygopalatine and
+infratemporal fossae. BM
+bucinator muscle, MPM medial
+pterygoid muscle
+
+Lateral
+
+Pterygopalatine ganglion
+
+V2
+
+V3
+Nerve and artery of the
+pterygoid canal (Vidian nerve
+and artery)
+
+Posterior superior alveolar
+branch of infraorbital nerve
+
+Posterior superior alveolar
+branch of maxillary artery
+Maxillary artery
+MPM
+BM
+
+146
+
+Infraorbital artery and nerve
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Maxillary artery
+(retracted superiorly)
+Anterior
+
+Superior
+
+Fig. 4.83 Lateral magnified
+view of the left pterygopalatine
+fossa
+
+4
+
+Branches to pterygopalatine ganglion
+Nerve and artery of pterygoid
+canal (Vidian nerve and artery)
+Posterior superior alveolar nerve
+Pterygopalatine ganglion
+
+Posterior superior alveolar artery
+
+Fig. 4.84 Anterior magnified
+view (rectangular area in the left
+upper figure) of the left
+pterygopalatine fossa viewed
+through the orbit. The posterior
+wall of the maxilla and infraorbital canal have been removed.
+ATN auriculotemporal nerve, IAN
+inferior alveolar nerve, MA
+maxillary artery, MMA middle
+meningeal artery, PPG pterygopalatine fossa, PSAA posterior
+superior alveolar artery, PSAN
+posterior superior alveolar nerve
+
+Greater and lesser palatine nerves
+
+Forehead
+
+V2
+
+ATN
+
+nose
+PPG
+
+MMA
+
+Sphenopalatine artery
+MA
+
+Descending palatine artery
+and greater palatine nerve
+
+Lesser palatine
+artery and nerve
+
+IAN
+PSAN and PSAA
+
+Infraorbital artery and nerve
+
+Fig. 4.85 Medial magnified
+view of the lower part of the left
+pterygopalatine fossa and greater
+palatine canal. The greater
+palatine canal has been removed.
+MS maxillary sinus, PVP
+pterygoid venous plexus
+
+147
+
+Superior
+
+4.7 Infratemporal and Pterygopalatine Fossae
+
+Descending palatine artery
+
+Anterior
+
+MS
+Greater palatine nerve
+Greater palatine artery
+
+PVP
+
+Lesser palatine nerve
+and artery
+
+Greater palatine foramen
+Palate
+
+Artery of pterygoid canal
+
+Accessory meningeal artery
+
+Pharyngeal branch
+
+Sphenopalatine artery
+
+Middle meningeal artery
+Anterior tympanic artery
+
+Descending palatine artery
+Anterior deep temporal artery
+Posterior deep temporal artery
+Infraorbital artery
+
+Deep auricular artery
+
+Pterygoid artery
+(to lateral pterygoid)
+
+Superficial temporal artery
+
+Buccal artery
+Posterior superior alveolar artery
+
+Masseteric artery
+
+Maxillary artery
+
+Pterygoid artery
+(to medial pterygoid)
+External carotid artery
+Inferior alveolar artery
+
+Mylohyoid branch
+
+Fig. 4.86 Schematic drawing of the branches of the maxillary artery
+
+148
+
+4.8
+
+4
+
+ eck (Submental Space,
+N
+Submandibular, etc.)
+
+Summary
+The anatomy of the neck can be considered to include the
+maxillofacial region, pharynx, and larynx. Given that surgeons incise/reflect the tissues of the neck layer by layer, it is
+better to understand the anatomical structures of the neck
+Fig. 4.87 Axial
+section of the neck
+(C6-7 vertebral level).
+The various fasciae of
+the neck are controversial. The superficial
+cervical fascia is
+currently considered
+to contain the
+platysma. The deep
+cervical fascia consists
+of investing,
+pretracheal, and
+prevertebral fasciae.
+The anatomical space
+posterior to the
+esophagus is divided
+into retropharyngeal
+and “danger” spaces
+by the alar fascia
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+following the same order, from superficial to deep. A better
+understanding of the fasciae, spaces, triangles, and their
+boundaries helps the surgeon identify structures that they
+need to sacrifice or save. To avoid surgical complications, to
+operate safely and more effectively, knowledge of the anatomy of the neck is important. In this section, the anatomy of
+the neck, especially the lateral neck including the submandibular area will be reviewed.
+Pretracheal fascia
+Investing fascia
+
+Platysma (superficial
+cervical fascia)
+
+Thyroid gland
+
+Sternocleidmastoid
+muscle
+Carotid space
+
+Alar fascia
+
+Retropharyngeal
+space
+Danger space
+
+Prevertebral fascia
+Prevertebral muscle
+
+Fig. 4.88 Lateral dissection of the right platysma. The platysma (right image) is such a thin muscle, especially in the patient who has a thin neck
+so that the initial skin incision can easily pierce this muscle and reach the deep cervical fascia
+
+4.8 Neck (Submental Space, Submandibular, etc.)
+Fig. 4.89 Anterior dissection of
+the platysma. Note the muscle
+fibers of the left platysma joining
+the right. Both the ipsilateral and
+contralateral platysma often join
+the depressor anguli inferioris
+(normal variation). The platysma
+is innervated by the cervical
+branch of the facial nerve
+
+149
+
+Chin
+
+Laryngeal prominence
+
+Right clavicle
+
+Fig. 4.90 Superficial structures
+of the left neck (deep to
+platysma). As anatomical
+landmarks, the mean distance
+from the GAN to the EJV,
+inferior border of the mastoid
+process, inferior border of the ear
+is 13.3, 27.7, and 31.0 mm,
+respectively (Altafulla et al.
+2019). The trapezius is innervated by the spinal accessory
+nerve and cervical plexus
+(commonly C3-C4), and the
+sternocleidomastoid muscle is by
+the spinal accessory nerve and
+cervical plexus (commonly
+C2-3). © Fisher/Tubbs 2020. All
+Rights Reserved
+
+Sternocleidomastoid
+
+Left clavicle
+
+External jugular vein
+
+Branches of spinal
+cervical nerves (C2-3)
+Greater occipital nerve
+Great auricular nerve
+
+Transverse cervical nerve
+
+Trapezius
+Supraclavicular nerve
+
+150
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+SCM
+
+Fig. 4.91 Lateral dissection of the right neck. On the left, the edge of the mandible, sternocleidomastoid muscle (SCM), and mastoid process are
+outlined. On the right image, the platysma is excised and the SCM is seen deep to the great auricular nerve (yellow) and external jugular vein (blue)
+
+Fig. 4.92 Posterolateral
+dissection of the right neck
+
+Occipital artery
+Occipitofrontalis
+muscle
+
+Greater
+occipital nerve
+
+Third
+occipital nerve
+
+Sternocleidomastoid
+muscle
+
+Lesser
+occipital nerve
+
+External jugular vein
+Great auricular nerve
+
+151
+
+4.8 Neck (Submental Space, Submandibular, etc.)
+Fig. 4.93 Triangles of the neck.
+Multiple triangles are used as
+landmarks for identifying various
+anatomical structures. For
+example, the posterior triangle is
+where the spinal accessory nerve
+can be identified and the carotid
+arteries travel within the carotid
+triangle. In the submandibular
+triangle, the submandibular
+gland, facial artery and vein, and
+even the marginal mandibular
+branch of the facial nerve might
+be observed. © Fisher/Tubbs
+2020. All Rights Reserved
+
+Sternocleidomastoid
+
+Platysma
+
+Submandibular triangle
+
+Submental triangle
+Trapezius
+Carotid triangle
+Occipital triangle
+Supraclavicular triangle
+Posterior triangle
+
+Muscular triangle
+Anterior triangle
+Omohyoid
+
+Clavicle
+
+Posterior belly of digastric muscle
+Stylohyoid muscle
+Sternocleidomastoid
+muscle (cut and turned)
+
+Hypoglossal nerve
+Platysma (cut)
+
+Lesser occipital nerve
+Submental artery
+Occipital artery
+Levator scapulae muscle
+Internal jugular vein
+Vagus nerve
+Omohyoid muscle
+Trapezius
+
+Anterior belly of
+digastric muscle
+Hyoid bone
+Mylohyoid muscle
+Superior root of ansa
+cervicalis
+Common carotid artery
+Sternohyoid muscle
+Sternothyroid muscle
+
+Anterior, middle, and
+posterior scalene muscle
+
+Fig. 4.94 Schematic drawing of the right neck deep to the sternocleidomastoid muscle
+
+152
+
+4
+Superficial
+temporal artery
+Ascending
+pharyngeal artery
+Maxillary artery
+External carotid
+artery
+Stylopharyngeus
+
+Maxillofacial Anatomy and Anatomical Spaces
+Styloid process
+Accessory nerve
+Pharyngeal branch
+of vagus
+Superior laryngeal
+nerve
+Digastric posterior
+belly
+
+Glossopharyngeal
+nerve
+Internal carotid artery
+Posterior auricular
+artery
+Facial artery
+Hypoglossal nerve
+Lingual artery
+Internal laryngeal
+nerve
+Superior thyroid
+artery
+
+Upper
+sternocleidomastoid
+branch of occipital
+artery
+Occipital artery
+Vagus nerve
+Lower
+sternocleidomastoid
+branch of occipital
+artery
+
+External laryngeal
+nerve
+
+Inferior root of ansa
+cervicals
+
+Superior root of
+ansa cervicals
+
+Internal jugular vein
+
+Ansa cervicalis
+Common carotid
+artery
+
+Fig. 4.95 Schematic drawing of the carotid arteries, internal jugular vein, and related structures
+
+Sup
+erio
+r
+
+4.8 Neck (Submental Space, Submandibular, etc.)
+
+153
+
+Occipital artery
+
+Ant
+
+erio
+
+Retromandibular vein
+
+r
+
+Spinal accessory nerve
+
+External carotid artery
+
+Sternocleidomastoid
+branch of occipital artery
+
+Facial vein
+Common facial vein
+
+Internal carotid artery
+
+Submental artery
+
+Sternocleidomastoid
+muscle (turned up)
+
+Hypoglossal nerve
+Lingual artery
+
+Common carotid artery
+
+Internal jugular vein
+
+Nerve to thyrohyoid
+Superior thyroid artery
+
+Vagus nerve
+
+Fig. 4.96 Lateral dissection of the right neck
+
+Spinal accessory nerve (CN XI)
+Glossopharyngeal nerve (CN IX)
+
+Ascending pharyngeal artery
+Superior laryngeal nerve
+Vagus nerve
+
+Hypoglossal nerve (CN XII)
+
+C2
+Carotid sinus nerve
+
+Facial artery
+
+Carotid sinus
+
+Lingual artery
+
+Internal carotid artery
+
+Geniohyoid branch
+
+Ansa cervicalis (inferior root)
+
+Nerve to thyrohyoid
+External carotid artery
+
+Common carotid artery
+
+Superior thyroid artery
+Ansa cervicalis (superior root)
+Nerve to omohyoid
+
+Omohyoid muscle (superior belly)
+Nerve to sternohyoid
+Nerve to sternothyroid
+
+Fig. 4.97 Lateral dissection of the right neck. Note the ansa cervicalis gives branches to all the infrahyoid muscles (sternohyoid, sternothyroid,
+omohyoid, and thyrohyoid muscles)
+
+154
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Fig. 4.98 Lymphatic
+system of the head and
+neck. The lymphatic vessels
+terminate into the venous
+angle via the thoracic duct
+on the left side
+
+Parotid node
+Mastoid node
+Facial node
+Occipital node
+Jugulodigastric
+node
+Submental
+node
+Submandibular
+node
+Juguloomohyoid
+node
+
+Fig. 4.99 Lateral dissection of
+the right neck. Note that the
+jugulodigastric node (JDN) is
+located inferior to the posterior
+belly of the digastric muscle. The
+JDN is the main node that
+receives lymphatic vessels from
+the oral and maxillofacial areas.
+Some cervical lymph nodes are
+supplied by the branches of the
+sternocleidomastoid branch of
+the occipital artery
+
+Sternocleidomastoid
+muscle (turned up)
+
+Superifical
+cervical nodes
+Deep cervical
+nodes
+
+External
+jugular vein
+
+Stylohyoid muscle
+Posterior belly of
+digastric muscle
+Jugulodigastric node
+
+Cervical lymph nodes
+
+Sternocleidomastoid
+branch of occipital
+artery
+Arterial branch
+supplying lymph nodes
+
+Internal jugular vein
+
+4.8 Neck (Submental Space, Submandibular, etc.)
+
+155
+
+IIB
+IIA
+
+IB
+IA
+
+VA
+
+III
+VI
+
+VB
+IV
+
+Fig. 4.100 Levels and sublevels of cervical lymph nodes for head and
+neck cancers and their metastases. © Fisher/Tubbs 2020. All Rights
+Reserved
+
+After Robbins et al. (2002)
+
+Fig. 4.101 Levels and sublevels of cervical lymph nodes with their anatomical boundaries. After Robbins et al. (2002)
+
+156
+
+4
+
+Fig. 4.102 Lateral view of the
+right submandibular area. A
+small transverse incision is made
+into the platysma to reach the
+submandibular space. The
+marginal mandibular branch
+(MMB) runs superficial to the
+submandibular gland so that the
+nerve is not damaged if the flap is
+elevated superiorly with the
+fascia for the submandibular
+gland. Note that the MMB is
+dissected within the elevated flap
+for better visualization in this
+photo
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Facial artery and vein
+Nerve to mylohyoid
+Marginal mandibular
+branch
+
+Submental artery
+Anterior digastric
+muscle
+Submental vein
+Submandibular gland
+Fascia for gland
+
+Masseter muscle
+
+Facial artery/vein
+
+Marginal mandibular
+branch
+
+Submental artery
+
+Superior
+
+Platysma
+
+Anterior
+
+Mental nerve and
+foramen
+Submandibular
+lymph node
+
+Submandibular gland
+
+EJV (duplication)
+Anterior belly of
+digastric muscle
+Sternocleidomastoid
+muscle
+
+Submental vein
+
+Fig. 4.103 Lateral view of the left submandibular area. The mental nerve and marginal mandibular branch of the facial nerve are seen to have
+communicating branches (red circles)
+
+4.8 Neck (Submental Space, Submandibular, etc.)
+
+Mylohyoid muscle
+Lingual nerve
+
+Mandible
+Lingual nerve
+
+Hypoglossal nerve
+Ansa cervicalis
+(superior root)
+Nerve to thyrohyoid
+
+Fig. 4.104 Inferolateral view of the right submandibular area. The
+mental nerve and marginal mandibular branch of the facial nerve are
+seen to have a communicating branch (arrow)
+
+Fig. 4.105 Triangles of the
+submandibular area. Lesser’s and
+Pirogoff’s triangles are useful for
+identifying the lingual artery, and
+Beclard’s triangle is used for
+identifying both the lingual artery
+and hypoglossal nerve (Kikuta
+et al. 2019). © Fisher/Tubbs
+2020. All Rights Reserved
+
+157
+
+158
+Fig. 4.106 Anterior view of the
+neck (infrahyoid level). The
+sternothyroid muscles are
+removed
+
+4
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Sternohyoid muscle
+(turned)
+
+Omohyoid muscle
+(turned)
+
+Thyrohyoid muscle
+
+Levator glandulae
+thyroidea
+
+Thyroid cartilage
+Superior thyroid artery
+and vein
+Internal jugular vein
+
+Pyramidal lobe
+
+Common carotid artery
+Middle thyroid vein
+Thyroid gland (right lobe)
+
+Thyroid gland (left lobe)
+Isthmus
+Vagus nerve
+
+Inferior thyroid vein
+Trachea
+
+Fig. 4.107 Anterolateral view of
+the neck (infrahyoid level). The
+sternothyroid muscle is removed
+
+Common facial vein
+External carotid artery
+Superior thyroid artery
+Superior thyroid vein
+
+Common carotid artery
+Internal jugular vein
+
+Middle thyroid vein
+
+Inferior thyroid vein
+Trachea
+
+Thyroid cartilage
+Laryngeal eminence
+
+4.9 Venous Drainage of the Oral and Maxillofacial Areas
+
+4.9
+
+ enous Drainage of the Oral
+V
+and Maxillofacial Areas
+
+Summary
+The venous return of the head and neck region as well as the
+upper limbs terminates in the right atrium via the superior
+vena cava. The brachiocephalic vein on each side collects the
+venous blood from both the internal jugular and subclavian
+
+159
+
+veins to drain into the superior vena cava. The subclavian
+veins drain blood from upper limbs and neck, and the external jugular and anterior jugular veins also drain blood from
+the neck. However, the majority of the venous drainage of
+the head and neck (including the brain) is collected into the
+internal jugular vein.
+In this section, the venous drainage system of the head
+and neck will be shown.
+
+Superior sagittal sinus
+Sigmoid sinus
+Superior petrosal sinus
+
+Inferior sagittal sinus
+
+Straight sinus
+Internal jugular vein
+
+Confluence of sinuses
+Cavernous sinus
+Sphenoparietal sinus
+Basilar venous plexus
+
+Occipital sinus
+Transverse sinus
+Marginal sinus
+Inferior petrosal sinus
+
+Fig. 4.108 Posterolateral view of the dural venous sinuses and superficial cerebral veins in the brain. The majority of the venous blood of the brain
+drains into the internal jugular vein via the sigmoid sinus or inferior petrosal sinus. © Fisher/Tubbs 2020. All Rights Reserved
+
+160
+
+4
+
+Fig. 4.109 Coronal image of the
+cavernous sinus. © Fisher/Tubbs
+2020. All Rights Reserved
+
+Maxillofacial Anatomy and Anatomical Spaces
+Optic chiasm
+Pituitary gland
+Internal carotid artery
+Oculomotor nerve (CN III)
+
+Trochlear nerve (CN IV)
+Abducens nerve (CN VI)
+Ophthalmic nerve (CN V1)
+Cavernous sinus
+Maxillary nerve (CN V2)
+
+Sphenoidal sinus
+
+Fig. 4.110 Posterolateral view
+of the venous drainage of the
+posterior cranial fossa and
+craniocervical junction. © Fisher/
+Tubbs 2020. All Rights Reserved
+
+Superior petrosal sinus
+Basilar venous plexus
+
+Inferior petrosal sinus
+Internal jugular vein
+
+Spinal cord
+
+Sigmoid sinus
+
+Transverse sinus
+
+4.9 Venous Drainage of the Oral and Maxillofacial Areas
+
+161
+
+Superficial
+temporal vein
+Supraorbital vein
+Superior ophthalmic vein
+Cavernous sinus and
+basilar venous plexus
+Inferior ophthalmic vein
+
+Maxillary vein
+Posterior auricular vein
+
+Angular vein
+
+Retromandibular vein
+
+Pterygoid venous plexus
+
+Occipital vein
+Posterior branch of
+retromandibular vein
+Anterior branch of
+retromandibular vein
+External jugular vein
+
+Facial vein
+Common facial vein
+
+Internal jugular vein
+
+Submental vein
+
+Fig. 4.111 Lateral view of the venous system of the head and neck
+region. The pterygoid venous plexus, and superior and inferior ophthalmic veins drain into the cavernous sinus (arrows). Unification of the
+
+Superior
+
+ME
+
+internal jugular and subclavian veins forms the brachiocephalic vein on
+both sides which drains all the venous blood from the head, neck and
+upper limb into the superior vena cava
+
+ME
+
+ME
+
+Anterior
+
+PVP
+
+PVP
+
+PDTA
+
+LPM
+
+PVP
+
+PVP
+PDTA
+
+MA
+
+MV
+
+MPM
+
+MPM
+
+LN
+
+LN
+IAN
+
+Fig. 4.112 Lateral view of the left infratemporal fossa. Note that the
+pterygoid venous plexus (PVP) is located lateral to (left image), inside
+(middle image), and medial to (right image) the lateral pterygoid muscle. IAN inferior alveolar nerve, IAV inferior alveolar vein, LN lingual
+
+MPM
+IAN
+
+LN
+IAN
+
+nerve, LPM lateral pterygoid muscle, MA maxillary artery, ME mandibular eminence, MPM medial pterygoid muscle, MV maxillary vein,
+PDTA posterior deep temporal artery
+
+162
+
+Maxillofacial Anatomy and Anatomical Spaces
+
+Superior
+
+Fig. 4.113 Medial view of the
+right pterygomandibular space.
+The medial pterygoid muscle has
+been removed. The inferior
+alveolar nerve and nerve to the
+mylohyoid are reflected
+anteriorly. Note the pterygoid
+venous plexus draining into the
+maxillary vein
+
+4
+
+Lateral pterygoid
+muscle
+
+Anterior
+
+Pterygoid
+venous plexus
+
+Ramus of mandible
+
+Inferior alveolar
+nerve
+
+Maxillary artery
+
+Maxillary vein
+
+Inferior alveolar vein
+Inferior alveolar artery
+
+Nerve to mylohyoid
+
+Maxillary artery
+
+Maxillary vein
+
+Superficial temporal vein
+Coronoid process
+
+Pterygoid venous plexus
+Buccal vein
+Lateral pterygoid muscle
+Buccal nerve (cut)
+Medial pterygoid muscle
+
+Lingual nerve
+Mandible
+
+Superior
+
+Fig. 4.114 Anterior view of the
+left pterygomandibular space.
+The medial pterygoid muscle has
+been removed. The inferior
+alveolar nerve and nerve to the
+mylohyoid are reflected
+anteriorly. Note the pterygoid
+venous plexus draining into the
+maxillary vein
+
+Lateral
+
+References
+
+References
+Altafulla J, Iwanaga J, Lachkar S, Prickett J, Dupont G, Yilmaz E, Ishak
+B, Litvack Z, Tubbs RS. The great auricular nerve: anatomical study
+with application to nerve grafting procedures. World Neurosurg.
+2019;125:e403–7. https://doi.org/10.1016/j.wneu.2019.01.087.
+Farkas LG, Cheung G. Orbital measurements in the presence of epicanthi in healthy North American Caucasians. Ophthalmologica.
+1979;179:309–15.
+Iwanaga J, Kamura Y, Tanaka T, Watanabe K, Kusukawa J, Oskouian
+RJ, Tubbs RS. A new space of the face: the bucco-mandibular space.
+Clin Anat. 2017;30(7):958–62. https://doi.org/10.1002/ca.22964.
+Kikuta S, Iwanaga J, Kusukawa J, Tubbs RS. Triangles of the neck:
+a review with clinical/surgical applications. Anat Cell Biol.
+2019;52(2):120–7. https://doi.org/10.5115/acb.2019.52.2.120.
+
+163
+Lai C-S, Lai C-H, Wu Y-C, Chang K-P, Lee S-S, Lin S-D. Medial epicanthoplasty based on anatomic variations. J Plast Reconstr Aesthet
+Surg. 2012;65(9):1182–7.
+Robbins KT, Clayman G, Levine PA, et al. Neck dissection classification update: revisions proposed by the American Head and Neck
+Society and the American Academy of Otolaryngology–Head and
+Neck Surgery. Arch Otolaryngol Head Neck Surg. 2002;128:751–8.
+Sakamoto Y. Interrelationships between the innervations from the
+laryngeal nerves and the pharyngeal plexus to the inferior pharyngeal constrictor. Surg Radiol Anat. 2013;35(8):721–8. https://doi.
+org/10.1007/s00276-013-1102-8.
+Standring S, editor. Gray’s anatomy: the anatomical basis of clinical
+practice. London: Elsevier Health Sciences; 2020.
+
+5
+
+Cranial Nerves
+
+5.1
+
+I ntracranial Course of the Cranial
+Nerves
+
+Summary
+There are 12 pairs of cranial nerves. The olfactory (CN I) and
+optic (CN II) nerves arise from the telencephalon and diencephalon, respectively, and the remaining cranial nerves
+originate from the brain stem with the spinal accessory nerve
+(CN XII) also arising partially from the cervical spinal cord.
+The trochlear nerve (CN IV) arises from the dorsal aspect of
+the midbrain and thus has the longest intracranial length of
+all cranial nerves. The oculomotor nerve (CN III) exits the
+midbrain in the crural cistern. The trigeminal nerve (CN V)
+arises from the pons and the abducens (VI), facial (VII), and
+vestibulocochlear (VIII) nerves arise from the pontomedullary junction. The glossopharyngeal nerve (CN IX), vagus
+nerve (CN X), cranial root of the accessory nerve (CN XI),
+and hypoglossal nerve (CN XII) originate from the medulla
+oblongata. In this section, the intracranial course of the cranial nerves will be shown.
+
+Cribriform plate (CN I)
+Optic canal (CN II)
+Superior orbital fissure
+(CN III, IV, V1, and VI)
+Foramen rotundum (V2)
+Foramen ovale (V3)
+Internal acoustic meatus
+(CN VII and VIII)
+Jugular foramen
+(CN IX, X, and XI)
+Hypoglossal canal
+(CN XII)
+
+Fig. 5.1 Superior view of the intracranial pathway of the cranial nerves
+
+© Springer Nature Switzerland AG 2021
+J. Iwanaga, R. S. Tubbs, Atlas of Oral and Maxillofacial Anatomy, https://doi.org/10.1007/978-3-030-78327-3_5
+
+165
+
+166
+
+5
+
+Fig. 5.2 Anterior view of the
+brainstem illustrating the origin of
+the cranial nerves, and related
+arteries. The olfactory nerve (CN I),
+optic nerve (CN II), and trochlear
+nerve (CN IV) are not shown
+
+Oculomotor nerve (CN III)
+Trigeminal nerve (CN V)
+Abducens nerve (CN VI)
+Facial nerve (CN VII) and
+vestibulocochlear nerve (CN VIII)
+Glossopharyngeal nerve (CN IX),
+vagus nerve (CN X), and spinal
+accessory nerve (CN XI)
+
+Hypoglossal nerve (CN XII)
+
+Frontal sinus
+
+Crista galli
+
+Olfactory bulb (CN I)
+Superior wall of orbit
+Lesser wing
+of
+sphenoid
+bone
+
+Fig. 5.3 Superior view of the anterior cranial fossa
+
+Cranial Nerves
+
+5.1
+
+Intracranial Course of the Cranial Nerves
+
+Fig. 5.4 Superior view of the
+middle and posterior cranial
+fossae showing cranial nerves II
+to IV. The tentorium cerebelli is
+removed
+
+167
+Pituitary gland
+
+Optic nerve (CN II)
+Internal carotid artery
+Oculomotor nerve (CN III)
+
+Trochlear nerve (CN IV)
+
+Aqueduct of midbrain
+Pons
+Cerebellum
+
+Fig. 5.5 Posterosuperior view of
+the posterior cranial fossa
+showing cranial nerves III to
+XII. The cerebellum and
+midbrain are removed
+
+Oculomotor nerve (CN III)
+Trochlear nerve (CN IV)
+Trigeminal nerve (CN V)
+Basilar artery
+Abducens nerve (CN VI)
+Vertebral artery
+Facial and vestibulocochlear
+nerves (CN VII and VIII)
+Glossopharyngeal nerve
+(CN IX)
+Vagus nerve (CN X)
+Cranial root of accessory
+nerve (CN XI)
+Spinal root of accessory nerve
+(CN XI)
+Hypoglossal nerve (CN XII)
+Posterior inferior cerebellar
+artery
+
+Pons
+
+168
+Fig. 5.6 Superior view of the
+right jugular foramen
+
+5
+
+Cranial Nerves
+
+Facial (CN VII) and vestibulocochlear
+(CN VIII) nerves
+
+Jugular foramen
+Glossopharyngeal (CN IX) and vagus
+(CN X) nerves
+Cranial root of accessory nerve (CN XI)
+
+Spinal root of accessory nerve (CN XI)
+
+Fig. 5.7 Superior view of the
+left floor of the middle cranial
+fossa
+Middle meningeal artery
+(frontal branch)
+
+Middle meningeal artery
+(parietal branch)
+
+V1
+V2
+V3
+
+Greater petrosal nerve
+Trigeminal nerve
+Facial and vestibulocochlear
+nerves
+
+Fig. 5.8 Magnified superior
+view of the middle cranial fossa
+
+Middle meningeal artery
+(frontal branch)
+
+V2
+V3
+
+Middle meningeal artery
+(parietal branch)
+Greater petrosal nerve
+Geniculate ganglion
+Malleus
+Incus
+Facial nerve
+
+Stapes
+Vestibulocochlear nerve
+
+V1
+
+

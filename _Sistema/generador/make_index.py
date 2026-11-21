@@ -27,7 +27,7 @@ groups = [('Basic sciences', ['01', '02', '03', '04']),
 by = {r[0]: r for r in rows}
 out = ['---', 'tipo: indice', f'actualizado: {datetime.date.today().isoformat()}', '---', '# Índice de la wiki', '',
        '> [!abstract] Estado',
-       f'> **{len(rows)} áreas · {total} sesiones · {len(BOOKS)} libros (repo kdiazr2-hub/libros) + 12 papers.**',
+       f'> **{len(rows)} áreas · {total} sesiones · {len(BOOKS)} libros + 12 papers.**',
        '> Cada área tiene un índice con sus sesiones. Cada sesión empieza con sus objetivos y enlaza al capítulo exacto del libro; debajo van las notas.',
        '> Estado de una sesión: `estado: pendiente` → `en curso` → `completa` (propiedad en el frontmatter), y la casilla del índice del área.',
        '',
