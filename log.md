@@ -83,3 +83,9 @@ Registro cronológico, solo se añade al final. Formato: `## [AAAA-MM-DD] operac
 ## [2026-10-08] schema | Libros fuera de git
 - Se subieron los libros a GitHub, pero tardaban demasiado en descargarse en el móvil, así que se sacaron del historial: se quitaron los 4 commits de libros, se añadió `.gitignore` con `2. Sources/Libros/` y el usuario hizo el push forzado. GitHub queda en `790c80e`, sin ningún PDF de libros; `.git` local pasó de 1,4 GB a 44 MB.
 - Los 37 PDF siguen en el disco y en OneDrive; las skills los leen del disco. Ajustes del repositorio: `core.longpaths=true` y `core.autocrlf=input`. Documentado en CLAUDE.md §7.
+
+## [2026-11-21] schema | Conexión con el repositorio de libros (`kdiazr2-hub/libros`)
+- El repositorio `kdiazr2-hub/libros` (25 libros) se organizó en otro chat: los PDF se renombraron con su título original, se extrajo el texto completo a `contenido/*.txt` y se escribieron fichas de estudio en `ESTUDIO.md`.
+- Nuevo `_Sistema/libros_repo.md`: cómo leer los libros desde ese repositorio en una sesión en la nube, con la tabla nombre de la bóveda → nombre en el repositorio. 10 libros están en los dos sitios con el mismo número de páginas, así que los enlaces `#page=N` siguen siendo válidos.
+- 15 libros del repositorio aún no forman parte del temario (Salyer & Bardach I y II, Ellis & Zide, Marik, Thaller, McCarthy, Jimenez, Ferraro, Perry & Holmes, Singh & Sharma, Moore, OMFS Secrets, Alonso, Orellana, Critical Care Notes). Pendiente: añadirlos a las sesiones (§4.2) cuando el usuario lo apruebe.
+- CLAUDE.md §5 documenta cómo leer los libros en la nube.
