@@ -11,45 +11,36 @@ WRITE = '--write' in sys.argv
 NOTES = os.path.join(VAULT, '3. Notes')
 
 BOOKS = {
-    'GRAY': ('1. Gray Anatomia Para Estudiantes ( PDFDrive )', 'Gray, Anatomía para estudiantes'),
-    'ATLAS_ATM': ('1. Atlas de ATM', 'Atlas de ATM'),
-    'SPERBER': ('1. Craniofacial Development and Growth (Craniofacial Development)', 'Sperber, Craniofacial Development'),
-    'CFM_TCS': ('1. Craniofacial microsomia and treacher collins syndrome', 'Craniofacial Microsomia and TCS'),
-    'DISTR': ('1. Distracción osteogenica del esqueleto facial', 'Distraction Osteogenesis of the Facial Skeleton'),
-    'BORON': ('1. Fisiologia Medica Boron Boulpaep', 'Boron, Fisiología Médica'),
-    'FLAPS': ('1. Flaps and Reconstructive Surgery-Elsevier (2016)', 'Flaps and Reconstructive Surgery'),
-    'IMAGING': ('1. Imaging tomography', 'Diagnostic Imaging: Head and Neck'),
-    'MURRAY': ('1. Microbiología médica', 'Murray, Microbiología Médica'),
-    'CSO': ('1. Neurosurgical Aspects of Craniosynostosis (Springer Nature Switzerland) - libgen.li', 'Neurosurgical Aspects of Craniosynostosis'),
-    'NEVILLE': ('1. Oral and Maxillofacial Pathology', 'Neville, Oral and Maxillofacial Pathology'),
-    'TRAUMA': ('1. Trauma facial', 'Facial Trauma Surgery'),
-    'HARTL': ('1666166055Genetics Principles And Analysis - Daniel L. Hartl', 'Hartl, Genetics'),
-    'SKULLBASE': ('2. Cranial, craniofacial and skull base surgery', 'Cranial, Craniofacial and Skull Base Surgery'),
-    'CARSTENS': ('2. Embriología craniofacial', 'Carstens, Craniofacial Embryology'),
-    'DOLOR': ('2. Medicina del Dolor - Fundamentos Evaluación y Tratamiento', 'Medicina del Dolor'),
-    'FRAGISKOS': ('2. Oral Surgery', 'Fragiskos, Oral Surgery'),
-    'AO': ('2. Principles of Internal Fixation of the Craniomaxillofacial Skeleton', 'AO Principles of Internal Fixation of the CMF Skeleton'),
-    'GORLIN': ('2. Syndromes de cabeza y cuello, Gorlin', 'Gorlin, Syndromes of the Head and Neck'),
-    'TMJD': ('2. TMJ Disorders', 'TMJ Disorders'),
-    'BIOEST': ('3. Bioestadistica', 'Bioestadística'),
-    'BERKOWITZ': ('3. Cleft lip and palate', 'Berkowitz, Cleft Lip and Palate'),
-    'HNC': ('3. Head and Neck Cancer', 'Head and Neck Cancer'),
-    'REYNEKE': ('3. Johan P. Reyneke - Essen 3 edicion', 'Reyneke, Essentials of Orthognathic Surgery'),
-    'MERCURI': ('3. Mercuri - TMJ Total Joint Replacement', 'Mercuri, TMJ Total Joint Replacement'),
-    'GLOBAL': ('5. Global Cleft Care in Low Resource Settings', 'Global Cleft Care in Low Resource Settings'),
-    'POSNICK': ('5. Orthognathic Surgery Principles and Practice', 'Posnick, Orthognathic Surgery'),
-    'IWANAGA': ('6. Iwanaga Tubbs - Atlas of Oral and Maxillofacial Anatomy', 'Iwanaga, Atlas of Oral and Maxillofacial Anatomy'),
-    'APERT': ('Apert Syndrome', 'Apert Syndrome'),
-    'KATZUNG': ('Basic and Clinical Pharmacology', 'Katzung, Basic and Clinical Pharmacology'),
-    'PIERCE': ('Genetics-A-Conceptual-Approach-by-Banjamin-A.-Pierce-4th-Edition', 'Pierce, Genetics: A Conceptual Approach'),
-    'CRIT': ('Principles of Critical Care, 4E (www.myuptodate.com)', 'Principles of Critical Care'),
+    'IWANAGA': ('Atlas of Oral and Maxillofacial Anatomy - Iwanaga & Tubbs (2021)', 'Iwanaga & Tubbs, Atlas of OMF Anatomy'),
+    'SALYER1': ('Atlas of Craniofacial and Cleft Surgery Vol I Craniofacial Surgery - Salyer & Bardach (2008)', 'Salyer & Bardach, Atlas Vol I'),
+    'SALYER2': ('Atlas of Craniofacial and Cleft Surgery Vol II Cleft Lip and Palate Surgery - Salyer & Bardach (2008)', 'Salyer & Bardach, Atlas Vol II'),
+    'KATZUNG': ('Basic and Clinical Pharmacology 14th Ed - Katzung (2018)', 'Katzung, Basic and Clinical Pharmacology'),
+    'RIUS': ('Bioestadística Métodos y aplicaciones - Ríus Díaz & Barón López', 'Ríus y Barón, Bioestadística'),
+    'ORELLANA': ('Bioestadística aplicada a investigaciones científicas en salud - Orellana & Cañarte (2022)', 'Orellana, Bioestadística aplicada'),
+    'ALONSO': ('Cleft Lip and Palate Treatment A Comprehensive Guide - Alonso & Raposo-Amaral (2018)', 'Alonso, Cleft Lip and Palate Treatment'),
+    'SKULLBASE': ('Cranial, Craniofacial and Skull Base Surgery - Cappabianca, Califano & Iaconetta (2010)', 'Cappabianca, Skull Base Surgery'),
+    'SPERBER': ('Craniofacial Development - Sperber (2001)', 'Sperber, Craniofacial Development'),
+    'MCCARTHY': ('Craniofacial Distraction - McCarthy (2017)', 'McCarthy, Craniofacial Distraction'),
+    'CFM_TCS': ('Craniofacial Microsomia and Treacher Collins Syndrome - Yates & Markiewicz (2022)', 'Yates, Craniofacial Microsomia and TCS'),
+    'THALLER': ('Craniofacial Surgery - Thaller, Bradley & Garri (2008)', 'Thaller, Craniofacial Surgery'),
+    'CCNOTES': ('Critical Care Notes Clinical Pocket Guide - Jones & Fix (2009)', 'Critical Care Notes'),
+    'JIMENEZ': ('Endoscopic Craniosynostosis Surgery An Illustrated Guide to Endoscopic Techniques - Jimenez (2023)', 'Jimenez, Endoscopic Craniosynostosis Surgery'),
+    'REYNEKE': ('Essentials of Orthognathic Surgery 3rd Ed - Reyneke (2022)', 'Reyneke, Essentials of Orthognathic Surgery'),
+    'MARIK': ('Evidence-Based Critical Care 3rd Ed - Marik (2015)', 'Marik, Evidence-Based Critical Care'),
+    'TRAUMA': ('Facial Trauma Surgery From Primary Repair to Reconstruction - Dorafshar, Rodriguez & Manson (2020)', 'Dorafshar, Facial Trauma Surgery'),
+    'FERRARO': ("Ferraro's Fundamentals of Maxillofacial Surgery 2nd Ed - Taub, Patel, Buchman & Cohen (2015)", "Ferraro's Fundamentals"),
+    'PERRY': ('Manual of Operative Maxillofacial Trauma Surgery - Perry & Holmes (2014)', 'Perry & Holmes, Operative Maxillofacial Trauma'),
+    'SINGH': ('Maxillofacial Trauma A Clinical Guide - Singh & Sharma (2021)', 'Singh, Maxillofacial Trauma'),
+    'CSO': ('Neurosurgical Aspects of Craniosynostosis - Di Rocco & Kestle (2024)', 'Di Rocco, Neurosurgical Aspects of Craniosynostosis'),
+    'SECRETS': ('Oral and Maxillofacial Surgery Secrets 3rd Ed - Abubaker (2016)', 'OMFS Secrets'),
+    'FRAGISKOS': ('Oral Surgery - Fragiskos (2007)', 'Fragiskos, Oral Surgery'),
+    'MOORE': ('Principles of Oral and Maxillofacial Surgery 6th Ed - Moore (2011)', 'Moore, Principles of OMFS'),
+    'ELLIS': ('Surgical Approaches to the Facial Skeleton 3rd Ed - Ellis & Zide (2019)', 'Ellis & Zide, Surgical Approaches'),
 }
 
 # Books split into volumes to stay under GitHub's 100 MB file limit: key -> [(first, last), ...] in the original
 # page numbering. Curriculum and tocs/ keep using original pages; links point to "<file> - Vol N.pdf".
-VOLUMES = {
-    'POSNICK': [(1, 553), (554, 817), (818, 1105), (1106, 1307), (1308, 1574), (1575, 1819)],
-}
+VOLUMES = {}
 
 def book_file(key, page=None):
     """File name (without .pdf) and page within that file for a page of the original book."""

@@ -83,3 +83,22 @@ Registro cronológico, solo se añade al final. Formato: `## [AAAA-MM-DD] operac
 ## [2026-10-08] schema | Libros fuera de git
 - Se subieron los libros a GitHub, pero tardaban demasiado en descargarse en el móvil, así que se sacaron del historial: se quitaron los 4 commits de libros, se añadió `.gitignore` con `2. Sources/Libros/` y el usuario hizo el push forzado. GitHub queda en `790c80e`, sin ningún PDF de libros; `.git` local pasó de 1,4 GB a 44 MB.
 - Los 37 PDF siguen en el disco y en OneDrive; las skills los leen del disco. Ajustes del repositorio: `core.longpaths=true` y `core.autocrlf=input`. Documentado en CLAUDE.md §7.
+
+## [2026-11-21] schema | Conexión con el repositorio de libros (`kdiazr2-hub/libros`)
+- El repositorio `kdiazr2-hub/libros` (25 libros) se organizó en otro chat: los PDF se renombraron con su título original, se extrajo el texto completo a `contenido/*.txt` y se escribieron fichas de estudio en `ESTUDIO.md`.
+- Nuevo `_Sistema/libros_repo.md`: cómo leer los libros desde ese repositorio en una sesión en la nube, con la tabla nombre de la bóveda → nombre en el repositorio. 10 libros están en los dos sitios con el mismo número de páginas, así que los enlaces `#page=N` siguen siendo válidos.
+- 15 libros del repositorio aún no forman parte del temario (Salyer & Bardach I y II, Ellis & Zide, Marik, Thaller, McCarthy, Jimenez, Ferraro, Perry & Holmes, Singh & Sharma, Moore, OMFS Secrets, Alonso, Orellana, Critical Care Notes). Pendiente: añadirlos a las sesiones (§4.2) cuando el usuario lo apruebe.
+- CLAUDE.md §5 documenta cómo leer los libros en la nube.
+
+## [2026-11-21] refactor | Temario rehecho con los 25 libros de `kdiazr2-hub/libros`
+- Con aprobación del usuario se borraron las 718 sesiones vacías y los 19 índices de área del temario anterior (32 libros). Se conservó la única sesión con notas, *01. Skull overview and cranial sutures*: su zona de notas no se tocó; solo se actualizó su bloque **Sources** (se mantiene el enlace al Gray porque las notas lo citan).
+- Temario nuevo: **14 áreas · 261 sesiones · 652 fuentes**. Cada sesión une los capítulos de todos los libros que tratan su tema (p. ej. *Le Fort and palatal fractures* = Dorafshar + Ferraro + Perry & Holmes + Singh + OMFS Secrets), con 2–5 objetivos y enlaces `#page=N` al inicio de cada capítulo. Las páginas se localizaron sobre el texto de cada libro y se comprobaron automáticamente (652 enlaces; 3 avisos revisados a mano, correctos).
+- Áreas: Anatomy · Embryology and Craniofacial Growth · Pharmacology · Biostatistics and EBM · Perioperative Medicine and Critical Care · Oral Surgery · Facial Trauma · TMJ and Orofacial Pain · Orthognathic Surgery and Distraction · Cleft Lip and Palate · Craniosynostosis · Craniofacial Malformations · Skull Base and Craniofacial Approaches · Reconstruction and Facial Aesthetics. Se añadieron 39 enlaces ↗ entre áreas (ciencias básicas → clínica → técnica).
+- Los enlaces usan los nombres de archivo del repositorio de libros: en el ordenador, `2. Sources/Libros/` debe tener esos 25 PDF con esos nombres (`_Sistema/libros_repo.md`).
+- Generador: `BOOKS` con los 25 libros; fuentes explícitas `S CLAVE !Etiqueta @página`; se eliminó `tocs/` y el reparto en volúmenes de Posnick. `make_index.py` agrupa las 14 áreas. CLAUDE.md actualizado (§1, §2, §5, §7).
+- Pendiente (zona del usuario, no se tocó): la nota de *Skull overview* tiene 12 enlaces a sesiones que ya no existen.
+
+## [2026-11-21] schema | Libros de vuelta en git
+- A petición del usuario, los 25 PDF de `kdiazr2-hub/libros` se copiaron a `2. Sources/Libros/` (mismos nombres que en los enlaces; 360 MB; el mayor, 25 MB) y se quitó la exclusión de `.gitignore`. Esto revierte la decisión del 2026-10-08: cada clon de la bóveda, también el del móvil, descarga los libros.
+- Verificación: todos los enlaces a PDF de las sesiones e índices encuentran su archivo. Solo quedan sin PDF dos enlaces dentro de las notas del usuario en *Skull overview* (Gray, que no está en el repositorio de libros, y el nombre antiguo del Iwanaga).
+- CLAUDE.md §5 y §7 y `_Sistema/libros_repo.md` actualizados.

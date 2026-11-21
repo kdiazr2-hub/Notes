@@ -1,0 +1,372 @@
+@AREA 06 | Oral Surgery | oral-surgery
+@BOOKS FRAGISKOS, MOORE, SECRETS
+
+## Principles
+> Medical history and preoperative evaluation
+> Hematopoietic agents and anticoagulants
+# Principles of surgery - asepsis, incisions, flaps and sutures
+S FRAGISKOS !3. Principles of Surgery @42
+S MOORE !7. Surgical Principles and Technique @100
+S SECRETS !24. Wound Healing @281
+- Apply asepsis and sterilization in oral surgery
+- Design a mucoperiosteal flap and choose the suture technique
+- Describe the phases of wound healing
+# Operating room, instruments and materials
+S FRAGISKOS !4. Equipment, Instruments, and Materials @54
+S MOORE !6. The Operating Room, Instruments and the Surgical Team @87
+- Identify the basic instruments for oral surgery
+- Describe sutures, needles and local hemostatic materials
+
+## Exodontia
+> Mental region and mandibular canal
+> Pterygomandibular space and retromolar area
+> Local anesthetics
+# Simple tooth extraction
+S FRAGISKOS !5. Simple Tooth Extraction @84
+S MOORE !8. Extraction of Teeth and Roots @118
+- Apply the correct patient position and forceps technique for each tooth
+- Describe the use of elevators
+# Surgical tooth and root extraction
+S FRAGISKOS !6. Surgical Tooth Extraction @105
+S SECRETS !25. Dentoalveolar Surgery and Preprosthetic Surgery @283
+- Indicate surgical extraction
+- Plan sectioning of teeth and retrieval of roots
+# Impacted teeth
+S FRAGISKOS !7. Surgical Extraction of Impacted Teeth @130
+S MOORE !9. Extraction of Unerupted or Partly Erupted Teeth @145
+- Classify impacted third molars (Pell and Gregory, Winter)
+- Assess the relationship to the inferior alveolar nerve
+- Plan the removal of impacted third molars and canines
+# Complications of exodontia
+S FRAGISKOS !8. Perioperative and Postoperative Complications @189
+S MOORE !10. Complications of Tooth Extraction @169
+- Prevent and manage hemorrhage, alveolar osteitis and oroantral communication
+- Recognize displaced teeth and fractures of the tuberosity or mandible
+# Trigeminal nerve injury
+S SECRETS !27. Trigeminal Nerve Injury @302
+- Classify nerve injuries (Seddon and Sunderland)
+- Decide the timing of microneurosurgical repair
+
+## Infection
+> Floor of the mouth - sublingual and submandibular spaces
+> Fascial spaces and regions of the neck
+> Antiseptics and clinical use of antimicrobials
+# Odontogenic infections and deep neck space infections
+S FRAGISKOS !9. Odontogenic Infections @212
+S MOORE !12. Treatment of Surgical Infections in the Orofacial Region @214
+S SECRETS !28. Orofacial Infections and Antibiotic Use @309
+- Identify the spaces involved in odontogenic infections
+- Recognize airway compromise and indications for surgical drainage
+- Choose empirical antibiotic therapy
+
+## Pathology
+# Biopsy and histopathological examination
+S FRAGISKOS !11. Biopsy and Histopathological Examination @286
+- Choose between incisional and excisional biopsy
+- Handle and send the specimen correctly
+# Cysts of the jaws, radicular cysts and apicoectomy
+S FRAGISKOS !12. Surgical Treatment of Radicular Cysts @305
+S FRAGISKOS !13. Apicoectomy @313
+S MOORE !13. Treatment of Cysts of the Jaw @238
+S SECRETS !44. Oral and Maxillofacial Cysts and Tumors @441
+- Classify cysts of the jaws
+- Compare enucleation and marsupialization
+- Describe the technique of apicoectomy
+# Oral cancer and potentially malignant disorders
+S MOORE !15. Tumours of the Mouth and the Management of Oral Cancer @295
+S SECRETS !45. Cancer of the Oral Cavity @446
+S SECRETS !49. Neck Mass @468
+- Recognize potentially malignant disorders and when to biopsy
+- Stage oral cancer with the TNM system
+- Evaluate a neck mass
+# Salivary gland disease
+S FRAGISKOS !14. Surgical Treatment of Salivary Gland Lesions @330
+S MOORE !16. Surgical Treatment of Salivary Gland Disease @312
+S SECRETS !46. Salivary Gland Diseases @453
+- Manage sialolithiasis and mucoceles
+- Classify salivary gland tumors
+# Vascular anomalies and osteonecrosis
+S SECRETS !47. Vascular Anomalies @458
+S SECRETS !48. Osteoradionecrosis and Osteonecrosis of the Jaws @462
+- Distinguish vascular tumors from vascular malformations
+- Stage and manage osteoradionecrosis and medication-related osteonecrosis
+
+## Prosthetic and implant surgery
+# Preprosthetic surgery
+S FRAGISKOS !10. Preprosthetic Surgery @249
+S MOORE !11. Preparation of the Mouth for Prostheses @188
+- Describe alveoloplasty, torus removal and vestibuloplasty
+- Plan soft tissue surgery to improve denture stability
+# Dental implants and bone grafting
+S FRAGISKOS !15. Osseointegrated Implants @340
+S SECRETS !26. Dental Implants @293
+S SECRETS !50. Bone Grafting to Facilitate Dental Implant Placement @471
+- Explain osseointegration and implant planning
+- Choose between sinus lift, block grafts and guided bone regeneration
+
+@AREA 07 | Facial Trauma | facial-trauma
+@BOOKS TRAUMA, FERRARO, PERRY, SINGH, ELLIS, SECRETS, THALLER
+
+## Principles and evaluation
+> Facial skeleton, buttresses and the mandible
+> Basic and advanced life support
+> Surgical airway - tracheostomy and cricothyrotomy
+# Initial assessment of the facial trauma patient
+S TRAUMA !1.1 Assessment of the Patient With Traumatic Facial Injury @16
+S PERRY !1. Initial Assessment and Management of Life- and Sight-Threatening Complications @21
+S SINGH !8. Emergency Management of Trauma Patient @131
+S FERRARO !10. Clinical Assessment of the Trauma Patient @149
+S SINGH !1. Introduction to Craniomaxillofacial Trauma @13
+S MOORE !14. Management of Maxillofacial Trauma @257
+- Apply ATLS priorities to the facial trauma patient
+- Examine the face systematically
+- Recognize and treat retrobulbar hemorrhage and massive bleeding
+# Imaging of facial trauma
+S TRAUMA !1.2 Radiological Evaluation of the Craniofacial Skeleton @31
+S TRAUMA !1.3 Intraoperative Imaging and Postoperative Quality Control @47
+- Read a facial CT systematically
+- Use intraoperative imaging to check the reduction
+# Airway and timing of repair
+S PERRY !2. Timing Repair and Airway Considerations @33
+S SINGH !7. Perioperative and Anesthetic Considerations @108
+S PERRY !3. Useful First Aid Measures and Basic Techniques @39
+- Decide the timing of fracture repair
+- Choose between nasotracheal, submental intubation and tracheostomy
+# Surgical anatomy and biomechanics of the facial skeleton
+S SINGH !2. Surgical Anatomy of the Face @21
+S SINGH !3. Biomechanics of the Maxillofacial Skeleton @30
+- Describe the buttresses and the zones of tension and compression
+- Relate biomechanics to fracture patterns
+# Principles of fixation and osteosynthesis
+S SINGH !4. Principles of Osteosynthesis @39
+S SINGH !5. Internal Fixation Devices and Armamentarium @68
+S FERRARO !7. Fixation Techniques @115
+S FERRARO !9. Biomaterials @145
+S PERRY !4. Principles of Fracture Management @45
+- Compare load-bearing and load-sharing fixation
+- Describe Champy lines, lag screws, locking plates and resorbable systems
+- Describe the techniques of maxillomandibular fixation
+# Medicolegal aspects
+S SINGH !6. Medicolegal Aspects in Maxillofacial Trauma @94
+- Document injuries for medicolegal purposes
+- Obtain valid informed consent in trauma surgery
+
+## Surgical approaches to the facial skeleton
+> Superficial anatomy of the face and SMAS
+> Scalp, temporal region and the coronal plane
+> Eyelids and periorbital soft tissue
+> Facial nerve and the parotid region
+# Periorbital approaches
+S ELLIS !2. Transcutaneous Approaches Through the Lower Eyelid @22
+S ELLIS !3. Transconjunctival Approaches @78
+S ELLIS !4. Supraorbital Eyebrow Approach @120
+S ELLIS !5. Upper Eyelid Approach @125
+- Compare subciliary, subtarsal and transconjunctival approaches
+- Describe the lateral canthotomy and the upper eyelid approach
+- Avoid ectropion and other eyelid complications
+# Coronal approach
+S ELLIS !6. Coronal Approach @143
+S PERRY !13. The Coronal Flap @129
+- Perform the coronal approach step by step
+- Protect the frontal branch of the facial nerve
+# Transoral approaches
+S ELLIS !7. Approaches to the Maxilla @192
+S ELLIS !8. Mandibular Vestibular Approach @234
+- Describe the maxillary and mandibular vestibular approaches
+- Protect the mental nerve
+# Transfacial approaches to the mandible
+S ELLIS !9. Submandibular Approach @262
+S ELLIS !10. Retromandibular Approach @290
+S ELLIS !11. Rhytidectomy Approach @321
+- Compare submandibular, retromandibular and rhytidectomy approaches
+- Protect the marginal mandibular branch and the facial nerve
+# Approaches to the nasal skeleton
+S ELLIS !13. External (Open) Approach @372
+S ELLIS !14. Endonasal Approach @404
+- Compare open and endonasal approaches to the nose
+- Protect the nasal tip support during the approach
+
+## Soft tissue and nerve injuries
+# Primary repair of facial soft tissue injuries
+S TRAUMA !1.4 Primary Repair of Soft Tissue Injury and Soft Tissue Defects @59
+S FERRARO !11. Management of Soft Tissue Injuries @159
+S PERRY !14. Soft Tissue Injuries @134
+S SINGH !9. Soft Tissue Injuries @150
+S SECRETS !34. Management of Soft Tissue Facial Injuries @372
+- Clean and debride facial wounds
+- Repair lacerations of the lip, eyelid, ear and nose
+- Manage bites, avulsions and tissue loss
+# Traumatic facial nerve injury
+S TRAUMA !1.5 Traumatic Facial Nerve Injury @73
+- Assess facial nerve injury and grade function
+- Indicate primary repair, grafting or observation
+
+## Upper face and skull base
+# Skull base fractures and CSF leaks
+S TRAUMA !1.6 Skull Base Fractures and Cerebrospinal Fluid Leaks @94
+S PERRY !15. Craniofacial Fractures and the Frontal Sinus @144
+- Recognize anterior and lateral skull base fractures
+- Diagnose and manage CSF leaks
+# Frontal bone and frontal sinus fractures
+S TRAUMA !1.7 Frontal Bone and Frontal Sinus Injuries @103
+S TRAUMA !1.8 Endoscopic Approaches to Frontal and Maxillary Sinus Fractures @121
+S FERRARO !19. Frontal Sinus Fractures @239
+S SINGH !20. Frontal Sinus Wall Fractures @357
+S SECRETS !33. Frontal Sinus Fractures @366
+- Classify frontal sinus fractures by wall and nasofrontal duct involvement
+- Choose between observation, ORIF, obliteration and cranialization
+# Temporal bone fractures
+S TRAUMA !1.17 Temporal Bone Fractures @238
+- Classify temporal bone fractures
+- Recognize hearing loss, facial palsy and CSF otorrhea
+
+## Midface fractures
+> Orbit - bony walls and contents
+> Nose, nasal cavity and paranasal sinuses
+# Orbital fractures
+S TRAUMA !1.9 Orbital Fractures @128
+S FERRARO !17. Orbital Fractures @215
+S PERRY !9. Orbital Fractures @91
+S SINGH !19. Orbital Fractures @325
+- Recognize entrapment, enophthalmos and diplopia
+- Indicate orbital floor repair and choose the material
+# Nasal fractures
+S TRAUMA !1.10 Nasal Fractures @137
+S FERRARO !15. Nasal Fractures @197
+S PERRY !10. Nasal Fractures @104
+- Diagnose nasal fractures and septal hematoma
+- Perform closed reduction of the nose
+# Naso-orbito-ethmoid fractures
+S TRAUMA !1.11 Naso-orbito-ethmoid Fractures @144
+S FERRARO !18. Nasoorbitoethmoid Fractures @228
+S PERRY !11. Nasoethmoid Fractures @110
+S SINGH !18. Naso-Orbito-Ethmoidal Complex Fractures @313
+- Classify NOE fractures (Markowitz-Manson)
+- Plan reduction of the central fragment and medial canthal tendon
+# Zygomaticomaxillary complex fractures
+S TRAUMA !1.12 Orbitozygomaticomaxillary Complex Fractures @152
+S FERRARO !16. Zygoma Fractures @201
+S PERRY !8. Fractures of the Cheek: The Zygomaticomaxillary Complex @80
+S SINGH !17. Zygomaticomaxillary Complex Fractures @295
+S SECRETS !31. Zygomaticomaxillary Complex and Orbital Fractures @348
+- Classify ZMC fractures
+- Choose the points of fixation
+- Restore facial width and projection
+# Le Fort and palatal fractures
+S TRAUMA !1.13 Le Fort Fractures @162
+S FERRARO !14. Midfacial Fractures @191
+S PERRY !7. Fractures of the Middle Third of the Facial Skeleton @73
+S SINGH !15. Introduction to Midface Fractures @254
+S SINGH !16. Le Fort Fractures @273
+S SECRETS !32. Midfacial Fractures: Nasal, Nasoethmoidal and Le Fort @359
+- Describe the Le Fort I, II and III patterns
+- Restore occlusion and the vertical buttresses
+
+## Mandible fractures
+# Mandible fractures - principles, symphysis and body
+S TRAUMA !1.14 Mandible Fractures @183
+S FERRARO !13. Mandible Fractures @181
+S PERRY !6. Mandibular Fractures @57
+S SINGH !11. Introduction to Mandibular Fractures @181
+S SINGH !12. Symphysis, Parasymphysis and Body Fractures @195
+S SECRETS !30. Mandibular Trauma @342
+- Classify mandible fractures
+- Plan fixation of symphyseal, parasymphyseal and body fractures
+# Angle and ramus fractures
+S SINGH !13. Angle and Ramus Fractures @207
+- Compare one-plate and two-plate fixation at the angle
+- Decide when to remove the third molar in the fracture line
+# Condylar fractures
+S TRAUMA !1.15 Fractures of the Condylar Process of the Mandible @201
+S SINGH !14. Condylar Fractures @220
+- Classify condylar fractures
+- Decide between closed and open treatment
+# Complications of mandibular fractures
+S TRAUMA !1.16 Complications of Mandibular Fractures @216
+S SINGH !23. Complications in Maxillofacial Trauma @412
+- Manage infection, nonunion and malunion
+- Recognize malocclusion and nerve injury after fixation
+# Geriatric and edentulous fractures
+S TRAUMA !1.21 Geriatric and Edentulous Maxillary and Mandibular Fractures @288
+- Plan fixation of the atrophic edentulous mandible
+- Consider the medical comorbidities of the elderly trauma patient
+# Dentoalveolar trauma
+S TRAUMA !1.18 Dentoalveolar Trauma @246
+S FERRARO !12. Dentoalveolar Fractures @176
+S PERRY !5. Injuries to Teeth and Supporting Structures @52
+S SINGH !10. Dentoalveolar Fractures @163
+S SECRETS !29. Diagnosis and Management of Dentoalveolar Injuries @338
+- Classify dental and alveolar injuries
+- Manage avulsion and splinting
+
+## Complex injuries
+# Panfacial fractures
+S TRAUMA !1.19 Management of Panfacial Fractures @263
+S FERRARO !20. Panfacial Fractures @251
+S PERRY !12. Panfacial Fractures @118
+S SINGH !21. Panfacial Trauma @368
+S PERRY !16. On-Table Assessment of the Repair @159
+- Plan the sequence of repair in panfacial fractures
+- Restore facial width, height and projection
+# Ballistic, blast and bite injuries
+S TRAUMA !1.20 Characteristics of Ballistic and Blast Injuries @276
+S FERRARO !21. Gunshot Wounds @260
+S SINGH !22. Animal Bite, Firearm and Ballistic Injuries @388
+- Describe wound ballistics
+- Plan staged management of gunshot wounds to the face
+
+## Pediatric facial trauma
+# Pediatric skull, frontal and orbital fractures
+S TRAUMA !2.1 Pediatric Skull Fractures @300
+S TRAUMA !2.2 Superior Pediatric Orbital and Frontal Skull Fractures @306
+S TRAUMA !2.3 Pediatric Orbital Fractures @311
+S FERRARO !23. Pediatric Facial Fractures @286
+- Describe the differences of the pediatric facial skeleton
+- Recognize the white-eyed blowout fracture
+# Pediatric midface and mandible fractures
+S TRAUMA !2.4 Pediatric Midface Fractures @319
+S TRAUMA !2.5 Pediatric Mandible Fractures @338
+- Manage fractures in the growing patient with developing teeth
+- Choose resorbable fixation or closed treatment in children
+
+## Secondary reconstruction
+# Cranial and frontocranial reconstruction
+S TRAUMA !3.1 Reconstruction of Full-Thickness Frontocranial Defects @351
+S TRAUMA !3.2 Pediatric Cranial Reconstruction @361
+S TRAUMA !3.12 Custom Craniofacial Implants @478
+- Choose between autologous bone and alloplastic cranioplasty
+- Plan cranioplasty in children with growing skulls
+# Secondary soft tissue and ocular reconstruction
+S TRAUMA !3.3 Secondary Reconstruction of Facial Soft Tissue @370
+S TRAUMA !3.4 Ocular Considerations @382
+S FERRARO !25. Secondary Soft Tissue Reconstruction @314
+- Correct ectropion, ptosis and scars
+- Manage posttraumatic epiphora
+# Secondary orbital, NOE and nasal reconstruction
+S TRAUMA !3.5 Secondary Nasoethmoid Fracture Repair @394
+S TRAUMA !3.6 Posttraumatic Nasal Deformities @410
+S TRAUMA !3.7 Secondary Orbital Reconstruction @432
+- Correct enophthalmos and telecanthus
+- Plan posttraumatic rhinoplasty
+# Secondary midface, osteotomies and TMJ
+S TRAUMA !3.8 Secondary Midfacial Reconstruction @437
+S TRAUMA !3.9 Secondary Osteotomies and Posttraumatic Malocclusion @450
+S TRAUMA !3.10 Secondary Traumatic TMJ Reconstruction @460
+S FERRARO !24. Secondary Bone Reconstruction @301
+S THALLER !20. Established Post-Traumatic Craniofacial Deformities @338
+- Plan osteotomies to correct malunion and malocclusion
+- Reconstruct the posttraumatic TMJ
+# Prosthodontics, microsurgery and virtual planning
+S TRAUMA !3.11 Maxillofacial Prosthodontics @473
+S TRAUMA !3.13 Secondary Microvascular Reconstruction @486
+S TRAUMA !3.14 Virtual Surgical Planning @498
+S FERRARO !22. Microvascular Reconstruction @270
+- Indicate free flaps for traumatic defects
+- Use virtual surgical planning in secondary reconstruction
+# Posttraumatic pain, nerve reconstruction and face transplantation
+S TRAUMA !3.15 Posttraumatic Facial Pain @508
+S TRAUMA !3.16 Secondary Nerve Reconstruction @529
+S TRAUMA !3.17 Facial Transplantation @537
+S SINGH !24. Rehabilitation @446
+- Manage posttraumatic neuropathic pain
+- Describe the indications of face transplantation

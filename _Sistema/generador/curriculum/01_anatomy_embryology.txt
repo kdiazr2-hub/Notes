@@ -1,0 +1,212 @@
+@AREA 01 | Anatomy | anatomy
+@BOOKS IWANAGA, FERRARO, THALLER, ELLIS, SECRETS
+
+## Skull and osteology
+# Skull overview and cranial sutures
+S IWANAGA !2.1 Overview (Skull) @10
+S IWANAGA !2.2 Sutures of the Skull @15
+S THALLER !2. Craniofacial Anatomy @30
+- Identify the bones of the neurocranium and viscerocranium
+- Describe the cranial sutures and fontanelles and their closure
+- Locate the main craniometric landmarks
+# Individual skull bones and cervical vertebrae
+S IWANAGA !2.3 Separate Bones @18
+S IWANAGA !2.4 Cervical Vertebrae @47
+- Describe the frontal, sphenoid, temporal, ethmoid, maxilla, zygoma and mandible and their landmarks
+- Locate the foramina of the skull base and the structures that pass through them
+- Describe the atlas and axis and their surgical relevance
+# Facial skeleton, buttresses and the mandible
+S FERRARO !2. Anatomy of the Head and Neck @29
+S SECRETS !23. Applied Orofacial Anatomy @262
+- Describe the vertical and horizontal buttresses of the facial skeleton
+- Describe the anatomy of the mandible and its muscle attachments
+- Relate buttress anatomy to fracture patterns and plate placement
+
+## Face, scalp and surgical planes
+# Superficial anatomy of the face and SMAS
+S IWANAGA !1.1 Superficial Face @7
+S IWANAGA !3.2 Related Mimetic Muscles @52
+S ELLIS !1. Basic Principles for Approaches to the Facial Skeleton @14
+- Describe the facial soft tissue layers and the SMAS
+- Identify the muscles of facial expression and their innervation
+- Apply the principles of safe surgical access to the facial skeleton
+# Scalp, temporal region and the coronal plane
+S ELLIS !6. Coronal Approach (anatomy) @143
+- Describe the layers of the scalp and the temporal fascias
+- Trace the frontal branch of the facial nerve across the zygomatic arch
+- Explain the dissection plane that protects the frontal branch
+# Eyelids and periorbital soft tissue
+S ELLIS !2. Transcutaneous Approaches Through the Lower Eyelid @22
+S ELLIS !3. Transconjunctival Approaches @78
+S ELLIS !5. Upper Eyelid Approach @125
+- Describe the lamellae of the eyelids, the orbital septum and the canthal tendons
+- Describe the lacrimal drainage system
+- Relate eyelid anatomy to the risk of ectropion and entropion
+
+## Oral cavity
+# Oral cavity surface anatomy and lips
+S IWANAGA !3.1 Surface Anatomy of the Oral Cavity @51
+S IWANAGA !3.10 Lip @98
+S FERRARO !3. Oral Anatomy @63
+- Describe the landmarks of the oral cavity and the vestibule
+- Describe the anatomy and vascular supply of the lips
+- Describe dental anatomy, nomenclature and occlusion
+# Maxilla and maxillary sinus
+S IWANAGA !3.3 Maxilla and Maxillary Sinus @54
+- Describe the anatomy of the maxilla and the maxillary sinus
+- Relate the roots of the maxillary teeth to the sinus floor
+- Describe the blood supply relevant to maxillary surgery
+# Mental region and mandibular canal
+S IWANAGA !3.4 Mental Area @60
+S IWANAGA !3.5 Mandibular Canal @67
+- Locate the mental foramen and the anterior loop of the inferior alveolar nerve
+- Describe the course of the mandibular canal and its variants
+- Identify the risks to the inferior alveolar nerve in surgery
+# Pterygomandibular space and retromolar area
+S IWANAGA !3.6 Pterygomandibular Space and Retromolar Area @75
+- Describe the boundaries and contents of the pterygomandibular space
+- Locate the lingual nerve in the retromolar region
+- Apply this anatomy to the inferior alveolar nerve block
+# Palate and tongue
+S IWANAGA !3.7 Palate @81
+S IWANAGA !3.8 Tongue @87
+- Describe the hard and soft palate, their muscles and blood supply
+- Describe the muscles, innervation and lymphatic drainage of the tongue
+# Floor of the mouth - sublingual and submandibular spaces
+S IWANAGA !3.9 Floor of the Mouth @89
+- Describe the sublingual and submandibular spaces and their communication
+- Trace the submandibular duct, lingual nerve and hypoglossal nerve
+- Relate these spaces to odontogenic infection spread
+# Temporomandibular joint anatomy
+S IWANAGA !3.11 Temporomandibular Joint @101
+- Describe the components of the TMJ, the disc and its attachments
+- Explain the rotation and translation movements of the condyle
+- Describe the nerves and vessels at risk around the joint
+
+## Regions and spaces of the head and neck
+# Nose, nasal cavity and paranasal sinuses
+S IWANAGA !4.2 Nose, Nasal Cavity, and Paranasal Sinuses @111
+- Describe the nasal framework, septum and turbinates
+- Describe the paranasal sinuses and their drainage pathways
+# Orbit - bony walls and contents
+S IWANAGA !4.3 Orbit @119
+- Describe the bony walls, fissures and foramina of the orbit
+- Describe the extraocular muscles and their innervation
+- Locate the safe distances for orbital dissection
+# Ear
+S IWANAGA !4.4 Ear @130
+- Describe the external, middle and inner ear
+- Relate ear anatomy to microtia and hearing loss
+# Pharynx, parapharyngeal space and larynx
+S IWANAGA !4.5 Pharynx and Parapharyngeal Spaces @135
+S IWANAGA !4.6 Larynx @142
+- Describe the pharyngeal constrictors and the parapharyngeal space
+- Describe the laryngeal cartilages and the airway landmarks for intubation and cricothyrotomy
+# Infratemporal and pterygopalatine fossae
+S IWANAGA !4.7 Infratemporal and Pterygopalatine Fossae @147
+- Describe the boundaries and contents of the infratemporal fossa
+- Trace the branches of the maxillary artery and the mandibular nerve
+- Describe the pterygopalatine fossa and its communications
+# Fascial spaces and regions of the neck
+S IWANAGA !4.1 Overview of Anatomical Spaces @110
+S IWANAGA !4.8 Neck @151
+- Describe the deep cervical fascia and the deep neck spaces
+- Describe the triangles of the neck and their contents
+- Relate the spaces to the spread of deep neck infections
+# Venous drainage of the face and neck
+S IWANAGA !4.9 Venous Drainage of the Oral and Maxillofacial Areas @162
+- Describe the facial vein, pterygoid plexus and jugular system
+- Explain the route of spread of infection to the cavernous sinus
+
+## Nerves
+# Cranial nerves - intracranial course
+S IWANAGA !5.1 Intracranial Course of the Cranial Nerves @167
+- Trace the twelve cranial nerves from the brainstem to their foramina
+- Describe their functional components
+# Trigeminal nerve and regional anesthesia
+S FERRARO !5. Regional Anesthesia @90
+S SECRETS !6. Local Anesthetics @96
+- Trace the three divisions of the trigeminal nerve and their branches
+- Describe the technique of the main intraoral and extraoral nerve blocks
+- Recognize the complications of regional anesthesia
+# Facial nerve and the parotid region
+S ELLIS !10. Retromandibular Approach @290
+S ELLIS !11. Rhytidectomy Approach @321
+S ELLIS !9. Submandibular Approach @262
+- Trace the extracranial course and branches of the facial nerve
+- Describe the relationships of the facial nerve, parotid gland and retromandibular vein
+- Locate the marginal mandibular branch in the neck
+
+@AREA 02 | Embryology and Craniofacial Growth | embryology
+@BOOKS SPERBER, FERRARO, CSO, CFM_TCS
+
+## General embryology
+# Mechanisms of embryology and early embryonic development
+S SPERBER !Chapter 1. Mechanisms of Embryology @12
+S SPERBER !Chapter 2. Early Embryonic Development @20
+- Describe fertilization, gastrulation and formation of the germ layers
+- Explain induction, migration, proliferation and apoptosis
+- Describe the critical periods for teratogenesis
+# Early orofacial development and the neural crest
+S SPERBER !Chapter 3. Early Orofacial Development @40
+S FERRARO !1. Embryology of the Head and Neck @17
+- Describe the origin, migration and derivatives of the cranial neural crest
+- Describe the formation of the facial prominences
+- Relate neural crest disorders to craniofacial malformations
+# Pharyngeal arches, pouches and grooves
+S SPERBER !Chapter 4. Pharyngeal Arches @59
+S SPERBER !Chapter 5. Pharyngeal Pouches and Pharyngeal Grooves @69
+S CFM_TCS !1. Etiology and Anatomical Variance in Craniofacial Microsomia @22
+- List the skeletal, muscular, nervous and vascular derivatives of each arch
+- Describe the derivatives of the pharyngeal pouches and grooves
+- Relate first and second arch anomalies to craniofacial microsomia and Treacher Collins syndrome
+# Bone development and growth
+S SPERBER !Chapter 6. Bone Development and Growth @74
+- Compare intramembranous and endochondral ossification
+- Describe the mechanisms of bone growth and remodeling
+
+## Craniofacial development
+# Calvaria and cranial base
+S SPERBER !Chapter 7. Calvaria and the Membranous Neurocranium @86
+S SPERBER !Chapter 8. Cranial Base @94
+S CSO !2. Embryology and Skull Growth @37
+- Describe the development of the calvaria and the sutures
+- Describe the development of the cranial base and its synchondroses
+- Explain how brain growth drives skull growth
+# Facial skeleton and paranasal sinuses
+S SPERBER !Chapter 9. Facial Skeleton @107
+S SPERBER !Chapter 11. Paranasal Sinuses @126
+- Describe the development of the maxilla, zygoma and nasal complex
+- Describe the timing of development of each paranasal sinus
+# Development of the palate
+S SPERBER !Chapter 10. The Palate @116
+- Describe the formation of the primary and secondary palate
+- Explain the mechanisms of palatal shelf elevation and fusion
+- Relate failures of fusion to cleft lip and palate
+# Mandible and temporomandibular joint
+S SPERBER !Chapter 12. The Mandible @129
+S SPERBER !Chapter 13. Temporomandibular Joint @141
+- Describe the development of the mandible and Meckel cartilage
+- Describe the condylar cartilage and its role in mandibular growth
+- Describe the development of the TMJ
+# Skull growth, sutures and cephalometrics
+S SPERBER !Chapter 14. Skull Growth: Sutures and Cephalometrics @146
+S CSO !5. Neurocranial Growth in Craniosynostosis @118
+- Explain the theories of craniofacial growth
+- Describe sutural growth and the consequences of premature fusion
+- Interpret the main cephalometric landmarks and growth analysis
+# Tongue, tonsils, salivary glands and muscles
+S SPERBER !Chapter 15. Tongue and Tonsils @159
+S SPERBER !Chapter 16. Salivary Glands @166
+S SPERBER !Chapter 17. Muscle Development @170
+- Describe the development and innervation of the tongue
+- Describe the development of the salivary glands
+- Describe the origin of the masticatory and facial muscles
+# Special sense organs
+S SPERBER !Chapter 18. Special-Sense Organs @182
+- Describe the development of the eye and the ear
+- Relate ear development to microtia
+# Development of the dentition
+S SPERBER !Chapter 19. Development of the Dentition @191
+- Describe the stages of odontogenesis
+- Describe the eruption sequence of primary and permanent teeth

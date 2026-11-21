@@ -1,0 +1,173 @@
+@AREA 05 | Perioperative Medicine and Critical Care | critical-care
+@BOOKS MARIK, CCNOTES, SECRETS, MOORE, FRAGISKOS
+
+## Preoperative evaluation
+# Medical history and preoperative evaluation
+S MOORE !1. The New Patient @14
+S SECRETS !1. Are You Ready for Your Surgery Rotation @30
+S SECRETS !2. Preoperative Evaluation @34
+S FRAGISKOS !1. Medical History @13
+- Take a structured medical history and classify the patient with the ASA system
+- Order preoperative investigations according to the patient and the procedure
+# Electrocardiogram and laboratory tests
+S SECRETS !3. Electrocardiogram @46
+S SECRETS !4. Laboratory Tests @64
+- Interpret a basic electrocardiogram
+- Interpret the complete blood count, coagulation tests and electrolytes
+# Diagnostic imaging for the surgical patient
+S SECRETS !5. Diagnostic Imaging for the OMFS Patient @81
+S FRAGISKOS !2. Radiographic Examination in Oral Surgery @33
+- Choose between panoramic, periapical, CBCT, CT and MRI
+- Recognize the radiographic signs of common oral surgical conditions
+# The medically compromised patient - cardiovascular and respiratory
+S MOORE !3. Problems Related to Certain Systemic Conditions @37
+S SECRETS !16. Cardiovascular Diseases @186
+S SECRETS !17. Respiratory Disorders @202
+- Plan treatment for patients with ischemic heart disease, valve disease and heart failure
+- Plan treatment for patients with asthma and COPD
+# The medically compromised patient - liver, renal, endocrine and pregnancy
+S SECRETS !19. Management of Patients With Renal Diseases @221
+S SECRETS !20. Endocrine Diseases and the Pregnant Patient @226
+S SECRETS !22. The Immunocompromised Surgical Patient @248
+- Adjust surgical care to renal and hepatic disease
+- Plan treatment for pregnant and immunocompromised patients
+# General patient management and postoperative complications
+S MOORE !2. General Patient Management @23
+S SECRETS !12. Postoperative Complications @142
+- Plan postoperative orders
+- Recognize and manage postoperative fever, bleeding and nausea
+
+## Emergencies and resuscitation
+> Sedative-hypnotics and intravenous sedation
+# Medical emergencies in the dental office
+S MOORE !4. Medical Emergencies @55
+- List the contents of the emergency drug kit
+- Manage syncope, anaphylaxis, hypoglycemia, seizures and chest pain
+# Basic and advanced life support
+S SECRETS !14. BLS, ACLS and ATLS @150
+- Perform the BLS and ACLS algorithms
+- Apply the primary survey of ATLS
+# Surgical airway - tracheostomy and cricothyrotomy
+S SECRETS !15. Tracheostomy and Cricothyrotomy @174
+- Indicate a tracheostomy or cricothyrotomy
+- Describe the surgical technique and complications
+
+## ICU fundamentals
+# Approach to critical care
+S MARIK !4. Critical Care Medicine 101 @50
+S MARIK !5. House Officers Guidelines: Housekeeping @53
+S MARIK !6. House Officers Guidelines: Procedures @59
+S SECRETS !13. Introduction to Mechanical Ventilation and ICU Care @148
+S CCNOTES !Basics tab @4
+- Perform a structured daily ICU assessment
+- Describe the main ICU procedures (central line, arterial line)
+# ICU admission, chronic critical illness and end of life
+S MARIK !7. Admission-Discharge Criteria @68
+S MARIK !8. Chronic Critical Illness @75
+S MARIK !51. End-of-Life Issues @806
+S MARIK !52. Words of Wisdom @812
+- Apply ICU admission and discharge criteria
+- Describe the long-term consequences of critical illness
+- Discuss end-of-life care with families
+# Vital signs and hemodynamic monitoring
+S MARIK !14. Understanding the Vital Signs @195
+S MARIK !10. Assessment of Cardiac Function and Cardiac Output @116
+S CCNOTES !CV tab - hemodynamics @43
+- Interpret vital signs and their limitations
+- Assess cardiac output and fluid responsiveness
+# Fluids, fluid responsiveness and perioperative optimization
+S MARIK !9. Fluid Responsiveness and Fluid Resuscitation @85
+S MARIK !11. Peri-operative Fluid Optimization @125
+S SECRETS !10. Fluid and Electrolytes @130
+- Calculate maintenance fluids
+- Explain why fluid overload is harmful and assess fluid responsiveness
+# Nutrition and glycemic control
+S MARIK !32. Nutrition in the ICU @506
+S MARIK !13. The Stress Response and Stress Hyperglycemia @175
+S SECRETS !11. Nutritional Support @138
+- Indicate enteral or parenteral nutrition
+- Manage stress hyperglycemia and hyperlactatemia
+# Pain, agitation and delirium
+S MARIK !15. Management of Pain, Agitation and Delirium @223
+- Assess pain, sedation and delirium with validated scales
+- Choose analgesics and sedatives in the ICU
+
+## Organ systems in the ICU
+# Sepsis
+S MARIK !12. Sepsis @133
+- Recognize sepsis and septic shock
+- Apply the initial management of sepsis
+# Hospital-acquired infections, pneumonia and fever
+S MARIK !16. Hospital Acquired Infections @239
+S MARIK !17. The Bacterial Pneumonias @285
+S MARIK !18. Fever @299
+- Prevent catheter-related, urinary and ventilator-associated infections
+- Evaluate fever in the ICU patient
+# Mechanical and non-invasive ventilation
+S MARIK !19. Mechanical Ventilation 101 @315
+S MARIK !20. Non-invasive Ventilation @335
+S MARIK !21. Liberation from Mechanical Ventilation @342
+S CCNOTES !Resp tab @87
+- Set the basic ventilator modes and parameters
+- Indicate non-invasive ventilation
+- Apply weaning criteria and spontaneous breathing trials
+# Arterial blood gases and acid-base balance
+S MARIK !22. Arterial Blood Gas Analysis @352
+- Interpret arterial blood gases step by step
+- Diagnose mixed acid-base disorders
+# ARDS, COPD and asthma
+S MARIK !23. ARDS @371
+S MARIK !24. COPD Exacerbation @394
+S MARIK !25. Acute Severe Asthma @401
+S MARIK !26. Pleural Effusions and Atelectasis @410
+- Apply lung-protective ventilation in ARDS
+- Manage exacerbations of COPD and severe asthma
+# Venous thromboembolism
+S MARIK !27. Venous Thromboembolic Disease @417
+- Apply thromboprophylaxis in the surgical patient
+- Diagnose and treat pulmonary embolism
+# Cardiac emergencies
+S MARIK !28. Hypertensive Crises @445
+S MARIK !29. Acute Decompensated Cardiac Failure @460
+S MARIK !30. Acute Coronary Syndromes @486
+S MARIK !31. Arrhythmias @495
+- Manage hypertensive emergencies
+- Recognize acute coronary syndromes and heart failure
+- Manage atrial fibrillation and other arrhythmias
+# Gastrointestinal and liver disorders
+S MARIK !33. Stress Ulcer Prophylaxis @526
+S MARIK !34. Acute and Chronic Liver Disease @535
+S MARIK !35. GI Bleeding @563
+S MARIK !36. Pancreatitis @576
+S MARIK !37. Diarrhea and Constipation @585
+S CCNOTES !GI tab @143
+- Indicate stress ulcer prophylaxis
+- Manage upper GI bleeding and acute pancreatitis
+# Transfusion of blood products
+S MARIK !38. Transfusion of Blood and Blood Products @593
+- Apply restrictive transfusion thresholds
+- Recognize transfusion reactions
+# Endocrine, electrolyte and renal disorders
+S MARIK !39. Adrenal Insufficiency @628
+S MARIK !40. Electrolyte Disturbances @642
+S MARIK !41. Acute Kidney Injury @660
+S CCNOTES !GU tab @107
+S CCNOTES !Endo tab @182
+- Manage hyponatremia, hyperkalemia and other electrolyte disorders
+- Recognize adrenal insufficiency and acute kidney injury
+# Neurologic emergencies
+S MARIK !42. Acute Ischemic Stroke @676
+S MARIK !43. Intracerebral and Subarachnoid Hemorrhage @691
+S MARIK !44. Seizures and Status Epilepticus @722
+S CCNOTES !Neuro tab @117
+- Recognize stroke and intracranial hemorrhage
+- Manage status epilepticus
+# Special populations in the ICU
+S MARIK !47. Pregnancy Related Disorders @762
+S MARIK !48. The Geriatric ICU Patient @776
+S MARIK !49. Obesity in the ICU @789
+S MARIK !50. Radiology @798
+S CCNOTES !Onco tab @165
+S CCNOTES !Multisys tab @190
+- Adapt ICU care to pregnancy, old age and obesity
+- Interpret the ICU chest radiograph

@@ -20,7 +20,7 @@ Obsidian_Notes/
 ├── log.md               ← registro cronológico (solo se añade al final)
 ├── 0. Básicos/          ← personal (Home, compras, prompts…). NO es wiki. No tocar.
 ├── 2. Sources/          ← FUENTES — INMUTABLES
-│   ├── Libros/          ← los 32 libros (PDF) de los que sale el temario
+│   ├── Libros/          ← los 25 libros (PDF) del temario: los mismos de `kdiazr2-hub/libros`, con el mismo nombre
 │   ├── Papers/          ← artículos
 │   ├── Clases y guías/
 │   └── _Bandeja/        ← material nuevo pendiente de procesar
@@ -30,14 +30,14 @@ Obsidian_Notes/
 │   │   ├── 01. Skull and superficial face/
 │   │   │   └── 02. Skull overview and cranial sutures.md   ← sesión (NN = orden dentro del módulo)
 │   │   └── 02. Oral cavity/ …
-│   ├── 02. Embryology/ … 19. Reconstructive Surgery/
+│   ├── 02. Embryology and Craniofacial Growth/ … 14. Reconstruction and Facial Aesthetics/
 ├── 4. Ruso/             ← fuera del alcance. No tocar.
-├── 5. Estadística/      ← vacía; la bioestadística vive en 3. Notes/07. Biostatistics
+├── 5. Estadística/      ← vacía; la bioestadística vive en 3. Notes/04. Biostatistics and Evidence-Based Medicine
 ├── _Archivo/            ← notas antiguas (anteriores al 2026-10-06). Oculto en Obsidian. No usar como fuente.
 └── _Sistema/            ← herramientas del agente (generador, índices de los libros). Oculto en Obsidian.
 ```
 
-**Las 19 áreas:** 01 Anatomy · 02 Embryology · 03 Genetics · 04 Physiology · 05 Pharmacology · 06 Microbiology · 07 Biostatistics · 08 Imaging · 09 Oral Pathology · 10 Oral Surgery · 11 Pain Medicine · 12 Critical Care · 13 Facial Trauma · 14 TMJ · 15 Orthognathic Surgery · 16 Cleft Lip and Palate · 17 Craniofacial Surgery · 18 Head and Neck Oncology · 19 Reconstructive Surgery.
+**Las 14 áreas** (temario rehecho el 2026-11-21 a partir de los 25 libros de `kdiazr2-hub/libros`; cada sesión une los capítulos de todos los libros que tratan su tema): 01 Anatomy · 02 Embryology and Craniofacial Growth · 03 Pharmacology · 04 Biostatistics and Evidence-Based Medicine · 05 Perioperative Medicine and Critical Care · 06 Oral Surgery · 07 Facial Trauma · 08 TMJ and Orofacial Pain · 09 Orthognathic Surgery and Distraction · 10 Cleft Lip and Palate · 11 Craniosynostosis · 12 Craniofacial Malformations · 13 Skull Base and Craniofacial Approaches · 14 Reconstruction and Facial Aesthetics.
 
 Reglas:
 - **Nunca modifiques, renombres ni borres nada en `2. Sources/`.** Solo puedes mover archivos de `_Bandeja/` a su carpeta definitiva.
@@ -83,7 +83,7 @@ estado: pendiente            ← pendiente | en curso | completa
 > - [ ] …
 
 **Sources**
-- [[1. Trauma facial.pdf#page=162|Facial Trauma Surgery — 1.13 Le Fort Fractures]]
+- [[Facial Trauma Surgery From Primary Repair to Reconstruction - Dorafshar, Rodriguez & Manson (2020).pdf#page=162|Dorafshar, Facial Trauma Surgery — 1.13 Le Fort Fractures]]
 
 **Index:** [[Facial Trauma - Index]] · **Previous:** [[…]] · **Next:** [[…]]
 
@@ -91,7 +91,7 @@ estado: pendiente            ← pendiente | en curso | completa
 (aquí escribe el usuario)
 ```
 - **Todo lo que está por encima de la segunda línea `---` es tuyo** (frontmatter, objetivos, fuentes, navegación). **Todo lo que está por debajo es del usuario**: no lo borres ni lo reescribas. Si propones un cambio en sus notas, pregúntale antes o ponlo en un callout `> [!question]`.
-- Los enlaces `#page=N` abren el PDF en la página del capítulo. En 5 libros sin marcadores (Katzung, Murray, Hartl, Fragiskos y Distraction Osteogenesis) el enlace abre la primera página y la etiqueta indica el capítulo. Si el usuario te da la página real, corrígela.
+- Los enlaces `#page=N` abren el PDF en la página donde empieza el capítulo (todas se localizaron y comprobaron sobre el texto del libro). Si el usuario te da una página mejor, corrígela en `curriculum/` y en la sesión.
 - Objetivos: entre 2 y 5, con verbos observables (describe, classify, compare, plan, recognize, manage…).
 
 ### Notas de papers
@@ -146,10 +146,10 @@ Presenta un informe, **aplica solo lo aprobado** y registra en el log.
 
 ## 5. Herramientas
 
-- **Libros escaneados:** el capítulo 8 (Cabeza y cuello) del Gray, *Anatomía para estudiantes* (PDF pp. 759–1032), son imágenes sin texto. Para leerlo, renderiza las páginas con PyMuPDF (`pip install --target <scratchpad>/pylib pymupdf pillow`) y míralas como imagen con Read, de pocas en pocas. En ese capítulo, la página impresa = página del PDF − 11.
-- **Posnick en volúmenes:** *Orthognathic Surgery: Principles and Practice* está dividido en 6 PDFs (`5. Orthognathic Surgery Principles and Practice - Vol 1…6.pdf`) para que ningún archivo pase de 100 MB. El temario y `tocs/` usan las páginas del libro completo; `build.py` (`VOLUMES`) las traduce al volumen y a la página dentro de él. Cortes (páginas del libro completo): Vol 1 = 1–553 · Vol 2 = 554–817 · Vol 3 = 818–1105 · Vol 4 = 1106–1307 · Vol 5 = 1308–1574 · Vol 6 = 1575–1819.
+- **Gray (fuera del temario):** solo lo cita la nota de *Skull overview*. Su capítulo 8 está escaneado: para leerlo, renderiza las páginas con PyMuPDF y míralas como imagen (página impresa = página del PDF − 11).
 - **Leer PDFs:** pdftotext falla con varios de estos PDFs. Usa `pypdf` (instálalo en el scratchpad con `pip install --target` si no está) y lee por rangos de páginas. Los libros pesan hasta 800 MB: nunca extraigas un libro entero, solo las páginas del capítulo.
-- **`_Sistema/generador/`:** contiene `build.py` (genera sesiones e índices a partir del temario), `curriculum/*.txt` (el temario fuente: áreas, módulos, sesiones, fuentes y objetivos) y `tocs/` (los marcadores de cada libro con sus páginas). Si cambias el temario, edita primero `curriculum/` para que siga siendo la fuente de verdad. Uso: `python -I build.py <dir_generador> <vault>` para validar y `--write` para crear lo que falte (no sobrescribe archivos existentes). `make_index.py` regenera `index.md` (contadores y tabla libro → áreas) a partir del temario: `python -I make_index.py <dir_generador> <vault>`.
+- **Libros:** desde el 2026-11-21 los 25 PDF están en git, en `2. Sources/Libros/` (copiados de `kdiazr2-hub/libros`, mismos nombres que en los enlaces), así que también están en una sesión en la nube. El repositorio de libros tiene además el texto completo en `contenido/*.txt` (la página N es `texto.split('\f')[N-1]`, con `\f` = salto de página), útil para buscar. Ver `_Sistema/libros_repo.md`.
+- **`_Sistema/generador/`:** contiene `build.py` (genera sesiones e índices a partir del temario; `BOOKS` = clave → nombre del PDF) y `curriculum/*.txt` (el temario fuente: áreas, módulos, sesiones, objetivos y fuentes). Cada fuente se escribe `S CLAVE !Etiqueta @página`. Si cambias el temario, edita primero `curriculum/` para que siga siendo la fuente de verdad. Uso: `python -I build.py <dir_generador> <vault>` para validar y `--write` para crear lo que falte (no sobrescribe sesiones ni índices existentes; para añadir fuentes a una sesión que ya existe, edita también su bloque **Sources**). `make_index.py` regenera `index.md`: `python -I make_index.py <dir_generador> <vault>`.
 
 ## 6. index.md y log.md
 
@@ -162,4 +162,4 @@ Presenta un informe, **aplica solo lo aprobado** y registra en el log.
 - No borres contenido escrito por el usuario.
 - Cambios de estructura (áreas, módulos, renombrar o mover): propónlos y espera confirmación. Si se aprueban, actualiza este archivo y regístralo en el log.
 - El usuario usa obsidian-git (copias automáticas). No hagas commits salvo que te lo pida.
-- `2. Sources/Libros/` **no va en git** (`.gitignore`): los libros se respaldan en OneDrive y solo están en el ordenador. Las skills los leen del disco; en una sesión en la nube (clon de GitHub) no estarán.
+- `2. Sources/Libros/` **va en git** desde el 2026-11-21 (decisión del usuario): 25 PDF, ~360 MB, los mismos de `kdiazr2-hub/libros`. Cada clon de la bóveda, también el del móvil, los descarga. Si se añade un libro, debe pesar menos de 100 MB (límite de GitHub).
