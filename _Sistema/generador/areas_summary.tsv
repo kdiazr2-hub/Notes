@@ -1,19 +1,14 @@
-01	Anatomy	Anatomy - Index	54	GRAY,IWANAGA,IMAGING,CARSTENS,SKULLBASE,TMJD,ATLAS_ATM,FLAPS,SPERBER,BORON,DOLOR,AO,TRAUMA,HNC,POSNICK
-02	Embryology	Embryology - Index	25	SPERBER,CARSTENS,CSO,BERKOWITZ
-03	Genetics	Genetics - Index	25	PIERCE,HARTL,CSO,APERT
-04	Physiology	Physiology - Index	39	BORON
-05	Pharmacology	Pharmacology - Index	58	KATZUNG,DOLOR,CRIT
-06	Microbiology	Microbiology - Index	36	MURRAY
-07	Biostatistics	Biostatistics - Index	14	BIOEST,TRAUMA,CRIT,HNC
-08	Imaging	Imaging - Index	28	IMAGING,TMJD,ATLAS_ATM,TRAUMA,FRAGISKOS,HNC,CSO
-09	Oral Pathology	Oral Pathology - Index	40	NEVILLE
-10	Oral Surgery	Oral Surgery - Index	15	FRAGISKOS
-11	Pain Medicine	Pain Medicine - Index	24	DOLOR,NEVILLE,TRAUMA
-12	Critical Care	Critical Care - Index	66	CRIT
-13	Facial Trauma	Facial Trauma - Index	37	TRAUMA,AO,TMJD,POSNICK,FLAPS
-14	TMJ	TMJ - Index	36	TMJD,ATLAS_ATM,MERCURI,CFM_TCS,POSNICK,DISTR
-15	Orthognathic Surgery	Orthognathic Surgery - Index	49	POSNICK,REYNEKE,DISTR,AO
-16	Cleft Lip and Palate	Cleft Lip and Palate - Index	38	GLOBAL,BERKOWITZ,POSNICK,DISTR
-17	Craniofacial Surgery	Craniofacial Surgery - Index	68	CFM_TCS,CSO,APERT,GORLIN,SKULLBASE,POSNICK,GLOBAL
-18	Head and Neck Oncology	Head and Neck Oncology - Index	35	HNC,FLAPS
-19	Reconstructive Surgery	Reconstructive Surgery - Index	32	FLAPS
+01	Anatomy	Anatomy - Index	23	IWANAGA,FERRARO,THALLER,ELLIS,SECRETS
+02	Embryology and Craniofacial Growth	Embryology and Craniofacial Growth - Index	12	SPERBER,FERRARO,CSO,CFM_TCS
+03	Pharmacology	Pharmacology - Index	37	KATZUNG,SECRETS,MOORE,FRAGISKOS,MARIK
+04	Biostatistics and Evidence-Based Medicine	Biostatistics and Evidence-Based Medicine - Index	14	RIUS,ORELLANA,MARIK
+05	Perioperative Medicine and Critical Care	Perioperative Medicine and Critical Care - Index	27	MARIK,CCNOTES,SECRETS,MOORE,FRAGISKOS
+06	Oral Surgery	Oral Surgery - Index	15	FRAGISKOS,MOORE,SECRETS
+07	Facial Trauma	Facial Trauma - Index	37	TRAUMA,FERRARO,PERRY,SINGH,ELLIS,SECRETS,THALLER
+08	TMJ and Orofacial Pain	TMJ and Orofacial Pain - Index	5	MOORE,SECRETS,ELLIS,THALLER,CFM_TCS,TRAUMA,SINGH,MCCARTHY
+09	Orthognathic Surgery and Distraction	Orthognathic Surgery and Distraction - Index	21	REYNEKE,FERRARO,MCCARTHY,SALYER1,THALLER,SECRETS,MOORE
+10	Cleft Lip and Palate	Cleft Lip and Palate - Index	14	ALONSO,SALYER2,THALLER,SECRETS,SPERBER
+11	Craniosynostosis	Craniosynostosis - Index	22	CSO,JIMENEZ,SALYER1,THALLER,MCCARTHY
+12	Craniofacial Malformations	Craniofacial Malformations - Index	17	CFM_TCS,SALYER1,THALLER,MCCARTHY,ALONSO,SECRETS
+13	Skull Base and Craniofacial Approaches	Skull Base and Craniofacial Approaches - Index	9	SKULLBASE
+14	Reconstruction and Facial Aesthetics	Reconstruction and Facial Aesthetics - Index	8	SECRETS,FERRARO,THALLER,SALYER1

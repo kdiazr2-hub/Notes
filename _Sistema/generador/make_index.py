@@ -20,13 +20,14 @@ for a in areas:
     for b in a['books']:
         used[b].append(f"[[{a['name']} - Index\\|{a['name']}]]")
 
-groups = [('Basic sciences', ['01', '02', '03', '04', '05', '06', '07']),
-          ('Diagnosis and general clinical areas', ['08', '09', '10', '11', '12']),
-          ('Oral and maxillofacial surgery', ['13', '14', '15', '16', '17', '18', '19'])]
+groups = [('Basic sciences', ['01', '02', '03', '04']),
+          ('General clinical areas', ['05', '06']),
+          ('Oral and maxillofacial surgery', ['07', '08', '09', '10']),
+          ('Craniofacial surgery', ['11', '12', '13', '14'])]
 by = {r[0]: r for r in rows}
 out = ['---', 'tipo: indice', f'actualizado: {datetime.date.today().isoformat()}', '---', '# Índice de la wiki', '',
        '> [!abstract] Estado',
-       f'> **{len(rows)} áreas · {total} sesiones · {len(BOOKS)} libros + 12 papers.**',
+       f'> **{len(rows)} áreas · {total} sesiones · {len(BOOKS)} libros (repo kdiazr2-hub/libros) + 12 papers.**',
        '> Cada área tiene un índice con sus sesiones. Cada sesión empieza con sus objetivos y enlaza al capítulo exacto del libro; debajo van las notas.',
        '> Estado de una sesión: `estado: pendiente` → `en curso` → `completa` (propiedad en el frontmatter), y la casilla del índice del área.',
        '',

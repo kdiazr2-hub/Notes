@@ -1,0 +1,377 @@
+@AREA 11 | Craniosynostosis | craniosynostosis
+@BOOKS CSO, JIMENEZ, SALYER1, THALLER, MCCARTHY
+
+## Foundations
+> Calvaria and cranial base
+> Skull growth, sutures and cephalometrics
+# History of craniosynostosis surgery
+S CSO !1. Historical Perspective on the Evolution of the Techniques @16
+S JIMENEZ !1. The History and Evolution of Craniosynostosis Surgery @8
+S THALLER !A History of Craniofacial Surgery Seen Through a UCLA Prism @20
+- Describe the evolution from strip craniectomy to vault remodeling and endoscopy
+- Identify the pioneers of craniofacial surgery (Tessier and others)
+# Genetics of craniosynostosis
+S CSO !3. Genetics of Craniosynostoses @54
+S CSO !4. Craniofacial Anomalies in Fgfrs-Craniosynostoses Mouse Models @103
+S CSO !25. What to Ask to the Geneticist @586
+- Describe the FGFR, TWIST1 and other genes involved
+- Indicate genetic testing
+# Clinical and antenatal diagnosis
+S CSO !6. Clinical Diagnosis of Craniosynostosis @141
+S CSO !20. Antenatal Diagnosis of Craniosynostosis @455
+S JIMENEZ !3. Background and Management Principles @51
+- Recognize the skull shape of each single-suture synostosis
+- Distinguish synostosis from positional plagiocephaly
+# Neuroimaging and evaluation tools
+S CSO !21. Neuroimaging in the Craniosynostoses @469
+S CSO !51. Evaluation Tools for Craniosynostosis @1045
+- Choose the imaging study for each clinical question
+- Use cephalic index and 3D photogrammetry
+# Indications for surgery and controversies
+S CSO !14. Controversies in the Indications for Surgery @319
+- Weigh functional and esthetic indications
+- Decide the timing of surgery
+
+## Intracranial pressure, CSF and associated anomalies
+# Raised intracranial pressure and cerebral perfusion
+S CSO !16. Craniocerebral Disproportion, Cerebral Perfusion and Raised ICP @373
+S CSO !17. Non-invasive Assessment of ICP and Perfusion @397
+- Recognize the signs of raised intracranial pressure
+- Use fundoscopy, OCT and other non-invasive tools
+# CSF, venous anomalies, Chiari malformation and hydrocephalus
+S CSO !15. Ventricular and Pericerebral CSF Accumulation @345
+S CSO !18. Venous Anomalies in Craniosynostosis @411
+S CSO !19. Cerebellar Tonsils Herniation and Syringomyelia @423
+S CSO !35. Hydrocephalus and Craniosynostosis @792
+S CSO !36. Management of Hydrocephalus in Craniosynostosis @810
+S CSO !50. Foramen Magnum Decompression @1030
+- Explain the venous hypertension theory
+- Manage Chiari malformation and hydrocephalus in syndromic patients
+# Ophthalmic and ENT problems
+S JIMENEZ !7. Ophthalmic Complications of Craniosynostosis @78
+S CSO !22. ENT and Craniosynostosis @536
+S JIMENEZ !2. Pathologic Facial Development Secondary to Craniosynostosis @16
+- Recognize strabismus and amblyopia in unicoronal synostosis
+- Recognize airway and hearing problems
+
+## Team and perioperative care
+# The multidisciplinary team
+S CSO !26. The Role of a Psychologist on a Craniosynostosis Team @606
+S JIMENEZ !4. Perioperative Logistics @58
+S JIMENEZ !5. The Role of the Nurse @66
+S THALLER !4. Neurosurgical Considerations in Craniofacial Surgery @72
+- Describe the role of each member of the team
+- Organize the perioperative pathway
+# Anesthesia, hemostasis and transfusion
+S CSO !29. Anesthetic Considerations @674
+S CSO !30. Hemostasis and Transfusion @691
+S JIMENEZ !6. Anesthesia Management @73
+S THALLER !3. Anesthesia Considerations for Pediatric Craniofacial Surgery @64
+- Plan blood management with tranexamic acid and transfusion protocols
+- Recognize venous air embolism
+# 3D technology and surgical models
+S CSO !27. The Role of 3D Technology @630
+S CSO !28. 3D Models in Craniofacial Surgical Training @654
+- Use virtual planning, cutting guides and printed models
+- Use 3D models in surgical training
+
+## Surgical techniques
+# Endoscopic techniques and helmet therapy
+S CSO !31. Principles and Techniques of Endoscopic Management @700
+S JIMENEZ !15. Postoperative Cranial Orthotic Therapy @224
+- Describe endoscopic strip craniectomy
+- Plan postoperative helmet therapy
+# Anterior and posterior vault remodeling
+S CSO !32. Principles and Technique of Anterior Vault Remodeling @720
+S CSO !33. Principles and Techniques of Posterior Vault Remodeling @742
+S SALYER1 !1. Basic Surgical Techniques @19
+S SALYER1 !2. Surgery for Craniosynostosis in Infants @81
+S SALYER1 !3. Primary and Secondary Surgery for Cranial and Forehead Deformities @127
+- Perform fronto-orbital advancement and remodeling
+- Describe posterior vault expansion
+# Springs, distraction and surgery in older children
+S CSO !41. Spring-Mediated Cranioplasty @885
+S CSO !34. Technical Tips for Surgery in Older Children @770
+S MCCARTHY !10. Distraction of the Cranial Vault @210
+- Compare springs, distraction and open remodeling
+- Adapt the technique to older children
+
+## Single-suture synostosis
+# Sagittal synostosis
+S CSO !7. Sagittal Suture Synostosis: Key Points @161
+S CSO !38. Sagittal: Endoscopic Approach @836
+S CSO !39. Sagittal: Open Vault Surgery in Young Children @846
+S CSO !40. Sagittal: Distraction Osteogenesis @864
+S CSO !42. Sagittal: Surgical Technique in Older Children @905
+S JIMENEZ !8. Sagittal Craniosynostosis @92
+S THALLER !6. Nonsyndromic Craniosynostosis: Current Treatment Options @106
+- Recognize scaphocephaly
+- Compare endoscopic, spring and open techniques by age
+# Metopic synostosis
+S CSO !8. Metopic: Key Points for the Neurosurgeons @180
+S CSO !43. Metopic: Endoscopic Approach @918
+S CSO !44. Metopic: Open Vault Surgery @931
+S JIMENEZ !10. Metopic Craniosynostosis @132
+- Distinguish trigonocephaly from a benign metopic ridge
+- Plan fronto-orbital remodeling
+# Unicoronal synostosis
+S CSO !9. Unilateral Coronal Craniosynostosis @192
+S CSO !45. Unicoronal: Endoscopic Approach @953
+S CSO !46. Unicoronal: Open Vault Surgery @975
+S JIMENEZ !9. Unicoronal Craniosynostosis @112
+- Recognize anterior plagiocephaly and the harlequin sign
+- Plan the correction of orbital and forehead asymmetry
+# Bicoronal synostosis
+S CSO !47. Bicoronal Sutures Synostosis @991
+S JIMENEZ !11. Nonsyndromic Bicoronal Craniosynostosis @154
+S JIMENEZ !12. Bicoronal Syndromic Craniosynostosis @169
+- Recognize brachycephaly and turribrachycephaly
+- Suspect a syndromic cause
+# Lambdoid synostosis
+S CSO !10. Lambdoid Sutures Synostosis @208
+S CSO !11. Bilambdoid and Sagittal Craniosynostosis @231
+S CSO !48. Lambdoid: Endoscopic Approach @1001
+S CSO !49. Lambdoid: Open Vault Surgery @1023
+S JIMENEZ !13. Lambdoid Craniosynostosis @178
+- Distinguish lambdoid synostosis from positional plagiocephaly
+- Plan endoscopic or open posterior vault surgery
+# Oxycephaly and multisuture synostosis
+S CSO !12. Oxycephaly @244
+S CSO !13. Multiple Sutures Synostosis @283
+S JIMENEZ !14. Multiple Suture Nonsyndromic Craniosynostosis @195
+- Recognize late-presenting oxycephaly and raised ICP
+- Plan surgery for multisuture synostosis
+
+## Syndromic craniosynostosis
+# Syndromic craniosynostosis - Apert, Crouzon, Pfeiffer, Muenke and Saethre-Chotzen
+S CSO !24. Syndromic Craniosynostosis @575
+S THALLER !7. Syndromic Craniosynostosis @126
+S SALYER1 !7. Syndromal Surgery @297
+- Recognize the phenotype of each syndrome
+- Plan the staged reconstruction from infancy to adulthood
+
+## Outcomes
+# Complications, postoperative care and long-term outcomes
+S CSO !23. Complications and Long-Term Surgical Outcome @541
+S CSO !37. Postoperative Management and Long-Term Follow-Up @825
+S CSO !52. Complications and Long-Term Surgical Outcome @1070
+S CSO !53. Quality of Life Metrics @1105
+S CSO !54. Long Follow-Up Results @1117
+S JIMENEZ !16. Complications and Avoidance @245
+S JIMENEZ !17. Final Thoughts and Conclusions @255
+- Prevent and manage complications of craniosynostosis surgery
+- Measure long-term outcomes and quality of life
+
+@AREA 12 | Craniofacial Malformations | craniofacial
+@BOOKS CFM_TCS, SALYER1, THALLER, MCCARTHY, ALONSO, SECRETS
+
+## Principles of craniofacial surgery
+# Craniofacial surgery - foundations and syndromes
+S THALLER !1. Honing the Edge @24
+S SECRETS !35. Craniofacial Syndromes @381
+S SECRETS !37. Syndromes Affecting the Orofacial Region @395
+- Describe the principles of craniofacial surgery
+- Recognize the most common craniofacial syndromes
+# Complications, legal issues and research in craniofacial surgery
+S THALLER !22. Complications in Craniofacial Surgery @366
+S THALLER !23. Legal Issues in Craniofacial Surgery @380
+S THALLER !24. Research Directions in Craniofacial Surgery @396
+S THALLER !8. Separation of Craniopagus Conjoined Twins @150
+- Prevent the main complications of craniofacial surgery
+- Describe the legal and ethical issues of craniofacial surgery
+
+## Midface and orbit
+> Syndromic craniosynostosis - Apert, Crouzon, Pfeiffer, Muenke and Saethre-Chotzen
+> Coronal approach
+# Fronto-orbital advancement, Le Fort III and monobloc
+S SALYER1 !7. Syndromal Surgery @297
+S MCCARTHY !7. Distraction of the Midface: Le Fort III and Monobloc @144
+- Indicate Le Fort III and monobloc advancement
+- Compare conventional advancement and distraction
+# Hypertelorism and orbital dystopia
+S SALYER1 !4. Orbital Surgery, Hypertelorism and Nasal Reconstruction @153
+S MCCARTHY !8. Facial Bipartition Distraction @185
+S THALLER !9. Orbital Dystopia @166
+- Measure interorbital distance and classify hypertelorism
+- Compare box osteotomy and facial bipartition
+# Rare craniofacial clefts
+S ALONSO !21. The Rare Facial Cleft @333
+S THALLER !12. Craniofacial Clefts @200
+- Classify craniofacial clefts with the Tessier system
+- Plan the reconstruction of rare clefts
+# Craniofacial tumors - fibrous dysplasia and neurofibromatosis
+S SALYER1 !9. Craniofacial Tumors @365
+S THALLER !18. Fibrous Dysplasia and Neurofibromatosis @306
+- Plan the resection and reconstruction of fibrous dysplasia
+- Manage plexiform neurofibroma of the face and orbit
+
+## Craniofacial microsomia
+> Pharyngeal arches, pouches and grooves
+> TMJ reconstruction and total joint replacement in malformations
+# Craniofacial microsomia - etiology and classification
+S CFM_TCS !1. Etiology and Anatomical Variance in Craniofacial Microsomia @22
+S THALLER !16. Craniofacial Microsomia @288
+S SECRETS !36. Oromandibular Dysostosis @389
+- Classify craniofacial microsomia (OMENS, Pruzansky-Kaban)
+- Describe its etiology
+# Craniofacial microsomia - evaluation, airway, feeding and speech
+S CFM_TCS !2. Initial Evaluation of a Patient with Craniofacial Microsomia @36
+S CFM_TCS !3. Breathing, Feeding/Swallowing and Speech in Craniofacial Microsomia @52
+S CFM_TCS !4. Extracraniofacial Manifestations of Craniofacial Microsomia @73
+- Perform the initial evaluation
+- Recognize vertebral, cardiac and renal anomalies
+# Craniofacial microsomia - mandible and TMJ in the growing patient
+S CFM_TCS !5. Management of the Mandibular Deformity in the Growing Patient @95
+S CFM_TCS !6. Surgical Management of Hemifacial Microsomia with TMJ Malformation @110
+- Choose between distraction, costochondral graft and observation
+- Plan the vector of mandibular distraction in microsomia
+# Craniofacial microsomia - definitive reconstruction and orthodontics
+S CFM_TCS !7. Definitive Reconstruction of Associated Maxillomandibular Deformities @149
+S CFM_TCS !8. Orthodontic Considerations in Craniofacial Microsomia @164
+- Plan definitive orthognathic correction of the asymmetry
+- Coordinate orthodontics with surgery in the asymmetric patient
+# Hearing loss and ear reconstruction
+S CFM_TCS !9. Management of Hearing Loss @181
+S CFM_TCS !10. Microtia Reconstruction @191
+S CFM_TCS !23. Hearing Loss and Aural Rehabilitation in TCS @454
+S CFM_TCS !24. Reconstruction of the Ear Deformities in TCS @466
+S SALYER1 !10. Microsurgery, Microtia and Soft Tissue Reconstruction @407
+- Plan hearing rehabilitation (bone-anchored devices)
+- Describe staged autologous microtia reconstruction
+# Craniofacial microsomia - soft tissue correction and treatment overview
+S CFM_TCS !11. Correction of the Soft Tissue Deformities @251
+S CFM_TCS !12. An Overview of Treatment and Recommendations @283
+- Correct soft tissue deficiency with fat grafting and free flaps
+- Plan the overall treatment timeline
+
+## Treacher Collins syndrome
+# Treacher Collins syndrome - etiology and evaluation
+S CFM_TCS !13. Etiology and Anatomical Variation in Treacher Collins Syndrome @298
+S CFM_TCS !14. Initial Evaluation of a Patient with Treacher Collins Syndrome @310
+S THALLER !17. Treacher-Collins Syndrome @296
+- Describe the genetics (TCOF1, POLR1C, POLR1D) and phenotype
+- Perform the initial evaluation of the patient
+# Treacher Collins syndrome - airway, feeding and systemic issues
+S CFM_TCS !15. Breathing, Feeding and Speech Problems in TCS @323
+S CFM_TCS !16. Associated Systemic Health Conditions in TCS @336
+- Manage the airway in Treacher Collins syndrome
+- Manage feeding and speech problems
+# Treacher Collins syndrome - eyelids and orbitozygomatic reconstruction
+S CFM_TCS !17. Ophthalmologic Findings and Soft Tissue Orbital Deformities @347
+S CFM_TCS !18. Correction of Orbital Zygomatic Deformities @372
+- Reconstruct the lower eyelid coloboma
+- Reconstruct the zygoma and orbit
+# Treacher Collins syndrome - mandible and definitive correction
+S CFM_TCS !19. Management of the Mandibular Deformity in Growing Patients with TCS @387
+S CFM_TCS !21. Definitive Correction of Maxillomandibular Deformities in TCS @421
+S CFM_TCS !22. Principles of Orthodontic Management of TCS @436
+- Plan mandibular distraction and counterclockwise rotation
+- Plan definitive orthognathic correction in adolescence
+# Treacher Collins syndrome - rhinoplasty and treatment overview
+S CFM_TCS !25. Rhinoplasty in Patients with TCS @482
+S CFM_TCS !26. An Overview of Treatment Recommendations for TCS @492
+- Plan the overall treatment timeline
+- Plan rhinoplasty in Treacher Collins syndrome
+
+@AREA 13 | Skull Base and Craniofacial Approaches | skull-base
+@BOOKS SKULLBASE
+
+## Neurosurgical approaches
+# Neurosurgical instruments and subfrontal approaches
+S SKULLBASE !1. Instruments @20
+S SKULLBASE !2. Subfrontal Approaches @29
+S SKULLBASE !3. Supraorbital Eyebrow Approach @38
+- Describe the instruments of cranial surgery
+- Describe the subfrontal and supraorbital approaches
+# Frontotemporal and orbitozygomatic approaches
+S SKULLBASE !4. Frontotemporal Approach @50
+S SKULLBASE !5. Orbitozygomatic Approach @71
+S SKULLBASE !6. Transcallosal Approaches to Intraventricular Tumors @97
+- Perform the pterional and orbitozygomatic approaches
+- Protect the frontal branch of the facial nerve with interfascial dissection
+# Subtemporal, middle fossa and petrosal approaches
+S SKULLBASE !7. Subtemporal Approach @116
+S SKULLBASE !11. Middle Cranial Fossa Approach @167
+S SKULLBASE !12. Translabyrinthine and Transcochlear Petrosal Approaches @173
+- Describe the approaches to the middle fossa and petrous bone
+- Identify the landmarks of the middle fossa floor
+# Posterior fossa and craniocervical approaches
+S SKULLBASE !8. Suboccipital Lateral Approaches (Presigmoid) @146
+S SKULLBASE !9. Suboccipital Lateral Approaches (Retrosigmoid) @152
+S SKULLBASE !10. Suboccipital Median Approach @160
+S SKULLBASE !13. Dorsolateral Approach to the Craniocervical Junction @183
+- Describe the retrosigmoid and suboccipital approaches
+- Describe the approach to the craniocervical junction
+# Endoscopic transsphenoidal and expanded endonasal approaches
+S SKULLBASE !14. Transsphenoidal Approaches: Endoscopic @205
+S SKULLBASE !15. Endonasal Endoscope-Assisted Microscopic Approach @221
+S SKULLBASE !16. Transsphenoidal Approaches: Microscopic @233
+S SKULLBASE !17. Expanded Endoscopic Endonasal Approaches @247
+- Describe endoscopic endonasal access to the skull base
+- Reconstruct the skull base with the nasoseptal flap
+
+## Maxillofacial approaches
+> Orbit - bony walls and contents
+> Coronal approach
+# Orbital approaches
+S SKULLBASE !18. Orbital Approaches @264
+- Choose the approach according to the location of the orbital lesion
+- Compare transcranial and transfacial orbital approaches
+# Transoral and transmandibular approaches
+S SKULLBASE !19. Transoral Approaches @286
+S SKULLBASE !22. Transmandibular Approaches @322
+- Describe transoral and mandibulotomy access to the skull base
+- Describe the mandibular swing and its complications
+# Midfacial approaches and facial translocation
+S SKULLBASE !20. Midfacial Approaches @305
+S SKULLBASE !21. Midfacial Translocation Approach @312
+- Describe the midfacial degloving, Le Fort I and translocation approaches
+- Plan the reconstruction after facial translocation
+# Anterior cranial base reconstruction
+S SKULLBASE !23. Anterior Cranial Base Reconstruction @333
+- Reconstruct the anterior skull base with the pericranial flap
+- Prevent CSF leak and pneumocephalus
+
+@AREA 14 | Reconstruction and Facial Aesthetics | reconstructive
+@BOOKS SECRETS, FERRARO, THALLER, SALYER1
+
+## Reconstruction
+> Primary repair of facial soft tissue injuries
+> Prosthodontics, microsurgery and virtual planning
+# Local and regional flaps
+S SECRETS !51. Local and Regional Flaps @477
+- Classify flaps by blood supply and movement
+- Plan advancement, rotation and transposition flaps
+# Reconstruction of the facial subunits
+S SECRETS !52. Reconstruction of the Facial Subunits @481
+- Reconstruct defects of the lip, nose, eyelid and ear by subunit
+- Apply the subunit principle to scar placement
+# Microvascular surgery
+S SECRETS !53. Microvascular Surgery @486
+S FERRARO !22. Microvascular Reconstruction @270
+- Describe the workhorse free flaps for the head and neck
+- Monitor and salvage a free flap
+# Craniomaxillofacial prosthetics
+S THALLER !21. Craniomaxillofacial Prosthetics @356
+- Indicate implant-retained facial prostheses
+- Compare prosthetic and autologous reconstruction
+
+## Facial aesthetics
+# Evaluation of the aging face and facial shape
+S SECRETS !54. Evaluation of the Aging Face @494
+S THALLER !5. Restoring Facial Shape in Face Lifting @82
+- Describe the anatomic changes of facial aging
+- Assess the patient for facial rejuvenation
+# Blepharoplasty and rhytidectomy
+S SECRETS !55. Cosmetic Blepharoplasty @497
+S SECRETS !56. Rhytidectomy @503
+- Plan upper and lower blepharoplasty
+- Describe the SMAS techniques of facelift
+# Rhinoplasty
+S SECRETS !57. Rhinoplasty @506
+- Analyze the nose and plan a rhinoplasty
+- Compare open and closed rhinoplasty
+# Minimally invasive cosmetic procedures
+S SECRETS !58. Minimal-Invasive Cosmetic Surgery @515
+- Describe botulinum toxin, fillers and resurfacing
+- Recognize the complications of fillers and toxin

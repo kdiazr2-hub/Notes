@@ -1,0 +1,299 @@
+@AREA 03 | Pharmacology | pharmacology
+@BOOKS KATZUNG, SECRETS, MOORE, FRAGISKOS, MARIK
+
+## General principles
+# Nature of drugs and drug development
+S KATZUNG !1. Introduction: The Nature of Drugs and Drug Development @16
+- Describe the drug development and approval process
+- Explain drug permeation across membranes
+# Drug receptors and pharmacodynamics
+S KATZUNG !2. Drug Receptors and Pharmacodynamics @35
+- Distinguish agonists, partial agonists and antagonists
+- Interpret dose-response curves, potency and efficacy
+# Pharmacokinetics and rational dosing
+S KATZUNG !3. Pharmacokinetics and Pharmacodynamics: Rational Dosing @56
+- Define volume of distribution, clearance, half-life and bioavailability
+- Calculate loading and maintenance doses
+# Drug biotransformation and pharmacogenomics
+S KATZUNG !4. Drug Biotransformation @71
+S KATZUNG !5. Pharmacogenomics @89
+- Describe phase I and phase II reactions and the cytochrome P450 system
+- Recognize clinically relevant enzyme inducers and inhibitors
+- Give examples of pharmacogenomic variation in drug response
+
+## Autonomic drugs
+# Introduction to autonomic pharmacology
+S KATZUNG !6. Introduction to Autonomic Pharmacology @103
+- Describe the anatomy and neurotransmitters of the autonomic nervous system
+- Classify cholinergic and adrenergic receptors
+# Cholinergic and anticholinergic drugs
+S KATZUNG !7. Cholinoceptor-Activating and Cholinesterase-Inhibiting Drugs @122
+S KATZUNG !8. Cholinoceptor-Blocking Drugs @139
+- Describe the actions and uses of muscarinic agonists and cholinesterase inhibitors
+- Describe the uses of atropine and glycopyrrolate in the perioperative period
+# Adrenergic agonists and vasopressors
+S KATZUNG !9. Adrenoceptor Agonists and Sympathomimetic Drugs @152
+- Compare the receptor selectivity of epinephrine, norepinephrine, phenylephrine and dopamine
+- Explain the use of vasoconstrictors in local anesthesia
+# Adrenergic antagonists
+S KATZUNG !10. Adrenoceptor Antagonist Drugs @171
+- Classify alpha and beta blockers
+- Describe their perioperative implications
+
+## Cardiovascular and renal drugs
+# Antihypertensive drugs and vasodilators
+S KATZUNG !11. Antihypertensive Agents @190
+S KATZUNG !12. Vasodilators and the Treatment of Angina Pectoris @209
+- Classify antihypertensive drugs by mechanism
+- Describe nitrates and calcium channel blockers in angina
+# Drugs in heart failure and arrhythmias
+S KATZUNG !13. Drugs Used in Heart Failure @227
+S KATZUNG !14. Agents Used in Cardiac Arrhythmias @243
+- Describe the drugs used in acute and chronic heart failure
+- Classify antiarrhythmic drugs (Vaughan Williams)
+# Diuretics
+S KATZUNG !15. Diuretic Agents @269
+- Classify diuretics by site of action
+- Recognize their electrolyte adverse effects
+
+## Autacoids and respiratory drugs
+# Histamine, serotonin and vasoactive peptides
+S KATZUNG !16. Histamine, Serotonin, and the Ergot Alkaloids @291
+S KATZUNG !17. Vasoactive Peptides @315
+- Describe the H1 and H2 antihistamines and their uses
+- Describe the serotonin agonists and antagonists, including antiemetics
+# Eicosanoids and nitric oxide
+S KATZUNG !18. The Eicosanoids @336
+S KATZUNG !19. Nitric Oxide @354
+- Describe the arachidonic acid cascade
+- Relate eicosanoid synthesis to the action of NSAIDs and corticosteroids
+# Drugs used in asthma
+S KATZUNG !20. Drugs Used in Asthma @361
+- Describe bronchodilators and anti-inflammatory drugs in asthma
+- Plan the perioperative management of the asthmatic patient
+
+## CNS drugs and anesthesia
+# Sedative-hypnotics and intravenous sedation
+S KATZUNG !21. Introduction to the Pharmacology of CNS Drugs @381
+S KATZUNG !22. Sedative-Hypnotic Drugs @396
+S SECRETS !7. Intravenous Sedation @106
+- Describe benzodiazepines and their reversal with flumazenil
+- Plan safe intravenous sedation for oral surgery
+- Recognize and manage oversedation
+# General anesthetics
+S KATZUNG !25. General Anesthetics @455
+S SECRETS !8. Inhalation Anesthesia and Neuromuscular Blocking Agents @113
+S SECRETS !9. Anesthesia for Difficult Patients @123
+- Compare inhaled and intravenous anesthetics
+- Describe propofol, ketamine and etomidate
+- Plan anesthesia for difficult patients
+# Local anesthetics
+S KATZUNG !26. Local Anesthetics @474
+S SECRETS !6. Local Anesthetics @96
+- Explain the mechanism of action of local anesthetics
+- Compare amides and esters, and calculate maximum doses
+- Recognize and manage local anesthetic systemic toxicity
+# Neuromuscular blockers and muscle relaxants
+S KATZUNG !27. Skeletal Muscle Relaxants @489
+- Compare depolarizing and non-depolarizing blockers and their reversal
+- Recognize malignant hyperthermia
+# Alcohols, antiseizure drugs and movement disorders
+S KATZUNG !23. The Alcohols @411
+S KATZUNG !24. Antiseizure Drugs @424
+S KATZUNG !28. Pharmacologic Management of Parkinsonism @507
+S MARIK !46. Alcohol Withdrawal Syndrome @755
+- Describe the main antiseizure drugs and their interactions
+- Manage alcohol withdrawal in the surgical patient
+# Antipsychotics and antidepressants
+S KATZUNG !29. Antipsychotic Agents and Lithium @526
+S KATZUNG !30. Antidepressant Agents @547
+- Classify antipsychotics and antidepressants
+- Recognize serotonin syndrome and drug interactions relevant to surgery
+# Opioids and drugs of abuse
+S KATZUNG !31. Opioid Agonists and Antagonists @568
+S KATZUNG !32. Drugs of Abuse @590
+- Describe opioid receptors, agonists and naloxone
+- Plan postoperative analgesia and recognize respiratory depression
+
+## Analgesia, blood and endocrine drugs
+# NSAIDs, acetaminophen and drugs for gout
+S KATZUNG !36. NSAIDs, Antirheumatic Drugs, Nonopioid Analgesics @657
+S MOORE !5. Pharmacology and Oral Surgery @75
+- Explain COX-1 and COX-2 inhibition and the ceiling effect
+- Plan multimodal analgesia after oral surgery
+- Recognize contraindications of NSAIDs
+# Hematopoietic agents and anticoagulants
+S KATZUNG !33. Agents Used in Cytopenias; Hematopoietic Growth Factors @605
+S KATZUNG !34. Drugs Used in Disorders of Coagulation @623
+S SECRETS !18. Liver Diseases and Hematological Diseases @211
+- Describe warfarin, heparins, direct oral anticoagulants and antiplatelets
+- Plan oral surgery in the anticoagulated patient
+- Describe local and systemic hemostatic agents
+# Drugs for dyslipidemia
+S KATZUNG !35. Agents Used in Dyslipidemia @641
+- Describe statins and other lipid-lowering drugs
+- Recognize statin myopathy and drug interactions
+# Corticosteroids and pituitary, thyroid and gonadal hormones
+S KATZUNG !37. Hypothalamic and Pituitary Hormones @684
+S KATZUNG !38. Thyroid and Antithyroid Drugs @702
+S KATZUNG !39. Adrenocorticosteroids @718
+S KATZUNG !40. The Gonadal Hormones and Inhibitors @735
+- Describe the use of corticosteroids for edema after oral surgery
+- Recognize adrenal suppression and plan steroid cover
+- Describe thyroid replacement and antithyroid drugs
+# Antidiabetic drugs
+S KATZUNG !41. Pancreatic Hormones and Antidiabetic Drugs @762
+S SECRETS !21. Management of the Diabetic Patient @237
+- Classify insulins and oral antidiabetic agents
+- Plan perioperative glycemic management
+# Drugs affecting bone and osteonecrosis of the jaw
+S KATZUNG !42. Agents That Affect Bone Mineral Homeostasis @787
+S SECRETS !48. Osteoradionecrosis and Osteonecrosis of the Jaws @462
+- Describe bisphosphonates and denosumab
+- Assess the risk of medication-related osteonecrosis of the jaw
+
+## Antimicrobial chemotherapy
+# Beta-lactam antibiotics
+S KATZUNG !43. Beta-Lactam and Other Cell Wall-Active Antibiotics @807
+- Describe penicillins, cephalosporins and carbapenems
+- Recognize penicillin allergy and its alternatives
+# Macrolides, clindamycin, aminoglycosides, sulfonamides and quinolones
+S KATZUNG !44. Tetracyclines, Macrolides, Clindamycin @830
+S KATZUNG !45. Aminoglycosides and Spectinomycin @841
+S KATZUNG !46. Sulfonamides, Trimethoprim, and Quinolones @849
+- Compare the spectrum and adverse effects of each group
+- Choose alternatives for anaerobic coverage
+# Antimycobacterial, antifungal and antiviral agents
+S KATZUNG !47. Antimycobacterial Drugs @857
+S KATZUNG !48. Antifungal Agents @868
+S KATZUNG !49. Antiviral Agents @878
+- Describe the treatment of oral candidiasis
+- Describe the antiviral drugs for herpes viruses
+# Antiseptics and clinical use of antimicrobials
+S KATZUNG !50. Miscellaneous Antimicrobial Agents; Disinfectants and Antiseptics @910
+S KATZUNG !51. Clinical Use of Antimicrobial Agents @919
+S FRAGISKOS !16. Prophylactic and Therapeutic Use of Antibiotics @351
+S SECRETS !28. Orofacial Infections and Antibiotic Use @309
+- Apply the principles of empirical antibiotic therapy
+- Indicate antibiotic prophylaxis for endocarditis and prosthetic joints
+- Describe chlorhexidine and other antiseptics
+# Antiparasitic drugs
+S KATZUNG !52. Antiprotozoal Drugs @932
+S KATZUNG !53. Antihelminthic Drugs @953
+- Describe the main antiprotozoal and antihelminthic drugs
+- Recognize metronidazole as both an antiprotozoal and an anaerobic antibiotic
+# Cancer chemotherapy and immunopharmacology
+S KATZUNG !54. Cancer Chemotherapy @963
+S KATZUNG !55. Immunopharmacology @992
+- Classify antineoplastic drugs and their oral adverse effects
+- Describe immunosuppressants used in transplantation
+
+## Toxicology and special topics
+# Toxicology and the poisoned patient
+S KATZUNG !56. Introduction to Toxicology @1020
+S KATZUNG !57. Heavy Metal Intoxication and Chelators @1035
+S KATZUNG !58. Management of the Poisoned Patient @1050
+S MARIK !45. Toxicology @735
+- Apply the general approach to the poisoned patient
+- Recognize the main toxidromes and antidotes
+# Pediatric, perinatal and geriatric pharmacology
+S KATZUNG !59. Perinatal and Pediatric Pharmacology @1064
+S KATZUNG !60. Geriatric Pharmacology @1073
+- Adjust drug dosing in children, pregnancy and the elderly
+- Identify drugs contraindicated in pregnancy
+# Dermatologic and gastrointestinal drugs
+S KATZUNG !61. Dermatologic Pharmacology @1083
+S KATZUNG !62. Drugs Used in Gastrointestinal Diseases @1102
+- Describe antiemetics and acid-suppressive drugs
+- Plan prophylaxis of postoperative nausea and vomiting
+# Over-the-counter drugs, supplements, prescribing and interactions
+S KATZUNG !63. Over-the-Counter Agents @1135
+S KATZUNG !64. Dietary Supplements and Herbal Medications @1146
+S KATZUNG !65. Rational Prescribing and Prescription Writing @1161
+S KATZUNG !66. Important Drug Interactions @1171
+- Write a correct prescription
+- Recognize the most important drug interactions in surgical practice
+- Identify supplements that increase bleeding
+
+@AREA 04 | Biostatistics and Evidence-Based Medicine | biostatistics
+@BOOKS RIUS, ORELLANA, MARIK
+
+## Data and descriptive statistics
+# Basic concepts - populations, samples and variables
+S RIUS !1. Conceptos previos @13
+S ORELLANA !Capítulo I. Aspectos introductorios a la bioestadística @15
+S ORELLANA !Capítulo II. Organización de datos para investigación @54
+- Define population, sample, parameter and statistic
+- Classify variables (qualitative, quantitative, scales of measurement)
+- Build and clean a research database
+# Sampling and sample size
+S ORELLANA !1.6 Tipos de muestreo @35
+S ORELLANA !1.7 Determinación del tamaño óptimo de una muestra @47
+- Compare probabilistic and non-probabilistic sampling
+- Calculate a sample size for a proportion and a mean
+# Descriptive measures and graphs
+S RIUS !2. Medidas descriptivas @39
+S ORELLANA !Capítulo III. Análisis descriptivo @83
+S ORELLANA !3.6 Estadísticos descriptivos para variables cuantitativas @107
+- Calculate measures of central tendency and dispersion
+- Choose the right table and graph for each type of variable
+# Measures of disease frequency
+S ORELLANA !3.7 Medidas de frecuencia de una enfermedad @119
+- Calculate prevalence and incidence
+- Distinguish cumulative incidence and incidence density
+# Correlation and regression
+S RIUS !3. Variables bidimensionales @73
+- Interpret Pearson and Spearman correlation coefficients
+- Interpret a simple linear regression
+
+## Probability
+# Probability and diagnostic tests
+S RIUS !4. Cálculo de probabilidades y variables aleatorias @99
+- Apply the rules of probability and Bayes theorem
+- Calculate sensitivity, specificity and predictive values
+# Random variables and probability distributions
+S RIUS !5. Variables aleatorias @123
+S RIUS !6. Principales leyes de distribución @131
+- Describe the binomial, Poisson and normal distributions
+- Use the standard normal table
+- Describe the chi-square, t and F distributions
+
+## Inference
+# Introduction to inference and the normality of data
+S RIUS !7. Introducción a la inferencia @163
+S ORELLANA !Capítulo IV. Inferencia estadística @138
+S ORELLANA !3.9 Análisis de normalidad de datos en SPSS @131
+- Explain the sampling distribution and the central limit theorem
+- Test for normality (Kolmogorov-Smirnov and Shapiro-Wilk)
+# Confidence intervals
+S RIUS !8. Estimación confidencial @175
+S ORELLANA !4.5 Estimación @215
+- Calculate and interpret confidence intervals for a mean and a proportion
+- Relate the width of the interval to sample size and confidence level
+# Hypothesis testing
+S RIUS !9. Contrastes de hipótesis @203
+S ORELLANA !4.3 Prueba o contraste de hipótesis @144
+S ORELLANA !4.2 Bases para la elección de una prueba estadística @140
+- Formulate null and alternative hypotheses
+- Define type I and type II errors, power and p value
+- Choose the appropriate statistical test for a study design
+# Parametric and non-parametric tests
+S ORELLANA !4.4 Pruebas paramétricas y no paramétricas @150
+- Apply Student t test and ANOVA
+- Apply Mann-Whitney, Wilcoxon and Kruskal-Wallis tests
+# Contingency tables and chi-square
+S ORELLANA !3.4 Tablas de contingencia @96
+- Build a contingency table
+- Apply and interpret the chi-square and Fisher exact tests
+
+## Evidence-based medicine
+# Risk measures - relative risk and odds ratio
+S ORELLANA !4.6 Índices de riesgo @227
+- Calculate relative risk, odds ratio and attributable risk
+- Calculate number needed to treat
+# Evidence-based medicine and critical appraisal
+S MARIK !1. Evidence Based Critical Care @36
+S MARIK !2. Less Is More: The New Paradigm in Critical Care @40
+S MARIK !3. Classic Papers @45
+- Describe the levels of evidence and study designs
+- Critically appraise a randomized controlled trial

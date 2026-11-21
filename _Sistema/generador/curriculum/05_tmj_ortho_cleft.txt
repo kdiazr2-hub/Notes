@@ -1,0 +1,258 @@
+@AREA 08 | TMJ and Orofacial Pain | tmj
+@BOOKS MOORE, SECRETS, ELLIS, THALLER, CFM_TCS, TRAUMA, SINGH, MCCARTHY
+
+## TMJ disorders
+> Temporomandibular joint anatomy
+> Mandible and temporomandibular joint
+# Temporomandibular disorders and chronic orofacial pain
+S MOORE !17. Temporomandibular Disorders and Chronic Orofacial Pain @326
+S SECRETS !42. Facial Pain and Myofascial Disorders @429
+- Classify temporomandibular disorders
+- Distinguish myofascial pain from intra-articular disease
+- Plan conservative management (splints, physiotherapy, medication)
+# TMJ pathophysiology and surgical treatment
+S SECRETS !43. TMJ Pathophysiology and Surgical Treatment @433
+S THALLER !15. Surgical Management of the Temporomandibular Joint @262
+- Stage internal derangement (Wilkes)
+- Indicate arthrocentesis, arthroscopy and open joint surgery
+- Manage TMJ ankylosis and dislocation
+
+## TMJ surgery
+> Condylar fractures
+# Surgical approaches to the TMJ
+S ELLIS !12. Preauricular Approach @329
+S ELLIS !10. Retromandibular Approach @290
+- Perform the preauricular approach and protect the facial nerve
+- Combine preauricular and retromandibular access
+# Post-traumatic TMJ and condylar sequelae
+S TRAUMA !3.10 Secondary Traumatic TMJ Reconstruction @460
+S SINGH !14. Condylar Fractures @220
+- Recognize post-traumatic ankylosis and malocclusion
+- Plan reconstruction of the ramus-condyle unit
+# TMJ reconstruction and total joint replacement in malformations
+S CFM_TCS !6. Surgical Management of Hemifacial Microsomia with TMJ Malformation @110
+S CFM_TCS !20. TMJ Total Joint Prosthesis in Treacher Collins Syndrome and Hemifacial Microsomia @401
+S MCCARTHY !3. Distraction of the Mandible @55
+- Compare costochondral grafts, distraction and total joint prostheses
+- Plan TMJ reconstruction in the growing patient
+
+@AREA 09 | Orthognathic Surgery and Distraction | orthognathic
+@BOOKS REYNEKE, FERRARO, MCCARTHY, SALYER1, THALLER, SECRETS, MOORE
+
+## Principles and evaluation
+> Skull growth, sutures and cephalometrics
+# Principles of orthognathic surgery and treatment objectives
+S REYNEKE !1. Principles of Orthognathic Surgery @10
+S MOORE !18. Facial Deformity @340
+S THALLER !13. Orthognathic Surgery @220
+S SECRETS !39. Orthognathic Surgery @410
+- Describe the treatment options for dentofacial deformities
+- Define the functional and esthetic treatment objectives
+- Conduct the patient consultation and interdisciplinary referral
+# Facial esthetics and systematic patient evaluation
+S REYNEKE !2. Systematic Patient Evaluation @21
+S REYNEKE !Esthetic Facial Evaluation @24
+S FERRARO !4. Facial Aesthetics @78
+S FERRARO !26. Facial Evaluation in Orthognathic Surgery @322
+- Perform a systematic facial esthetic evaluation (frontal and profile)
+- Assess incisor display, smile and facial proportions
+- Assess the psychosocial profile of the patient
+# Radiographic and cephalometric evaluation
+S REYNEKE !Radiographic Evaluations @39
+S FERRARO !6. Maxillofacial Imaging @104
+- Trace and interpret a lateral cephalogram
+- Use CBCT in the evaluation of dentofacial deformities
+# Diagnosis, treatment planning and visual treatment objectives
+S REYNEKE !3. Diagnosis and Treatment Planning @72
+S REYNEKE !Development of Visual Treatment Objectives @93
+- Build a problem list and a treatment plan
+- Predict the soft tissue changes of skeletal movements
+- Develop visual treatment objectives
+# Surgical planning - 2D to 3D and the laboratory
+S FERRARO !27. Surgical Planning: 2D to 3D @329
+S FERRARO !35. Impressions, Models and Splints @471
+- Perform model surgery and fabricate surgical splints
+- Use virtual surgical planning and printed splints
+# Orthodontics and sequencing
+S FERRARO !28. Orthodontics @366
+S REYNEKE !Specific Orthodontic Treatment Required to Facilitate Surgery @80
+S REYNEKE !Best Treatment Sequence to Obtain the Desired Result @90
+S FERRARO !32. Dental Extractions @422
+- Plan presurgical orthodontic decompensation
+- Decide between surgery-first and conventional sequencing
+- Indicate extractions for orthodontic purposes
+
+## Surgical techniques
+# Bilateral sagittal split osteotomy
+S REYNEKE !Bilateral Split Mandibular Ramus Osteotomy @262
+S FERRARO !31. Mandibular Osteotomies @413
+S SALYER1 !6. Mandibular Osteotomies and Genioplasty @261
+- Perform the BSSO step by step
+- Prevent and manage a bad split and nerve injury
+# Intraoral vertical ramus osteotomy
+S REYNEKE !Intraoral Vertical Mandibular Ramus Osteotomy @283
+- Indicate the IVRO and compare it with the BSSO
+- Describe postoperative management after IVRO
+# Le Fort I osteotomy
+S REYNEKE !Le Fort I Maxillary Osteotomy @286
+S FERRARO !30. Maxillary Osteotomies @388
+S SALYER1 !5. Maxillary Osteotomies @225
+- Perform the Le Fort I down-fracture and its segmental variants
+- Prevent vascular complications
+# Genioplasty
+S REYNEKE !Genioplasty @308
+S FERRARO !29. Genioplasty @379
+- Plan advancement, setback, vertical and asymmetry genioplasty
+- Predict the soft tissue response of the chin
+# Bone grafts and augmentation or reduction of the facial skeleton
+S FERRARO !8. Bone Grafting: Physiology and Techniques @126
+S FERRARO !33. Maxillofacial Augmentation and Reduction @436
+- Choose bone grafts and alloplastic implants for the facial skeleton
+- Describe mandibular angle and malar reduction
+
+## Dentofacial deformities
+# Mandibular anteroposterior deficiency and excess
+S REYNEKE !Mandibular Anteroposterior Deficiency @134
+S REYNEKE !Mandibular Anteroposterior Excess @147
+- Diagnose and plan the treatment of Class II and Class III mandibular deformities
+- Predict the soft tissue changes of mandibular advancement and setback
+# Maxillary anteroposterior deficiency and excess
+S REYNEKE !Maxillary Anteroposterior Deficiency @156
+S REYNEKE !Maxillary Anteroposterior Excess @162
+- Diagnose and plan the treatment of maxillary retrusion and protrusion
+- Choose between maxillary advancement and mandibular surgery
+# Vertical maxillary deficiency and excess
+S REYNEKE !Maxillary Vertical Deficiency @167
+S REYNEKE !Maxillary Vertical Excess @173
+- Diagnose short face and long face deformities
+- Plan maxillary impaction and lengthening
+# Rotation of the maxillomandibular complex
+S REYNEKE !Rotation of the Maxillomandibular Complex @181
+- Use clockwise and counterclockwise rotation of the occlusal plane
+- Predict the effect of rotation on chin projection and the airway
+# Open bite deformities
+S REYNEKE !Open Bite Deformities @196
+- Diagnose dental and skeletal open bite
+- Plan the surgical correction and prevent relapse
+# Dentofacial asymmetry
+S REYNEKE !Dentofacial Asymmetry @221
+- Analyze facial asymmetry in three planes
+- Plan the correction of asymmetry
+# Obstructive sleep apnea
+S SECRETS !41. Sleep Apnea and Snoring @423
+- Diagnose obstructive sleep apnea
+- Indicate maxillomandibular advancement
+
+## Distraction osteogenesis
+> Robin sequence
+> Fronto-orbital advancement, Le Fort III and monobloc
+> Craniofacial microsomia - mandible and TMJ in the growing patient
+# Biology and principles of distraction osteogenesis
+S MCCARTHY !1. Craniofacial Distraction: A Personal Odyssey @12
+S MCCARTHY !2. Distraction Osteogenesis: Biologic and Biomechanical Principles @22
+S FERRARO !34. Distraction Osteogenesis @447
+S THALLER !14. Craniofacial Distraction Osteogenesis @242
+S SECRETS !40. Distraction Osteogenesis @420
+S REYNEKE !Distraction Osteogenesis and Orthognathic Surgery @255
+- Describe the phases of distraction (latency, activation, consolidation)
+- Explain distraction histogenesis
+- Compare distraction with conventional osteotomies
+# Mandibular distraction
+S MCCARTHY !3. Distraction of the Mandible @55
+S MCCARTHY !4. Mandibular Distraction, Orthodontic Considerations @99
+S MCCARTHY !5. Intraoral Mandibular Distraction @109
+- Plan the vector of mandibular distraction
+- Indicate neonatal mandibular distraction for airway obstruction
+# Maxillary and midface distraction
+S MCCARTHY !6. Distraction of the Maxilla (Le Fort I) @133
+S MCCARTHY !9. Midface Distraction: Orthodontic Considerations @199
+- Indicate Le Fort I distraction in cleft and severe maxillary hypoplasia
+- Coordinate orthodontics with midface distraction
+
+@AREA 10 | Cleft Lip and Palate | cleft
+@BOOKS ALONSO, SALYER2, THALLER, SECRETS, SPERBER
+
+## Foundations
+> Development of the palate
+# Global cleft care and health systems
+S ALONSO !1. Introduction @18
+S ALONSO !2. Comprehensive Cleft Care in a Unified Health System @20
+S ALONSO !3. Global Cleft Lip and Palate Care @32
+- Describe the global burden of cleft disease and the barriers to care
+- Describe models of comprehensive cleft care
+# Genetics and classification of clefts
+S ALONSO !4. Genetics of Cleft Lip and Cleft Palate @41
+S ALONSO !5. Classification of Cleft Phenotypes @52
+S SECRETS !38. Cleft Lip and Palate @401
+- Describe the genetics of syndromic and non-syndromic clefts
+- Classify cleft lip and palate
+# Protocols, team care and outcomes
+S ALONSO !6. An Overview of Protocols and Outcomes in Cleft Care @62
+S ALONSO !22. Three-Dimensional Digital Stereophotogrammetry @371
+S ALONSO !23. Standardized Two-Dimensional Photographic Documentation @386
+- Describe the timing of each procedure in the cleft protocol
+- Document cleft patients with standardized photography and 3D imaging
+
+## Cleft lip and nose
+# Unilateral cleft lip repair
+S ALONSO !7. Unilateral Cleft Lip Repair @98
+S SALYER2 !11. Primary Unilateral Cleft-Lip and Nose Repair @22
+S THALLER !10. Cleft Lip and Palate @176
+- Describe the anatomy of the unilateral cleft lip and nose
+- Perform the rotation-advancement repair with primary rhinoplasty
+# Bilateral cleft lip repair
+S ALONSO !8. Treatment of Bilateral Cleft Lip and Palate @125
+S ALONSO !9. Current Management of Bilateral Cleft Lip @137
+S SALYER2 !13. Primary Bilateral Cleft-Lip and Nose Repair @140
+- Manage the premaxilla
+- Perform the bilateral repair with columellar lengthening
+# Secondary cleft lip and nasal deformities
+S SALYER2 !12. Secondary Unilateral Cleft-Lip and Nasal Deformities @72
+S SALYER2 !14. Secondary Bilateral Cleft-Lip and Nasal Deformities @208
+S ALONSO !20. Secondary Unilateral Cleft Rhinoplasty @305
+S THALLER !11. Secondary Maxillary and Nasal Deformities in Adolescent Cleft Lip @188
+- Analyze secondary lip and nasal deformities
+- Plan definitive cleft rhinoplasty
+
+## Cleft palate and speech
+# Cleft palate anatomy and palatoplasty
+S ALONSO !10. Cleft Palate: Anatomy and Surgery @153
+S SALYER2 !15. Cleft-Palate Repair @276
+- Describe the abnormal anatomy of the levator veli palatini
+- Perform two-flap palatoplasty and intravelar veloplasty
+# Buccinator flap and palatal fistulas
+S ALONSO !11. Buccinator Myomucosal Flap in Cleft Palate Repair @169
+- Indicate the buccinator flap for palatal lengthening and fistula closure
+- Classify palatal fistulas and plan their closure
+# Velopharyngeal insufficiency
+S ALONSO !12. Velopharyngeal Insufficiency: Etiopathology and Treatment @196
+S ALONSO !13. Surgical Management of Velopharyngeal Insufficiency @212
+S SALYER2 !16. Pharyngoplasty @380
+- Evaluate velopharyngeal function (nasendoscopy, videofluoroscopy)
+- Choose between pharyngeal flap, sphincter pharyngoplasty and Furlow
+# Speech therapy in cleft patients
+S ALONSO !14. Speech Therapy in Cleft Patients @228
+- Recognize compensatory articulation errors
+- Describe the role of speech therapy before and after surgery
+
+## Alveolus, jaws and airway
+> Le Fort I osteotomy
+> Maxillary and midface distraction
+> Mandibular distraction
+# Alveolar cleft bone grafting
+S ALONSO !16. Bone Graft in Alveolar Cleft Lip and Palate @258
+S ALONSO !17. Alveolar Bone Grafting with rhBMP-2 @273
+- Decide the timing of alveolar bone grafting
+- Compare iliac crest bone and bone substitutes
+# Orthodontics in cleft patients
+S ALONSO !18. Orthodontic Treatment of Patients with Orofacial Cleft @279
+- Describe presurgical orthopedics and nasoalveolar molding
+- Plan orthodontics in the mixed and permanent dentition
+# Orthognathic surgery in cleft patients
+S ALONSO !19. Orthognathic Surgery in Cleft Patients @288
+- Plan maxillary advancement in cleft patients
+- Assess the effect on velopharyngeal function
+# Robin sequence
+S ALONSO !15. Robin Sequence @237
+- Assess the airway in Robin sequence
+- Choose between positioning, nasopharyngeal airway, tongue-lip adhesion and mandibular distraction
