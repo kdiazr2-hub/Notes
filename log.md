@@ -102,3 +102,7 @@ Registro cronológico, solo se añade al final. Formato: `## [AAAA-MM-DD] operac
 - A petición del usuario, los 25 PDF de `kdiazr2-hub/libros` se copiaron a `2. Sources/Libros/` (mismos nombres que en los enlaces; 360 MB; el mayor, 25 MB) y se quitó la exclusión de `.gitignore`. Esto revierte la decisión del 2026-10-08: cada clon de la bóveda, también el del móvil, descarga los libros.
 - Verificación: todos los enlaces a PDF de las sesiones e índices encuentran su archivo. Solo quedan sin PDF dos enlaces dentro de las notas del usuario en *Skull overview* (Gray, que no está en el repositorio de libros, y el nombre antiguo del Iwanaga).
 - CLAUDE.md §5 y §7 y `_Sistema/libros_repo.md` actualizados.
+
+## [2026-11-21] refactor | Texto completo y fichas de los libros, traídos a la bóveda
+- A petición del usuario se borra la rama del repositorio `kdiazr2-hub/libros`, porque los PDF ya están en `2. Sources/Libros/`. Antes se trajo a la bóveda lo que solo existía allí: el texto completo de los 25 libros (`_Sistema/libros/contenido/*.txt`, 27 MB) y sus fichas (`_Sistema/libros/ESTUDIO.md`).
+- `_Sistema/libros_repo.md` se sustituye por `_Sistema/libros/README.md` (claves del generador y nombres anteriores de los libros). CLAUDE.md §1 y §5, `make_index.py` e `index.md` ya no dependen del repositorio de libros.

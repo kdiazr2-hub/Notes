@@ -5,7 +5,7 @@ actualizado: 2026-11-21
 # Índice de la wiki
 
 > [!abstract] Estado
-> **14 áreas · 261 sesiones · 25 libros (repo kdiazr2-hub/libros) + 12 papers.**
+> **14 áreas · 261 sesiones · 25 libros + 12 papers.**
 > Cada área tiene un índice con sus sesiones. Cada sesión empieza con sus objetivos y enlaza al capítulo exacto del libro; debajo van las notas.
 > Estado de una sesión: `estado: pendiente` → `en curso` → `completa` (propiedad en el frontmatter), y la casilla del índice del área.
 

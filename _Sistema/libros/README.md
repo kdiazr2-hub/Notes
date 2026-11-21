@@ -2,16 +2,14 @@
 tipo: sistema
 actualizado: 2026-11-21
 ---
-# Conexión con el repositorio de libros
+# Libros del temario
 
-Desde el 2026-11-21 el temario (`3. Notes`) se construye **solo** con los 25 libros del repositorio de GitHub **`kdiazr2-hub/libros`**. Los enlaces de las sesiones usan **exactamente el mismo nombre de archivo** que tienen allí, por ejemplo:
+Los 25 PDF del temario están en `2. Sources/Libros/` (en git). Esta carpeta tiene lo que ayuda a trabajar con ellos:
 
-`[[Facial Trauma Surgery From Primary Repair to Reconstruction - Dorafshar, Rodriguez & Manson (2020).pdf#page=162|…]]`
+- `contenido/<nombre del PDF>.txt`: el texto completo de cada libro, para buscar y leer capítulos sin abrir el PDF. **La página N del PDF es `texto.split('\f')[N-1]`**, así que los `#page=N` de las sesiones sirven tal cual.
+- `ESTUDIO.md`: una ficha de cada libro (datos, estructura y puntos clave), escrita a partir de los índices.
 
-## Dónde están los PDF
-Desde el 2026-11-21 los 25 PDF están copiados en `2. Sources/Libros/` y **van en git**, así que los enlaces abren en el ordenador, en el móvil y en una sesión en la nube sin hacer nada más.
-
-El repositorio de libros sigue siendo útil por `contenido/<nombre>.txt`, el texto completo de cada libro para buscar: **la página N del PDF es `texto.split('\f')[N-1]`**. Si se cambia un libro, hay que cambiarlo en los dos repositorios.
+Antes estaban en el repositorio `kdiazr2-hub/libros`; se trajeron aquí el 2026-11-21 y la rama de ese repositorio se borró.
 
 ## Claves del generador (`_Sistema/generador/build.py`)
 
