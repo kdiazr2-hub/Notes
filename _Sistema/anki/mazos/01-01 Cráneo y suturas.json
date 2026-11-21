@@ -1,0 +1,190 @@
+{
+ "mazo": "Cirugía Maxilofacial::01 Anatomía::01 Cráneo y suturas",
+ "fuente": "Anatomía 01 · Cráneo y suturas",
+ "etiquetas": [
+  "anatomia",
+  "craneo",
+  "sesion01"
+ ],
+ "prefijo_media": "notes_anat01_",
+ "imagenes": {
+  "bones": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.3 - Huesos del cráneo (vista oblicua).jpg",
+  "lateral": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.6 - Vista lateral del cráneo.jpg",
+  "superior": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.11 - Suturas de la bóveda (vista superior).jpg",
+  "pterion": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.14 - Suturas de la fosa temporal (pterión).jpg",
+  "asterion": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.16 - Suturas lateral y posterior (asterión).jpg",
+  "orbita": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.22 - Suturas de la pared lateral de la órbita.jpg",
+  "fontanelas": "2. Sources/Figuras/01. Anatomy/Sperber Fig 7-5 - Fontanelas y suturas del neonato.jpg",
+  "escafo": "2. Sources/Figuras/01. Anatomy/Thaller Fig 1 - Escafocefalia por sinostosis sagital.jpg",
+  "trigono": "2. Sources/Figuras/01. Anatomy/Di Rocco Fig 44.2 - Trigonocefalia (vista superior).jpg",
+  "edh": "2. Sources/Figuras/01. Anatomy/Singh Fig 8.16 - Hematoma epidural en TC.jpg",
+  "sdh": "2. Sources/Figuras/01. Anatomy/Singh Fig 8.17 - Hematoma subdural en TC.jpg"
+ },
+ "tarjetas": [
+  {
+   "p": "¿Cuántos huesos tiene el cráneo y cómo se reparten?",
+   "r": "22: 8 del neurocráneo + 14 del viscerocráneo (incluye la mandíbula). Iwanaga cuenta 23 porque suma el hioides."
+  },
+  {
+   "p": "Nombra los 4 huesos impares del neurocráneo en orden de adelante hacia atrás",
+   "r": "Frontal → etmoides → esfenoides → occipital",
+   "img_r": "bones"
+  },
+  {
+   "p": "¿Cuáles son los huesos pares del neurocráneo?",
+   "r": "Temporales y parietales"
+  },
+  {
+   "p": "Viscerocráneo: ¿cuáles son los 6 pares y los 2 impares?",
+   "r": "Pares: maxilares, cigomáticos, nasales, lagrimales, palatinos, cornetes inferiores.<br>Impares: mandíbula y vómer.",
+   "img_r": "bones"
+  },
+  {
+   "p": "¿Qué cornete es un hueso propio y cuáles pertenecen al etmoides?",
+   "r": "El inferior es un hueso propio; el superior y el medio son partes del etmoides."
+  },
+  {
+   "p": "¿Qué 4 huesos forman el pterión?",
+   "r": "Frontal, parietal, ala mayor del esfenoides y temporal (en forma de H).",
+   "img_r": "pterion"
+  },
+  {
+   "p": "¿Qué arteria pasa por la cara interna del pterión y qué lesión produce su ruptura?",
+   "r": "La rama anterior de la arteria meníngea media → hematoma epidural."
+  },
+  {
+   "p": "¿Qué huesos une la sutura coronal?",
+   "r": "Frontal y parietales (no toca el temporal).",
+   "img_r": "superior"
+  },
+  {
+   "p": "¿Qué huesos une la sutura escamosa?",
+   "r": "Temporal y parietal.",
+   "img_r": "lateral"
+  },
+  {
+   "p": "¿Qué huesos une la sutura metópica?",
+   "r": "Las dos mitades del frontal (al nacer el frontal son dos huesos)."
+  },
+  {
+   "p": "¿Qué sutura une el temporal con el occipital?",
+   "r": "La occipitomastoidea.",
+   "img_r": "asterion"
+  },
+  {
+   "p": "¿Dónde termina la coronal y por qué el frontal normalmente no toca al temporal?",
+   "r": "En el pterión: el ala mayor del esfenoides se interpone.",
+   "img_r": "pterion"
+  },
+  {
+   "p": "¿La fosa pterigopalatina es una sutura?",
+   "r": "No: es un espacio (fosa) detrás del maxilar."
+  },
+  {
+   "p": "¿La mastoides es un hueso?",
+   "r": "No: es una porción del temporal."
+  },
+  {
+   "p": "¿Qué es el bregma y qué fontanela ocupa?",
+   "r": "La unión de la coronal y la sagital. Ahí está la fontanela anterior."
+  },
+  {
+   "p": "¿Qué es el lambda y qué fontanela ocupa?",
+   "r": "La unión de la sagital y la lambdoidea. Ahí está la fontanela posterior."
+  },
+  {
+   "p": "¿Qué forma tienen las fontanelas anterior y posterior, y por qué?",
+   "r": "Anterior: rombo (4 huesos: 2 mitades del frontal + 2 parietales).<br>Posterior: triángulo (3 huesos: 2 parietales + occipital).",
+   "img_r": "fontanelas"
+  },
+  {
+   "p": "¿Cuándo se cierran la fontanela anterior y la posterior?",
+   "r": "Anterior: ~18 meses (muy variable). Posterior: ~3 meses."
+  },
+  {
+   "p": "¿Cuándo se cierra de forma normal la sutura metópica?",
+   "r": "Durante el primer año: en TC, el 100 % están cerradas a los 9 meses (Vu 2001)."
+  },
+  {
+   "p": "¿Qué huesos se encuentran en el asterión?",
+   "r": "Parietal, occipital y temporal (porción mastoidea).",
+   "img_r": "asterion"
+  },
+  {
+   "p": "¿Cuántas fontanelas tiene el recién nacido y dónde están?",
+   "r": "6: anterior (bregma), posterior (lambda), 2 anterolaterales/esfenoidales (pterión) y 2 posterolaterales/mastoideas (asterión).",
+   "img_r": "fontanelas"
+  },
+  {
+   "p": "¿Qué dice la ley de Virchow?",
+   "r": "Si una sutura se fusiona antes de tiempo, se pierde el crecimiento perpendicular a ella y el cráneo compensa creciendo en paralelo."
+  },
+  {
+   "p": "Sinostosis sagital: ¿qué forma toma el cráneo y por qué?",
+   "r": "Escafocefalia (largo y estrecho): se pierde el crecimiento transversal y el cráneo compensa de adelante hacia atrás.",
+   "img_r": "escafo"
+  },
+  {
+   "p": "Sinostosis metópica: ¿qué forma toma el cráneo y qué signo orbitario da?",
+   "r": "Trigonocefalia (frente en punta, región parietal ancha) con hipotelorismo. Se pierde el ensanchamiento lateral de la frente.",
+   "img_r": "trigono"
+  },
+  {
+   "p": "¿Por qué el hematoma epidural es biconvexo?",
+   "r": "La duramadre está más adherida al hueso en las suturas, así que el hematoma no las cruza y se acumula hacia adentro."
+  },
+  {
+   "p": "Epidural vs. subdural en la TC",
+   "r": "Epidural: biconvexo, no cruza suturas, arterial.<br>Subdural: media luna, cruza suturas, venoso.",
+   "img_r": "edh"
+  },
+  {
+   "p": "¿Por qué hay intervalo lúcido en el hematoma epidural si el sangrado es arterial?",
+   "r": "La sangre tarda en despegar la dura adherida y el cerebro compensa al principio. Cuando se agota la compensación, el deterioro es brusco."
+  },
+  {
+   "p": "Hematoma epidural + midriasis del mismo lado: ¿mecanismo?",
+   "r": "Herniación uncal que comprime el III par contra el tentorio. Las fibras pupilares van en la superficie del nervio, así que la midriasis aparece primero."
+  },
+  {
+   "p": "¿Con qué 4 huesos se articula el cigomático?",
+   "r": "Frontal, maxilar, temporal (en el arco) y esfenoides (en la pared lateral de la órbita).",
+   "img_r": "orbita"
+  },
+  {
+   "p": "¿Qué sutura es la mejor referencia de que el cigomático quedó bien reducido?",
+   "r": "La esfenocigomática, en la pared lateral de la órbita (Perry & Holmes, p. 149).",
+   "img_r": "orbita"
+  },
+  {
+   "p": "Fontanela anterior abombada vs. hundida",
+   "r": "Abombada: presión intracraneal alta. Hundida: deshidratación."
+  },
+  {
+   "p": "Señala el punto de la sien donde se unen 4 huesos y nómbralos",
+   "img_p": "lateral",
+   "r": "Pterión: frontal, parietal, ala mayor del esfenoides y temporal (en H).",
+   "img_r": "pterion"
+  },
+  {
+   "p": "¿Epidural o subdural? ¿Por qué?",
+   "img_p": "edh",
+   "r": "Epidural: lente biconvexa que no cruza las suturas (arterial, meníngea media)."
+  },
+  {
+   "p": "¿Epidural o subdural? ¿Por qué?<br><small>(segunda imagen)</small>",
+   "img_p": "sdh",
+   "r": "Subdural: media luna que sigue el contorno del cerebro y cruza las suturas (venoso)."
+  },
+  {
+   "p": "¿Qué craneosinostosis es y qué sutura se cerró?",
+   "img_p": "trigono",
+   "r": "Trigonocefalia por sinostosis metópica (frente en quilla; busca el hipotelorismo)."
+  },
+  {
+   "p": "¿Qué craneosinostosis es y qué sutura se cerró?<br><small>(cráneo 3D)</small>",
+   "img_p": "escafo",
+   "r": "Escafocefalia por sinostosis sagital (cráneo largo y estrecho)."
+  }
+ ]
+}
