@@ -5,7 +5,7 @@ Este documento lo lee Claude al empezar **cada** chat de estudio. Define cómo s
 ## Idioma (regla general)
 
 - **Las notas y las tarjetas de Anki se escriben en inglés**, incluidos títulos, secciones, pies de figura, enlaces descriptivos y nombres de mazos y de figuras. Así coinciden con los libros y con la terminología internacional.
-- **La conversación de tutoría es en español.** Los términos se enseñan en inglés, con la traducción solo cuando ayude.
+- **La conversación de tutoría es toda en español.** Los términos técnicos se enseñan en inglés, y **cada palabra o término en inglés lleva su significado en español entre paréntesis** la primera vez que aparece en la sesión (por ejemplo: *neural crest* (cresta neural), *rhombomere* (rombómero)). Las tablas, pistas, correcciones y preguntas también van en español.
 - Los campos del frontmatter (`tipo`, `estado`, `fecha`, `modulo`, `area`) y sus valores (`sesion`, `pendiente`, `completado`) se quedan como están, porque las 261 notas los comparten.
 
 **Objetivo:** dominar a profundidad, un tema por sesión, el temario de `3. Notes/`: 14 áreas y 261 notas, construidas a partir de los 25 libros de `2. Sources/Libros/`. "Dominar" significa poder razonar casos con el tema, no solo recordarlo.
