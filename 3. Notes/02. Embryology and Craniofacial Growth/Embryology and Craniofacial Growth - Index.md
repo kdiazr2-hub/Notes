@@ -11,7 +11,7 @@ sesiones: 12
 > Tick a session when your notes for it are complete. Links marked ↗ point to sessions that live in another area.
 
 ## 1. General embryology
-- [ ] [[01. Mechanisms of embryology and early embryonic development]]
+- [x] [[01. Mechanisms of embryology and early embryonic development]]
 - [ ] [[02. Early orofacial development and the neural crest]]
 - [ ] [[03. Pharyngeal arches, pouches and grooves]]
 - [ ] [[04. Bone development and growth]]

@@ -1,0 +1,199 @@
+{
+ "mazo": "Oral and Maxillofacial Surgery::02 Embryology and Craniofacial Growth::01 Mechanisms of embryology and early development",
+ "fuente": "Embryology 01 · Mechanisms of embryology and early embryonic development",
+ "etiquetas": [
+  "embryology",
+  "neural-crest",
+  "teratology",
+  "session01"
+ ],
+ "prefijo_media": "notes_embr01_",
+ "imagenes": {
+  "sinopsis": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-2 - Synopsis of general embryology from zygote to fetus.jpg",
+  "disco": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-9 - Bilaminar and trilaminar embryonic disk.jpg",
+  "dorsal": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-10 - Embryonic disk with prechordal plate and primitive streak.jpg",
+  "cresta": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-13 - Neural folds and neural crest formation.jpg",
+  "rombomeros": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-14 - Neural crest migration from rhombomeres to pharyngeal arches.jpg",
+  "cronologia": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Table 2-1 - Chronology of the embryonic period.jpg",
+  "derivados": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Table 2-2 - Derivatives of neural crest cells.jpg",
+  "segmentacion": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 1-2 - Segmentation of the three germ layers.jpg",
+  "anomalias": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-1 - Embryogenesis and the origin of malformations and deformations.jpg"
+ },
+ "tarjetas": [
+  {
+   "p": "Which structure generates the intraembryonic mesoderm?",
+   "r": "The <b>primitive streak</b>: ectodermal cells proliferate in the caudal germ disk, producing <b>mesenchyme</b>, which becomes the intraembryonic mesoderm. The streak comes first; mesenchyme is its product.",
+   "img_r": "disco"
+  },
+  {
+   "p": "Which two sites of the embryonic disk never receive mesoderm, and what do they become?",
+   "r": "The <b>oropharyngeal membrane</b> (anterior) and the <b>cloacal membrane</b> (posterior). They stay bilaminar, ectoderm against endoderm. The oropharyngeal membrane is the future mouth–pharynx boundary and ruptures at day 28.",
+   "img_r": "dorsal"
+  },
+  {
+   "p": "Is the notochord mesoderm or not?",
+   "r": "It <b>is</b> mesoderm: it forms from the cranial end of the primitive streak. It is never one of the “mesoderm-free” sites."
+  },
+  {
+   "p": "What does the notochord induce, and what does that structure become?",
+   "r": "It induces the overlying ectoderm to form the <b>neural plate</b> → neural folds → <b>neural tube</b> → central nervous system. The lateral mesoderm instead induces cutaneous ectoderm (skin)."
+  },
+  {
+   "p": "Define induction and competence",
+   "r": "<b>Induction</b> is the morphogenetic effect of an organizer that alters the developmental course of a responsive tissue. <b>Competence</b> is that tissue's capacity to react. Sperber, p. 12."
+  },
+  {
+   "p": "Neurulation timeline: neural plate, folds elevating, folds fusing",
+   "r": "Neural plate <b>day 17</b> → cranial neural folds elevate <b>day 20</b> → folds fuse <b>days 21–22</b> (at somites 3–5). Anterior neuropore closes day 25, posterior day 27.",
+   "img_r": "cronologia"
+  },
+  {
+   "p": "Where exactly does the neural crest arise?",
+   "r": "At the <b>crest of the neural folds</b>, where neuralizing and epidermalizing influences interact. It detaches as the folds fuse and migrates along cleavage planes between the germ layers.",
+   "img_r": "cresta"
+  },
+  {
+   "p": "Why is the neural crest treated as a fourth germ layer?",
+   "r": "Because it is <b>pluripotential</b> like the three primary layers, and highly <b>migratory</b>. Its cells divide as they migrate, so the population at the destination is larger than at the origin."
+  },
+  {
+   "p": "Which tissues of the face come from the neural crest, and which do not?",
+   "r": "Crest: <b>bone, cartilage, ligaments and connective tissue</b> of the facial and oral regions, plus the connective-tissue covering of the arch muscles. <b>Not</b> the muscles themselves — those come from paraxial mesoderm (somitomeres)."
+  },
+  {
+   "p": "Name three non-craniofacial derivatives of the neural crest that matter clinically",
+   "r": "<b>Thymic stroma</b>, walls of the <b>aortic arch arteries</b> (all but endothelium), <b>melanocytes</b>. Also: adrenal medulla, thyroid/parathyroid stroma, enteric and autonomic ganglia, calcitonin C cells, dentine and cementum.",
+   "img_r": "derivados"
+  },
+  {
+   "p": "Which rhombomeres supply each pharyngeal arch?",
+   "r": "<b>r1–r2 → arch 1</b>; <b>r4 → arch 2</b>; <b>r6–r7 → arches 3, 4 and 6</b>. <b>r3 and r5 are crest-free.</b>",
+   "img_r": "rombomeros"
+  },
+  {
+   "p": "Which rhombomeres send no neural crest at all?",
+   "r": "<b>r3 and r5.</b>"
+  },
+  {
+   "p": "Arch 1: nerve, muscles, ear ossicles, main skeletal structure",
+   "r": "Nerve <b>trigeminal (V)</b> · muscles of <b>mastication</b> · <b>malleus and incus</b> · the <b>mandible</b> (Meckel's cartilage) and maxilla, zygoma."
+  },
+  {
+   "p": "Arch 2: nerve, muscles, ear ossicle",
+   "r": "Nerve <b>facial (VII)</b> · muscles of <b>facial expression</b> · the <b>stapes</b>."
+  },
+  {
+   "p": "What rule lets you deduce the arch of a muscle from its innervation?",
+   "r": "<b>The nerve follows the arch</b>: each arch carries its own nerve and its own muscle group, and they always travel together. V with mastication (arch 1), VII with facial expression (arch 2)."
+  },
+  {
+   "p": "How is each germ layer segmented in early embryogenesis?",
+   "r": "<b>Ectoderm</b> (neural tube): forebrain, midbrain, hindbrain and spinal cord, with the hindbrain divided into <b>rhombomeres</b>. <b>Mesoderm</b>: <b>somitomeres</b> cranially, <b>somites</b> caudally (42–44 pairs). <b>Endoderm</b>: <b>pharyngeal pouches</b>.",
+   "img_r": "segmentacion"
+  },
+  {
+   "p": "Why is apoptosis constructive in embryogenesis? Give the general statement",
+   "r": "Programmed cell death removes tissues useful only in embryonic life and phylogenetic vestiges, on schedule. State it as: <b>if tissue X does not die, then Y does not open or does not fuse.</b>"
+  },
+  {
+   "p": "What happens if the nasal fin fails to disintegrate, and when should it?",
+   "r": "<b>Cleft lip</b>: the upper lip never achieves continuity. The nasal fin disintegrates at <b>days 47–48</b> by apoptosis (Sperber, Table 2-1)."
+  },
+  {
+   "p": "Interstitial vs appositional growth: which tissues use each, and why?",
+   "r": "<b>Interstitial</b> (increase in bulk from within): soft tissues and cartilage. <b>Appositional</b> (surface deposition): <b>bone and dental tissues necessarily</b>, because a mineralized matrix cannot expand from within. Sperber, p. 15."
+  },
+  {
+   "p": "Which bones keep appositional growth potential in adult life, and what disease reveals it?",
+   "r": "The <b>facial bones</b>, unlike long bones. Hypersecretion of growth hormone (pituitary tumour) causes <b>acromegaly</b>: enlargement of the bones of the face, hands and feet. Sperber, p. 16."
+  },
+  {
+   "p": "The three phases of gestation, with their durations",
+   "r": "<b>Preimplantation</b>: first 7 days. <b>Embryonic</b>: next 7 weeks (to week 8). <b>Fetal</b>: next 7 calendar months. Sperber, p. 16."
+  },
+  {
+   "p": "What defines a critical period for a given structure?",
+   "r": "The <b>peak of its own morphogenesis</b>. The embryonic period is not one window but a <b>sequence of windows</b>: each structure is vulnerable on its own days."
+  },
+  {
+   "p": "Menstrual age vs fertilization age: how do you convert, and which does Sperber use?",
+   "r": "<b>Fertilization age = menstrual age − 2 weeks</b>, because ovulation occurs ~14 days after the last period. Obstetric practice uses menstrual age; <b>Sperber's tables use fertilization age</b>."
+  },
+  {
+   "p": "Key dates: crest migration, arch formation, upper lip, palate",
+   "r": "Crest migration begins <b>d21</b> · arches 1–4 formed by <b>d24–28</b> · upper lip <b>d37–41</b> · primary palate <b>d44</b> · palatal shelves elevate <b>d56</b> and fuse <b>d60</b>.",
+   "img_r": "cronologia"
+  },
+  {
+   "p": "Malformation vs deformation vs disruption: cause, period, reversibility",
+   "r": "<b>Malformation</b>: generally genetic, <b>embryonic</b> period, does <b>not</b> self-correct. <b>Deformation</b>: environmental/mechanical, <b>fetal</b> period, may self-correct. <b>Disruption</b>: metabolic, vascular or teratogenic, fetal period, may self-correct.",
+   "img_r": "anomalias"
+  },
+  {
+   "p": "What is a neurocristopathy, and why does it affect several organs at once?",
+   "r": "A cluster of anomalies caused by deviation of a <b>neural crest</b> population from its normal development or spatial cueing. Because one cell population builds face, thymic stroma and aortic arch artery walls, a single insult yields a <b>syndrome</b>, not an isolated defect."
+  },
+  {
+   "p": "How does isotretinoin (13-cis-retinoic acid) damage the craniofacial complex?",
+   "r": "It <b>destroys neural crest cells and disrupts their migration</b>, producing anomalies resembling craniofacial microsomia and Treacher Collins <b>depending on the timing of exposure</b> (a phenocopy). Lammer 1985: craniofacial, cardiac, thymic and CNS anomalies in 21 infants exposed in the first trimester."
+  },
+  {
+   "p": "Craniofacial microsomia vs Treacher Collins: what causes each?",
+   "r": "<b>CFM</b> is multifactorial: vascular disruption of the stapedial artery (Poswillo), teratogens (thalidomide, retinoic acid) and genetic forms. <b>Treacher Collins</b> is mainly genetic: <b>TCOF1</b>, autosomal dominant."
+  },
+  {
+   "p": "A woman took isotretinoin throughout and stopped at 8 menstrual weeks. The baby has mandibular hypoplasia, microtia, thymic hypoplasia and a conotruncal defect. When did the damage occur?",
+   "r": "Around <b>days 21–28</b>, when crest migrated and arches formed — <b>not</b> at the stop date (8 − 2 = 6 fertilization weeks = day 42). The exposure window ran d0–d42; the damage window is when the target structures were being built."
+  },
+  {
+   "p": "Why can one teratogen damage mandible, ear, thymus and great vessels together?",
+   "r": "All four are built by <b>neural crest</b>: r1–r2 and r4 → arches 1–2 (mandible, ear ossicles), r6–r7 → arches 3, 4 and 6 (thymic stroma, aortic arch artery walls). One population damaged, four organs affected: a <b>neurocristopathy</b>.",
+   "img_r": "derivados"
+  },
+  {
+   "p": "A teratogen hits on day 35 post conception. Microsomia or cleft? Why?",
+   "r": "<b>Cleft lip/palate</b>. By day 35 the crest has migrated (d21) and the arches are formed (d24–28), so that window has closed; what comes next is the upper lip (d37–41) and palate (d44–60)."
+  },
+  {
+   "p": "A teratogen hits on day 25 post conception. What would you expect?",
+   "r": "A <b>craniofacial microsomia-like</b> defect of arches 1 and 2: crest migration (from d21) and arch formation (d24–28) are under way. The lip and palate have not started."
+  },
+  {
+   "p": "A patient says she is 9 weeks pregnant. Which fertilization day is that, and what is being built?",
+   "r": "9 − 2 = 7 fertilization weeks = <b>day 49</b>. The <b>palate</b>: shelves elevate at d56 and fuse at d60."
+  },
+  {
+   "p": "Why is the somite period (days 21–31) so dangerous?",
+   "r": "Because the <b>basic organogenesis</b> of most systems happens then, extremely rapidly, which makes the embryo “exceedingly susceptible” to maternal illness, irradiation and drugs. Sperber, p. 28."
+  },
+  {
+   "p": "What is the prechordal plate and what happens if it fails?",
+   "r": "An endodermal thickening at day 14 in the future midcephalic region, with a <b>head-organizing</b> function; it gives the endodermal layer of the oropharyngeal membrane and cephalic mesenchyme for the extraocular muscles. Defects → <b>holoprosencephaly</b> or agenesis of the corpus callosum.",
+   "img_r": "dorsal"
+  },
+  {
+   "p": "What distinguishes the fetal period from the embryonic period?",
+   "r": "The fetal period (week 8 to term) has <b>little new differentiation or organogenesis</b>: it is rapid growth and re-proportioning. Head proportion falls from ½ of body length to ⅓ at 5 months and ¼ at birth."
+  },
+  {
+   "p": "Identify the two layers and the structure pushing between them",
+   "r": "Above: <b>bilaminar disk</b> (embryonic ectoderm and endoderm). Below: the <b>primitive streak</b> drives mesenchyme between them, creating the <b>trilaminar disk</b>.",
+   "img_p": "disco"
+  },
+  {
+   "p": "Which rhombomeres feed arch I here, and which send nothing?",
+   "r": "<b>r1–r2 → arch I.</b> <b>r3 and r5 send nothing.</b> r4 → arch II; r6–r7 → arches III, IV and VI.",
+   "img_p": "rombomeros"
+  },
+  {
+   "p": "Name the structure marked “Neural Crest” and say what it will build in the face",
+   "r": "The <b>neural crest</b>, at the tip of the neural fold. It builds the bone, cartilage, ligaments and connective tissue of the face, dentine and cementum, plus the connective-tissue covering of the arch muscles.",
+   "img_p": "cresta"
+  },
+  {
+   "p": "Using this table, what is being built on day 44 and on day 56?",
+   "r": "<b>Day 44</b>: the primary palate projects posteriorly into the stomodeum (also eyelid folds, nasal alae and septum). <b>Day 56–57</b>: the <b>palatal shelves elevate</b>, and maxillary ossification begins; they fuse at day 60.",
+   "img_p": "cronologia"
+  }
+ ]
+}
