@@ -17,7 +17,9 @@
   "cronologia": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Table 2-1 - Chronology of the embryonic period.jpg",
   "derivados": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Table 2-2 - Derivatives of neural crest cells.jpg",
   "segmentacion": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 1-2 - Segmentation of the three germ layers.jpg",
-  "anomalias": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-1 - Embryogenesis and the origin of malformations and deformations.jpg"
+  "anomalias": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Sperber Fig 2-1 - Embryogenesis and the origin of malformations and deformations.jpg",
+  "semana1": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Ferraro Fig 1.1 - Fertilization, cleavage, morula and blastocyst.jpg",
+  "bilaminar": "2. Sources/Figuras/02. Embryology and Craniofacial Growth/Ferraro Fig 1.2 - Bilaminar embryo with epiblast and hypoblast.jpg"
  },
  "tarjetas": [
   {
@@ -39,10 +41,6 @@
    "r": "It induces the overlying ectoderm to form the <b>neural plate</b> → neural folds → <b>neural tube</b> → central nervous system. The lateral mesoderm instead induces cutaneous ectoderm (skin)."
   },
   {
-   "p": "Define induction and competence",
-   "r": "<b>Induction</b> is the morphogenetic effect of an organizer that alters the developmental course of a responsive tissue. <b>Competence</b> is that tissue's capacity to react. Sperber, p. 12."
-  },
-  {
    "p": "Neurulation timeline: neural plate, folds elevating, folds fusing",
    "r": "Neural plate <b>day 17</b> → cranial neural folds elevate <b>day 20</b> → folds fuse <b>days 21–22</b> (at somites 3–5). Anterior neuropore closes day 25, posterior day 27.",
    "img_r": "cronologia"
@@ -51,10 +49,6 @@
    "p": "Where exactly does the neural crest arise?",
    "r": "At the <b>crest of the neural folds</b>, where neuralizing and epidermalizing influences interact. It detaches as the folds fuse and migrates along cleavage planes between the germ layers.",
    "img_r": "cresta"
-  },
-  {
-   "p": "Why is the neural crest treated as a fourth germ layer?",
-   "r": "Because it is <b>pluripotential</b> like the three primary layers, and highly <b>migratory</b>. Its cells divide as they migrate, so the population at the destination is larger than at the origin."
   },
   {
    "p": "Which tissues of the face come from the neural crest, and which do not?",
@@ -155,25 +149,13 @@
    "r": "<b>Cleft lip/palate</b>. By day 35 the crest has migrated (d21) and the arches are formed (d24–28), so that window has closed; what comes next is the upper lip (d37–41) and palate (d44–60)."
   },
   {
-   "p": "A teratogen hits on day 25 post conception. What would you expect?",
-   "r": "A <b>craniofacial microsomia-like</b> defect of arches 1 and 2: crest migration (from d21) and arch formation (d24–28) are under way. The lip and palate have not started."
-  },
-  {
    "p": "A patient says she is 9 weeks pregnant. Which fertilization day is that, and what is being built?",
    "r": "9 − 2 = 7 fertilization weeks = <b>day 49</b>. The <b>palate</b>: shelves elevate at d56 and fuse at d60."
-  },
-  {
-   "p": "Why is the somite period (days 21–31) so dangerous?",
-   "r": "Because the <b>basic organogenesis</b> of most systems happens then, extremely rapidly, which makes the embryo “exceedingly susceptible” to maternal illness, irradiation and drugs. Sperber, p. 28."
   },
   {
    "p": "What is the prechordal plate and what happens if it fails?",
    "r": "An endodermal thickening at day 14 in the future midcephalic region, with a <b>head-organizing</b> function; it gives the endodermal layer of the oropharyngeal membrane and cephalic mesenchyme for the extraocular muscles. Defects → <b>holoprosencephaly</b> or agenesis of the corpus callosum.",
    "img_r": "dorsal"
-  },
-  {
-   "p": "What distinguishes the fetal period from the embryonic period?",
-   "r": "The fetal period (week 8 to term) has <b>little new differentiation or organogenesis</b>: it is rapid growth and re-proportioning. Head proportion falls from ½ of body length to ⅓ at 5 months and ¼ at birth."
   },
   {
    "p": "Identify the two layers and the structure pushing between them",
@@ -194,6 +176,29 @@
    "p": "Using this table, what is being built on day 44 and on day 56?",
    "r": "<b>Day 44</b>: the primary palate projects posteriorly into the stomodeum (also eyelid folds, nasal alae and septum). <b>Day 56–57</b>: the <b>palatal shelves elevate</b>, and maxillary ossification begins; they fuse at day 60.",
    "img_p": "cronologia"
+  },
+  {
+   "p": "Epiblast, hypoblast and embryoblast: what does Sperber call each?",
+   "r": "Epiblast = <b>embryonic ectoderm</b> · hypoblast = <b>embryonic endoderm</b> · embryoblast = <b>inner cell mass</b>. Same structures, two naming traditions (Ferraro's/Langman vs Sperber).",
+   "img_r": "bilaminar"
+  },
+  {
+   "p": "Week 1: name the stages from fertilization to implantation, with days",
+   "r": "Zygote (d1, 46/2N) → <b>cleavage by mitosis</b>, 2-cell (d2), 4-cell (d3) → <b>morula</b> (d3–4, 16 cells) → <b>blastocyst</b> (d5, embryoblast + trophoblast) → <b>implantation</b> (d6–7).",
+   "img_r": "semana1"
+  },
+  {
+   "p": "Morula vs blastocyst",
+   "r": "<b>Morula</b>: solid cluster of ~16 cells, d3–4, <b>no larger than the original ovum</b> (cleavage divides without growth). <b>Blastocyst</b>: ~100 cells with a fluid cavity, d5, already split into <b>embryoblast</b> (becomes the embryo) and <b>trophoblast</b> (becomes the placenta)."
+  },
+  {
+   "p": "At what stage of meiosis is the oocyte fertilized, and what is the result?",
+   "r": "A <b>secondary oocyte arrested in metaphase of meiosis II</b>. Union of the two haploid gametes (23 + 23) gives a diploid <b>zygote</b> with 46 chromosomes; sex and all inherited characteristics are set at that moment.",
+   "img_r": "semana1"
+  },
+  {
+   "p": "Ferraro's vs Sperber on the origin of the germ layers: what differs, and what is the shared conclusion?",
+   "r": "Ferraro's (modern): the primitive streak is a <b>cleft in the epiblast</b>, and migrating epiblast cells create mesoderm, endoderm and notochord — <b>all three layers from the epiblast</b> (gastrulation). Sperber (older): mesoderm arises from ectodermal proliferation, endoderm already present. <b>Shared conclusion: the primitive streak is the source of the mesoderm.</b>"
   }
  ]
 }
