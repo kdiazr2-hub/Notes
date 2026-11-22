@@ -2,23 +2,27 @@
 
 Uso (desde cualquier carpeta):
     pip install genanki
-    python3 "_Sistema/anki/make_deck.py" "_Sistema/anki/mazos/01-01 Cráneo y suturas.json" -o salida/
+    python3 "_Sistema/anki/make_deck.py" "_Sistema/anki/mazos/01-01 Skull and sutures.json" -o salida/
 
 Formato del JSON:
 {
-  "mazo": "Cirugía Maxilofacial::01 Anatomía::01 Cráneo y suturas",
-  "fuente": "Anatomía 01 · Cráneo y suturas",          # se muestra en la respuesta
-  "etiquetas": ["anatomia", "sesion01"],
+  "mazo": "Oral and Maxillofacial Surgery::01 Anatomy::01 Skull and sutures",
+  "fuente": "Anatomy 01 · Skull and sutures",          # se muestra en la respuesta
+  "etiquetas": ["anatomy", "session01"],
   "prefijo_media": "notes_anat01_",                       # único por sesión
   "imagenes": {"clave": "2. Sources/Figuras/<Área>/<archivo>.jpg"},   # rutas desde la raíz del vault
   "tarjetas": [
-    {"p": "Pregunta", "r": "Respuesta", "img_p": "clave opcional", "img_r": "clave opcional"}
+    {"p": "Question", "r": "Answer", "img_p": "clave opcional", "img_r": "clave opcional",
+     "guid": "opcional"}
   ]
 }
 
+Las tarjetas se escriben en inglés (ver _Sistema/Instrucciones de estudio.md).
+
 El GUID de cada tarjeta sale del texto final de la pregunta: reimportar un mazo
-actualiza las tarjetas en vez de duplicarlas. No cambies el texto de una pregunta
-ya estudiada salvo que quieras que cuente como tarjeta nueva.
+actualiza las tarjetas en vez de duplicarlas. Si cambias el texto de una pregunta
+ya estudiada (por ejemplo, al traducirla), fija su GUID anterior en "guid" para
+que Anki la actualice y conserve su historial de repaso.
 """
 import argparse, hashlib, json, os, shutil, tempfile
 from pathlib import Path
@@ -65,7 +69,8 @@ def main():
         p = t['p'] + img(t.get('img_p'))
         r = t['r'] + img(t.get('img_r'))
         mazo.add_note(genanki.Note(model=MODELO, fields=[p, r, datos['fuente']],
-                                   tags=datos.get('etiquetas', []), guid=genanki.guid_for(p)))
+                                   tags=datos.get('etiquetas', []),
+                                   guid=t.get('guid') or genanki.guid_for(p)))
 
     os.makedirs(args.salida, exist_ok=True)
     salida = Path(args.salida) / (Path(args.json).stem + '.apkg')

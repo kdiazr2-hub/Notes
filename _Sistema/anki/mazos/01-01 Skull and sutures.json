@@ -1,0 +1,226 @@
+{
+ "mazo": "Oral and Maxillofacial Surgery::01 Anatomy::01 Skull and sutures",
+ "fuente": "Anatomy 01 · Skull and sutures",
+ "etiquetas": [
+  "anatomy",
+  "skull",
+  "session01"
+ ],
+ "prefijo_media": "notes_anat01_",
+ "imagenes": {
+  "bones": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.3 - Skull bones (oblique view).jpg",
+  "lateral": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.6 - Lateral view of the skull.jpg",
+  "superior": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.11 - Calvarial sutures (superior view).jpg",
+  "pterion": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.14 - Sutures of the temporal fossa (pterion).jpg",
+  "asterion": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.16 - Lateral and posterior sutures (asterion).jpg",
+  "orbita": "2. Sources/Figuras/01. Anatomy/Iwanaga Fig 2.22 - Sutures of the lateral orbital wall.jpg",
+  "fontanelas": "2. Sources/Figuras/01. Anatomy/Sperber Fig 7-5 - Neonatal fontanelles and sutures.jpg",
+  "escafo": "2. Sources/Figuras/01. Anatomy/Thaller Fig 1 - Scaphocephaly from sagittal synostosis.jpg",
+  "trigono": "2. Sources/Figuras/01. Anatomy/Di Rocco Fig 44.2 - Trigonocephaly (superior view).jpg",
+  "edh": "2. Sources/Figuras/01. Anatomy/Singh Fig 8.16 - Epidural hematoma on CT.jpg",
+  "sdh": "2. Sources/Figuras/01. Anatomy/Singh Fig 8.17 - Subdural hematoma on CT.jpg"
+ },
+ "tarjetas": [
+  {
+   "p": "How many bones does the skull have, and how are they divided?",
+   "r": "22: 8 in the neurocranium + 14 in the viscerocranium (including the mandible). Iwanaga counts 23 because he adds the hyoid.",
+   "guid": "d?l~v(P^.5"
+  },
+  {
+   "p": "Name the 4 unpaired bones of the neurocranium, from front to back",
+   "r": "Frontal → ethmoid → sphenoid → occipital",
+   "img_r": "bones",
+   "guid": "q`QAin)q1."
+  },
+  {
+   "p": "Which bones of the neurocranium are paired?",
+   "r": "Temporals and parietals",
+   "guid": "g-Hi7u71Tw"
+  },
+  {
+   "p": "Viscerocranium: what are the 6 paired and the 2 unpaired bones?",
+   "r": "Paired: maxillae, zygomatics, nasals, lacrimals, palatines, inferior nasal conchae.<br>Unpaired: mandible and vomer.",
+   "img_r": "bones",
+   "guid": "xFtP7IhwOQ"
+  },
+  {
+   "p": "Which nasal concha is a separate bone, and which ones belong to the ethmoid?",
+   "r": "The inferior concha is a separate bone; the superior and middle conchae are parts of the ethmoid.",
+   "guid": "Q%kd6N%VoE"
+  },
+  {
+   "p": "Which 4 bones form the pterion?",
+   "r": "Frontal, parietal, greater wing of the sphenoid and temporal (H-shaped).",
+   "img_r": "pterion",
+   "guid": "Ac;vM5cXoS"
+  },
+  {
+   "p": "Which artery runs on the inner surface of the pterion, and what injury does its rupture cause?",
+   "r": "The anterior branch of the middle meningeal artery → epidural hematoma.",
+   "guid": "A6p|zZVbYZ"
+  },
+  {
+   "p": "Which bones does the coronal suture join?",
+   "r": "Frontal and parietals (it does not touch the temporal).",
+   "img_r": "superior",
+   "guid": "mu,V7sR7tb"
+  },
+  {
+   "p": "Which bones does the squamous suture join?",
+   "r": "Temporal and parietal.",
+   "img_r": "lateral",
+   "guid": "jkxj0tCRu$"
+  },
+  {
+   "p": "Which bones does the metopic suture join?",
+   "r": "The two halves of the frontal bone (at birth the frontal is two bones).",
+   "guid": "q)$XLFXwm7"
+  },
+  {
+   "p": "Which suture joins the temporal bone to the occipital?",
+   "r": "The occipitomastoid suture.",
+   "img_r": "asterion",
+   "guid": "q+V!nvx*/X"
+  },
+  {
+   "p": "Where does the coronal suture end, and why doesn't the frontal bone normally touch the temporal?",
+   "r": "At the pterion: the greater wing of the sphenoid is in between.",
+   "img_r": "pterion",
+   "guid": "j?@us`f-uL"
+  },
+  {
+   "p": "Is the pterygopalatine fossa a suture?",
+   "r": "No: it is a space (fossa) behind the maxilla.",
+   "guid": "i?xee8voy4"
+  },
+  {
+   "p": "Is the mastoid a bone?",
+   "r": "No: it is a part of the temporal bone.",
+   "guid": "g,J*3K5&XZ"
+  },
+  {
+   "p": "What is the bregma, and which fontanelle sits there?",
+   "r": "The junction of the coronal and sagittal sutures. The anterior fontanelle sits there.",
+   "guid": "yd<4^nzN!N"
+  },
+  {
+   "p": "What is the lambda, and which fontanelle sits there?",
+   "r": "The junction of the sagittal and lambdoid sutures. The posterior fontanelle sits there.",
+   "guid": "qhlU0Or(rn"
+  },
+  {
+   "p": "What shape are the anterior and posterior fontanelles, and why?",
+   "r": "Anterior: diamond (4 bones: 2 frontal halves + 2 parietals).<br>Posterior: triangle (3 bones: 2 parietals + occipital).",
+   "img_r": "fontanelas",
+   "guid": "x79)Y_Rk6&"
+  },
+  {
+   "p": "When do the anterior and posterior fontanelles close?",
+   "r": "Anterior: ~18 months (highly variable). Posterior: ~3 months.",
+   "guid": "E!VmJc[pfG"
+  },
+  {
+   "p": "When does the metopic suture close physiologically?",
+   "r": "During the first year: on CT, 100% are closed by 9 months (Vu 2001).",
+   "guid": "d@[wEI*Uu*"
+  },
+  {
+   "p": "Which bones meet at the asterion?",
+   "r": "Parietal, occipital and temporal (mastoid part).",
+   "img_r": "asterion",
+   "guid": "z<Rpvt=S:"
+  },
+  {
+   "p": "How many fontanelles does a newborn have, and where are they?",
+   "r": "6: anterior (bregma), posterior (lambda), 2 anterolateral/sphenoidal (pterion) and 2 posterolateral/mastoid (asterion).",
+   "img_r": "fontanelas",
+   "guid": "ev7OL-XfzV"
+  },
+  {
+   "p": "What does Virchow's law state?",
+   "r": "When a suture fuses prematurely, growth perpendicular to it is lost and the skull compensates by growing parallel to it.",
+   "guid": "O61x;LB<[:"
+  },
+  {
+   "p": "Sagittal synostosis: what shape does the skull take, and why?",
+   "r": "Scaphocephaly (long and narrow): transverse growth is lost and the skull compensates front to back.",
+   "img_r": "escafo",
+   "guid": "BR+Kn%x!,B"
+  },
+  {
+   "p": "Metopic synostosis: what shape does the skull take, and what orbital sign does it cause?",
+   "r": "Trigonocephaly (pointed forehead, wide parietal region) with hypotelorism. Lateral widening of the forehead is lost.",
+   "img_r": "trigono",
+   "guid": "IARPsV7(cM"
+  },
+  {
+   "p": "Why is an epidural hematoma biconvex?",
+   "r": "The dura is most firmly attached to bone at the sutures, so the hematoma cannot cross them and builds up inward.",
+   "guid": "H,:F[}~VD~"
+  },
+  {
+   "p": "Epidural vs. subdural on CT",
+   "r": "Epidural: biconvex, does not cross sutures, arterial.<br>Subdural: crescent, crosses sutures, venous.",
+   "img_r": "edh",
+   "guid": "i.#1c}:=>U"
+  },
+  {
+   "p": "Why is there a lucid interval in an epidural hematoma if the bleeding is arterial?",
+   "r": "Blood takes time to strip the adherent dura and the brain compensates at first. Once compensation is exhausted, deterioration is abrupt.",
+   "guid": "mV*Qf4^Y]<"
+  },
+  {
+   "p": "Epidural hematoma + ipsilateral mydriasis: mechanism?",
+   "r": "Uncal herniation compressing CN III against the tentorium. The pupillary fibers run on the surface of the nerve, so mydriasis comes first.",
+   "guid": "sEC{$5.hKQ"
+  },
+  {
+   "p": "Which 4 bones does the zygoma articulate with?",
+   "r": "Frontal, maxilla, temporal (at the arch) and sphenoid (in the lateral orbital wall).",
+   "img_r": "orbita",
+   "guid": "h{qAWNBAbM"
+  },
+  {
+   "p": "Which suture is the best landmark that the zygoma has been correctly reduced?",
+   "r": "The sphenozygomatic suture, in the lateral orbital wall (Perry & Holmes, p. 149).",
+   "img_r": "orbita",
+   "guid": "FBTjN8)U:d"
+  },
+  {
+   "p": "Anterior fontanelle: bulging vs. sunken",
+   "r": "Bulging: raised intracranial pressure. Sunken: dehydration.",
+   "guid": "bb@DI}VWr@"
+  },
+  {
+   "p": "Point to the spot on the temple where 4 bones meet, and name them",
+   "img_p": "lateral",
+   "r": "Pterion: frontal, parietal, greater wing of the sphenoid and temporal (H-shaped).",
+   "img_r": "pterion",
+   "guid": "bu:Mxz}h$0"
+  },
+  {
+   "p": "Epidural or subdural? Why?",
+   "img_p": "edh",
+   "r": "Epidural: biconvex lens that does not cross sutures (arterial, middle meningeal artery).",
+   "guid": "FA3W(H3L?e"
+  },
+  {
+   "p": "Epidural or subdural? Why?<br><small>(second image)</small>",
+   "img_p": "sdh",
+   "r": "Subdural: crescent that follows the contour of the brain and crosses sutures (venous).",
+   "guid": "dK~kQY@*$"
+  },
+  {
+   "p": "Which craniosynostosis is this, and which suture fused?",
+   "img_p": "trigono",
+   "r": "Trigonocephaly from metopic synostosis (keel-shaped forehead; look for hypotelorism).",
+   "guid": "h^<p<&HN3t"
+  },
+  {
+   "p": "Which craniosynostosis is this, and which suture fused?<br><small>(3D skull)</small>",
+   "img_p": "escafo",
+   "r": "Scaphocephaly from sagittal synostosis (long, narrow skull).",
+   "guid": "dI#rl>P_b["
+  }
+ ]
+}
