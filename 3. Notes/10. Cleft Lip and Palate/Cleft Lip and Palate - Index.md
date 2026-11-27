@@ -11,7 +11,7 @@ sesiones: 14
 > Tick a session when your notes for it are complete. Links marked ↗ point to sessions that live in another area.
 
 ## 1. Foundations
-- [ ] [[01. Global cleft care and health systems]]
+- [x] [[01. Global cleft care and health systems]]
 - [ ] [[02. Genetics and classification of clefts]]
 - [ ] [[03. Protocols, team care and outcomes]]
 - ↗ [[03. Development of the palate]] · *Embryology and Craniofacial Growth*
